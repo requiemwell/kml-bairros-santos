@@ -2,20 +2,28 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Centro.schema">
-      <SimpleField name="quadra" type="string"/>
-      <SimpleField name="total_imov" type="string"/>
-      <SimpleField name="obs" type="string"/>
-      <SimpleField name="IEs" type="string"/>
-      <SimpleField name="P_estrateg" type="string"/>
-      <SimpleField name="NOME" type="string"/>
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
     </Schema>
     <Document id="Centro">
       <name>Centro</name>
       <Placemark id="Centro.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36053</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">36</SimpleData>
+            <SimpleData name="Num_Qd">36053</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -23,10 +31,7 @@
             <LinearRing>
               <coordinates>
                 -46.3247202412526,-23.9366754046952,0
-                -46.3247149833556,-23.9366770661865,0
-                -46.3247045005518,-23.936683621106,0
                 -46.3247010832614,-23.9366933472657,0
-                -46.3247030063453,-23.9367094917779,0
                 -46.3247128692057,-23.9368144538661,0
                 -46.3247409993285,-23.9368142110753,0
                 -46.324783182509,-23.9373293863527,0
@@ -43,11 +48,7 @@
                 -46.3254551799496,-23.9371894473617,0
                 -46.3254078518261,-23.9366872456676,0
                 -46.3254428493904,-23.9366707823391,0
-                -46.3254346780705,-23.9365593412665,0
-                -46.3254310957961,-23.9365529077586,0
                 -46.3254275135222,-23.9365464742504,0
-                -46.3254169482468,-23.9365449493757,0
-                -46.3254046413471,-23.9365450556504,0
                 -46.3247202412526,-23.9366754046952,0
               </coordinates>
             </LinearRing>
@@ -57,8 +58,14 @@
       <Placemark id="Centro.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26025</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">113</SimpleData>
+            <SimpleData name="Num_Qd">26025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -69,7 +76,6 @@
                 -46.3239006400929,-23.9324734417582,0
                 -46.3239286371225,-23.9327556875969,0
                 -46.3241670940578,-23.9327393706231,0
-                -46.3241376745194,-23.9324625695641,0
                 -46.324137626033,-23.9324578165905,0
               </coordinates>
             </LinearRing>
@@ -79,8 +85,14 @@
       <Placemark id="Centro.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25031</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">138</SimpleData>
+            <SimpleData name="Num_Qd">25031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -104,26 +116,27 @@
       <Placemark id="Centro.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25032</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">139</SimpleData>
+            <SimpleData name="Num_Qd">25032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3285721138944,-23.9357257303421,0
+                -46.3279364075115,-23.9358541869917,0
                 -46.3287581133638,-23.9356872766597,0
-                -46.328586505266,-23.9347955229759,0
                 -46.3285826004668,-23.934775545337,0
                 -46.3280353000046,-23.9348844411131,0
                 -46.3280196711453,-23.9349044186766,0
-                -46.3280062105399,-23.935031075573,0
-                -46.3280013749712,-23.9351083741697,0
-                -46.3279899699613,-23.9352102239818,0
                 -46.32791917388,-23.9358276099068,0
                 -46.3279364075115,-23.9358541869917,0
-                -46.3285721138944,-23.9357257303421,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -132,8 +145,14 @@
       <Placemark id="Centro.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25024</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">140</SimpleData>
+            <SimpleData name="Num_Qd">25024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -141,20 +160,14 @@
             <LinearRing>
               <coordinates>
                 -46.3285772457174,-23.9340128064653,0
-                -46.3285765718765,-23.9340137092473,0
-                -46.328571415671,-23.9340282933437,0
                 -46.3285711604304,-23.9340417513335,0
-                -46.328577245918,-23.9340762156013,0
                 -46.3286556405739,-23.9345201903622,0
                 -46.3291571563681,-23.9344192196759,0
                 -46.329177097252,-23.9343900583794,0
                 -46.3291262500646,-23.9339436584666,0
                 -46.3291053889708,-23.9339309251645,0
                 -46.3286515283722,-23.9339649266891,0
-                -46.3286276983072,-23.9339692870898,0
                 -46.3286125439607,-23.9339765525332,0
-                -46.3285971392573,-23.9339881548901,0
-                -46.3285887838791,-23.9339973482421,0
                 -46.3285772457174,-23.9340128064653,0
               </coordinates>
             </LinearRing>
@@ -164,8 +177,14 @@
       <Placemark id="Centro.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36010</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">141</SimpleData>
+            <SimpleData name="Num_Qd">36010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -185,8 +204,14 @@
       <Placemark id="Centro.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26027</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">142</SimpleData>
+            <SimpleData name="Num_Qd">26027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -194,46 +219,25 @@
             <LinearRing>
               <coordinates>
                 -46.3252137842475,-23.9330224163262,0
-                -46.325223913648,-23.9330223288775,0
-                -46.3252335755279,-23.9330182514484,0
-                -46.3252413720754,-23.933012043239,0
                 -46.3252477536107,-23.9330019640297,0
                 -46.3252450117898,-23.9329739924235,0
                 -46.3252274304319,-23.9329745054374,0
                 -46.3252298511223,-23.9328555497627,0
                 -46.3252524510215,-23.9328558061885,0
-                -46.3252524576417,-23.9328414407869,0
                 -46.3252519309323,-23.9328241127997,0
-                -46.3252494837336,-23.9328153741144,0
-                -46.3252459817061,-23.9328091731414,0
-                -46.3252383351454,-23.9328012018022,0
-                -46.3252314177554,-23.9327972879981,0
                 -46.3252220526548,-23.9327942080913,0
-                -46.3252133009668,-23.9327934708793,0
                 -46.3251521267329,-23.9327968888238,0
                 -46.32515582356,-23.9328510413203,0
                 -46.3243695413097,-23.9329093022503,0
                 -46.3243633976663,-23.9328464110187,0
-                -46.3243595626048,-23.9328460828764,0
-                -46.324316263456,-23.9328488947332,0
                 -46.3243104838546,-23.9328505701277,0
-                -46.3243026743712,-23.9328555140994,0
-                -46.3242969362277,-23.9328612529675,0
-                -46.3242929783886,-23.9328681504723,0
                 -46.3242906943216,-23.9328753947668,0
-                -46.3242905647006,-23.9328888501147,0
                 -46.3242912267369,-23.9328986894753,0
                 -46.3243141029441,-23.9328971375081,0
                 -46.3243222720461,-23.9330141053816,0
                 -46.3243012651527,-23.9330159121459,0
-                -46.3243020766314,-23.933037669221,0
                 -46.3243033029364,-23.933045172215,0
-                -46.324306932218,-23.9330513540509,0
-                -46.3243122043819,-23.9330577203898,0
-                -46.3243185415303,-23.9330625423153,0
                 -46.3243308803244,-23.9330672817242,0
-                -46.3243393246518,-23.9330676911463,0
-                -46.3243596705877,-23.9330685089927,0
                 -46.3252137842475,-23.9330224163262,0
               </coordinates>
             </LinearRing>
@@ -243,8 +247,14 @@
       <Placemark id="Centro.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25004</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">168</SimpleData>
+            <SimpleData name="Num_Qd">25004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -267,47 +277,30 @@
       <Placemark id="Centro.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26004</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">170</SimpleData>
+            <SimpleData name="Num_Qd">26004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3231420175356,-23.9325816866953,0
-                -46.3231385008855,-23.9325740408778,0
-                -46.3231365241141,-23.9325728839202,0
+                -46.323198917437,-23.9327601732163,0
                 -46.323133574145,-23.9325726384252,0
                 -46.3220982777761,-23.9327415833579,0
-                -46.3221036299582,-23.932784164136,0
-                -46.3221264276121,-23.9329655369806,0
                 -46.322154676257,-23.9331727320864,0
                 -46.3221745641347,-23.9331831672702,0
-                -46.3223718485258,-23.9331773834506,0
-                -46.3224555811652,-23.933174181896,0
                 -46.3225437275799,-23.9331718740826,0
-                -46.3225929963607,-23.9331689431215,0
-                -46.3227476665504,-23.9331627090972,0
-                -46.3228023381635,-23.9331593788877,0
-                -46.3228421661856,-23.9331560267527,0
-                -46.3229017896763,-23.9331564796316,0
-                -46.3229559886509,-23.9331551956481,0
-                -46.3230512964459,-23.933151923566,0
                 -46.3232789962635,-23.9331425791791,0
-                -46.3233083782475,-23.9331334757633,0
                 -46.3233117964174,-23.9331314595336,0
-                -46.3233140246517,-23.9331283698732,0
-                -46.3233151694766,-23.9331250186304,0
-                -46.3233156247754,-23.9331214927171,0
-                -46.323315204194,-23.933118787121,0
-                -46.3233139940048,-23.9331157271025,0
                 -46.3231860426405,-23.9327791577942,0
-                -46.3231922288235,-23.9327752895443,0
-                -46.3231977038885,-23.932769519961,0
                 -46.323198917437,-23.9327601732163,0
-                -46.3231947099597,-23.9327485721168,0
-                -46.3231420175356,-23.9325816866953,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -316,33 +309,27 @@
       <Placemark id="Centro.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25021</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">238</SimpleData>
+            <SimpleData name="Num_Qd">25021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3302970676795,-23.932784082992,0
-                -46.330258802765,-23.9336491992549,0
+                -46.330300759766,-23.9327006098387,0
                 -46.3302596274215,-23.933662557576,0
-                -46.3302652808252,-23.9336677464006,0
-                -46.3303384402411,-23.9336633838529,0
-                -46.3303555190868,-23.9336727751229,0
                 -46.3304416290115,-23.9336668255461,0
-                -46.3306678741314,-23.933444087915,0
                 -46.3309674142777,-23.9331544946669,0
-                -46.3309763320189,-23.933142677407,0
-                -46.3309782227498,-23.9331354364366,0
                 -46.3309776787685,-23.9331302936428,0
-                -46.3309731801719,-23.933122746844,0
-                -46.3309670457498,-23.9331185555955,0
-                -46.3304821536,-23.9327840820216,0
-                -46.3303637557128,-23.9327024118747,0
                 -46.3303224080275,-23.9326847087709,0
                 -46.330300759766,-23.9327006098387,0
-                -46.3302970676795,-23.932784082992,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -351,29 +338,29 @@
       <Placemark id="Centro.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25019</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">239</SimpleData>
+            <SimpleData name="Num_Qd">25019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3316490975118,-23.932784070779,0
+                -46.3318708173215,-23.932618542431,0
                 -46.3312018550128,-23.9331179643659,0
                 -46.3311998927663,-23.9331469699934,0
                 -46.3317308973559,-23.9337854415039,0
                 -46.3317643010636,-23.9337949048685,0
                 -46.332684928581,-23.9335202376123,0
                 -46.3326968795497,-23.9334976473712,0
-                -46.3320602702696,-23.9327840647066,0
-                -46.331910684207,-23.9326163903778,0
                 -46.3319062170806,-23.9326119137785,0
-                -46.3318999983141,-23.9326090779069,0
-                -46.3318912484737,-23.9326085216758,0
-                -46.3318830204097,-23.9326109410541,0
                 -46.3318708173215,-23.932618542431,0
-                -46.3316490975118,-23.932784070779,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -382,37 +369,31 @@
       <Placemark id="Centro.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26003</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">251</SimpleData>
+            <SimpleData name="Num_Qd">26003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3237960188892,-23.9326583636488,0
+                -46.3238185174287,-23.9330162591923,0
                 -46.3237818277072,-23.9325041867726,0
                 -46.3237618797687,-23.9324864374434,0
-                -46.3236672582007,-23.9324931702677,0
-                -46.3235962868801,-23.9324964586882,0
-                -46.3235354990654,-23.9325002937843,0
-                -46.3235340832053,-23.9324920612351,0
                 -46.3233979643855,-23.9325061744557,0
                 -46.3234003335974,-23.932523125686,0
-                -46.3233257487926,-23.9325368182227,0
                 -46.3232477472284,-23.9325490431581,0
-                -46.3233349574629,-23.9328374405448,0
-                -46.3233688712614,-23.9329430999082,0
                 -46.3234268663525,-23.9331237847545,0
                 -46.3234557468496,-23.9331416813799,0
-                -46.3235086995415,-23.9331384074126,0
-                -46.3236300607875,-23.9331302091259,0
                 -46.3236694916033,-23.933128465823,0
-                -46.32367275514,-23.9330861066968,0
                 -46.3236724375667,-23.9330282214654,0
                 -46.3238185174287,-23.9330162591923,0
-                -46.3238106706008,-23.9328175433473,0
-                -46.3237960188892,-23.9326583636488,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -421,30 +402,26 @@
       <Placemark id="Centro.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26002</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">252</SimpleData>
+            <SimpleData name="Num_Qd">26002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3254515316647,-23.9327430996032,0
-                -46.3260248490458,-23.9327561193167,0
-                -46.3260856708501,-23.9327566775921,0
-                -46.3260947776748,-23.9327537090857,0
-                -46.3260997454917,-23.9327495120325,0
-                -46.3260835207088,-23.9323442625893,0
-                -46.3253843807676,-23.932372877442,0
-                -46.3253595444832,-23.9323748980252,0
-                -46.3253533940865,-23.9323787440358,0
-                -46.325354374136,-23.9323881275385,0
-                -46.3253647543074,-23.9327023074882,0
-                -46.3253686423398,-23.9327174455529,0
-                -46.3253770877338,-23.9327266742913,0
-                -46.3253913228521,-23.932735220888,0
                 -46.3254114311825,-23.9327416397032,0
-                -46.3254515316647,-23.9327430996032,0
+                -46.3260947776748,-23.9327537090857,0
+                -46.3260835207088,-23.9323442625893,0
+                -46.3253533940865,-23.9323787440358,0
+                -46.3253686423398,-23.9327174455529,0
+                -46.3254114311825,-23.9327416397032,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -453,49 +430,35 @@
       <Placemark id="Centro.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25005</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">253</SimpleData>
+            <SimpleData name="Num_Qd">25005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3314709678677,-23.9327840730747,0
-                -46.3318682541234,-23.9325027908565,0
+                -46.3312068330169,-23.9329710816911,0
                 -46.331879378416,-23.9324953794548,0
-                -46.331889692698,-23.9324856270934,0
-                -46.3319007252575,-23.9324692760746,0
-                -46.3319087930148,-23.9324512349431,0
                 -46.331912955269,-23.9324355756851,0
-                -46.3319140748682,-23.9324202137488,0
-                -46.3319103899839,-23.9324057965714,0
-                -46.3319041601321,-23.9323923045474,0
                 -46.33157906701,-23.9316456560407,0
                 -46.3315569125189,-23.9316351648807,0
-                -46.3311349823795,-23.9317513834848,0
-                -46.3311288266384,-23.9317546879236,0
                 -46.3311234651458,-23.9317587982398,0
-                -46.3311174557951,-23.9317667973839,0
-                -46.3311154825905,-23.9317755742939,0
                 -46.3311168328554,-23.9317826968553,0
                 -46.3312342350237,-23.932020570518,0
-                -46.3313519770414,-23.9319614458395,0
-                -46.3313497222388,-23.9319566234321,0
                 -46.3313894747078,-23.9319362929913,0
                 -46.3314217123287,-23.9319471597717,0
                 -46.3314376139869,-23.9319837241215,0
-                -46.3313909645301,-23.9320049135461,0
-                -46.3311980078486,-23.9320997016493,0
                 -46.3311503337236,-23.9321245295063,0
-                -46.3311001828163,-23.9321797396556,0
-                -46.3309274649133,-23.9323820822715,0
                 -46.330911886159,-23.9324149988608,0
-                -46.3309411647509,-23.9325683575735,0
                 -46.3309745578299,-23.9326822163503,0
-                -46.3310564638025,-23.9327840775982,0
                 -46.3312068330169,-23.9329710816911,0
-                -46.3314709678677,-23.9327840730747,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -504,70 +467,40 @@
       <Placemark id="Centro.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25006</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">283</SimpleData>
+            <SimpleData name="Num_Qd">25006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3309604542391,-23.9317954314957,0
-                -46.3304682931188,-23.9318973200119,0
-                -46.3303905902489,-23.9319136619509,0
-                -46.330322695305,-23.9319275526113,0
+                -46.3309862160983,-23.9317974658106,0
                 -46.3303083883299,-23.9319317364101,0
-                -46.3302896532669,-23.931942847825,0
-                -46.330273502831,-23.9319583400131,0
-                -46.3302615637349,-23.9319725314038,0
                 -46.3302494642478,-23.9319902461656,0
-                -46.3302429782927,-23.93200926689,0
-                -46.3302429150707,-23.9320222716795,0
                 -46.330244608909,-23.9320437501227,0
-                -46.3302625631361,-23.9321946785344,0
-                -46.3302676904542,-23.9322348208193,0
                 -46.3302790342756,-23.9323638618524,0
                 -46.3303061234772,-23.9323611887993,0
-                -46.3303269504411,-23.9325431579832,0
                 -46.3303313151544,-23.9325759919869,0
-                -46.3303342807246,-23.9325873449964,0
-                -46.3303441952834,-23.9326056817458,0
                 -46.3303570625983,-23.9326245347477,0
-                -46.3303740319345,-23.9326410042094,0
-                -46.3303919577607,-23.932654936777,0
-                -46.330437063426,-23.9326846181516,0
-                -46.3305943921381,-23.9327840813236,0
-                -46.3308107678375,-23.9329208734704,0
                 -46.331022670765,-23.9330530520909,0
-                -46.3310389683852,-23.9330614899566,0
-                -46.3310469591866,-23.9330646717261,0
-                -46.3310578823818,-23.9330663831522,0
                 -46.3310675090067,-23.9330662093694,0
-                -46.331076605537,-23.9330622472801,0
                 -46.3311288243183,-23.9330190791548,0
-                -46.3311329847522,-23.9330128118796,0
-                -46.3311363583374,-23.9330064611206,0
-                -46.3311367884187,-23.9330004971158,0
                 -46.3311363306334,-23.9329941795816,0
-                -46.3311327050825,-23.9329855415303,0
-                -46.3311193677177,-23.9329687697416,0
-                -46.3309855046465,-23.9327840782616,0
                 -46.3309287202872,-23.93270573243,0
                 -46.330859279201,-23.9324533581866,0
-                -46.3308611858057,-23.9324416555619,0
                 -46.3308795633699,-23.9323288550978,0
                 -46.3309781559031,-23.9321707754183,0
                 -46.330992417213,-23.9319902179506,0
                 -46.3310361023097,-23.9319867687241,0
-                -46.3310124261966,-23.9318336323624,0
-                -46.3310107904777,-23.9318274153473,0
                 -46.3310078544992,-23.9318189519257,0
-                -46.3310029444745,-23.9318096025481,0
-                -46.3309951168989,-23.931803168298,0
                 -46.3309862160983,-23.9317974658106,0
-                -46.3309775460355,-23.931795102689,0
-                -46.3309674246041,-23.9317949195242,0
-                -46.3309604542391,-23.9317954314957,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -576,8 +509,14 @@
       <Placemark id="Centro.16">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26001</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">285</SimpleData>
+            <SimpleData name="Num_Qd">26001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -585,30 +524,14 @@
             <LinearRing>
               <coordinates>
                 -46.326796953083,-23.9323394524615,0
-                -46.3267919884746,-23.9323343478549,0
-                -46.3267839885818,-23.9323302628633,0
-                -46.3267692525923,-23.9323303902287,0
                 -46.3265836265981,-23.9323270275978,0
                 -46.3261771664611,-23.9323457112732,0
                 -46.3261933394267,-23.9327554765099,0
                 -46.3262162329399,-23.9327785538628,0
                 -46.326261312002,-23.9327807670302,0
-                -46.3263426383339,-23.9327820377839,0
-                -46.3263634208103,-23.9327817528609,0
-                -46.3264060212985,-23.9327811688091,0
-                -46.326477851786,-23.932783303248,0
-                -46.3265238819547,-23.9327838234789,0
-                -46.3265767054423,-23.9327858103651,0
                 -46.3266952332469,-23.9327902824772,0
-                -46.3267196024833,-23.9327875170651,0
-                -46.3267436103971,-23.9327823432835,0
                 -46.3267671031317,-23.9327682847961,0
-                -46.3267812693139,-23.9327565579623,0
-                -46.3267924175631,-23.9327421088038,0
                 -46.3267941283939,-23.9327240766712,0
-                -46.326794176563,-23.93269628679,0
-                -46.3267955733566,-23.9326658350168,0
-                -46.3267976125882,-23.9325519929972,0
                 -46.326796953083,-23.9323394524615,0
               </coordinates>
             </LinearRing>
@@ -618,8 +541,14 @@
       <Placemark id="Centro.17">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25009</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">287</SimpleData>
+            <SimpleData name="Num_Qd">25009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -641,29 +570,29 @@
       <Placemark id="Centro.18">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25008</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">288</SimpleData>
+            <SimpleData name="Num_Qd">25008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3285758798484,-23.9326972725411,0
-                -46.3289811787104,-23.9326546010342,0
+                -46.32835735831,-23.9327207161183,0
                 -46.3290024530248,-23.9326517466354,0
-                -46.329023627099,-23.9326391023237,0
                 -46.3290360686334,-23.9326247534742,0
                 -46.3290474872319,-23.932605073056,0
-                -46.329018035802,-23.9323047478527,0
-                -46.3290060298628,-23.9322238884205,0
                 -46.3289932162887,-23.9321270076952,0
-                -46.3285772393489,-23.9321709296901,0
                 -46.3282654143062,-23.9322087214845,0
                 -46.3282533200622,-23.9322269778968,0
                 -46.3283277416338,-23.9326898944449,0
                 -46.32835735831,-23.9327207161183,0
-                -46.3285758798484,-23.9326972725411,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -672,46 +601,30 @@
       <Placemark id="Centro.19">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25014</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">289</SimpleData>
+            <SimpleData name="Num_Qd">25014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3290359440283,-23.9327910918606,0
-                -46.3290353483486,-23.9327808922982,0
-                -46.3290316311736,-23.9327728871359,0
+                -46.3290674118873,-23.9331584602303,0
                 -46.329025146632,-23.9327632804025,0
-                -46.3290141587615,-23.9327552478814,0
-                -46.3290043812097,-23.9327502753275,0
                 -46.3289896229965,-23.9327482357264,0
-                -46.328613851555,-23.9327842562875,0
-                -46.3284506599485,-23.9327998991603,0
                 -46.3283858292172,-23.9328065365795,0
                 -46.3283700472374,-23.9328250233942,0
                 -46.3284158825656,-23.9331879615145,0
-                -46.3284268618081,-23.9331878664988,0
                 -46.3284380284836,-23.9332175229503,0
-                -46.3284493026024,-23.933224787392,0
-                -46.328457362627,-23.9332320577339,0
-                -46.3284683888229,-23.9332365498689,0
-                -46.3284834168629,-23.933241924881,0
                 -46.3284993866765,-23.9332417866688,0
-                -46.3285173339361,-23.9332397963166,0
-                -46.3285263075657,-23.9332388011397,0
-                -46.3286138529087,-23.9332255075767,0
-                -46.3290158691518,-23.9331909655697,0
-                -46.329031468124,-23.9331887534462,0
-                -46.3290446945301,-23.9331851169472,0
                 -46.3290519199444,-23.9331807196401,0
-                -46.3290581370639,-23.9331738024598,0
-                -46.3290647295767,-23.9331651661911,0
                 -46.3290674118873,-23.9331584602303,0
-                -46.3290669449553,-23.9331512396932,0
-                -46.3290367019428,-23.9327998968574,0
-                -46.3290359440283,-23.9327910918606,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -720,27 +633,29 @@
       <Placemark id="Centro.20">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25013</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">311</SimpleData>
+            <SimpleData name="Num_Qd">25013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3299735615884,-23.9326689477091,0
+                -46.330197548133,-23.932657344028,0
                 -46.3291413523397,-23.9327128205463,0
                 -46.3291272628629,-23.9327281141606,0
-                -46.3291314924171,-23.9327840839292,0
                 -46.3291584027533,-23.9331401874333,0
                 -46.3291813609844,-23.9331562439428,0
-                -46.3299282172781,-23.9330954100892,0
                 -46.3301877131249,-23.933068598051,0
                 -46.3302082706368,-23.9330517130699,0
-                -46.3302179006482,-23.9327840833322,0
                 -46.3302218057267,-23.9326755564946,0
                 -46.330197548133,-23.932657344028,0
-                -46.3299735615884,-23.9326689477091,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -749,52 +664,34 @@
       <Placemark id="Centro.21">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35040</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">404</SimpleData>
+            <SimpleData name="Num_Qd">35040</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3331214380331,-23.9349112535615,0
-                -46.3327486290624,-23.9349879846921,0
+                -46.3342981754269,-23.9346722592685,0
                 -46.3327372457103,-23.9349931969113,0
-                -46.3327346767076,-23.935008238892,0
-                -46.3327377340741,-23.9350407549736,0
-                -46.3327443679211,-23.9350712006457,0
-                -46.3327568155268,-23.9351283281973,0
-                -46.3327728037581,-23.9352017051554,0
-                -46.3327835228118,-23.9352508995084,0
-                -46.3327974396246,-23.9353147696906,0
-                -46.3328055874014,-23.9353521632761,0
-                -46.332817523024,-23.9354069408383,0
-                -46.3328306466429,-23.9354671705507,0
-                -46.3328444195782,-23.9355303801757,0
-                -46.3328569733234,-23.935587994377,0
-                -46.3328699483804,-23.9356475420866,0
-                -46.3328844462383,-23.9357140784615,0
                 -46.3328977923867,-23.9357753291188,0
-                -46.3329116142403,-23.9357952353184,0
                 -46.3329336058162,-23.9358150705684,0
                 -46.3329609153349,-23.9358223432382,0
-                -46.3329833637177,-23.9358220971465,0
                 -46.3330383859257,-23.9358173238202,0
-                -46.3333023351807,-23.9357604390157,0
                 -46.3335318303074,-23.9357058481095,0
                 -46.3335884660266,-23.935669198588,0
-                -46.3336775868513,-23.935595829164,0
                 -46.3339841983328,-23.9353634818378,0
                 -46.3343341215925,-23.9350466498434,0
-                -46.3343718678206,-23.9349990788539,0
                 -46.3344839430753,-23.9348578318863,0
                 -46.3344906773079,-23.9347868833489,0
                 -46.3344126420497,-23.934698377599,0
-                -46.3343297737592,-23.9346719845844,0
                 -46.3342981754269,-23.9346722592685,0
-                -46.3342210881942,-23.9346849190219,0
-                -46.3333591826325,-23.9348623207145,0
-                -46.3331214380331,-23.9349112535615,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -803,27 +700,28 @@
       <Placemark id="Centro.22">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25018</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">523</SimpleData>
+            <SimpleData name="Num_Qd">25018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3342484839275,-23.9327926404333,0
+                -46.3343860004726,-23.9330477170922,0
                 -46.3341974770569,-23.9327147679122,0
                 -46.3341747168066,-23.9327084636224,0
-                -46.3339775349132,-23.9327926392462,0
-                -46.3337951607141,-23.9328704932378,0
                 -46.3326983200696,-23.9333387187414,0
                 -46.3326931263824,-23.933359173251,0
                 -46.3328029978524,-23.9334863651541,0
                 -46.3328267331726,-23.933491938721,0
-                -46.333795161689,-23.9332160440949,0
                 -46.3343860004726,-23.9330477170922,0
-                -46.3343058763878,-23.9328802617296,0
-                -46.3342484839275,-23.9327926404333,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -832,8 +730,14 @@
       <Placemark id="Centro.23">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26015</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">767</SimpleData>
+            <SimpleData name="Num_Qd">26015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -857,8 +761,14 @@
       <Placemark id="Centro.24">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26016</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">768</SimpleData>
+            <SimpleData name="Num_Qd">26016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -869,15 +779,8 @@
                 -46.3244709551276,-23.9344849272563,0
                 -46.3244540740775,-23.9345043047334,0
                 -46.324531466152,-23.9353617605122,0
-                -46.32462870575,-23.9353417809743,0
-                -46.3250752295718,-23.9352509496955,0
-                -46.3253884031066,-23.9351817620218,0
-                -46.3253960364846,-23.9351788062743,0
                 -46.325401875683,-23.9351733374141,0
-                -46.3254040660896,-23.9351665454512,0
-                -46.325405324364,-23.9351550655567,0
                 -46.3253470929965,-23.9343984228385,0
-                -46.3253336641884,-23.9343882828099,0
                 -46.3253134010486,-23.9343905528332,0
               </coordinates>
             </LinearRing>
@@ -887,36 +790,27 @@
       <Placemark id="Centro.25">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26012</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">772</SimpleData>
+            <SimpleData name="Num_Qd">26012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0003</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.323368872053,-23.9332293724982,0
-                -46.3231666701314,-23.9332362931443,0
+                -46.3242370974062,-23.9331978029171,0
                 -46.3221880436583,-23.933268747387,0
-                -46.3221832362968,-23.9332694209468,0
-                -46.3221767744786,-23.933271643983,0
-                -46.3221716972302,-23.9332747581674,0
                 -46.3221674215452,-23.9332794006737,0
-                -46.3221653126775,-23.9332845663609,0
-                -46.3221654651885,-23.933289893185,0
-                -46.3221661061442,-23.9332949448796,0
-                -46.32222370926,-23.9337703687889,0
                 -46.3223261420749,-23.9345956185544,0
                 -46.3223433870342,-23.9346102804066,0
-                -46.323368875939,-23.9344965808732,0
-                -46.3240832027114,-23.9344173768211,0
                 -46.3243396318366,-23.9343900471145,0
-                -46.3243339940254,-23.9343247474527,0
-                -46.324324132986,-23.9342105322564,0
-                -46.3243012376547,-23.933945346741,0
                 -46.3242370974062,-23.9331978029171,0
-                -46.323826184504,-23.9332137193434,0
-                -46.323368872053,-23.9332293724982,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -925,28 +819,30 @@
       <Placemark id="Centro.26">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26011</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">774</SimpleData>
+            <SimpleData name="Num_Qd">26011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3250588060593,-23.9331641616314,0
-                -46.324596266811,-23.9331852217381,0
+                -46.3252616614744,-23.9331516638424,0
                 -46.3244332462728,-23.9331924080511,0
                 -46.324464959385,-23.9336057111657,0
                 -46.3243722125804,-23.9336140378763,0
-                -46.3244091981655,-23.9340227207894,0
                 -46.3244394366331,-23.9343575001621,0
                 -46.3244587402513,-23.9343716924694,0
-                -46.324851476583,-23.9343361537988,0
                 -46.3253248865036,-23.9342823979752,0
                 -46.3253366847796,-23.9342639637181,0
                 -46.3252819704469,-23.9331681050551,0
                 -46.3252616614744,-23.9331516638424,0
-                -46.3250588060593,-23.9331641616314,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -955,8 +851,14 @@
       <Placemark id="Centro.27">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26010</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">775</SimpleData>
+            <SimpleData name="Num_Qd">26010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -969,12 +871,6 @@
                 -46.326495097355,-23.9341529034163,0
                 -46.3265105340692,-23.9341347988613,0
                 -46.326286929413,-23.9330655057145,0
-                -46.3262738841608,-23.933058032612,0
-                -46.3262283867094,-23.9330661414517,0
-                -46.3261615085849,-23.933077160565,0
-                -46.3261031614412,-23.9330867295804,0
-                -46.3260401628774,-23.9330968297054,0
-                -46.3259746988014,-23.9331047559515,0
                 -46.3257961138757,-23.9331236686782,0
                 -46.3254089008874,-23.9331447373984,0
               </coordinates>
@@ -985,8 +881,14 @@
       <Placemark id="Centro.28">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26009</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">838</SimpleData>
+            <SimpleData name="Num_Qd">26009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1002,16 +904,11 @@
                 -46.3270425335213,-23.933478994563,0
                 -46.3271563013377,-23.933468889939,0
                 -46.327226492834,-23.9339725589537,0
-                -46.3276535287567,-23.9339094437911,0
                 -46.3276662788536,-23.9339072564438,0
-                -46.3276785916483,-23.9339007381286,0
                 -46.3276887265114,-23.9338926131197,0
-                -46.327695317305,-23.9338837963065,0
-                -46.327698239925,-23.9338717601594,0
                 -46.32769653723,-23.9338493786826,0
                 -46.3275745071546,-23.9328788180683,0
                 -46.3268511617679,-23.9329521705476,0
-                -46.3266703539046,-23.9329781162828,0
                 -46.3263859730685,-23.9330339508698,0
               </coordinates>
             </LinearRing>
@@ -1021,36 +918,27 @@
       <Placemark id="Centro.29">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36016</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">840</SimpleData>
+            <SimpleData name="Num_Qd">36016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3260333235206,-23.9386147319801,0
-                -46.3260299789627,-23.9385855013235,0
-                -46.3260285361762,-23.9385789213588,0
+                -46.326106628833,-23.9392404697511,0
                 -46.3260252239725,-23.938572086624,0
-                -46.3260211488806,-23.938567516162,0
-                -46.3260159921747,-23.9385628647376,0
-                -46.3260096694513,-23.9385594876889,0
-                -46.3260039574191,-23.9385581824309,0
                 -46.3259988431597,-23.9385576847734,0
                 -46.3258383515039,-23.9385726173899,0
-                -46.3258328627177,-23.9385739291077,0
-                -46.3258247379317,-23.9385768891276,0
-                -46.3258188049745,-23.9385828103527,0
-                -46.3258159277513,-23.9385896985603,0
                 -46.3258143991983,-23.9385939562065,0
-                -46.32581405604,-23.9385988357635,0
-                -46.3258777477895,-23.9391492501684,0
                 -46.3258913773499,-23.9392619261892,0
                 -46.326106628833,-23.9392404697511,0
-                -46.3260943224172,-23.9391322976859,0
-                -46.3260578627405,-23.9388142796235,0
-                -46.3260333235206,-23.9386147319801,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1059,57 +947,39 @@
       <Placemark id="Centro.30">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25033</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">899</SimpleData>
+            <SimpleData name="Num_Qd">25033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3278481378177,-23.9333942150067,0
+                -46.3282937710422,-23.9333564052363,0
                 -46.3277936372868,-23.93339853224,0
-                -46.3277835815227,-23.933404820571,0
-                -46.3277746659711,-23.9334126493758,0
-                -46.3277680149875,-23.9334220089288,0
-                -46.3277641696057,-23.9334308274344,0
                 -46.3277614802952,-23.933442736614,0
-                -46.3277615595855,-23.9334504876135,0
-                -46.3277616034197,-23.9334499704554,0
                 -46.3278073777047,-23.9334728295618,0
                 -46.3278478961917,-23.9338564458566,0
                 -46.3278219513485,-23.9338484018279,0
-                -46.3278256997586,-23.9338850607106,0
                 -46.3278280172006,-23.9338917587905,0
-                -46.3278314325704,-23.9338958634779,0
-                -46.3278404591654,-23.9338988860673,0
                 -46.3278483508282,-23.933900884916,0
                 -46.3283118476681,-23.933867418304,0
-                -46.3283241838877,-23.9338642108775,0
-                -46.328330320267,-23.933859506765,0
                 -46.3284224605248,-23.9337942607115,0
-                -46.328441824417,-23.9338047132484,0
-                -46.3284677295978,-23.9338114580464,0
                 -46.3284830877176,-23.9338148463035,0
                 -46.3292956418312,-23.9337567547003,0
                 -46.3293232688434,-23.933742430747,0
-                -46.3293459634603,-23.9337140648035,0
                 -46.3293544369514,-23.9336902234865,0
-                -46.3293541755097,-23.9336646972294,0
                 -46.3293223364884,-23.9333612715781,0
-                -46.3293145582836,-23.933349895117,0
-                -46.3292913949563,-23.9333324898316,0
                 -46.3292596670862,-23.9333204404719,0
-                -46.3292443180237,-23.9333179325065,0
-                -46.3292193836855,-23.9333146272485,0
                 -46.3284347647588,-23.933378638656,0
-                -46.3284204544068,-23.9333840442654,0
-                -46.3284042558255,-23.9333921070967,0
                 -46.3283979753711,-23.9333970100256,0
-                -46.3283157239992,-23.9333625030837,0
-                -46.3283047282177,-23.9333575679828,0
                 -46.3282937710422,-23.9333564052363,0
-                -46.3278481378177,-23.9333942150067,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1118,8 +988,14 @@
       <Placemark id="Centro.31">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36048</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1138</SimpleData>
+            <SimpleData name="Num_Qd">36048</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1129,76 +1005,29 @@
                 -46.3280071083068,-23.9378851376766,0
                 -46.327727060243,-23.9379469644372,0
                 -46.3276626191078,-23.9379933982766,0
-                -46.3268964403197,-23.9381496854025,0
                 -46.3261940099049,-23.9382823674495,0
                 -46.3262002483768,-23.9383255707222,0
                 -46.3261644612681,-23.938371394816,0
                 -46.3261221464837,-23.9383745599687,0
-                -46.3261305617916,-23.9384865585701,0
-                -46.3261403751793,-23.938485390089,0
-                -46.3261715650327,-23.9387588418915,0
-                -46.3262197055855,-23.9391910879648,0
                 -46.3262221078587,-23.9392146373988,0
-                -46.3262212726566,-23.9392386663453,0
-                -46.3262199010057,-23.9392582748721,0
-                -46.3262170796721,-23.9392802439146,0
                 -46.3262140803054,-23.9393040206406,0
-                -46.326198542132,-23.9393603260217,0
-                -46.3261862648318,-23.9393896013552,0
                 -46.3261727430576,-23.9394124756266,0
-                -46.3261499230412,-23.9394388619189,0
-                -46.3260961954837,-23.939488633929,0
-                -46.3260496535754,-23.9395204629988,0
                 -46.326014493349,-23.9395507488001,0
-                -46.3260014862562,-23.9395663037231,0
-                -46.325990342133,-23.9395814813201,0
-                -46.3259828888876,-23.9395924728936,0
-                -46.3259759259455,-23.9396033699234,0
-                -46.3259698536709,-23.9396148914085,0
-                -46.3259661005312,-23.9396225999517,0
                 -46.3259588825279,-23.9396373823964,0
-                -46.3259540828281,-23.9396484413498,0
-                -46.3259517051237,-23.9396561380093,0
-                -46.325950867974,-23.939660750912,0
-                -46.3259500280561,-23.9396650929169,0
-                -46.3259494791836,-23.9396690711782,0
                 -46.3259485238317,-23.9397430212537,0
-                -46.3259600468282,-23.9398378544396,0
-                -46.3259632469772,-23.9398433355331,0
                 -46.3259675250603,-23.9398485363915,0
-                -46.3259725771131,-23.9398525565684,0
-                -46.325979397588,-23.9398565614661,0
-                -46.3259860912116,-23.9398577679347,0
-                -46.3259930749584,-23.9398585203599,0
                 -46.3260140653859,-23.9398549976312,0
-                -46.3264381514114,-23.9397687836064,0
                 -46.3264646291816,-23.9397634007997,0
                 -46.3265337999989,-23.9397374558878,0
                 -46.3266038285775,-23.9397525322284,0
                 -46.3266006168465,-23.9395960311021,0
-                -46.3267525396433,-23.9395848421703,0
                 -46.3270413318783,-23.9395414811208,0
                 -46.3269881189852,-23.9393205517638,0
                 -46.3266609993035,-23.9393748504425,0
-                -46.3266673378531,-23.9393511616969,0
-                -46.3266653418213,-23.9393223580877,0
-                -46.3266603437314,-23.9392773204492,0
-                -46.3266512704597,-23.9392330845759,0
-                -46.3266474162867,-23.9391933917285,0
                 -46.3266436399823,-23.9391173158685,0
-                -46.3266488197409,-23.9390797106498,0
-                -46.3266482340937,-23.9390544950433,0
-                -46.3266510504796,-23.9390137435592,0
-                -46.3266560289703,-23.9389549485039,0
                 -46.3266533405497,-23.9389099189935,0
                 -46.3266113636673,-23.9387798320718,0
-                -46.3266545031857,-23.9387036185627,0
-                -46.3266791497024,-23.938641020494,0
                 -46.3267143671653,-23.9385709916278,0
-                -46.3267564592824,-23.938513082498,0
-                -46.3268420241671,-23.938430439186,0
-                -46.3268868068602,-23.9383847923031,0
-                -46.3269658637597,-23.9383070449496,0
                 -46.3270105713192,-23.9382540592686,0
                 -46.32708242271,-23.9385362121496,0
                 -46.3281111654125,-23.9383324240199,0
@@ -1211,8 +1040,14 @@
       <Placemark id="Centro.32">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25028</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1139</SimpleData>
+            <SimpleData name="Num_Qd">25028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1220,12 +1055,10 @@
             <LinearRing>
               <coordinates>
                 -46.3315691887775,-23.9340984268537,0
-                -46.3313654324857,-23.9341626440077,0
                 -46.3310590397595,-23.9342565995353,0
                 -46.3310468029729,-23.9342800952095,0
                 -46.3313499025539,-23.9351400996163,0
                 -46.3313703732425,-23.9351519460304,0
-                -46.331708319128,-23.9350815465013,0
                 -46.3318399531124,-23.9350483404504,0
                 -46.3318587360917,-23.9350049693519,0
                 -46.3315691887775,-23.9340984268537,0
@@ -1237,8 +1070,14 @@
       <Placemark id="Centro.33">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25029</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1140</SimpleData>
+            <SimpleData name="Num_Qd">25029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1246,21 +1085,11 @@
             <LinearRing>
               <coordinates>
                 -46.3309222724228,-23.9342710830378,0
-                -46.3304534155966,-23.9343853224432,0
                 -46.3303635198833,-23.9344047951981,0
-                -46.3303554093529,-23.9344091099315,0
-                -46.3303469391772,-23.9344166788409,0
                 -46.3303400843642,-23.9344284781881,0
-                -46.3303375234782,-23.9344374407965,0
-                -46.3303367503739,-23.9344482843614,0
-                -46.3303377011874,-23.9344547782395,0
                 -46.3305470963233,-23.9353004962912,0
                 -46.3312297656251,-23.9351593623493,0
                 -46.3312377499805,-23.9351454197236,0
-                -46.3311282213395,-23.934818998108,0
-                -46.3311069147194,-23.9347612364595,0
-                -46.3310893121372,-23.9347133763584,0
-                -46.3310781915965,-23.9346828439705,0
                 -46.3309222724228,-23.9342710830378,0
               </coordinates>
             </LinearRing>
@@ -1270,26 +1099,28 @@
       <Placemark id="Centro.34">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25023</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1141</SimpleData>
+            <SimpleData name="Num_Qd">25023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3297583521378,-23.9339016997192,0
+                -46.3301649803649,-23.9338702716135,0
                 -46.329297655017,-23.9339300730184,0
-                -46.3292875528366,-23.9339317860336,0
-                -46.3292730741995,-23.9339378716951,0
                 -46.3292631035518,-23.9339428346302,0
-                -46.3292559770572,-23.9339568939658,0
                 -46.32925345217,-23.9339693782294,0
                 -46.3293007855209,-23.9344084033204,0
                 -46.3302227900168,-23.9342191692432,0
                 -46.3301825087555,-23.9338837561062,0
                 -46.3301649803649,-23.9338702716135,0
-                -46.3297583521378,-23.9339016997192,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1298,8 +1129,14 @@
       <Placemark id="Centro.35">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25015</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1142</SimpleData>
+            <SimpleData name="Num_Qd">25015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1307,24 +1144,12 @@
             <LinearRing>
               <coordinates>
                 -46.328253172229,-23.9327987466832,0
-                -46.3277854838763,-23.9328550941449,0
-                -46.3277649904281,-23.9328578436048,0
-                -46.32774169883,-23.9328606172649,0
                 -46.3277295998268,-23.9328632941114,0
-                -46.3277158107823,-23.9328831335449,0
                 -46.3277159774048,-23.9328994226752,0
-                -46.3277180182306,-23.9329165529932,0
                 -46.3277590278246,-23.9332780204313,0
-                -46.3277721999068,-23.9332890526744,0
                 -46.3277816148026,-23.9332975452205,0
-                -46.3277927705873,-23.933303450512,0
-                -46.3278119579593,-23.9333012852817,0
                 -46.3282541724591,-23.933262329885,0
-                -46.328288900646,-23.9332572430912,0
-                -46.3283041799699,-23.9332525955109,0
                 -46.3283168403502,-23.9332416490834,0
-                -46.3283219454474,-23.9332316711072,0
-                -46.3283230078956,-23.9332202831975,0
                 -46.328253172229,-23.9327987466832,0
               </coordinates>
             </LinearRing>
@@ -1334,24 +1159,28 @@
       <Placemark id="Centro.36">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25030</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1143</SimpleData>
+            <SimpleData name="Num_Qd">25030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3296259236717,-23.9345550456679,0
+                -46.3301602718112,-23.9344462015052,0
                 -46.3293359033437,-23.9346139996695,0
                 -46.3293191369216,-23.9346365410661,0
                 -46.3295330842057,-23.9355148221903,0
-                -46.3298069928498,-23.935455826728,0
                 -46.3303853755589,-23.935338833736,0
                 -46.3304057185134,-23.9353105718746,0
                 -46.330185148953,-23.9344577258595,0
                 -46.3301602718112,-23.9344462015052,0
-                -46.3296259236717,-23.9345550456679,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1360,8 +1189,14 @@
       <Placemark id="Centro.37">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35019</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1144</SimpleData>
+            <SimpleData name="Num_Qd">35019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1369,17 +1204,11 @@
             <LinearRing>
               <coordinates>
                 -46.3289099858469,-23.9366902249081,0
-                -46.3289219346441,-23.9366830175881,0
-                -46.3289278726729,-23.9366758623108,0
-                -46.3289337622083,-23.9366639715442,0
                 -46.3289327822957,-23.936652140256,0
                 -46.3287766852178,-23.9358030972058,0
                 -46.3287636054299,-23.9357914950861,0
-                -46.3287404961174,-23.935791120615,0
                 -46.327569280696,-23.9360273801813,0
-                -46.3275471386592,-23.9360398531002,0
                 -46.3275339539292,-23.9360571611063,0
-                -46.3275946022981,-23.9364740058817,0
                 -46.3276633198708,-23.9369314915392,0
                 -46.3276849580399,-23.9369433152267,0
                 -46.3289099858469,-23.9366902249081,0
@@ -1391,8 +1220,14 @@
       <Placemark id="Centro.38">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26014</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1155</SimpleData>
+            <SimpleData name="Num_Qd">26014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1414,8 +1249,14 @@
       <Placemark id="Centro.39">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25025</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1156</SimpleData>
+            <SimpleData name="Num_Qd">25025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1423,20 +1264,10 @@
             <LinearRing>
               <coordinates>
                 -46.3284436070918,-23.9340489058827,0
-                -46.3284399354722,-23.9340357527993,0
-                -46.328433800431,-23.9340218985773,0
                 -46.3284246485668,-23.9340108699887,0
-                -46.3284102936211,-23.9340002476574,0
-                -46.3283882925059,-23.9339913170263,0
                 -46.3283697972977,-23.9339889484819,0
                 -46.3278502091547,-23.9340231552089,0
-                -46.3273373144872,-23.9341450809804,0
-                -46.327322738408,-23.9341512576114,0
                 -46.3273100464574,-23.9341591337871,0
-                -46.3272983673919,-23.9341699813436,0
-                -46.3272842217764,-23.9341894294193,0
-                -46.3272766287764,-23.934205931001,0
-                -46.3272727689454,-23.934222400302,0
                 -46.3272726721929,-23.9342321543251,0
                 -46.3273521968423,-23.9347836956625,0
                 -46.3285350401359,-23.9345443528888,0
@@ -1449,41 +1280,30 @@
       <Placemark id="Centro.40">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26017</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1157</SimpleData>
+            <SimpleData name="Num_Qd">26017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0003</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3233688763081,-23.9346059558163,0
-                -46.3231102012649,-23.9346330280124,0
+                -46.3243369524648,-23.9345117513096,0
                 -46.3224670271595,-23.9347039778211,0
-                -46.3224539337655,-23.9347060809586,0
-                -46.3224472216762,-23.9347083694519,0
-                -46.3224394968304,-23.9347115315984,0
-                -46.3224324617286,-23.9347160683945,0
-                -46.3224253568202,-23.9347226350711,0
                 -46.322418443035,-23.9347307876778,0
-                -46.3224153631237,-23.9347417608594,0
                 -46.322481950134,-23.9353106333867,0
                 -46.3224366112018,-23.9353154181408,0
                 -46.3224145299153,-23.9353391690565,0
                 -46.3224688334934,-23.9357800413949,0
-                -46.3226749194027,-23.9357383899799,0
-                -46.3231849607595,-23.9356323160401,0
-                -46.3235141271834,-23.9355816207217,0
-                -46.3236624450558,-23.9355481744462,0
-                -46.3241864897899,-23.9354343758728,0
                 -46.3244215307577,-23.9353936257861,0
-                -46.324420773268,-23.935379466584,0
-                -46.3244119735491,-23.9352528279134,0
                 -46.3243520984164,-23.934524083608,0
                 -46.3243369524648,-23.9345117513096,0
-                -46.3240722055302,-23.9345290337314,0
-                -46.3235340506583,-23.9345886689034,0
-                -46.3233688763081,-23.9346059558163,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1492,57 +1312,32 @@
       <Placemark id="Centro.41">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36011</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1168</SimpleData>
+            <SimpleData name="Num_Qd">36011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3257428722191,-23.9379924825567,0
-                -46.325750325749,-23.9380542012742,0
-                -46.3257521568788,-23.9380603263517,0
-                -46.3257566590561,-23.9380682345022,0
-                -46.3257629268641,-23.9380758564789,0
-                -46.3257684820536,-23.9380810463146,0
-                -46.3257711623268,-23.9380837323803,0
-                -46.3259275878126,-23.9381997805272,0
-                -46.3259375704712,-23.9382055642573,0
-                -46.3259463299092,-23.9382070238055,0
-                -46.3259554657167,-23.9382068545708,0
-                -46.3259640028307,-23.9382057874351,0
-                -46.3259685082332,-23.9382043939018,0
-                -46.326180313786,-23.9381631898998,0
-                -46.3264973092031,-23.9380989512217,0
-                -46.3267757354509,-23.9380486817165,0
-                -46.3270754110283,-23.9379924650397,0
-                -46.3272279121657,-23.9379638568294,0
-                -46.327262332144,-23.9379573279748,0
-                -46.3272808402583,-23.9379512979476,0
-                -46.3272965624373,-23.937941860336,0
-                -46.3273127333484,-23.9379282647093,0
-                -46.3273228919678,-23.9379128246247,0
-                -46.3273297093612,-23.9378973231281,0
-                -46.3273338368774,-23.9378878051719,0
-                -46.3273341421092,-23.9378792233444,0
-                -46.3273340676348,-23.9378623365346,0
-                -46.327234688086,-23.9374063316117,0
-                -46.3272093380185,-23.9372909575459,0
-                -46.3272051499091,-23.9372849431761,0
-                -46.3271987985926,-23.9372787668974,0
-                -46.3271933564042,-23.9372750210527,0
-                -46.3271865434225,-23.9372717385977,0
-                -46.3271800417949,-23.9372700789805,0
-                -46.3271696298147,-23.9372703496283,0
-                -46.3271559850286,-23.937271551302,0
-                -46.3265561551697,-23.9373965745798,0
-                -46.3257831708022,-23.9375472937182,0
-                -46.3257518333021,-23.9375574079048,0
-                -46.3257235390544,-23.9375768877558,0
-                -46.325707255468,-23.9375987021557,0
                 -46.3256981621362,-23.9376222605938,0
-                -46.3257428722191,-23.9379924825567,0
+                -46.3257629268641,-23.9380758564789,0
+                -46.3259275878126,-23.9381997805272,0
+                -46.3259554657167,-23.9382068545708,0
+                -46.3272808402583,-23.9379512979476,0
+                -46.3273228919678,-23.9379128246247,0
+                -46.3273340676348,-23.9378623365346,0
+                -46.3272093380185,-23.9372909575459,0
+                -46.3271865434225,-23.9372717385977,0
+                -46.3271559850286,-23.937271551302,0
+                -46.3257518333021,-23.9375574079048,0
+                -46.3256981621362,-23.9376222605938,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1551,8 +1346,14 @@
       <Placemark id="Centro.42">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36002</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1169</SimpleData>
+            <SimpleData name="Num_Qd">36002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1560,19 +1361,11 @@
             <LinearRing>
               <coordinates>
                 -46.3269458342859,-23.9361579833237,0
-                -46.3266765727268,-23.9362105217778,0
                 -46.3256060911304,-23.9364287418936,0
                 -46.3256759336922,-23.9373410550898,0
                 -46.3256971843246,-23.9373534242526,0
-                -46.3262459352476,-23.9372391407285,0
-                -46.3270418907892,-23.9370771129287,0
                 -46.327147789694,-23.9370562393689,0
-                -46.3271510976513,-23.9370530500115,0
-                -46.3271537234451,-23.9370504083962,0
-                -46.3271554530422,-23.9370466005359,0
                 -46.3271553967107,-23.9370410922805,0
-                -46.3271544718867,-23.9370371267582,0
-                -46.3270969076164,-23.9367692313323,0
                 -46.3269629447822,-23.9361690334988,0
                 -46.3269458342859,-23.9361579833237,0
               </coordinates>
@@ -1583,8 +1376,14 @@
       <Placemark id="Centro.43">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36001</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1170</SimpleData>
+            <SimpleData name="Num_Qd">36001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1592,14 +1391,9 @@
             <LinearRing>
               <coordinates>
                 -46.3275405685668,-23.9369569362684,0
-                -46.3274493885839,-23.9363201944287,0
                 -46.3274098569534,-23.9360600514601,0
-                -46.3270969812086,-23.9361230822368,0
                 -46.3270881670592,-23.936125867664,0
-                -46.3270817171999,-23.9361292647996,0
-                -46.3270774545363,-23.9361351716276,0
                 -46.3270751687323,-23.9361422353577,0
-                -46.3271292933415,-23.9363812622414,0
                 -46.3272707568371,-23.9370134540901,0
                 -46.3272928972873,-23.937026357177,0
                 -46.3275227070077,-23.9369781323473,0
@@ -1612,27 +1406,27 @@
       <Placemark id="Centro.44">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26023</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1172</SimpleData>
+            <SimpleData name="Num_Qd">26023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3264473205246,-23.9361401670274,0
+                -46.3255981737226,-23.9363077081841,0
                 -46.3269077846876,-23.936040100052,0
-                -46.3269204146068,-23.9360357464239,0
-                -46.3269282140127,-23.9360298090246,0
                 -46.3269333442458,-23.9360222691693,0
-                -46.326934754181,-23.9360160257786,0
-                -46.3269331038197,-23.9360083639282,0
                 -46.326743821301,-23.9351576800801,0
                 -46.3267169554569,-23.9351438243616,0
                 -46.3255243476129,-23.9353900107597,0
-                -46.3255850905198,-23.9361811200332,0
                 -46.3255981737226,-23.9363077081841,0
-                -46.3264473205246,-23.9361401670274,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1641,8 +1435,14 @@
       <Placemark id="Centro.45">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26021</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1173</SimpleData>
+            <SimpleData name="Num_Qd">26021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1650,21 +1450,9 @@
             <LinearRing>
               <coordinates>
                 -46.3273856676562,-23.9350167685965,0
-                -46.3275050411624,-23.9358594105213,0
-                -46.3275071074343,-23.9358875861538,0
                 -46.3275083385358,-23.9358988570457,0
-                -46.3275105581148,-23.9359023245856,0
-                -46.3275164675258,-23.9359115565692,0
                 -46.3275344460472,-23.9359212419287,0
-                -46.3275533892065,-23.9359180407278,0
-                -46.3276754625585,-23.9358974115161,0
                 -46.3278417827021,-23.9358693680865,0
-                -46.3278524061258,-23.9357307469826,0
-                -46.3278701222564,-23.9355637489963,0
-                -46.3278729183811,-23.9355035838636,0
-                -46.3279010609489,-23.9352510412468,0
-                -46.3279029774654,-23.9352040085164,0
-                -46.3279033933367,-23.9351665389238,0
                 -46.3279240260438,-23.9349192677558,0
                 -46.3279112292243,-23.9349100514379,0
                 -46.3273856676562,-23.9350167685965,0
@@ -1676,8 +1464,14 @@
       <Placemark id="Centro.46">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35042</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1223</SimpleData>
+            <SimpleData name="Num_Qd">35042</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1685,41 +1479,16 @@
             <LinearRing>
               <coordinates>
                 -46.3313280399788,-23.9364160620686,0
-                -46.3312737060752,-23.9364255640657,0
                 -46.3310983126743,-23.9364624856694,0
-                -46.3311583837672,-23.9367153665827,0
-                -46.3311674237381,-23.9367537590287,0
-                -46.3311789039268,-23.9368097402051,0
-                -46.3311905426361,-23.9368620174116,0
                 -46.331208407354,-23.9369708004665,0
                 -46.331318563896,-23.9369964259054,0
                 -46.3313442565887,-23.9368998879233,0
                 -46.3314150678135,-23.9369173336271,0
                 -46.3316433870391,-23.9368908706265,0
-                -46.3316330298347,-23.936877324108,0
-                -46.3316241638849,-23.9368654804864,0
-                -46.3316092875273,-23.9368424006169,0
-                -46.3315982166851,-23.9368263316871,0
-                -46.3315859131888,-23.9368050356361,0
                 -46.3315746477505,-23.9367795764493,0
-                -46.3315664890032,-23.9367600505807,0
-                -46.3315559270576,-23.9367265479527,0
-                -46.3315308308795,-23.9366458504675,0
                 -46.3315087848622,-23.9365751506095,0
-                -46.3314955092055,-23.9365452838035,0
-                -46.3314862633292,-23.9365251352099,0
-                -46.3314791472613,-23.9365114702547,0
                 -46.3314673544864,-23.9364920662113,0
-                -46.3314572994739,-23.9364792395143,0
-                -46.3314463556454,-23.9364659689909,0
-                -46.3314359539866,-23.9364576606571,0
-                -46.3314221991021,-23.9364481171103,0
                 -46.3314031187247,-23.9364366330006,0
-                -46.3313921554056,-23.9364310387504,0
-                -46.3313823913819,-23.9364274208538,0
-                -46.3313684909691,-23.9364228454578,0
-                -46.3313530307145,-23.9364194575839,0
-                -46.3313366881278,-23.936416257976,0
                 -46.3313280399788,-23.9364160620686,0
               </coordinates>
             </LinearRing>
@@ -1729,35 +1498,28 @@
       <Placemark id="Centro.47">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35020</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1224</SimpleData>
+            <SimpleData name="Num_Qd">35020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3285772585267,-23.9373768710736,0
-                -46.3285036635603,-23.9370748525473,0
-                -46.3284894514916,-23.9370110380499,0
-                -46.328487943638,-23.937007709734,0
-                -46.3284847767394,-23.9370054794649,0
+                -46.3286294037373,-23.9375908632333,0
                 -46.3284802446015,-23.937004254392,0
-                -46.3284732573033,-23.9370031408768,0
-                -46.3284671763806,-23.9370041868895,0
-                -46.3280703966677,-23.9370869104348,0
-                -46.3277640827029,-23.9371480797198,0
                 -46.3277088704436,-23.9371582202204,0
-                -46.3277014575175,-23.9371635221661,0
                 -46.3276953790357,-23.9371744116164,0
-                -46.3277077961531,-23.9372740937004,0
-                -46.3277213749775,-23.9373624773272,0
                 -46.3277766858666,-23.9377460755014,0
                 -46.3278214638859,-23.9377724190534,0
-                -46.3285772596251,-23.9376190326752,0
                 -46.3286148761003,-23.9376113984236,0
                 -46.3286294037373,-23.9375908632333,0
-                -46.3285772585267,-23.9373768710736,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1766,39 +1528,28 @@
       <Placemark id="Centro.48">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35017</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1225</SimpleData>
+            <SimpleData name="Num_Qd">35017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3297333839282,-23.9355882226572,0
+                -46.3304083971058,-23.9354472737461,0
                 -46.3295520194159,-23.9356260434135,0
-                -46.3297041227119,-23.9362300649461,0
                 -46.3297618915195,-23.9364796746368,0
                 -46.3298045048162,-23.9365074756303,0
-                -46.3299675349192,-23.9364721075385,0
-                -46.3305428819615,-23.9363556819577,0
-                -46.3305643362258,-23.9363509503888,0
-                -46.3305874106021,-23.9363463021702,0
-                -46.3306174696701,-23.9363410991528,0
                 -46.3306469859943,-23.9363354065921,0
                 -46.3306597533516,-23.9363219513473,0
-                -46.3306351228174,-23.9362272702497,0
-                -46.3305772233768,-23.9360102806069,0
-                -46.3305521742084,-23.9359127612203,0
-                -46.3305200327634,-23.9357904676003,0
-                -46.3305041122695,-23.935715480682,0
-                -46.3304517030391,-23.9354905601959,0
-                -46.3304477164328,-23.9354688480619,0
                 -46.3304332022612,-23.9354517547142,0
-                -46.3304260028143,-23.9354491079022,0
-                -46.330415177665,-23.9354473955885,0
                 -46.3304083971058,-23.9354472737461,0
-                -46.3303803794142,-23.9354532058964,0
-                -46.3297333839282,-23.9355882226572,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1807,8 +1558,14 @@
       <Placemark id="Centro.49">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26022</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1245</SimpleData>
+            <SimpleData name="Num_Qd">26022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1819,12 +1576,8 @@
                 -46.3268649285375,-23.9351157240183,0
                 -46.3268525529625,-23.9351353373713,0
                 -46.3270462474664,-23.9359946524154,0
-                -46.3270519073176,-23.9360004734532,0
                 -46.3270624580671,-23.9360041751368,0
-                -46.3270739580031,-23.9360046175514,0
-                -46.3270836747965,-23.9360036304661,0
                 -46.3273748654248,-23.9359434061714,0
-                -46.327386288698,-23.9359363537231,0
                 -46.3273909936043,-23.9359256567778,0
                 -46.327266953445,-23.9350372028495,0
               </coordinates>
@@ -1835,15 +1588,21 @@
       <Placemark id="Centro.50">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36003</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1246</SimpleData>
+            <SimpleData name="Num_Qd">36003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1294</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3254469468522,-23.9355002365355,0
+                -46.3255118338804,-23.9363014382541,0
                 -46.3254400823064,-23.935415474813,0
                 -46.3254177451301,-23.935400603075,0
                 -46.3245775439736,-23.9355712764816,0
@@ -1853,7 +1612,6 @@
                 -46.3247117006764,-23.9364784684069,0
                 -46.3254969472825,-23.9363199706653,0
                 -46.3255118338804,-23.9363014382541,0
-                -46.3254469468522,-23.9355002365355,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1862,27 +1620,27 @@
       <Placemark id="Centro.51">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36004</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1247</SimpleData>
+            <SimpleData name="Num_Qd">36004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0003</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3233688590916,-23.9358263997709,0
-                -46.323234770879,-23.9358534203629,0
-                -46.3226134667126,-23.9359812225807,0
+                -46.3244294475661,-23.9356126723602,0
                 -46.3225066076498,-23.9360022761102,0
                 -46.3224957950387,-23.9360166369913,0
                 -46.3226036398922,-23.9369169717855,0
-                -46.3227194363314,-23.9368932427206,0
-                -46.3233653351311,-23.9367647993642,0
-                -46.3233688628865,-23.9367640656972,0
                 -46.3244855562284,-23.936531822031,0
                 -46.3245021998338,-23.9365122118773,0
                 -46.3244294475661,-23.9356126723602,0
-                -46.3233688590916,-23.9358263997709,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1891,8 +1649,14 @@
       <Placemark id="Centro.52">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25034</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1273</SimpleData>
+            <SimpleData name="Num_Qd">25034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1900,7 +1664,6 @@
             <LinearRing>
               <coordinates>
                 -46.3334218430479,-23.9315455724977,0
-                -46.3334241714404,-23.9315411890847,0
                 -46.3331156064831,-23.9310770079212,0
                 -46.3328466294578,-23.9312320551363,0
                 -46.333159895495,-23.931691832839,0
@@ -1913,8 +1676,14 @@
       <Placemark id="Centro.53">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26026</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1330</SimpleData>
+            <SimpleData name="Num_Qd">26026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1922,37 +1691,16 @@
             <LinearRing>
               <coordinates>
                 -46.3239401429234,-23.932875528761,0
-                -46.3239262093574,-23.9328772744671,0
-                -46.3239195713739,-23.9328814858571,0
-                -46.3239122641274,-23.9328875091663,0
-                -46.3239067463923,-23.9328955941114,0
                 -46.3239055420273,-23.9329027387815,0
-                -46.3239084723698,-23.9329492218092,0
                 -46.3239110020652,-23.9329564245818,0
-                -46.323916288943,-23.9329642357264,0
-                -46.3239243090563,-23.9329703074574,0
                 -46.3239354535253,-23.932974455786,0
-                -46.3239487353392,-23.9329762376876,0
-                -46.3239746533388,-23.9329742983061,0
                 -46.3239770000586,-23.9329731943769,0
                 -46.3239318238266,-23.9329364676848,0
-                -46.3239633461326,-23.9329349315064,0
                 -46.3241437979352,-23.9329221768983,0
-                -46.3241877870416,-23.9329581010003,0
                 -46.3241972310276,-23.9329592838354,0
-                -46.3242085203949,-23.9329583736812,0
-                -46.3242145938027,-23.9329566054484,0
-                -46.3242195616912,-23.9329524084532,0
-                -46.3242227575652,-23.932947865515,0
                 -46.3242254373628,-23.9329408887298,0
-                -46.3242260752987,-23.9329360066284,0
-                -46.3242193612934,-23.9328653538752,0
-                -46.3242162808327,-23.9328619487689,0
-                -46.3242123208144,-23.9328590027869,0
                 -46.3242079816531,-23.9328574146862,0
-                -46.3242049361998,-23.9328574409578,0
                 -46.3241505432419,-23.9328610709274,0
-                -46.3241955092058,-23.9328964447574,0
                 -46.3241937887812,-23.9329011555819,0
                 -46.3239899861768,-23.9329170917966,0
                 -46.3239401429234,-23.932875528761,0
@@ -1964,28 +1712,25 @@
       <Placemark id="Centro.54">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36052</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1352</SimpleData>
+            <SimpleData name="Num_Qd">36052</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3259067994311,-23.9383043548576,0
-                -46.3257873620579,-23.9383302820761,0
-                -46.3257812792388,-23.9383335469354,0
-                -46.3257761193062,-23.9383416222936,0
-                -46.3257872349775,-23.9384033633189,0
-                -46.3257908280793,-23.9384129692226,0
-                -46.325796094669,-23.9384153329632,0
-                -46.3258048066842,-23.9384128484696,0
-                -46.3259364987259,-23.9383217865141,0
-                -46.3259411689261,-23.9383155825639,0
-                -46.3259407115208,-23.9383094229126,0
-                -46.3259351302151,-23.9383036700931,0
                 -46.3259268175266,-23.9383008413895,0
-                -46.3259067994311,-23.9383043548576,0
+                -46.3257812792388,-23.9383335469354,0
+                -46.3257908280793,-23.9384129692226,0
+                -46.3259411689261,-23.9383155825639,0
+                -46.3259268175266,-23.9383008413895,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1994,8 +1739,14 @@
       <Placemark id="Centro.55">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26008</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1354</SimpleData>
+            <SimpleData name="Num_Qd">26008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2003,41 +1754,21 @@
             <LinearRing>
               <coordinates>
                 -46.3269692311677,-23.9325039481517,0
-                -46.326973516851,-23.9325445737518,0
-                -46.3269854123625,-23.9325838980538,0
                 -46.3270045562689,-23.9326207262069,0
-                -46.3270303668968,-23.9326539392036,0
                 -46.3270620600051,-23.9326825278805,0
-                -46.3270986726143,-23.9327056235819,0
                 -46.327139092266,-23.9327225245536,0
-                -46.3271820908244,-23.9327327172661,0
                 -46.3272263617938,-23.9327358920174,0
-                -46.3272705600157,-23.9327319523444,0
                 -46.3273133425429,-23.9327210179526,0
-                -46.3273534094436,-23.9327034210803,0
-                -46.3273895433013,-23.9326796964022,0
                 -46.3274206462048,-23.9326505647838,0
-                -46.3274457731087,-23.9326169113777,0
                 -46.3274641605477,-23.9325797587288,0
-                -46.3274752498338,-23.9325402357036,0
                 -46.327478704031,-23.9324995431906,0
-                -46.3274744181924,-23.9324589176113,0
                 -46.3274625225482,-23.9324195933527,0
-                -46.3274433785473,-23.9323827652603,0
                 -46.327417567875,-23.9323495523344,0
-                -46.3273858747774,-23.9323209637297,0
                 -46.3273492622326,-23.9322978680933,0
-                -46.3273088426917,-23.9322809671715,0
-                -46.3272658442766,-23.9322707744877,0
                 -46.3272215734662,-23.9322675997407,0
-                -46.3271773753994,-23.932271539393,0
-                -46.3271345930051,-23.9322824737414,0
                 -46.3270945261986,-23.932300070553,0
-                -46.3270583923856,-23.9323237951604,0
                 -46.3270272894713,-23.9323529267066,0
-                -46.3270021625028,-23.9323865800476,0
                 -46.3269837749532,-23.9324237326467,0
-                -46.3269726855237,-23.9324632556431,0
                 -46.3269692311677,-23.9325039481517,0
               </coordinates>
             </LinearRing>
@@ -2047,35 +1778,32 @@
       <Placemark id="Centro.56">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25026</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1505</SimpleData>
+            <SimpleData name="Num_Qd">25026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3337856187236,-23.9345294194382,0
+                -46.3334929050223,-23.9335553612976,0
                 -46.3338201753074,-23.9346373094717,0
                 -46.3338601173728,-23.934650442494,0
                 -46.3344778409891,-23.9345208636104,0
                 -46.3345966396435,-23.9344829183643,0
-                -46.3349866936112,-23.9341487315605,0
-                -46.3350042042301,-23.9341317821463,0
-                -46.335014688865,-23.9341194995,0
                 -46.3350251307726,-23.9341030630985,0
-                -46.3350334234519,-23.9340878193814,0
                 -46.3350383536463,-23.9340704375392,0
-                -46.3350391326435,-23.9340506535107,0
-                -46.3350386317226,-23.9340306096931,0
-                -46.3350353689117,-23.9340095062119,0
                 -46.3350321311802,-23.9339908408039,0
                 -46.3345564756985,-23.93324782894,0
                 -46.3345236632764,-23.9332415140154,0
-                -46.3337952579905,-23.9334524280613,0
                 -46.3335152383425,-23.933531671024,0
                 -46.3334929050223,-23.9335553612976,0
-                -46.3337856187236,-23.9345294194382,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -2084,8 +1812,14 @@
       <Placemark id="Centro.57">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25036</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1567</SimpleData>
+            <SimpleData name="Num_Qd">25036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2095,22 +1829,11 @@
                 -46.3304209269217,-23.934173351978,0
                 -46.3306237852021,-23.9341207419304,0
                 -46.3306496721186,-23.9341063089714,0
-                -46.3306544458991,-23.9340957981302,0
                 -46.3306591736817,-23.9340808007772,0
-                -46.3306574239874,-23.9340688508508,0
                 -46.3304958129438,-23.933859366963,0
-                -46.3304777086278,-23.9338393327888,0
-                -46.3304678774483,-23.9338326876362,0
                 -46.330450770614,-23.9338305924561,0
-                -46.3303353279587,-23.9338390712015,0
-                -46.3303239693878,-23.9338421609173,0
                 -46.3303183590795,-23.9338504355436,0
-                -46.3303184740418,-23.9338616518246,0
-                -46.3303465211969,-23.9341373537627,0
                 -46.330350772734,-23.9341552645578,0
-                -46.3303622769569,-23.9341663821274,0
-                -46.3303769662737,-23.9341707417242,0
-                -46.330392461445,-23.9341743465166,0
                 -46.3304209269217,-23.934173351978,0
               </coordinates>
             </LinearRing>
@@ -2120,8 +1843,14 @@
       <Placemark id="Centro.58">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25012</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1650</SimpleData>
+            <SimpleData name="Num_Qd">25012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2129,14 +1858,10 @@
             <LinearRing>
               <coordinates>
                 -46.3341480457768,-23.9326181495876,0
-                -46.333911357292,-23.9322454995057,0
                 -46.3334975269948,-23.9316258087403,0
                 -46.3320764583504,-23.9324768862046,0
                 -46.3320416495079,-23.9325121951196,0
-                -46.3320323130317,-23.9325310734326,0
-                -46.3320271298929,-23.932548620101,0
                 -46.3320240826815,-23.9325659923662,0
-                -46.3320270884113,-23.9325856692705,0
                 -46.3320319933216,-23.9325945129349,0
                 -46.3326272710206,-23.9332782526474,0
                 -46.3341425952792,-23.9326370409229,0
@@ -2149,47 +1874,35 @@
       <Placemark id="Centro.59">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25035</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1720</SimpleData>
+            <SimpleData name="Num_Qd">25035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3326592103075,-23.9356456646484,0
-                -46.3326542153452,-23.9356204045955,0
+                -46.332674164482,-23.935761508822,0
                 -46.3325984681087,-23.9353298992494,0
-                -46.3324479626721,-23.9347429012348,0
-                -46.3323593012588,-23.9343746625558,0
-                -46.332294834378,-23.9341285136992,0
                 -46.3322352151994,-23.9339076261549,0
-                -46.3322282253892,-23.933897143725,0
-                -46.332209831169,-23.933893086132,0
                 -46.332193774099,-23.9338932254912,0
                 -46.3318002890147,-23.9339999623682,0
-                -46.331784361736,-23.934012752275,0
                 -46.331773087097,-23.9340318276712,0
                 -46.3317734332472,-23.9340655625778,0
-                -46.3319943208141,-23.9347953367889,0
                 -46.3321889393633,-23.9354241248271,0
-                -46.3322835738077,-23.9357037497199,0
-                -46.3323191078326,-23.9358130894477,0
                 -46.3323307937899,-23.9358340741958,0
-                -46.3323439672878,-23.9358483356569,0
-                -46.3323700931546,-23.9358632537179,0
                 -46.3323977498543,-23.9358756653492,0
-                -46.3324391916191,-23.9358900659251,0
                 -46.3324690556427,-23.935894023907,0
-                -46.3325126614331,-23.9358957539651,0
                 -46.3325492989219,-23.9358891100346,0
-                -46.3325744668968,-23.9358825656738,0
                 -46.3326064083255,-23.9358654194088,0
-                -46.3326359475931,-23.9358377509017,0
                 -46.3326540822966,-23.9358165072647,0
-                -46.3326607691433,-23.9357974716406,0
                 -46.332674164482,-23.935761508822,0
-                -46.3326592103075,-23.9356456646484,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -2198,8 +1911,14 @@
       <Placemark id="Centro.60">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26024</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1750</SimpleData>
+            <SimpleData name="Num_Qd">26024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2219,24 +1938,27 @@
       <Placemark id="Centro.61">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35018</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1858</SimpleData>
+            <SimpleData name="Num_Qd">35018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3295895561972,-23.9361839609589,0
+                -46.3296770609593,-23.9365351300737,0
                 -46.329464482433,-23.9356341105739,0
-                -46.3291964367313,-23.9356874165654,0
                 -46.32890258308,-23.9357495701702,0
                 -46.328885724986,-23.935774553274,0
-                -46.328982150006,-23.9362687821074,0
                 -46.3290523312583,-23.9366458391855,0
                 -46.3290750649655,-23.9366590981031,0
                 -46.3296770609593,-23.9365351300737,0
-                -46.3295895561972,-23.9361839609589,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -2245,8 +1967,14 @@
       <Placemark id="Centro.62">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35016</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1859</SimpleData>
+            <SimpleData name="Num_Qd">35016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2254,48 +1982,18 @@
             <LinearRing>
               <coordinates>
                 -46.3307138414235,-23.9359291280369,0
-                -46.3307564772103,-23.9359208465337,0
-                -46.3308573799734,-23.9359012473004,0
-                -46.3309601273299,-23.9358808255384,0
                 -46.331023071755,-23.9358690633694,0
                 -46.3311663321857,-23.9358258947289,0
                 -46.3311773092161,-23.9358664362902,0
-                -46.33108671807,-23.9358905332844,0
-                -46.3310434328353,-23.9359044966144,0
-                -46.3309423167797,-23.9359314494911,0
-                -46.3308488523235,-23.9359510724013,0
-                -46.3307651576336,-23.935968460452,0
                 -46.3307290161581,-23.9359759592556,0
                 -46.3308092911793,-23.9362944585139,0
-                -46.3321151108018,-23.9360356092704,0
                 -46.3321312579061,-23.9360313555975,0
-                -46.3321429004918,-23.9360169921387,0
-                -46.3321498303825,-23.9360103163293,0
                 -46.3321532906927,-23.936002697339,0
-                -46.3321545581756,-23.9359858353483,0
                 -46.3321448042685,-23.9359358010946,0
                 -46.3320644993727,-23.9357375480316,0
-                -46.3320484040119,-23.9356842595214,0
-                -46.3320327968715,-23.9356255761063,0
-                -46.3320282890161,-23.9355887641249,0
-                -46.3319288499022,-23.9352698323964,0
-                -46.3319180187475,-23.9352185215789,0
                 -46.3318963394928,-23.9351362843895,0
-                -46.33155830519,-23.9352107109896,0
-                -46.3310853710393,-23.9353126034361,0
-                -46.3308756633468,-23.9353583174874,0
-                -46.330677772445,-23.9353997967721,0
-                -46.3306366140147,-23.9354070052123,0
-                -46.3306173242006,-23.9354134036338,0
                 -46.3306055971758,-23.9354195558773,0
-                -46.3305965430545,-23.9354276717067,0
-                -46.3305902545242,-23.935437208476,0
-                -46.3305871421439,-23.935449878463,0
                 -46.3305880493591,-23.9354617008399,0
-                -46.3305911216051,-23.9354738656771,0
-                -46.3306047753093,-23.9355333443522,0
-                -46.3306231949293,-23.9355872232856,0
-                -46.3306898577141,-23.935822830627,0
                 -46.3307138414235,-23.9359291280369,0
               </coordinates>
             </LinearRing>
@@ -2305,8 +2003,14 @@
       <Placemark id="Centro.63">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25027</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1860</SimpleData>
+            <SimpleData name="Num_Qd">25027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1293</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2314,16 +2018,11 @@
             <LinearRing>
               <coordinates>
                 -46.3324435389695,-23.9338379708456,0
-                -46.3326740706702,-23.9347794083027,0
-                -46.332694856551,-23.9348613170234,0
                 -46.3326992542874,-23.9348685937186,0
-                -46.3327027038706,-23.9348696474531,0
-                -46.3327186032491,-23.9348679741842,0
                 -46.3337019945587,-23.9346675299817,0
                 -46.3333770293586,-23.933591363641,0
                 -46.3333532281391,-23.9335793789266,0
                 -46.3332194788329,-23.9336095990223,0
-                -46.3328900810161,-23.933701759323,0
                 -46.3324435389695,-23.9338379708456,0
               </coordinates>
             </LinearRing>
@@ -2333,8 +2032,14 @@
       <Placemark id="Centro.64">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25020</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1861</SimpleData>
+            <SimpleData name="Num_Qd">25020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -2346,13 +2051,7 @@
                 -46.3306179570151,-23.9336714470544,0
                 -46.3307085765436,-23.9337705412506,0
                 -46.33069717309,-23.933779490215,0
-                -46.3309261822479,-23.9340275653568,0
-                -46.3309317263409,-23.9340316714165,0
-                -46.3309418117461,-23.9340379054718,0
                 -46.3309496135325,-23.9340418113404,0
-                -46.330962899225,-23.9340439538213,0
-                -46.3309740857418,-23.9340425925226,0
-                -46.3309843630869,-23.9340388008123,0
                 -46.3315796730427,-23.9338582611331,0
                 -46.3315893480619,-23.9338244926247,0
                 -46.3311170040592,-23.9332536035582,0
@@ -2364,26 +2063,28 @@
       <Placemark id="Centro.65">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">25022</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1862</SimpleData>
+            <SimpleData name="Num_Qd">25022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1292</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3299161834268,-23.9331674892108,0
+                -46.3301896351109,-23.9331410980956,0
                 -46.3295086856892,-23.9332193335495,0
                 -46.3294896488348,-23.933240810939,0
                 -46.3295346604937,-23.9337025232022,0
                 -46.3295531693577,-23.9337158186636,0
-                -46.3298421896856,-23.9336937183301,0
-                -46.3300230077305,-23.9336783346959,0
                 -46.330180482353,-23.9336668557351,0
-                -46.3301910134869,-23.9334289855705,0
                 -46.3302069373072,-23.9331516947193,0
                 -46.3301896351109,-23.9331410980956,0
-                -46.3299161834268,-23.9331674892108,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -2392,8 +2093,14 @@
       <Placemark id="Centro.66">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">26028</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">1988</SimpleData>
+            <SimpleData name="Num_Qd">26028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1295</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2401,27 +2108,15 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.325396207133,-23.9328575451677,0
-                  -46.3253834404933,-23.9328581069347,0
+                  -46.3261288828948,-23.9328703624408,0
                   -46.3253672769318,-23.9328627618604,0
-                  -46.3253549027481,-23.932872892815,0
-                  -46.3253493329673,-23.9328854936255,0
                   -46.3253482444413,-23.9328943531435,0
                   -46.3253571249615,-23.9329654386561,0
-                  -46.3253646266931,-23.9329784684503,0
-                  -46.3253735697617,-23.9329883250423,0
                   -46.3253907244621,-23.9329941372094,0
-                  -46.3254155912923,-23.9329950964955,0
-                  -46.3254433601545,-23.9329916056601,0
                   -46.3261488091733,-23.9329262711438,0
-                  -46.3261604536518,-23.9329216551779,0
-                  -46.3261704792302,-23.9329124475241,0
                   -46.3261721575864,-23.93289401033,0
-                  -46.3261668355214,-23.9328827678936,0
                   -46.3261522890114,-23.9328725985298,0
                   -46.3261288828948,-23.9328703624408,0
-                  -46.3261093284495,-23.9328700798351,0
-                  -46.325396207133,-23.9328575451677,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2431,16 +2126,9 @@
               <LinearRing>
                 <coordinates>
                   -46.3262492545875,-23.9328765249652,0
-                  -46.3262493823524,-23.9328794137002,0
-                  -46.3262505543807,-23.9329075795023,0
-                  -46.3262523577701,-23.932910995617,0
                   -46.326255800801,-23.9329114174321,0
-                  -46.3264293723195,-23.9328887870315,0
-                  -46.3264337792996,-23.9328873943716,0
                   -46.3264343493644,-23.9328854929938,0
-                  -46.3264296052157,-23.932882734423,0
                   -46.3264186802222,-23.9328808419819,0
-                  -46.326252481761,-23.9328750521877,0
                   -46.3262492545875,-23.9328765249652,0
                 </coordinates>
               </LinearRing>
@@ -2451,8 +2139,14 @@
       <Placemark id="Centro.67">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35023</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">2003</SimpleData>
+            <SimpleData name="Num_Qd">35023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2466,11 +2160,8 @@
                   -46.3312083620113,-23.9369704593805,0
                   -46.3312307890386,-23.9370453528339,0
                   -46.3312685591724,-23.9370918436968,0
-                  -46.3313071187826,-23.9371266231608,0
                   -46.3313491277819,-23.9371429798607,0
-                  -46.3313974433305,-23.9371534296159,0
                   -46.3316938520409,-23.9371880165305,0
-                  -46.3316676176412,-23.9370335059963,0
                   -46.3316433422158,-23.9368905326812,0
                   -46.3314226799044,-23.9369188805627,0
                 </coordinates>
@@ -2481,65 +2172,26 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3311105162239,-23.9369481878921,0
-                  -46.3310968484275,-23.9368974435521,0
-                  -46.3310831999203,-23.9368345942737,0
-                  -46.3310709521615,-23.9367878412626,0
-                  -46.3310619106948,-23.9367450751097,0
-                  -46.3310328226421,-23.936622092263,0
+                  -46.3311602896331,-23.9371205651353,0
                   -46.3309995644955,-23.9364924771819,0
                   -46.3309747406109,-23.9364886133562,0
-                  -46.3308264496663,-23.936516758665,0
-                  -46.3306926870288,-23.9365446521757,0
-                  -46.3302284937354,-23.9366397801953,0
-                  -46.3301296339585,-23.9366620666071,0
-                  -46.3299260449167,-23.9367026720437,0
-                  -46.3298606285882,-23.9367179717344,0
                   -46.3292429375585,-23.93684117714,0
-                  -46.3290525392548,-23.936884313766,0
                   -46.3286409909504,-23.9369709451576,0
                   -46.3286252418688,-23.9369898659968,0
-                  -46.3286649048399,-23.9371582756661,0
                   -46.3287639660689,-23.9375886971411,0
-                  -46.3289936842486,-23.9375398012986,0
-                  -46.3292583851785,-23.9374852716804,0
                   -46.3299753352754,-23.9373410793958,0
-                  -46.3299630392515,-23.937271561066,0
                   -46.3299034625091,-23.9370095785018,0
-                  -46.3299321293847,-23.9370120097613,0
-                  -46.3299895770219,-23.9370141860901,0
-                  -46.3300479006756,-23.9370163885083,0
                   -46.3301542606668,-23.9370154642536,0
-                  -46.3301992233133,-23.9370538937833,0
-                  -46.3302300411043,-23.9370750563276,0
                   -46.3302624944259,-23.9371136162711,0
-                  -46.3303107008067,-23.93712525262,0
-                  -46.3303967769077,-23.9371352213477,0
                   -46.3304391413544,-23.9371455689415,0
-                  -46.3304874026821,-23.9371625621666,0
-                  -46.3305372721185,-23.9371942743105,0
-                  -46.3305753066198,-23.9372086774586,0
                   -46.3306192929412,-23.9372350831675,0
-                  -46.3306892691525,-23.9372237616701,0
                   -46.330752456352,-23.9372272552775,0
-                  -46.3307914553586,-23.9372416266094,0
-                  -46.3308514830898,-23.9372692325106,0
-                  -46.3309055315342,-23.937282157363,0
-                  -46.330964006101,-23.9373004012217,0
                   -46.3310274090623,-23.9373279722405,0
-                  -46.3310531887738,-23.9373290935634,0
                   -46.3310838007118,-23.9373301674326,0
-                  -46.3310982751257,-23.9373206664364,0
                   -46.3311358976019,-23.9372948924538,0
-                  -46.331259266577,-23.9372469451101,0
                   -46.3313077076865,-23.9372290973868,0
-                  -46.3312573424132,-23.9372014238317,0
                   -46.3312124004295,-23.9371736502909,0
                   -46.3311602896331,-23.9371205651353,0
-                  -46.3311393688537,-23.9370698512028,0
-                  -46.3311317068555,-23.93702839774,0
-                  -46.3311094968677,-23.9369496013155,0
-                  -46.3311105162239,-23.9369481878921,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2549,8 +2201,14 @@
       <Placemark id="Centro.68">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">35025</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">2005</SimpleData>
+            <SimpleData name="Num_Qd">35025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0004</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2558,20 +2216,15 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3318666376015,-23.93720554139,0
-                  -46.3322706407371,-23.9372487109408,0
+                  -46.3317838216228,-23.9371962314823,0
                   -46.3324485302293,-23.9372590764394,0
                   -46.3324592910774,-23.9369899135921,0
-                  -46.3324059051136,-23.9370290930587,0
                   -46.3323036412822,-23.9370789284407,0
-                  -46.3322183028483,-23.9370968638385,0
                   -46.3321274936373,-23.9371025642916,0
                   -46.3320392559122,-23.9370984165207,0
-                  -46.3319508165118,-23.937074618702,0
                   -46.3318757640581,-23.9370531612316,0
                   -46.3317709378796,-23.936995404887,0
                   -46.3317838216228,-23.9371962314823,0
-                  -46.3318666376015,-23.93720554139,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2580,90 +2233,28 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.332540325873,-23.9364321481089,0
-                  -46.3325315568696,-23.936417512269,0
-                  -46.3325202183797,-23.9363972402858,0
-                  -46.332502750097,-23.936374758138,0
+                  -46.3325478637417,-23.9364467946367,0
                   -46.3324828660231,-23.9363568237212,0
-                  -46.332456826276,-23.9363389427412,0
-                  -46.3324382198222,-23.9363255239871,0
-                  -46.332417151101,-23.9363121266058,0
-                  -46.3323948047777,-23.9362942135515,0
-                  -46.3323786954598,-23.9362841681828,0
-                  -46.3323539824672,-23.9362708024274,0
                   -46.3323316710112,-23.936256284131,0
-                  -46.3322896096266,-23.9362464640268,0
-                  -46.3322563225171,-23.9362422262013,0
                   -46.3322255209117,-23.9362402301753,0
-                  -46.3321923642383,-23.9362439130353,0
-                  -46.3321640222443,-23.9362464224094,0
-                  -46.3321198085822,-23.9362524646016,0
-                  -46.3320816898546,-23.9362573221942,0
-                  -46.332055870861,-23.9362609413419,0
                   -46.3320276128243,-23.9362668450332,0
-                  -46.3319994012421,-23.9362772750774,0
-                  -46.331983454553,-23.9362830719183,0
-                  -46.3319601791195,-23.9362945908087,0
-                  -46.3319393194978,-23.9363015619702,0
-                  -46.3319135817852,-23.9363131022211,0
-                  -46.3318927802248,-23.9363257313242,0
                   -46.3318646266837,-23.936341819292,0
-                  -46.3318450562499,-23.9363544377059,0
-                  -46.3318230816037,-23.9363727354307,0
-                  -46.3318109819395,-23.9363886840857,0
-                  -46.3317926631841,-23.9364080817741,0
                   -46.3317830732568,-23.9364230284911,0
-                  -46.3317708859323,-23.9364456165145,0
-                  -46.3317614316551,-23.9364841760187,0
-                  -46.3317567509639,-23.9365079821288,0
-                  -46.3317558333589,-23.9365385457291,0
                   -46.331751106216,-23.9365578254808,0
-                  -46.3317525463758,-23.9365781834104,0
-                  -46.3317553337985,-23.9366098465529,0
-                  -46.3317592826874,-23.9366347094756,0
-                  -46.3317657286936,-23.9366629458018,0
-                  -46.3317733826173,-23.9366889082658,0
                   -46.3317797125035,-23.9367058286958,0
-                  -46.3317897938744,-23.9367283750249,0
-                  -46.331808553963,-23.9367519777367,0
-                  -46.3318148141795,-23.9367621086278,0
-                  -46.3318272997762,-23.9367789756405,0
-                  -46.3318446867112,-23.9367935367405,0
                   -46.3318521896864,-23.936804788536,0
-                  -46.331868345487,-23.9368193603163,0
-                  -46.331884417329,-23.9368305377526,0
-                  -46.3319006222581,-23.9368451091028,0
-                  -46.3319204250363,-23.9368551224682,0
-                  -46.3319353032535,-23.9368651785668,0
                   -46.3319698886802,-23.9368807220912,0
-                  -46.331994604419,-23.9368895611204,0
-                  -46.3320304468919,-23.936902830341,0
-                  -46.3320688583271,-23.936913478752,0
                   -46.3320983338943,-23.9369192165077,0
-                  -46.3321303319549,-23.9369178070985,0
-                  -46.3321524692676,-23.9369153515793,0
                   -46.3321783000031,-23.9369128639992,0
-                  -46.3322016452222,-23.9369081346083,0
-                  -46.3322360010097,-23.9368965195016,0
                   -46.3322592997556,-23.936887263745,0
-                  -46.3322850143114,-23.9368734602546,0
-                  -46.3323021341109,-23.9368619947468,0
-                  -46.3323204850479,-23.9368505185503,0
-                  -46.3323388127466,-23.9368367791733,0
                   -46.3323620417672,-23.9368207338664,0
-                  -46.3323803346033,-23.9368035997171,0
                   -46.3333707625884,-23.9359522870345,0
-                  -46.3332825304247,-23.9359573243272,0
                   -46.3331687446588,-23.9359625835265,0
-                  -46.3330713518539,-23.9359805127536,0
                   -46.3329740906054,-23.9360112532648,0
                   -46.3328978903176,-23.9360567587244,0
-                  -46.3328311576328,-23.9361192652519,0
                   -46.3327967942001,-23.936166542774,0
-                  -46.3327997312536,-23.936226308882,0
                   -46.3328119824802,-23.9362881295238,0
                   -46.3325478637417,-23.9364467946367,0
-                  -46.332540325873,-23.9364321481089,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2673,8 +2264,14 @@
       <Placemark id="Centro.69">
         <ExtendedData>
           <SchemaData schemaUrl="#Centro.schema">
-            <SimpleData name="quadra">36007</SimpleData>
-            <SimpleData name="NOME">Centro</SimpleData>
+            <SimpleData name="fid">2008</SimpleData>
+            <SimpleData name="Num_Qd">36007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0003</SimpleData>
+            <SimpleData name="Bairro">Centro</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2682,27 +2279,14 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3233585976947,-23.9368882680336,0
-                  -46.3228979048498,-23.9369821260089,0
-                  -46.3226247673907,-23.9370374065566,0
-                  -46.3226202718957,-23.9370395336414,0
+                  -46.3235532631846,-23.9368501231194,0
                   -46.3226165049728,-23.9370419076571,0
-                  -46.3226163265552,-23.9370470951453,0
                   -46.3227082457705,-23.9379390669968,0
                   -46.3227512799896,-23.9379665062448,0
-                  -46.323368834692,-23.9378331725594,0
-                  -46.3235015265886,-23.9378045232463,0
                   -46.3238218624118,-23.9377413553328,0
-                  -46.323648477726,-23.9369962514153,0
                   -46.323620724807,-23.9368816581564,0
-                  -46.3236143538758,-23.9368740227662,0
-                  -46.3236015189464,-23.9368614584978,0
-                  -46.3235926470928,-23.9368551050766,0
                   -46.3235859066336,-23.9368510712419,0
-                  -46.3235778148916,-23.9368506104509,0
                   -46.3235532631846,-23.9368501231194,0
-                  -46.3233688306472,-23.9368862628862,0
-                  -46.3233585976947,-23.9368882680336,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2712,30 +2296,16 @@
               <LinearRing>
                 <coordinates>
                   -46.3238639285231,-23.9372038940822,0
-                  -46.323848214906,-23.937217886892,0
-                  -46.3238382057248,-23.9372374638008,0
                   -46.3238355570291,-23.9372644790621,0
-                  -46.3238558726003,-23.9373524413746,0
                   -46.3239311013966,-23.9376626378909,0
-                  -46.3239393420296,-23.937673034321,0
-                  -46.3239524934932,-23.9376863791275,0
                   -46.3239705100061,-23.9376981866454,0
-                  -46.3239965841127,-23.9377024479605,0
                   -46.3241886071526,-23.9376646338077,0
-                  -46.3245556433901,-23.9375865652866,0
-                  -46.3245653163822,-23.9375839111874,0
                   -46.3245806371891,-23.9375741965034,0
-                  -46.324588204694,-23.9375613216922,0
                   -46.3245947904404,-23.9375484183745,0
                   -46.3245816580017,-23.9373658421684,0
                   -46.3245576833275,-23.9371127372294,0
-                  -46.3245533328161,-23.9370963555962,0
-                  -46.3245443937942,-23.9370848076147,0
                   -46.324535046513,-23.9370779889137,0
-                  -46.3245187648755,-23.9370727749912,0
                   -46.3245025968609,-23.9370714024247,0
-                  -46.3242269436058,-23.9371284188681,0
-                  -46.3238934305898,-23.9371961717079,0
                   -46.3238639285231,-23.9372038940822,0
                 </coordinates>
               </LinearRing>
@@ -2745,34 +2315,15 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3244645413295,-23.9369582542062,0
-                  -46.3244919944598,-23.9369529554775,0
+                  -46.3238216037032,-23.9370863366171,0
                   -46.3245140711727,-23.9369468233575,0
-                  -46.3245256172642,-23.9369397082125,0
                   -46.3245372590775,-23.9369226620567,0
                   -46.3245283926794,-23.9368162266427,0
                   -46.3245201302133,-23.9367345699261,0
-                  -46.3244852420977,-23.936706128437,0
                   -46.3244372528528,-23.9366657698925,0
-                  -46.3243482858366,-23.9366845139218,0
-                  -46.3242596022433,-23.936703198182,0
-                  -46.3239041884135,-23.9367780778098,0
-                  -46.3237497471045,-23.9368110709761,0
-                  -46.3237420686944,-23.9368128799322,0
-                  -46.3237367981471,-23.9368161134181,0
-                  -46.3237334833501,-23.9368196294593,0
                   -46.3237308816141,-23.9368238435042,0
-                  -46.3237309331689,-23.9368294892009,0
                   -46.3237917818582,-23.9370676350531,0
-                  -46.3237984602849,-23.9370734731664,0
-                  -46.3238041957315,-23.9370781550529,0
-                  -46.3238124010805,-23.937082457125,0
                   -46.3238216037032,-23.9370863366171,0
-                  -46.3238296799402,-23.9370872484184,0
-                  -46.3238420139588,-23.9370858004015,0
-                  -46.3239481760962,-23.9370635968186,0
-                  -46.3241042891983,-23.9370320065758,0
-                  -46.3244645413295,-23.9369582542062,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>

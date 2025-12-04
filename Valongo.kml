@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Valongo.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Valongo">
+      <name>Valongo</name>
+      <Placemark id="Valongo.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">171</SimpleData>
+            <SimpleData name="Num_Qd">25010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3354294149869,-23.9312082742682,0
+                -46.3354200997223,-23.9312386984947,0
+                -46.3360116876291,-23.9322364297631,0
+                -46.3360412466853,-23.9322456005557,0
+                -46.3371200701529,-23.9317054178527,0
+                -46.3371295269983,-23.9316792367363,0
+                -46.3367597133609,-23.9307624993401,0
+                -46.3367332794809,-23.9307524345132,0
+                -46.3354294149869,-23.9312082742682,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">369</SimpleData>
+            <SimpleData name="Num_Qd">24003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3395643718663,-23.9301246378019,0
+                -46.3395558721355,-23.9301081235246,0
+                -46.3394844100002,-23.9301400954008,0
+                -46.339348765626,-23.9298535378301,0
+                -46.3390211179079,-23.9299673241008,0
+                -46.3393116147158,-23.9305382420017,0
+                -46.3397826587356,-23.9303139241762,0
+                -46.3396635309213,-23.9300850607027,0
+                -46.3395643718663,-23.9301246378019,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">370</SimpleData>
+            <SimpleData name="Num_Qd">24007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0036</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3386902077436,-23.9295780156021,0
+                -46.3366219544548,-23.9301003002412,0
+                -46.3368229552707,-23.9305826757771,0
+                -46.3369315273618,-23.9305565674075,0
+                -46.3388565795573,-23.9299001619568,0
+                -46.3386902077436,-23.9295780156021,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">519</SimpleData>
+            <SimpleData name="Num_Qd">24004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3392037676883,-23.9305967963699,0
+                -46.3389015572011,-23.9300249894286,0
+                -46.3388784764476,-23.9300161600254,0
+                -46.3379622950046,-23.9303275795035,0
+                -46.3379501254939,-23.9303479143494,0
+                -46.338230253601,-23.9311319567187,0
+                -46.3382555819029,-23.9311395926278,0
+                -46.3391913270948,-23.9306575009135,0
+                -46.339206965001,-23.9306305433051,0
+                -46.3392037676883,-23.9305967963699,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">520</SimpleData>
+            <SimpleData name="Num_Qd">24005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3378540736407,-23.9303892993347,0
+                -46.3378227120426,-23.9303777424202,0
+                -46.3377240045059,-23.9304093069993,0
+                -46.3368959926806,-23.9306967430105,0
+                -46.336873874266,-23.9307241180651,0
+                -46.3372546504073,-23.9316367861563,0
+                -46.3381121910361,-23.931211191797,0
+                -46.3381312094405,-23.9311690332387,0
+                -46.3378540736407,-23.9303892993347,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">522</SimpleData>
+            <SimpleData name="Num_Qd">25011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3346067115816,-23.9329574262304,0
+                -46.3359288369785,-23.9322994441951,0
+                -46.3352827902428,-23.931261747248,0
+                -46.3339494699092,-23.9319365838147,0
+                -46.3346067115816,-23.9329574262304,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">570</SimpleData>
+            <SimpleData name="Num_Qd">24001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3394668559708,-23.9296922371813,0
+                -46.3393351079475,-23.9294286120068,0
+                -46.3388091938894,-23.9295621418075,0
+                -46.3389715441419,-23.9298681414861,0
+                -46.3394668559708,-23.9296922371813,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Valongo.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Valongo.schema">
+            <SimpleData name="fid">1404</SimpleData>
+            <SimpleData name="Num_Qd">24002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1117</SimpleData>
+            <SimpleData name="Bairro">Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3344127768179,-23.9311680935102,0
+                -46.3343124050225,-23.931224807816,0
+                -46.3343540357558,-23.9312805709574,0
+                -46.3341984846537,-23.9313745093585,0
+                -46.3343452041106,-23.9315986916414,0
+                -46.3346158477683,-23.9314625882039,0
+                -46.3344127768179,-23.9311680935102,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

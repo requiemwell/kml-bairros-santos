@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Vila_Nova.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Vila_Nova">
+      <name>Vila Nova</name>
+      <Placemark id="Vila_Nova.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">232</SimpleData>
+            <SimpleData name="Num_Qd">36033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0014</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3249579941561,-23.942042028951,0
+                -46.3232322963241,-23.9421660086348,0
+                -46.3232161776055,-23.9421837610468,0
+                -46.3233081787925,-23.943175869174,0
+                -46.3250337464279,-23.9430544630218,0
+                -46.325052131204,-23.9430331749899,0
+                -46.3249770824194,-23.9420554443814,0
+                -46.3249579941561,-23.942042028951,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">373</SimpleData>
+            <SimpleData name="Num_Qd">37007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0756</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3184315981091,-23.9419165629204,0
+                -46.3179704387572,-23.9420052046145,0
+                -46.3179570829804,-23.9420215445989,0
+                -46.3180582267487,-23.9427409454084,0
+                -46.3180768206711,-23.9427557132566,0
+                -46.3185847525924,-23.9427154314682,0
+                -46.3186012504891,-23.9426951783398,0
+                -46.3184315981091,-23.9419165629204,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">374</SimpleData>
+            <SimpleData name="Num_Qd">36035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1114</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3212734019096,-23.942299294045,0
+                -46.3198464210776,-23.9423996753735,0
+                -46.3198403192637,-23.9424069883601,0
+                -46.3198972842949,-23.9426026459704,0
+                -46.3210625035984,-23.9430083601174,0
+                -46.3211090127928,-23.9429903157692,0
+                -46.3211456042672,-23.9429016079268,0
+                -46.3211350333914,-23.9428976715652,0
+                -46.3213254347661,-23.9428785484078,0
+                -46.3212734019096,-23.942299294045,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">427</SimpleData>
+            <SimpleData name="Num_Qd">36014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1115</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3227180141564,-23.9388286004493,0
+                -46.3226337696412,-23.9381206286478,0
+                -46.3226145842326,-23.9381069769099,0
+                -46.3210896907651,-23.9384187185376,0
+                -46.3210709586877,-23.9384418799932,0
+                -46.3211366332513,-23.9391109331329,0
+                -46.3211555499412,-23.9391252545585,0
+                -46.3227180141564,-23.9388286004493,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">428</SimpleData>
+            <SimpleData name="Num_Qd">36015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1116</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3191427194133,-23.9395123968418,0
+                -46.3209942777633,-23.9391593868909,0
+                -46.3210125706639,-23.9391355995906,0
+                -46.3209469550889,-23.9384758903189,0
+                -46.3209107730023,-23.9384545241312,0
+                -46.3189989887929,-23.9388490540685,0
+                -46.3189856777204,-23.9388690247401,0
+                -46.3191427194133,-23.9395123968418,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">429</SimpleData>
+            <SimpleData name="Num_Qd">36013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0016</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3245744052359,-23.9377073806167,0
+                -46.3227447802284,-23.938078924817,0
+                -46.3227319496474,-23.938094807493,0
+                -46.3228150400471,-23.9387934891954,0
+                -46.3228342643609,-23.9388060131976,0
+                -46.3246560137674,-23.938456589618,0
+                -46.3246706165044,-23.9384391778704,0
+                -46.3246097740699,-23.937743401396,0
+                -46.3245744052359,-23.9377073806167,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">430</SimpleData>
+            <SimpleData name="Num_Qd">37004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1116</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3173091872402,-23.9398751229977,0
+                -46.3190079231757,-23.9395504377808,0
+                -46.3190230581013,-23.9395274558711,0
+                -46.3188644278694,-23.9388868594125,0
+                -46.3172664027566,-23.9392090691126,0
+                -46.3172517997651,-23.9392277357646,0
+                -46.3172881824837,-23.9398626359684,0
+                -46.3173091872402,-23.9398751229977,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">431</SimpleData>
+            <SimpleData name="Num_Qd">36020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1115</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3228839113518,-23.9401440485718,0
+                -46.3227417945176,-23.9389488757857,0
+                -46.3212140293208,-23.9392417199173,0
+                -46.3211946736913,-23.9392645021385,0
+                -46.3213069402134,-23.9404300591317,0
+                -46.3213295758462,-23.9404553085496,0
+                -46.3228735040927,-23.9401607510177,0
+                -46.3228839113518,-23.9401440485718,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">432</SimpleData>
+            <SimpleData name="Num_Qd">36019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0016</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3236705550537,-23.9387662422522,0
+                -46.322828797489,-23.9389307718823,0
+                -46.3229719120521,-23.9401115629558,0
+                -46.3229896639185,-23.9401240441553,0
+                -46.3238203692269,-23.9399600949675,0
+                -46.323690434763,-23.9387789482495,0
+                -46.3236705550537,-23.9387662422522,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">433</SimpleData>
+            <SimpleData name="Num_Qd">36021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0757</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3209825313287,-23.9392850992955,0
+                -46.3201950692052,-23.9394369658778,0
+                -46.320185033827,-23.939460402291,0
+                -46.3203776099722,-23.9406418992077,0
+                -46.3211018601368,-23.9404940217353,0
+                -46.3209825313287,-23.9392850992955,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">434</SimpleData>
+            <SimpleData name="Num_Qd">36022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0757</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3202274981962,-23.9406713176753,0
+                -46.320041211244,-23.9394677281084,0
+                -46.3191908983394,-23.9396260732823,0
+                -46.3191700382402,-23.9396522204245,0
+                -46.3194397510452,-23.9408114403125,0
+                -46.3194629825166,-23.9408236628305,0
+                -46.3202274981962,-23.9406713176753,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">435</SimpleData>
+            <SimpleData name="Num_Qd">36024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0015</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.324599542564,-23.9399356938758,0
+                -46.3230043507715,-23.940245979477,0
+                -46.3229893626108,-23.9402650688146,0
+                -46.3230686502979,-23.9408807918393,0
+                -46.3231007569597,-23.9408968820891,0
+                -46.3248484076298,-23.9407656162513,0
+                -46.3248640669355,-23.9407495643375,0
+                -46.324799764305,-23.9399114802736,0
+                -46.324599542564,-23.9399356938758,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">436</SimpleData>
+            <SimpleData name="Num_Qd">36026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0015</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3228707475024,-23.9402715641855,0
+                -46.321326575891,-23.9405791103869,0
+                -46.3214736168058,-23.942130458395,0
+                -46.3214924404703,-23.9421454031457,0
+                -46.3230718139145,-23.9420363345413,0
+                -46.3230885058954,-23.9420164281138,0
+                -46.3228927562265,-23.94028611997,0
+                -46.3228707475024,-23.9402715641855,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">437</SimpleData>
+            <SimpleData name="Num_Qd">36027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1113</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3210943979109,-23.9406191138356,0
+                -46.3194843104981,-23.9409303721964,0
+                -46.3195898669301,-23.9413685907609,0
+                -46.319610253872,-23.9413872448556,0
+                -46.3206771174794,-23.9412141803014,0
+                -46.3206832832896,-23.9412815654308,0
+                -46.3196101169714,-23.9414548969936,0
+                -46.3196844856234,-23.9417573643878,0
+                -46.3207141458369,-23.9416161980955,0
+                -46.3207190475894,-23.9416804558656,0
+                -46.3197146398128,-23.9418187514077,0
+                -46.3197084191338,-23.9418535079445,0
+                -46.3198045235891,-23.9422483718251,0
+                -46.3198238146984,-23.9422620675996,0
+                -46.3212408023659,-23.9421629081791,0
+                -46.3212542803969,-23.9421483585493,0
+                -46.3211088248064,-23.9406288217225,0
+                -46.3210943979109,-23.9406191138356,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">438</SimpleData>
+            <SimpleData name="Num_Qd">36028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0756</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.319339486321,-23.9409569905276,0
+                -46.3186190689785,-23.9410971892334,0
+                -46.3186025368163,-23.9411205861009,0
+                -46.3188289311479,-23.9421143293113,0
+                -46.3189553988816,-23.9422657000693,0
+                -46.3190393730317,-23.9423086360983,0
+                -46.319658128285,-23.9422737890377,0
+                -46.3196735656487,-23.9422549103877,0
+                -46.3193629912944,-23.9409699448798,0
+                -46.319339486321,-23.9409569905276,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">439</SimpleData>
+            <SimpleData name="Num_Qd">36025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0015</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3248588835246,-23.940883903092,0
+                -46.3231041471614,-23.9410178521034,0
+                -46.323085048348,-23.9410338450789,0
+                -46.3231987368619,-23.9420080323827,0
+                -46.3232188202319,-23.9420246505192,0
+                -46.3249342015719,-23.9419058614948,0
+                -46.3249548626035,-23.9418871956553,0
+                -46.3248790570392,-23.9408994784488,0
+                -46.3248588835246,-23.940883903092,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">623</SimpleData>
+            <SimpleData name="Num_Qd">37005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1116</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3171495736669,-23.9392670223335,0
+                -46.3171131588338,-23.9392379963208,0
+                -46.3165488786304,-23.9393582113159,0
+                -46.3167996327579,-23.9397572991936,0
+                -46.3167994835537,-23.939746760909,0
+                -46.3171777651038,-23.9397242554202,0
+                -46.3171495736669,-23.9392670223335,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">660</SimpleData>
+            <SimpleData name="Num_Qd">36032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0014</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3253066450427,-23.9434275923984,0
+                -46.3261977219615,-23.9433357015904,0
+                -46.3260261383007,-23.9419954471702,0
+                -46.326002460812,-23.9419696793786,0
+                -46.3251130527729,-23.9420377916506,0
+                -46.3250984058684,-23.9420549901233,0
+                -46.3252122719655,-23.9433583810526,0
+                -46.325251760306,-23.9434061613111,0
+                -46.3253066450427,-23.9434275923984,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">804</SimpleData>
+            <SimpleData name="Num_Qd">36034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0014</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3215865190357,-23.9431806377428,0
+                -46.3229729317074,-23.9436746745032,0
+                -46.3230442960485,-23.9436893896967,0
+                -46.3231321412839,-23.9436577309438,0
+                -46.3231572419178,-23.9436235460304,0
+                -46.3231668843499,-23.9435698896313,0
+                -46.32316322488,-23.9435091081928,0
+                -46.3231409808749,-23.9435039036582,0
+                -46.3231609008672,-23.9434404118418,0
+                -46.3231024974579,-23.9421980816224,0
+                -46.3230824899277,-23.9421789785903,0
+                -46.3228279724714,-23.94219267196,0
+                -46.322288376143,-23.9422292712443,0
+                -46.3222625090684,-23.942259362311,0
+                -46.3222002345702,-23.9422638093703,0
+                -46.3221739820071,-23.9422376922805,0
+                -46.3215052229148,-23.9422891431747,0
+                -46.3214912474867,-23.9423033619604,0
+                -46.3215684872747,-23.9431361020721,0
+                -46.3215865190357,-23.9431806377428,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">805</SimpleData>
+            <SimpleData name="Num_Qd">36036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0014</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3250478032861,-23.943187457539,0
+                -46.3233412035707,-23.9433029524436,0
+                -46.3233225047205,-23.9433206325854,0
+                -46.3233562868588,-23.9436138533523,0
+                -46.3233963103771,-23.9436329799541,0
+                -46.3248783052286,-23.9434746029261,0
+                -46.325026915031,-23.9434465415716,0
+                -46.3250773036134,-23.9433816702721,0
+                -46.3250679906252,-23.9432030577216,0
+                -46.3250478032861,-23.943187457539,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">839</SimpleData>
+            <SimpleData name="Num_Qd">36017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0016</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3248161030998,-23.9385452224355,0
+                -46.3248029497615,-23.9385633535719,0
+                -46.3249065668277,-23.9397421206438,0
+                -46.3249229263733,-23.939750951503,0
+                -46.325713368746,-23.9395955736208,0
+                -46.3257305189272,-23.9395755264943,0
+                -46.3255912599355,-23.9384090072256,0
+                -46.3255613031233,-23.938401364752,0
+                -46.3248161030998,-23.9385452224355,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">841</SimpleData>
+            <SimpleData name="Num_Qd">36023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0014</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3249329672635,-23.9398672111976,0
+                -46.3249093369676,-23.9399177193925,0
+                -46.3250768811831,-23.9418929677715,0
+                -46.3251002808894,-23.9419089964854,0
+                -46.3259746073695,-23.9418499113129,0
+                -46.3259963669042,-23.9418315689051,0
+                -46.3257818171798,-23.940013983345,0
+                -46.3257218761277,-23.9397219997756,0
+                -46.3249329672635,-23.9398672111976,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">897</SimpleData>
+            <SimpleData name="Num_Qd">37008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0756</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.317528100066,-23.9427842518796,0
+                -46.3179676796381,-23.9427596397871,0
+                -46.3179810697615,-23.9427386873801,0
+                -46.3178833645796,-23.9420477245733,0
+                -46.3178650173242,-23.942027044725,0
+                -46.3174169647684,-23.9421100739263,0
+                -46.317528100066,-23.9427842518796,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">923</SimpleData>
+            <SimpleData name="Num_Qd">37006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0757</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3182599465683,-23.941173486509,0
+                -46.3182311769755,-23.941162688432,0
+                -46.3181868413446,-23.9411699322709,0
+                -46.3173683388535,-23.9413353396345,0
+                -46.3173625203518,-23.9416898950892,0
+                -46.3174117183488,-23.9420351042865,0
+                -46.3183937969876,-23.9418516361393,0
+                -46.3184162970906,-23.9418347729147,0
+                -46.3182599465683,-23.941173486509,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">1083</SimpleData>
+            <SimpleData name="Num_Qd">36018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0016</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3246801662929,-23.9385830434098,0
+                -46.3238237700165,-23.9387365975534,0
+                -46.3239462911609,-23.939891472751,0
+                -46.3239852615083,-23.9399222176229,0
+                -46.324599412699,-23.9398099234264,0
+                -46.3247640758182,-23.9397727918456,0
+                -46.324781334714,-23.9397495872174,0
+                -46.3246801662929,-23.9385830434098,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">1171</SimpleData>
+            <SimpleData name="Num_Qd">36012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0016</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.325574813661,-23.938244171032,0
+                -46.325496214675,-23.9375573621124,0
+                -46.3254627677924,-23.9375297507426,0
+                -46.3247493301432,-23.9376645958655,0
+                -46.3247291984044,-23.9376999085356,0
+                -46.3247911315006,-23.9384140037751,0
+                -46.3248166986676,-23.9384278404776,0
+                -46.3255488043344,-23.9382860862426,0
+                -46.325574813661,-23.938244171032,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">1348</SimpleData>
+            <SimpleData name="Num_Qd">36051</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0756</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3187542969796,-23.9427024521902,0
+                -46.3193969482301,-23.9426698720181,0
+                -46.3194091102992,-23.9426469833294,0
+                -46.3188369421717,-23.9424496925639,0
+                -46.3187715276815,-23.9424160785368,0
+                -46.318688623197,-23.9423384705287,0
+                -46.3186285663058,-23.9422222179369,0
+                -46.3187183609779,-23.9426728568403,0
+                -46.3187542969796,-23.9427024521902,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">1353</SimpleData>
+            <SimpleData name="Num_Qd">37029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0010</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3178730506995,-23.9399217989815,0
+                -46.3179299188245,-23.9399836054684,0
+                -46.3174362634356,-23.9400792980459,0
+                -46.3172145438961,-23.9399725165717,0
+                -46.3172827542968,-23.9402993103771,0
+                -46.3181131778467,-23.9401371059788,0
+                -46.3179925009005,-23.9400400611738,0
+                -46.3179681241531,-23.9399117045952,0
+                -46.3178730506995,-23.9399217989815,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">1403</SimpleData>
+            <SimpleData name="Num_Qd">36050</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0756</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.319713486602,-23.9424145368107,0
+                -46.3196874396516,-23.9424018576637,0
+                -46.3194507502267,-23.9424187811576,0
+                -46.3194379404012,-23.9424334486891,0
+                -46.3197114181915,-23.9425296903301,0
+                -46.3197346258936,-23.9425109631582,0
+                -46.319713486602,-23.9424145368107,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Nova.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Nova.schema">
+            <SimpleData name="fid">2009</SimpleData>
+            <SimpleData name="Num_Qd">36047</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0757</SimpleData>
+            <SimpleData name="Bairro">Vila Nova</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3181723343314,-23.9399349100561,0
+                  -46.3184015499253,-23.9409235449576,0
+                  -46.3188661021395,-23.9408344106577,0
+                  -46.3186413385065,-23.9398395081365,0
+                  -46.3181723343314,-23.9399349100561,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3191965243169,-23.9407640771795,0
+                  -46.3191463525451,-23.940554901297,0
+                  -46.3191824153571,-23.9405278646715,0
+                  -46.3191669875012,-23.9404257982474,0
+                  -46.3191828524889,-23.9404226890286,0
+                  -46.3191074105092,-23.9400974850897,0
+                  -46.3190915455684,-23.94010059429,0
+                  -46.3190611593964,-23.9400027173113,0
+                  -46.3190165212212,-23.9399913721519,0
+                  -46.3189688053827,-23.9397811765879,0
+                  -46.3187386173058,-23.9398257503638,0
+                  -46.3189663346189,-23.9408086513561,0
+                  -46.3191965243169,-23.9407640771795,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

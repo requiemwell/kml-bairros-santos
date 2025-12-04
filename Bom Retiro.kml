@@ -1,0 +1,2326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Bom_Retiro.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Bom_Retiro">
+      <name>Bom Retiro</name>
+      <Placemark id="Bom_Retiro.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">135</SimpleData>
+            <SimpleData name="Num_Qd">41027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0553</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3734856793501,-23.9429106096865,0
+                -46.3727355844247,-23.9419702675402,0
+                -46.3726755726554,-23.9419627653876,0
+                -46.3725875239285,-23.9420037787931,0
+                -46.3723365260943,-23.9421615032212,0
+                -46.3723259772005,-23.9422049236545,0
+                -46.3723416911232,-23.9422399077239,0
+                -46.3730907962847,-23.9431604065495,0
+                -46.3731652347145,-23.9431630210437,0
+                -46.3734698535415,-23.9429599609301,0
+                -46.3734856793501,-23.9429106096865,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">136</SimpleData>
+            <SimpleData name="Num_Qd">41028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0553</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3739754311853,-23.9425721078005,0
+                -46.373233158247,-23.9416483838324,0
+                -46.3731550750293,-23.9416487402425,0
+                -46.37283609431,-23.9418477561989,0
+                -46.3728294989316,-23.9419085190964,0
+                -46.3735806475495,-23.9428295762821,0
+                -46.3736379131018,-23.9428334963841,0
+                -46.3739651553094,-23.9426137302037,0
+                -46.3739754311853,-23.9425721078005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">188</SimpleData>
+            <SimpleData name="Num_Qd">31037</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3722381245505,-23.9350393285525,0
+                -46.3722788926312,-23.9350392090526,0
+                -46.3726064728319,-23.9348138873672,0
+                -46.3726198785605,-23.9347605068783,0
+                -46.3722055130939,-23.934248500073,0
+                -46.372163907002,-23.9342431315679,0
+                -46.3716945109018,-23.9343225694448,0
+                -46.3716870411185,-23.9343576173247,0
+                -46.3722381245505,-23.9350393285525,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">240</SimpleData>
+            <SimpleData name="Num_Qd">30009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0640</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3805973269154,-23.938101455112,0
+                -46.3800283061333,-23.9373988240635,0
+                -46.3796357844758,-23.9376447433946,0
+                -46.3802248655703,-23.938385324478,0
+                -46.380258051396,-23.9383885449851,0
+                -46.3805830175602,-23.9381634106618,0
+                -46.3805973269154,-23.938101455112,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">325</SimpleData>
+            <SimpleData name="Num_Qd">31046</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1144</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3773060939661,-23.9387067975611,0
+                -46.376446248843,-23.9376377033361,0
+                -46.3764093565438,-23.9376146449589,0
+                -46.3763709841805,-23.9376187819552,0
+                -46.3760613840378,-23.9378123748788,0
+                -46.3760297927852,-23.9378537473744,0
+                -46.3760357123939,-23.9378838565071,0
+                -46.3768822908444,-23.9389435899731,0
+                -46.3769377160701,-23.9389631406088,0
+                -46.377291942691,-23.938734287276,0
+                -46.3773060939661,-23.9387067975611,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">366</SimpleData>
+            <SimpleData name="Num_Qd">30010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0640</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3807521630272,-23.9380546313144,0
+                -46.3810250399602,-23.9378719862906,0
+                -46.3810543022737,-23.9378301820528,0
+                -46.3810561700602,-23.9377974837422,0
+                -46.3806890298828,-23.9370092984206,0
+                -46.3806407407045,-23.9369977030129,0
+                -46.3801576332766,-23.9372978995723,0
+                -46.3801481601167,-23.9373358244881,0
+                -46.3807110340713,-23.9380469073793,0
+                -46.3807521630272,-23.9380546313144,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">367</SimpleData>
+            <SimpleData name="Num_Qd">31043</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1141</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3754477265734,-23.9380554396165,0
+                -46.3757963943841,-23.9378417656665,0
+                -46.3758058768141,-23.9377893384842,0
+                -46.3751323486249,-23.9369439144335,0
+                -46.3750112412023,-23.9368092921657,0
+                -46.3749758074855,-23.9368032730459,0
+                -46.3746264632447,-23.937037135585,0
+                -46.3746184225833,-23.9370649657907,0
+                -46.3754015057745,-23.9380509544545,0
+                -46.3754477265734,-23.9380554396165,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">368</SimpleData>
+            <SimpleData name="Num_Qd">31045</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1141</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3751176073346,-23.9367449657885,0
+                -46.3759158908671,-23.9377305978275,0
+                -46.3759697198338,-23.9377293927677,0
+                -46.3763175415173,-23.9375081848465,0
+                -46.3763112922638,-23.9374655261454,0
+                -46.3756382440145,-23.9366287343202,0
+                -46.3755133357419,-23.936477417263,0
+                -46.3754936214863,-23.9364713628334,0
+                -46.3754678348046,-23.9364763801612,0
+                -46.3751350143219,-23.9366980966679,0
+                -46.3751176073346,-23.9367449657885,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">382</SimpleData>
+            <SimpleData name="Num_Qd">30020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1143</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3806609650035,-23.9357670643754,0
+                -46.3807630890083,-23.9355495604144,0
+                -46.3808021789871,-23.9354311330768,0
+                -46.380816339957,-23.9353218904919,0
+                -46.3804424824839,-23.9352718425669,0
+                -46.3803578984655,-23.9352807350592,0
+                -46.3803180094084,-23.9353213650967,0
+                -46.3802740252547,-23.935460522008,0
+                -46.3801866590621,-23.9356132205554,0
+                -46.3800639440254,-23.9357524886427,0
+                -46.3800685698277,-23.9357970186619,0
+                -46.3803245955525,-23.9361306583316,0
+                -46.380373059675,-23.9361064886139,0
+                -46.3805040307965,-23.9359796254699,0
+                -46.3806609650035,-23.9357670643754,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">385</SimpleData>
+            <SimpleData name="Num_Qd">41032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3754947677506,-23.9415698209747,0
+                -46.3761590790804,-23.9411305896217,0
+                -46.3761757808681,-23.9410922849586,0
+                -46.3761617518109,-23.941051139929,0
+                -46.3755377618041,-23.9402764715061,0
+                -46.3754963195655,-23.9402372919591,0
+                -46.3754598710445,-23.9402339572248,0
+                -46.3748730311075,-23.9405824009351,0
+                -46.3754947677506,-23.9415698209747,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">440</SimpleData>
+            <SimpleData name="Num_Qd">31025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3721828154801,-23.938427085908,0
+                -46.3714287694241,-23.937484045721,0
+                -46.3713857978504,-23.9374848607896,0
+                -46.371041409181,-23.9377234133514,0
+                -46.3710482604682,-23.9377653369703,0
+                -46.3716761774455,-23.9385497801485,0
+                -46.3717983515529,-23.9386958547183,0
+                -46.3718377408508,-23.9387037960246,0
+                -46.3721543164818,-23.9384954256413,0
+                -46.3721828154801,-23.938427085908,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">441</SimpleData>
+            <SimpleData name="Num_Qd">31040</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1142</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3741263144371,-23.9373810672082,0
+                -46.3749165479058,-23.9383799823085,0
+                -46.3753019640627,-23.9381402070327,0
+                -46.3752977478369,-23.9380982833692,0
+                -46.3745382757836,-23.9371459974622,0
+                -46.3744938127051,-23.9371231267974,0
+                -46.3741392567752,-23.9373522926314,0
+                -46.3741263144371,-23.9373810672082,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">442</SimpleData>
+            <SimpleData name="Num_Qd">31033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1142</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3736487091521,-23.9377426370484,0
+                -46.3744145982408,-23.9386941547705,0
+                -46.3747881148061,-23.9384646572868,0
+                -46.3747885052288,-23.9383987690477,0
+                -46.3740251797997,-23.9374521197869,0
+                -46.3739917859222,-23.9374528543697,0
+                -46.3736429050904,-23.9376912963597,0
+                -46.3736487091521,-23.9377426370484,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">443</SimpleData>
+            <SimpleData name="Num_Qd">31027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3702442233972,-23.936023764913,0
+                -46.3696036388171,-23.9355322768114,0
+                -46.3695452110512,-23.9355416082814,0
+                -46.3694116964135,-23.9356817321551,0
+                -46.3694238009338,-23.9357442221593,0
+                -46.3700528759844,-23.9365202286279,0
+                -46.3700906959254,-23.9365202083282,0
+                -46.370427980036,-23.93628341276,0
+                -46.3704361483671,-23.9362427865608,0
+                -46.3703422855525,-23.9361210890061,0
+                -46.3702442233972,-23.936023764913,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">444</SimpleData>
+            <SimpleData name="Num_Qd">31034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3739105057739,-23.9373217305227,0
+                -46.3731226276682,-23.9363294282169,0
+                -46.3731004227395,-23.9363203623665,0
+                -46.373078914768,-23.9363297986137,0
+                -46.3727427841843,-23.9365594822499,0
+                -46.3727351242084,-23.9365994973396,0
+                -46.3727561542864,-23.9366354323689,0
+                -46.3735141322267,-23.9375672747461,0
+                -46.3735664785194,-23.9375702166425,0
+                -46.3738962802466,-23.9373455504034,0
+                -46.3739105057739,-23.9373217305227,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">445</SimpleData>
+            <SimpleData name="Num_Qd">31039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3744077984559,-23.9369859492728,0
+                -46.3736175911307,-23.9360051803697,0
+                -46.3735682049583,-23.9360033419211,0
+                -46.3732274854216,-23.9362398366854,0
+                -46.3732286086974,-23.9362745860962,0
+                -46.3740220150117,-23.9372560070233,0
+                -46.3744000761787,-23.9370203222813,0
+                -46.3744077984559,-23.9369859492728,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">446</SimpleData>
+            <SimpleData name="Num_Qd">31044</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1141</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.373709132341,-23.9359328551658,0
+                -46.3745031692598,-23.9369266821335,0
+                -46.3745390740589,-23.9369308916991,0
+                -46.3748822887752,-23.936697984199,0
+                -46.3748870557411,-23.9366408398264,0
+                -46.374106615538,-23.9356771443399,0
+                -46.3740530370994,-23.93567376164,0
+                -46.3737210195266,-23.9358975440473,0
+                -46.373709132341,-23.9359328551658,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">447</SimpleData>
+            <SimpleData name="Num_Qd">31022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3716977783021,-23.938762101351,0
+                -46.3709385635774,-23.9378177688028,0
+                -46.3709050379166,-23.9378133933241,0
+                -46.3705587670896,-23.9380452149942,0
+                -46.3705489992668,-23.9380825818709,0
+                -46.3712993153247,-23.9390193762051,0
+                -46.3713399437505,-23.9390282073586,0
+                -46.3716867281448,-23.9388007984349,0
+                -46.3716977783021,-23.938762101351,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">448</SimpleData>
+            <SimpleData name="Num_Qd">31018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3703241844321,-23.9380265534261,0
+                -46.3695736262976,-23.937082322788,0
+                -46.3695113415402,-23.9370684861648,0
+                -46.3691745895423,-23.9372982655033,0
+                -46.3691765154415,-23.9373483565936,0
+                -46.369928731908,-23.9382819338533,0
+                -46.3699708085511,-23.9382847456234,0
+                -46.369994962555,-23.9382706048648,0
+                -46.3703059405694,-23.938058391807,0
+                -46.3703241844321,-23.9380265534261,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">470</SimpleData>
+            <SimpleData name="Num_Qd">31042</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1141</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3759729149176,-23.9379919299702,0
+                -46.3759174065698,-23.9379471402771,0
+                -46.3758518700974,-23.9379491730364,0
+                -46.3755341651293,-23.9381453784636,0
+                -46.3755214322826,-23.9381845369591,0
+                -46.3763791455053,-23.9392551803288,0
+                -46.376402592083,-23.9392720894695,0
+                -46.3764340097891,-23.9392722108944,0
+                -46.376779308665,-23.9390592809207,0
+                -46.3767951754981,-23.939017802,0
+                -46.3759729149176,-23.9379919299702,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">526</SimpleData>
+            <SimpleData name="Num_Qd">31012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3689535382122,-23.9372632362276,0
+                -46.368486721986,-23.9366732017694,0
+                -46.3684440193146,-23.936665662068,0
+                -46.3681635002303,-23.9369552710458,0
+                -46.3681489824518,-23.9369885991572,0
+                -46.3681622939131,-23.9370332178526,0
+                -46.3685786940811,-23.9375350485739,0
+                -46.3689384524194,-23.9373024503214,0
+                -46.3689535382122,-23.9372632362276,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">536</SimpleData>
+            <SimpleData name="Num_Qd">31036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3716051373566,-23.934435276759,0
+                -46.3715149910228,-23.9343457566393,0
+                -46.3710526317823,-23.9344212179159,0
+                -46.3710232680638,-23.9344309460346,0
+                -46.3710131969934,-23.9344529248591,0
+                -46.3717615116372,-23.9353794418709,0
+                -46.3721476155337,-23.9351161583026,0
+                -46.3716051373566,-23.934435276759,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">537</SimpleData>
+            <SimpleData name="Num_Qd">31029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3704322639926,-23.9346757265027,0
+                -46.3712209056628,-23.9356632169478,0
+                -46.3712796688227,-23.9356911588915,0
+                -46.3713328237024,-23.9356785209246,0
+                -46.3716531000775,-23.9354586799562,0
+                -46.3716469204262,-23.9354330016049,0
+                -46.3708677277129,-23.9344543738549,0
+                -46.3705963874594,-23.9345068490226,0
+                -46.370436796317,-23.9346367700427,0
+                -46.3704322639926,-23.9346757265027,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">538</SimpleData>
+            <SimpleData name="Num_Qd">31038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3735000006423,-23.9358525532556,0
+                -46.3727458837961,-23.934909601301,0
+                -46.3727080612927,-23.9349036292884,0
+                -46.3723622416074,-23.9351357831617,0
+                -46.3723494244757,-23.9351758419149,0
+                -46.3730973644939,-23.9361116089826,0
+                -46.3731532988782,-23.9361280630788,0
+                -46.3734842980959,-23.9359009048653,0
+                -46.3735000006423,-23.9358525532556,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">539</SimpleData>
+            <SimpleData name="Num_Qd">31028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3703067255254,-23.9347684542011,0
+                -46.3698820644479,-23.9352040964987,0
+                -46.369883925102,-23.9352261841048,0
+                -46.3708480768989,-23.9359722046272,0
+                -46.3708947516874,-23.9359731640646,0
+                -46.371144591576,-23.9358019956012,0
+                -46.3711479669239,-23.9357520856856,0
+                -46.3703626670023,-23.9347752183521,0
+                -46.3703360328122,-23.9347627697368,0
+                -46.3703067255254,-23.9347684542011,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">540</SimpleData>
+            <SimpleData name="Num_Qd">31010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3693422292964,-23.9386863138588,0
+                -46.3685909243771,-23.937747724074,0
+                -46.3685561907124,-23.9377268906999,0
+                -46.3682691769714,-23.9379098326229,0
+                -46.3682296394719,-23.937952805425,0
+                -46.3682399099872,-23.9379920286878,0
+                -46.3689847949795,-23.9389160530414,0
+                -46.3690202298157,-23.9389292856031,0
+                -46.3693299878895,-23.9387233404505,0
+                -46.3693422292964,-23.9386863138588,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">542</SimpleData>
+            <SimpleData name="Num_Qd">31019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3694461987045,-23.9369291481713,0
+                -46.3688979594622,-23.9362487316416,0
+                -46.3688525381518,-23.9362491630913,0
+                -46.3685682493195,-23.9365442851608,0
+                -46.3685660737804,-23.9365883785208,0
+                -46.3690637227894,-23.9372002446473,0
+                -46.3691136390757,-23.9371852491408,0
+                -46.3694333153787,-23.9369680826734,0
+                -46.3694461987045,-23.9369291481713,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">543</SimpleData>
+            <SimpleData name="Num_Qd">31020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3699392431829,-23.9365656890273,0
+                -46.3693143346019,-23.9358065189024,0
+                -46.3692830119915,-23.9358104456051,0
+                -46.3690056482182,-23.9360986239511,0
+                -46.3690016711065,-23.9361484074859,0
+                -46.369015273003,-23.9361774355411,0
+                -46.3695618460633,-23.9368511169115,0
+                -46.3696079521063,-23.9368488617482,0
+                -46.3699372170898,-23.93662355544,0
+                -46.3699495388246,-23.9365993146842,0
+                -46.3699392431829,-23.9365656890273,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">544</SimpleData>
+            <SimpleData name="Num_Qd">31011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3684650794072,-23.9375897672024,0
+                -46.3680447863821,-23.9370781034116,0
+                -46.3679955720786,-23.9370686804013,0
+                -46.3676363223524,-23.9372020015909,0
+                -46.3676361259745,-23.9372228236065,0
+                -46.368120115908,-23.9378416519454,0
+                -46.3681589307165,-23.9378334773123,0
+                -46.3684559481005,-23.9376310943519,0
+                -46.3684650794072,-23.9375897672024,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">625</SimpleData>
+            <SimpleData name="Num_Qd">30008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0640</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3801120366807,-23.938426203917,0
+                -46.3795506794741,-23.9377288517375,0
+                -46.3795141735148,-23.9377144600265,0
+                -46.379480000706,-23.9377162120956,0
+                -46.3791796538559,-23.937901781063,0
+                -46.379150111591,-23.9379602035743,0
+                -46.3791640419619,-23.9380044186003,0
+                -46.3797286478156,-23.9387116766497,0
+                -46.3797533160018,-23.9387215691268,0
+                -46.3801129671751,-23.9384859780583,0
+                -46.3801236706867,-23.9384577063579,0
+                -46.3801120366807,-23.938426203917,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">626</SimpleData>
+            <SimpleData name="Num_Qd">30015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1143</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3784448872473,-23.938018013954,0
+                -46.3795764623109,-23.93731682493,0
+                -46.3795927541067,-23.9372874193561,0
+                -46.3795832701416,-23.9372548138631,0
+                -46.3793436858003,-23.9369544424691,0
+                -46.3792874457141,-23.936950613239,0
+                -46.3781518197425,-23.9376587900346,0
+                -46.3781483752018,-23.937686003062,0
+                -46.3784144162865,-23.9380075412347,0
+                -46.3784448872473,-23.938018013954,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">627</SimpleData>
+            <SimpleData name="Num_Qd">30017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1143</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3802540515746,-23.9363503102291,0
+                -46.3794948435057,-23.9368203341142,0
+                -46.3794567101803,-23.9368561671086,0
+                -46.3794655936886,-23.9369247197742,0
+                -46.379702425238,-23.9372064223904,0
+                -46.3797515651721,-23.9372077867306,0
+                -46.3805287404831,-23.9367217565294,0
+                -46.3805396717018,-23.9366781066553,0
+                -46.3802996579983,-23.9363552772951,0
+                -46.3802540515746,-23.9363503102291,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">628</SimpleData>
+            <SimpleData name="Num_Qd">30016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1144</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3792244687504,-23.9368121080607,0
+                -46.3789748810139,-23.9364855468768,0
+                -46.3789297609683,-23.9364741221976,0
+                -46.3778313406929,-23.9371606500668,0
+                -46.37779494113,-23.9372025176014,0
+                -46.3777965107272,-23.9372485595592,0
+                -46.3780261491163,-23.9375378248428,0
+                -46.3780701241321,-23.9375524207667,0
+                -46.3792017620989,-23.9368480732745,0
+                -46.3792244687504,-23.9368121080607,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">629</SimpleData>
+            <SimpleData name="Num_Qd">30014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1144</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3782968999061,-23.9380623287502,0
+                -46.3774344186082,-23.9369858587187,0
+                -46.3773965276236,-23.9369797870669,0
+                -46.3770354864036,-23.9372141200128,0
+                -46.3770359923781,-23.9372432843102,0
+                -46.3778984392012,-23.9383073850039,0
+                -46.3779826290792,-23.9383062678513,0
+                -46.3782852952459,-23.9381167971583,0
+                -46.3782968999061,-23.9380623287502,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">670</SimpleData>
+            <SimpleData name="Num_Qd">30019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1143</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3806609683171,-23.9365905643861,0
+                -46.3807361111758,-23.9365796888977,0
+                -46.3809188535495,-23.9364232529959,0
+                -46.3811048673265,-23.9362052950171,0
+                -46.3811893040118,-23.9360812140088,0
+                -46.3812904333953,-23.935904539232,0
+                -46.3813619221699,-23.935733031374,0
+                -46.3814355992641,-23.9354360246113,0
+                -46.3814185882808,-23.9353972137962,0
+                -46.3809954528626,-23.9353401457147,0
+                -46.3809560624882,-23.9353569841518,0
+                -46.3808777076352,-23.9356296041319,0
+                -46.380770445026,-23.9358412686775,0
+                -46.3806291953897,-23.9360314306697,0
+                -46.3804101609483,-23.9362450262447,0
+                -46.3804161099677,-23.9362700156706,0
+                -46.3806609683171,-23.9365905643861,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">671</SimpleData>
+            <SimpleData name="Num_Qd">30018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1143</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.380171344059,-23.9361871674905,0
+                -46.379929452629,-23.9358637896842,0
+                -46.3799046285208,-23.9358669026696,0
+                -46.3790679083001,-23.9363916055503,0
+                -46.3790680735702,-23.9364256494102,0
+                -46.3793256394435,-23.9367448239558,0
+                -46.3793692757821,-23.9367460572767,0
+                -46.3801708568848,-23.9362429809355,0
+                -46.380171344059,-23.9361871674905,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">672</SimpleData>
+            <SimpleData name="Num_Qd">30013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1144</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3777943695741,-23.938370178953,0
+                -46.3769285786355,-23.9372964449264,0
+                -46.3768937685164,-23.9372936868335,0
+                -46.3765339671852,-23.9375246662067,0
+                -46.376533060726,-23.937559622762,0
+                -46.3773938999141,-23.9386297912518,0
+                -46.3774274471469,-23.9386431263509,0
+                -46.3777828792216,-23.9384261815049,0
+                -46.3777984253785,-23.9383912741363,0
+                -46.3777943695741,-23.938370178953,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">673</SimpleData>
+            <SimpleData name="Num_Qd">31021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.370827370393,-23.937674136082,0
+                -46.3700824043184,-23.9367451289556,0
+                -46.3700379572272,-23.9367195645206,0
+                -46.3696901245482,-23.9369482605059,0
+                -46.3696739797639,-23.936984790354,0
+                -46.3704263787942,-23.9379332666348,0
+                -46.3704653945287,-23.9379492521864,0
+                -46.3708143002207,-23.937715107881,0
+                -46.370827370393,-23.937674136082,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">674</SimpleData>
+            <SimpleData name="Num_Qd">31013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.369826177215,-23.9383480312766,0
+                -46.3690724337111,-23.9374014878081,0
+                -46.3690503659252,-23.9374198685873,0
+                -46.3690036007612,-23.9374162676401,0
+                -46.368683328572,-23.9376384164286,0
+                -46.3686968083448,-23.9376889029884,0
+                -46.3694547947963,-23.9386270581224,0
+                -46.3694783502674,-23.9386262419591,0
+                -46.3698197645709,-23.9383893747527,0
+                -46.369826177215,-23.9383480312766,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">675</SimpleData>
+            <SimpleData name="Num_Qd">31026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0483</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3701649325555,-23.9366597756307,0
+                -46.3709187488938,-23.9376034718544,0
+                -46.3709581245262,-23.9376105870965,0
+                -46.3713074748056,-23.9373765068901,0
+                -46.3713151828903,-23.9373407798861,0
+                -46.3713039161961,-23.9373214643843,0
+                -46.3705508467678,-23.9363888183266,0
+                -46.3705119743831,-23.9363949623342,0
+                -46.3701673270955,-23.9366147735216,0
+                -46.3701649325555,-23.9366597756307,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">678</SimpleData>
+            <SimpleData name="Num_Qd">31047</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.369672939889,-23.9354395679484,0
+                -46.3703602989978,-23.9359697829849,0
+                -46.3705549732214,-23.9361985540688,0
+                -46.3707568676983,-23.9360621791944,0
+                -46.3707444472308,-23.9360315415148,0
+                -46.3698124670224,-23.935312170317,0
+                -46.3697738659341,-23.935310628689,0
+                -46.3696746182523,-23.9354124252753,0
+                -46.369672939889,-23.9354395679484,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">679</SimpleData>
+            <SimpleData name="Num_Qd">31035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3730115388565,-23.9361899795138,0
+                -46.3722561514075,-23.9352470524542,0
+                -46.3722023300921,-23.9352438968544,0
+                -46.3718616123354,-23.9354806143142,0
+                -46.3718625071997,-23.9355169456365,0
+                -46.3718924202501,-23.9355566426401,0
+                -46.3726128440174,-23.9364475035374,0
+                -46.3726703745954,-23.9364528846163,0
+                -46.3729921364074,-23.9362341568366,0
+                -46.3730115388565,-23.9361899795138,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">680</SimpleData>
+            <SimpleData name="Num_Qd">31016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3712844415756,-23.9392406482548,0
+                -46.3709221252036,-23.9394750036717,0
+                -46.3709118749293,-23.9395126391921,0
+                -46.3716137700778,-23.940385933027,0
+                -46.371656801019,-23.9404292607838,0
+                -46.3717030569399,-23.9404364542562,0
+                -46.372036496081,-23.9402193325799,0
+                -46.3720521042259,-23.940174273885,0
+                -46.3713120745536,-23.9392509674388,0
+                -46.3712844415756,-23.9392406482548,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">681</SimpleData>
+            <SimpleData name="Num_Qd">41036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0481</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3722853794114,-23.9402428661773,0
+                -46.3731067505786,-23.9412752784609,0
+                -46.3731819989934,-23.9412837510089,0
+                -46.3734984732464,-23.941086434719,0
+                -46.3735083480737,-23.9410132281735,0
+                -46.3726827169673,-23.9399827373393,0
+                -46.3726382514265,-23.9399811664223,0
+                -46.3722984972093,-23.9402015102901,0
+                -46.3722853794114,-23.9402428661773,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">682</SimpleData>
+            <SimpleData name="Num_Qd">41030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0553</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3745735861504,-23.942149880386,0
+                -46.3746450375275,-23.9421493662792,0
+                -46.3749566514127,-23.9419367544323,0
+                -46.374966638388,-23.9418917504975,0
+                -46.3743178365372,-23.9410773973524,0
+                -46.3742568056517,-23.9410089860421,0
+                -46.3742032094558,-23.9410039000137,0
+                -46.3738595920784,-23.9412100725588,0
+                -46.3738421186162,-23.941245677404,0
+                -46.3745735861504,-23.942149880386,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">730</SimpleData>
+            <SimpleData name="Num_Qd">41026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0553</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3720167369265,-23.9427627662078,0
+                -46.3725800310749,-23.94347670512,0
+                -46.3726405523731,-23.9435003876039,0
+                -46.3726781963096,-23.9434942745726,0
+                -46.3729718097522,-23.9432916976628,0
+                -46.3729844619029,-23.9432631373209,0
+                -46.3729737850584,-23.9432151883925,0
+                -46.3728886358609,-23.9431039305305,0
+                -46.3722246775409,-23.9422781107778,0
+                -46.3721850580354,-23.9422684741276,0
+                -46.3721472302367,-23.9422869156264,0
+                -46.3721229214543,-23.9423257497859,0
+                -46.3721020876419,-23.942541668251,0
+                -46.372016512303,-23.9427063608175,0
+                -46.3720167369265,-23.9427627662078,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">765</SimpleData>
+            <SimpleData name="Num_Qd">41040</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3702658063692,-23.9405110944552,0
+                -46.370719431558,-23.9410805610045,0
+                -46.3707453486236,-23.9410774033817,0
+                -46.3710592245189,-23.9408699563906,0
+                -46.3710622386444,-23.9408296344316,0
+                -46.3706272795524,-23.9402839236199,0
+                -46.3705812699809,-23.9402764804951,0
+                -46.3702864226619,-23.9404805558079,0
+                -46.3702658063692,-23.9405110944552,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.48">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">898</SimpleData>
+            <SimpleData name="Num_Qd">41034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3765373208935,-23.9396384947944,0
+                -46.3764871016097,-23.9396109375959,0
+                -46.3764116521884,-23.9396264947061,0
+                -46.3761217213675,-23.9398101800648,0
+                -46.3761111333411,-23.939868688296,0
+                -46.3767649108376,-23.9406742079113,0
+                -46.3768594905173,-23.9406822541671,0
+                -46.3771529205441,-23.9404956961067,0
+                -46.3771725676541,-23.9404382561003,0
+                -46.3765373208935,-23.9396384947944,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.49">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">917</SimpleData>
+            <SimpleData name="Num_Qd">31041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1142</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3750063320983,-23.938480011221,0
+                -46.3758918429522,-23.9395843271491,0
+                -46.3759311982814,-23.9395895601682,0
+                -46.3762825170391,-23.9393523919788,0
+                -46.3762780922184,-23.9393134037232,0
+                -46.3754451793675,-23.9382710449967,0
+                -46.3753761297318,-23.938247843297,0
+                -46.3750063320983,-23.938480011221,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.50">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">918</SimpleData>
+            <SimpleData name="Num_Qd">31032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1142</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3753984736455,-23.9398979777016,0
+                -46.3757651159333,-23.9396882004685,0
+                -46.3757759411438,-23.9396319062649,0
+                -46.3748893953961,-23.9385427176318,0
+                -46.3744928438111,-23.93879524252,0
+                -46.3753569509404,-23.9398772200692,0
+                -46.3753984736455,-23.9398979777016,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.51">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">919</SimpleData>
+            <SimpleData name="Num_Qd">42065</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3776675862776,-23.9401122314702,0
+                -46.3770309923699,-23.9393065775863,0
+                -46.3770001115746,-23.9392929196128,0
+                -46.3769517046889,-23.9392951978182,0
+                -46.3766394777947,-23.9394884115988,0
+                -46.3766221241137,-23.9395077375078,0
+                -46.3766216065181,-23.9395431746425,0
+                -46.3772535953545,-23.9403460370453,0
+                -46.3772858928474,-23.9403737187755,0
+                -46.3773224540108,-23.9403743853307,0
+                -46.3776498562391,-23.9401604497346,0
+                -46.3776675862776,-23.9401122314702,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.52">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1003</SimpleData>
+            <SimpleData name="Num_Qd">42066</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3781544222055,-23.9397670912297,0
+                -46.3775141101879,-23.9389744665335,0
+                -46.3774476842252,-23.9389813834259,0
+                -46.3771296061941,-23.9391900122839,0
+                -46.3771372275487,-23.9392520709961,0
+                -46.3777816422008,-23.9400479329124,0
+                -46.3778328359196,-23.9400416412946,0
+                -46.3781567232699,-23.9398084498394,0
+                -46.3781544222055,-23.9397670912297,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.53">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1064</SimpleData>
+            <SimpleData name="Num_Qd">41033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3765726437928,-23.9406234664566,0
+                -46.3760116977438,-23.9399210251675,0
+                -46.3759708146551,-23.9399115210328,0
+                -46.3758902338683,-23.9399471030676,0
+                -46.3756354504871,-23.940109714805,0
+                -46.3756033506994,-23.9401729982965,0
+                -46.3762660254429,-23.9409966786805,0
+                -46.3763254352153,-23.9410147903138,0
+                -46.3766010746425,-23.9408508330739,0
+                -46.376662419981,-23.9408021945716,0
+                -46.3766742642329,-23.9407750065475,0
+                -46.3765726437928,-23.9406234664566,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.54">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1065</SimpleData>
+            <SimpleData name="Num_Qd">31023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3725709449505,-23.9398631804747,0
+                -46.371813289217,-23.9389055371797,0
+                -46.3717791874537,-23.9389079202536,0
+                -46.3714380757184,-23.939137301461,0
+                -46.371444555378,-23.9392028931411,0
+                -46.3721652938668,-23.9400959381541,0
+                -46.3722252503568,-23.9400991541242,0
+                -46.3725709449505,-23.9398631804747,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.55">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1123</SimpleData>
+            <SimpleData name="Num_Qd">42067</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0641</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3779496893053,-23.9386647170575,0
+                -46.3776315128301,-23.9388686866859,0
+                -46.3776280316743,-23.9389277760862,0
+                -46.378250579729,-23.9397017888177,0
+                -46.3782766017914,-23.9397131002308,0
+                -46.378318607063,-23.9397003193189,0
+                -46.3786042923746,-23.9395084247807,0
+                -46.3786326119505,-23.9394585932063,0
+                -46.3786241689588,-23.939406059754,0
+                -46.3780431287034,-23.9386833841215,0
+                -46.3779496893053,-23.9386647170575,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.56">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1166</SimpleData>
+            <SimpleData name="Num_Qd">31024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3730586030177,-23.9395138249992,0
+                -46.3723280061749,-23.938598774299,0
+                -46.372275561336,-23.93858758362,0
+                -46.3719377083288,-23.9388027174449,0
+                -46.3719190012854,-23.9388378835818,0
+                -46.3726492403227,-23.939763544604,0
+                -46.3726954337901,-23.9397851788086,0
+                -46.3730455976327,-23.9395532192756,0
+                -46.3730586030177,-23.9395138249992,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.57">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1239</SimpleData>
+            <SimpleData name="Num_Qd">31014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3706984075427,-23.9394303388272,0
+                -46.3699600999346,-23.9385099092321,0
+                -46.3699244800085,-23.9384921644678,0
+                -46.3698995356532,-23.9384950622998,0
+                -46.3695845845528,-23.938706159233,0
+                -46.3695512691816,-23.9387445938661,0
+                -46.3695599352674,-23.9387761512766,0
+                -46.3702682560246,-23.9396544672248,0
+                -46.3703075057753,-23.9396888057449,0
+                -46.3703348901111,-23.93969147182,0
+                -46.3706786874706,-23.9394738638227,0
+                -46.3706984075427,-23.9394303388272,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.58">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1240</SimpleData>
+            <SimpleData name="Num_Qd">31009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3698842309733,-23.9393738254345,0
+                -46.3694625829025,-23.9388404098843,0
+                -46.3694151522046,-23.9388347158544,0
+                -46.36937600385,-23.9388507584368,0
+                -46.3691053384892,-23.9390393074643,0
+                -46.3691030814993,-23.9390646184505,0
+                -46.3695138283991,-23.9395929440999,0
+                -46.3695444763662,-23.9396092796349,0
+                -46.3695825274389,-23.9396084130748,0
+                -46.3698485727169,-23.9394270274727,0
+                -46.3698842309733,-23.9393738254345,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.59">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1241</SimpleData>
+            <SimpleData name="Num_Qd">31015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.371549716835,-23.9404856468651,0
+                -46.3708007260906,-23.9395704912559,0
+                -46.3707644064913,-23.9395776244549,0
+                -46.3704367876101,-23.9397914215774,0
+                -46.3704219307881,-23.9398185974818,0
+                -46.370428509164,-23.9398531644206,0
+                -46.3711277347204,-23.9407282727896,0
+                -46.3711842036991,-23.9407662723576,0
+                -46.3712189681456,-23.9407580161446,0
+                -46.3715582312351,-23.9405180497521,0
+                -46.371549716835,-23.9404856468651,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.60">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1242</SimpleData>
+            <SimpleData name="Num_Qd">31008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0482</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3705039141118,-23.9401458561294,0
+                -46.3700079189705,-23.9395197902119,0
+                -46.369973192218,-23.9395058555154,0
+                -46.3696538290788,-23.9397149013144,0
+                -46.3696461875197,-23.9397406421846,0
+                -46.3701760938679,-23.9403967139994,0
+                -46.3704926313337,-23.9401762972974,0
+                -46.3705039141118,-23.9401458561294,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.61">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1262</SimpleData>
+            <SimpleData name="Num_Qd">31030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0556</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3717362367981,-23.9355673824478,0
+                -46.3706722431759,-23.9362646045232,0
+                -46.3706348313993,-23.936326161235,0
+                -46.3706546918541,-23.9364046986363,0
+                -46.3722451283093,-23.938332116443,0
+                -46.3722932568401,-23.9383841625611,0
+                -46.3723694671597,-23.9383922271485,0
+                -46.3733618495163,-23.9377536320222,0
+                -46.3733994454498,-23.9377095651936,0
+                -46.3733987975599,-23.9376483484514,0
+                -46.3717581548248,-23.9355714684453,0
+                -46.3717362367981,-23.9355673824478,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.62">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1263</SimpleData>
+            <SimpleData name="Num_Qd">31031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1142</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3752872259911,-23.9399424266344,0
+                -46.3735143129361,-23.9377785058121,0
+                -46.3734572248573,-23.9377790167285,0
+                -46.3733908997637,-23.9378058485172,0
+                -46.3725502903872,-23.9383993561085,0
+                -46.3724657677779,-23.9385050649725,0
+                -46.3724949594784,-23.9385660264531,0
+                -46.3741058694688,-23.9406244304126,0
+                -46.3741345993626,-23.9406416652934,0
+                -46.3741918739284,-23.9406586445525,0
+                -46.3742486853787,-23.9406318975775,0
+                -46.3752413524371,-23.940019525813,0
+                -46.3752789483224,-23.9399754585347,0
+                -46.3752872259911,-23.9399424266344,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.63">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1266</SimpleData>
+            <SimpleData name="Num_Qd">41031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0601</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3748730311075,-23.9405824009351,0
+                -46.3743943363674,-23.9408857818608,0
+                -46.3743675427392,-23.9409415643828,0
+                -46.3750537897784,-23.9418040401735,0
+                -46.3751045891417,-23.9418208876536,0
+                -46.3754947677506,-23.9415698209747,0
+                -46.3748730311075,-23.9405824009351,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.64">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1271</SimpleData>
+            <SimpleData name="Num_Qd">41035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0481</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3727862004049,-23.9399329310166,0
+                -46.3736125341538,-23.9409607064506,0
+                -46.3736449243436,-23.940978196164,0
+                -46.3736878597662,-23.940975269984,0
+                -46.3739949007264,-23.94078296301,0
+                -46.3740187180641,-23.9407338490343,0
+                -46.3740043118946,-23.9406919924176,0
+                -46.3731676666118,-23.9396521368831,0
+                -46.373134980556,-23.9396499930073,0
+                -46.372786200624,-23.9398819099145,0
+                -46.3727862004049,-23.9399329310166,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.65">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1272</SimpleData>
+            <SimpleData name="Num_Qd">31017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0484</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3700384016472,-23.9384240496116,0
+                -46.3707976628461,-23.9393640873429,0
+                -46.3708551907712,-23.9393528299867,0
+                -46.3711782337912,-23.9391353495774,0
+                -46.3711807247567,-23.9390882675069,0
+                -46.3704309438387,-23.9381637190079,0
+                -46.3703820599691,-23.9381640574135,0
+                -46.3700589113196,-23.9383849289263,0
+                -46.3700433088497,-23.9384080698903,0
+                -46.3700384016472,-23.9384240496116,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.66">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1296</SimpleData>
+            <SimpleData name="Num_Qd">41039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0481</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3708405520272,-23.9412278500518,0
+                -46.3716399620104,-23.9422243259722,0
+                -46.3716813280558,-23.9422331493711,0
+                -46.3719857933288,-23.9420373139506,0
+                -46.3720014463181,-23.9420130096622,0
+                -46.3719941027456,-23.9419773610395,0
+                -46.371190111951,-23.9409864242872,0
+                -46.3711355365845,-23.9409815729227,0
+                -46.3708486529506,-23.9411695535854,0
+                -46.3708405520272,-23.9412278500518,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.67">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1297</SimpleData>
+            <SimpleData name="Num_Qd">41038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0481</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3724997080795,-23.9416797943984,0
+                -46.3716715018567,-23.9406396225558,0
+                -46.3716293230803,-23.9406441197567,0
+                -46.371299908899,-23.9408668366081,0
+                -46.3712858297388,-23.9409184259199,0
+                -46.3720947284856,-23.9419272111108,0
+                -46.3721478225098,-23.9419314005419,0
+                -46.3724874503753,-23.9417200834239,0
+                -46.3724997080795,-23.9416797943984,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.68">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1323</SimpleData>
+            <SimpleData name="Num_Qd">41029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0553</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3744632987341,-23.942209921219,0
+                -46.3737745635332,-23.9413447609368,0
+                -46.3737131610492,-23.9413244126126,0
+                -46.373667859075,-23.9413343578398,0
+                -46.3733533687739,-23.9415332333749,0
+                -46.3733460820487,-23.9415782092845,0
+                -46.3740790214155,-23.9424823994192,0
+                -46.3741614816284,-23.9424786127647,0
+                -46.3744185891485,-23.942305148957,0
+                -46.374466390465,-23.9422599792334,0
+                -46.3744632987341,-23.942209921219,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.69">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1324</SimpleData>
+            <SimpleData name="Num_Qd">41037</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0481</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3717964728261,-23.9405995225955,0
+                -46.3725795979573,-23.9415896185618,0
+                -46.372612071221,-23.9416136509286,0
+                -46.3726472989561,-23.9416225375399,0
+                -46.3730099694577,-23.9413888692263,0
+                -46.3730005777039,-23.9413454196086,0
+                -46.3721666433492,-23.9403183963034,0
+                -46.3721236622798,-23.9403177124182,0
+                -46.3717998424941,-23.9405360854753,0
+                -46.3717964728261,-23.9405995225955,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.70">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1346</SimpleData>
+            <SimpleData name="Num_Qd">30036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0560</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3814609987953,-23.9357751645131,0
+                -46.3814122828588,-23.9359047684823,0
+                -46.3813017396592,-23.9360935317617,0
+                -46.3813715105061,-23.9361694462996,0
+                -46.3815724963529,-23.9359816628074,0
+                -46.3815415077268,-23.9359430725221,0
+                -46.3815326842278,-23.9357864790128,0
+                -46.3814609987953,-23.9357751645131,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.71">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1633</SimpleData>
+            <SimpleData name="Num_Qd">30007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0641</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3786351526812,-23.9382904680884,0
+                -46.379209544515,-23.9390101067608,0
+                -46.3792429437427,-23.9390336547568,0
+                -46.3792833151695,-23.939038317903,0
+                -46.3793260853547,-23.9390241960319,0
+                -46.3796168554288,-23.9388242998053,0
+                -46.3796409453559,-23.9387890445418,0
+                -46.3790432075342,-23.9380428008149,0
+                -46.3789790509927,-23.9380337145756,0
+                -46.3787104831865,-23.9381934455607,0
+                -46.3787353245115,-23.9382230001824,0
+                -46.3786351526812,-23.9382904680884,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Bom_Retiro.72">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Bom_Retiro.schema">
+            <SimpleData name="fid">1635</SimpleData>
+            <SimpleData name="Num_Qd">30006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0641</SimpleData>
+            <SimpleData name="Bairro">Bom Retiro</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3781430530745,-23.9386188211074,0
+                -46.3787227360169,-23.9393428329506,0
+                -46.3787697608917,-23.9393705569668,0
+                -46.3788356110701,-23.9393561784554,0
+                -46.3791430476646,-23.9391344256136,0
+                -46.3791346313675,-23.9390920525175,0
+                -46.3785508433984,-23.9383733191779,0
+                -46.3785153230517,-23.9383499780899,0
+                -46.3784375357828,-23.9383618747416,0
+                -46.3781628132279,-23.9385366458485,0
+                -46.378139468592,-23.9385681013506,0
+                -46.3781430530745,-23.9386188211074,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

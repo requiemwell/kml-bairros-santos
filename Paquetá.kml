@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Paquet__.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Paquet__">
+      <name>Paquetá</name>
+      <Placemark id="Paquet__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">37</SimpleData>
+            <SimpleData name="Num_Qd">37002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3170629642287,-23.9370972910746,0
+                -46.3158666579348,-23.9373407446793,0
+                -46.315854763255,-23.9373558283112,0
+                -46.3160390291838,-23.9382505422019,0
+                -46.3172753807976,-23.9380008809197,0
+                -46.317287950929,-23.937982534505,0
+                -46.3170793616553,-23.9371069210092,0
+                -46.3170629642287,-23.9370972910746,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">284</SimpleData>
+            <SimpleData name="Num_Qd">26005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0007</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3219693298056,-23.9327660835209,0
+                -46.3209969713456,-23.932970060218,0
+                -46.3205394781167,-23.9330908320414,0
+                -46.32057091704,-23.9333711692036,0
+                -46.3209398787527,-23.9332587225979,0
+                -46.3211120166576,-23.9338287066932,0
+                -46.3210446214939,-23.9338484318975,0
+                -46.3208933069547,-23.933340217344,0
+                -46.3205742567572,-23.9334386904497,0
+                -46.320709065868,-23.9347721843657,0
+                -46.3207283627343,-23.9347857450608,0
+                -46.3222139040664,-23.9346382128396,0
+                -46.3222285252757,-23.9346219840767,0
+                -46.3219979254681,-23.9327858855047,0
+                -46.3219693298056,-23.9327660835209,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">424</SimpleData>
+            <SimpleData name="Num_Qd">37003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0009</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3185574139037,-23.9378643851723,0
+                -46.3163147503596,-23.9383230551628,0
+                -46.3162891076193,-23.9383577590154,0
+                -46.3162878270139,-23.9383928378027,0
+                -46.3164794452873,-23.9391945897795,0
+                -46.3165257449328,-23.9392218771078,0
+                -46.3165765081904,-23.9392241266605,0
+                -46.318797493006,-23.9387694898419,0
+                -46.3188095057879,-23.9387274252478,0
+                -46.3186034002556,-23.9378799334266,0
+                -46.3185574139037,-23.9378643851723,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">425</SimpleData>
+            <SimpleData name="Num_Qd">36009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0009</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.318731884864,-23.9378444372011,0
+                -46.3189406480001,-23.9387305130286,0
+                -46.3189631682477,-23.9387443445081,0
+                -46.3208937211759,-23.9383429226389,0
+                -46.320921902268,-23.9383138890558,0
+                -46.3209116898102,-23.9380676216634,0
+                -46.3208406688943,-23.9374133476337,0
+                -46.3208221305717,-23.9374015105103,0
+                -46.3187518459093,-23.9378187756028,0
+                -46.318731884864,-23.9378444372011,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">426</SimpleData>
+            <SimpleData name="Num_Qd">36008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0007</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3209705618747,-23.937389592189,0
+                -46.3210598063301,-23.9382875820316,0
+                -46.3210750955853,-23.9383002177179,0
+                -46.3226010005164,-23.937987602626,0
+                -46.3226158566919,-23.9379699726405,0
+                -46.322511288704,-23.9370814731692,0
+                -46.3224853087362,-23.9370653663742,0
+                -46.3209845839012,-23.9373676485238,0
+                -46.3209705618747,-23.937389592189,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">769</SimpleData>
+            <SimpleData name="Num_Qd">27003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3171678823217,-23.9368430932786,0
+                -46.318305373988,-23.9366151390822,0
+                -46.3183148440473,-23.9365971310411,0
+                -46.3179800893612,-23.9352115589011,0
+                -46.3167956904308,-23.9353372218142,0
+                -46.3167833073493,-23.9353560250183,0
+                -46.3171410092793,-23.9368312945165,0
+                -46.3171678823217,-23.9368430932786,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">770</SimpleData>
+            <SimpleData name="Num_Qd">26006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3189486534523,-23.9336645282145,0
+                -46.3194750547693,-23.9348414969343,0
+                -46.3195026901717,-23.9348538121111,0
+                -46.320527522617,-23.9347359074749,0
+                -46.3204993789507,-23.9345094779065,0
+                -46.3205443365661,-23.9344475014627,0
+                -46.3204080570579,-23.9331334360293,0
+                -46.3189486534523,-23.9336645282145,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">771</SimpleData>
+            <SimpleData name="Num_Qd">26007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3188310896059,-23.9337072603896,0
+                -46.3178485907176,-23.9340652789346,0
+                -46.3179570055655,-23.934534127788,0
+                -46.319025256278,-23.9341254315681,0
+                -46.3188310896059,-23.9337072603896,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">773</SimpleData>
+            <SimpleData name="Num_Qd">27001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3177293005569,-23.9341315953705,0
+                -46.3177045199719,-23.9341197971994,0
+                -46.3165912709794,-23.9345192977203,0
+                -46.3165826142329,-23.9345376140946,0
+                -46.3167477439199,-23.935212601083,0
+                -46.3167635470081,-23.9352207738087,0
+                -46.3179360507272,-23.9351068164603,0
+                -46.3179546926512,-23.9350857139007,0
+                -46.3177293005569,-23.9341315953705,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">836</SimpleData>
+            <SimpleData name="Num_Qd">26013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3190249003483,-23.9342450920451,0
+                -46.3179879704563,-23.9346518035185,0
+                -46.3180822246032,-23.9350612611634,0
+                -46.3181031565275,-23.9350713764715,0
+                -46.3193466879118,-23.9349330884284,0
+                -46.3193440301135,-23.934826277536,0
+                -46.319294128947,-23.9347112934937,0
+                -46.3190945140229,-23.934288925116,0
+                -46.3190687636346,-23.9342977256115,0
+                -46.3190249003483,-23.9342450920451,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">837</SimpleData>
+            <SimpleData name="Num_Qd">27002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3166107162338,-23.9352351793942,0
+                -46.3164457595164,-23.934578621547,0
+                -46.3161528367373,-23.9346923107356,0
+                -46.3159010307757,-23.9349415997629,0
+                -46.315773834594,-23.9351537526441,0
+                -46.3157895448699,-23.9352698359286,0
+                -46.3158218270599,-23.9353002834815,0
+                -46.3158779158472,-23.9353201119379,0
+                -46.3166107162338,-23.9352351793942,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">913</SimpleData>
+            <SimpleData name="Num_Qd">26020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3181176365223,-23.9352134763029,0
+                -46.3184482906378,-23.936585202414,0
+                -46.3196272825966,-23.9363395228282,0
+                -46.3193557325029,-23.9350691432441,0
+                -46.3193351762337,-23.935055734493,0
+                -46.3181350212974,-23.9351861101927,0
+                -46.3181176365223,-23.9352134763029,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">914</SimpleData>
+            <SimpleData name="Num_Qd">26018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0007</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3223552081187,-23.9358049621155,0
+                -46.3222377089578,-23.9347496951487,0
+                -46.3222244244581,-23.9347395486788,0
+                -46.3207471909802,-23.9348917483145,0
+                -46.3207252608968,-23.9349150425377,0
+                -46.3208398128314,-23.9360474876985,0
+                -46.3208817234482,-23.936094261602,0
+                -46.3209161722326,-23.9361006975227,0
+                -46.3223552081187,-23.9358049621155,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">915</SimpleData>
+            <SimpleData name="Num_Qd">26019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3206629281248,-23.9358985606363,0
+                -46.3205721409525,-23.9349730432582,0
+                -46.3204856361146,-23.9349300635362,0
+                -46.3194838377437,-23.9350397691198,0
+                -46.3197556993457,-23.9363212414342,0
+                -46.3207008183236,-23.9361279115528,0
+                -46.320716138651,-23.9361054362967,0
+                -46.3207035282624,-23.9358945462652,0
+                -46.3206629281248,-23.9358985606363,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">1154</SimpleData>
+            <SimpleData name="Num_Qd">36005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0007</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3224938176349,-23.9369394091366,0
+                -46.3223886683737,-23.9360321536917,0
+                -46.3223390822162,-23.9360309391958,0
+                -46.3208860332824,-23.9363260251494,0
+                -46.3208662964162,-23.9363498346724,0
+                -46.3209547076338,-23.9372362864182,0
+                -46.3209729653081,-23.9372483310594,0
+                -46.3224938176349,-23.9369394091366,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">1179</SimpleData>
+            <SimpleData name="Num_Qd">27006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3168561598932,-23.9362043660059,0
+                -46.3156837081094,-23.9364385285218,0
+                -46.3158065996907,-23.9371009182922,0
+                -46.3170189152458,-23.9368750802588,0
+                -46.3168561598932,-23.9362043660059,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">1180</SimpleData>
+            <SimpleData name="Num_Qd">36006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0009</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3208221998165,-23.9372716874478,0
+                -46.3207369404885,-23.9363544719674,0
+                -46.3185120829595,-23.9367974223385,0
+                -46.3184976200108,-23.9368190655052,0
+                -46.3187143673222,-23.9377109485965,0
+                -46.3207822324305,-23.9372895686519,0
+                -46.3208221998165,-23.9372716874478,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Paquet__.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Paquet__.schema">
+            <SimpleData name="fid">1181</SimpleData>
+            <SimpleData name="Num_Qd">37001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0008</SimpleData>
+            <SimpleData name="Bairro">Paquet?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3174183186379,-23.9379769554459,0
+                -46.3185778975055,-23.9377403151696,0
+                -46.3185924432938,-23.937719574118,0
+                -46.3183755240535,-23.9368489167605,0
+                -46.3183555121562,-23.9368366158626,0
+                -46.3172168774548,-23.937066424325,0
+                -46.3172024664087,-23.9370839533347,0
+                -46.3174183186379,-23.9379769554459,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

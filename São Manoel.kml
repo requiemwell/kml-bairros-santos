@@ -2,20 +2,28 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="S__o_Manoel.schema">
-      <SimpleField name="quadra" type="string"/>
-      <SimpleField name="total_imov" type="string"/>
-      <SimpleField name="obs" type="string"/>
-      <SimpleField name="IEs" type="string"/>
-      <SimpleField name="P_estrateg" type="string"/>
-      <SimpleField name="NOME" type="string"/>
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
     </Schema>
     <Document id="S__o_Manoel">
       <name>São Manoel</name>
       <Placemark id="S__o_Manoel.1">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20007</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">13</SimpleData>
+            <SimpleData name="Num_Qd">20007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -23,41 +31,10 @@
             <LinearRing>
               <coordinates>
                 -46.3845056060531,-23.92816020789,0
-                -46.3844015380609,-23.9281736136075,0
-                -46.3843030346668,-23.928186534079,0
-                -46.3842019159222,-23.9281997975322,0
-                -46.3841012895817,-23.928213552211,0
-                -46.3840032824758,-23.9282261630035,0
-                -46.383805528861,-23.928256469483,0
-                -46.3837039413216,-23.9282700595922,0
                 -46.3833951640185,-23.9283083500037,0
-                -46.3834115730577,-23.9283985995664,0
-                -46.3834195095921,-23.9284426666607,0
-                -46.3834462879198,-23.9285933070301,0
-                -46.3834543863244,-23.9286384461988,0
-                -46.3834693012807,-23.9287215796025,0
-                -46.3834709584767,-23.9287330285574,0
                 -46.3834727324979,-23.9287418618786,0
-                -46.3834778472729,-23.9287483317627,0
-                -46.383482515705,-23.9287516336969,0
-                -46.3834896294934,-23.9287538524778,0
-                -46.3834990135528,-23.9287542597489,0
                 -46.3835041689477,-23.928754180968,0
-                -46.3835335564814,-23.9287500550623,0
-                -46.3836597408187,-23.9287323391616,0
-                -46.3836859218645,-23.9287286634081,0
-                -46.3837891543911,-23.9287141262961,0
-                -46.3838884991892,-23.9286990800415,0
-                -46.3839882620056,-23.9286860879358,0
-                -46.3840861794837,-23.928673187526,0
-                -46.3841865594324,-23.9286618760353,0
-                -46.3842276247189,-23.9286568619755,0
-                -46.3842834793084,-23.9286500421276,0
-                -46.384331102864,-23.9286442272729,0
-                -46.3843842967681,-23.9286377322584,0
-                -46.3844831970332,-23.9286242230876,0
                 -46.3845891318534,-23.9286116639216,0
-                -46.3845477115171,-23.928387120182,0
                 -46.3845056060531,-23.92816020789,0
               </coordinates>
             </LinearRing>
@@ -67,8 +44,14 @@
       <Placemark id="S__o_Manoel.2">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20021</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">14</SimpleData>
+            <SimpleData name="Num_Qd">20021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -76,19 +59,11 @@
             <LinearRing>
               <coordinates>
                 -46.3806609444893,-23.9302249835909,0
-                -46.3806975976394,-23.930260169994,0
-                -46.3807066178058,-23.9302676745635,0
-                -46.3807214214221,-23.9302739531342,0
                 -46.3807368963657,-23.9302786904631,0
-                -46.3807696339858,-23.9302807439453,0
                 -46.3808704757377,-23.9302662006322,0
                 -46.3808835164349,-23.9302545241563,0
-                -46.3808208009275,-23.9298356170411,0
                 -46.3808171008891,-23.9298295095171,0
-                -46.3808103593821,-23.9298237905755,0
-                -46.3808033654286,-23.9298220473676,0
                 -46.3807927559586,-23.929822142801,0
-                -46.3806609430895,-23.929839405767,0
                 -46.3803322341093,-23.9298824548685,0
                 -46.3803267668598,-23.9299041774691,0
                 -46.3806609444893,-23.9302249835909,0
@@ -100,28 +75,27 @@
       <Placemark id="S__o_Manoel.3">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20012</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">26</SimpleData>
+            <SimpleData name="Num_Qd">20012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3808666210352,-23.9292388241474,0
+                -46.380872868986,-23.9292258541882,0
                 -46.3809321851318,-23.9296577056538,0
                 -46.3809469769012,-23.9296721118502,0
                 -46.3823779723032,-23.9294835868067,0
-                -46.3823855133604,-23.929481351554,0
-                -46.3823915481919,-23.929476059463,0
                 -46.3823935322901,-23.9294686365078,0
-                -46.3823276275897,-23.9290458756991,0
-                -46.3823234238317,-23.9290385987713,0
                 -46.3823176935011,-23.9290355799696,0
-                -46.3823086491346,-23.9290350292704,0
                 -46.380872868986,-23.9292258541882,0
-                -46.3808696627564,-23.9292292243511,0
-                -46.3808666210352,-23.9292388241474,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -130,8 +104,14 @@
       <Placemark id="S__o_Manoel.4">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20011</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">27</SimpleData>
+            <SimpleData name="Num_Qd">20011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -139,24 +119,13 @@
             <LinearRing>
               <coordinates>
                 -46.3822863211479,-23.9289125948407,0
-                -46.3822949369913,-23.9289098080799,0
-                -46.3823000992233,-23.9289056075219,0
                 -46.3823012213179,-23.9289002693664,0
                 -46.3822385928731,-23.9284714284675,0
-                -46.3822353830246,-23.9284652262582,0
-                -46.3822304309086,-23.9284614779971,0
                 -46.3822241227344,-23.9284595480651,0
                 -46.3807918167348,-23.9286531402099,0
-                -46.3807831199235,-23.9286575531231,0
-                -46.3807782830865,-23.9286646404966,0
                 -46.3807768671858,-23.9286700715919,0
                 -46.3808407205376,-23.9290759645132,0
-                -46.3808441373734,-23.9290831582574,0
-                -46.3808505041493,-23.9290905963839,0
-                -46.3808608880073,-23.9290970050095,0
                 -46.3808704398811,-23.9290990864308,0
-                -46.3808847985607,-23.9291004924701,0
-                -46.3809412031638,-23.9290923993705,0
                 -46.3822863211479,-23.9289125948407,0
               </coordinates>
             </LinearRing>
@@ -166,8 +135,14 @@
       <Placemark id="S__o_Manoel.5">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20006</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">53</SimpleData>
+            <SimpleData name="Num_Qd">20006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -175,15 +150,10 @@
             <LinearRing>
               <coordinates>
                 -46.3843979506009,-23.9275934861508,0
-                -46.3842791300368,-23.9276083855811,0
-                -46.3840237521771,-23.9276421153356,0
-                -46.3836973605719,-23.927685284372,0
-                -46.3833341011315,-23.9277338132918,0
                 -46.3833191127513,-23.9277389767008,0
                 -46.3833015100047,-23.9277554774498,0
                 -46.3833673044336,-23.9281546382433,0
                 -46.3833935405568,-23.928178286469,0
-                -46.3837909607594,-23.9281269352646,0
                 -46.3844819808971,-23.9280352228425,0
                 -46.3843979506009,-23.9275934861508,0
               </coordinates>
@@ -194,8 +164,14 @@
       <Placemark id="S__o_Manoel.6">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20008</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">54</SimpleData>
+            <SimpleData name="Num_Qd">20008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -203,23 +179,10 @@
             <LinearRing>
               <coordinates>
                 -46.3846109634425,-23.9287335382272,0
-                -46.3843157048901,-23.9287714117138,0
-                -46.3840161531354,-23.92881203913,0
-                -46.3835659577039,-23.9288755766787,0
-                -46.3835448124845,-23.9288791087923,0
-                -46.3835250924803,-23.928882182809,0
                 -46.3835144573959,-23.9288846118791,0
-                -46.3835064175355,-23.9288921526655,0
                 -46.383505148722,-23.9289095400823,0
                 -46.3835671644452,-23.9292939090278,0
-                -46.3835731549947,-23.9293014605265,0
-                -46.3835822818401,-23.9293075350919,0
-                -46.3835866502096,-23.9293107552156,0
-                -46.3835921966199,-23.929313602555,0
-                -46.383598921071,-23.9293160771097,0
                 -46.3836100061735,-23.9293210475243,0
-                -46.3840873742911,-23.9292598309013,0
-                -46.3843850830202,-23.9292237310026,0
                 -46.3846940248681,-23.9291790271049,0
                 -46.3846109634425,-23.9287335382272,0
               </coordinates>
@@ -230,44 +193,33 @@
       <Placemark id="S__o_Manoel.7">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20025</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">111</SimpleData>
+            <SimpleData name="Num_Qd">20025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3782798799782,-23.9291505430978,0
-                -46.378290180498,-23.9292046342473,0
+                -46.3782642793293,-23.9290229000973,0
                 -46.3782970958385,-23.929217485923,0
-                -46.3783119596268,-23.9292294534773,0
-                -46.3783256033671,-23.9292375488243,0
                 -46.3783456630958,-23.929248476355,0
-                -46.3783755550073,-23.9292601283531,0
-                -46.3790478088875,-23.9294945161136,0
                 -46.3792510009811,-23.9295659926457,0
-                -46.3797688070599,-23.9297756068451,0
                 -46.379876627124,-23.9298197466311,0
-                -46.3800246762773,-23.9298973563933,0
                 -46.3802155424625,-23.9299955738681,0
-                -46.380229887797,-23.9299957158013,0
                 -46.3802378730623,-23.9299890516643,0
-                -46.3802433371418,-23.9299762693885,0
                 -46.3802307948129,-23.9299462507961,0
-                -46.3791246092162,-23.9288961323669,0
                 -46.3790905743428,-23.9288682450255,0
                 -46.3790566892136,-23.9288544528831,0
-                -46.3790199468532,-23.9288604215738,0
-                -46.3789679001601,-23.928869347044,0
-                -46.3784227889424,-23.928953183459,0
                 -46.378293887802,-23.9289801001066,0
-                -46.3782835122485,-23.9289837151997,0
                 -46.3782736547135,-23.9289898542108,0
-                -46.3782691565283,-23.9290010925483,0
-                -46.3782651504778,-23.9290124167731,0
                 -46.3782642793293,-23.9290229000973,0
-                -46.3782798799782,-23.9291505430978,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -276,37 +228,27 @@
       <Placemark id="S__o_Manoel.8">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20009</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">112</SimpleData>
+            <SimpleData name="Num_Qd">20009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.380660937091,-23.9279404740254,0
-                -46.3806625208163,-23.9279504581469,0
-                -46.3806669893796,-23.9279549332583,0
-                -46.3806699623401,-23.9279573447825,0
+                -46.380599020325,-23.9275129547761,0
                 -46.3806733176753,-23.9279587595015,0
                 -46.3820885860321,-23.9277711920034,0
                 -46.3821200532564,-23.9277462551717,0
-                -46.3820955915195,-23.9275751709395,0
-                -46.3820645386274,-23.9273579877425,0
                 -46.3820608782081,-23.9273463712249,0
-                -46.3820572783466,-23.9273404434386,0
-                -46.3820491702995,-23.9273355496033,0
-                -46.382037621183,-23.9273304158279,0
-                -46.3820246100933,-23.9273263788846,0
-                -46.3820133854772,-23.9273240416714,0
                 -46.3820046407383,-23.9273239397824,0
-                -46.3806609357757,-23.9275036590172,0
-                -46.3806039147457,-23.9275112852515,0
                 -46.380599020325,-23.9275129547761,0
-                -46.380596495045,-23.9275156866668,0
-                -46.3805943895873,-23.9275209433503,0
-                -46.3806029913627,-23.9275751710808,0
-                -46.380660937091,-23.9279404740254,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -315,27 +257,25 @@
       <Placemark id="S__o_Manoel.9">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20017</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">175</SimpleData>
+            <SimpleData name="Num_Qd">20017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3796890907012,-23.9276332953153,0
+                -46.3804571917664,-23.9275347296635,0
                 -46.379000285832,-23.9277240106976,0
                 -46.3790688041096,-23.92817194534,0
-                -46.3797750634375,-23.9280779119788,0
-                -46.380516151593,-23.9279794984232,0
                 -46.38052239827,-23.9279756493958,0
-                -46.3805238016932,-23.9279690444363,0
-                -46.3804656557885,-23.9275751748378,0
-                -46.3804601743144,-23.9275380441663,0
                 -46.3804571917664,-23.9275347296635,0
-                -46.3804519699962,-23.9275333317225,0
-                -46.3801325792782,-23.9275751834439,0
-                -46.3796890907012,-23.9276332953153,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -344,8 +284,14 @@
       <Placemark id="S__o_Manoel.10">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20016</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">176</SimpleData>
+            <SimpleData name="Num_Qd">20016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -353,23 +299,12 @@
             <LinearRing>
               <coordinates>
                 -46.3789785114025,-23.9275752076414,0
-                -46.3789803733766,-23.9275881886484,0
                 -46.3789966779333,-23.9275970727954,0
-                -46.3791628306158,-23.9275752043663,0
-                -46.3797882981083,-23.9274928808582,0
                 -46.38042380315,-23.9274067050454,0
                 -46.3804347861104,-23.9273770762181,0
                 -46.3804023295564,-23.9271703866639,0
                 -46.3803538020091,-23.9271430990558,0
-                -46.3801572591002,-23.9271465587191,0
-                -46.3799407821229,-23.9271528384371,0
-                -46.3789446102716,-23.9271885842551,0
-                -46.3789379526188,-23.927189545402,0
                 -46.3789326714588,-23.9271908547232,0
-                -46.3789291647246,-23.9271930494522,0
-                -46.3789260635812,-23.9271965024227,0
-                -46.378924931044,-23.9272006587879,0
-                -46.3789253791176,-23.9272047865206,0
                 -46.3789785114025,-23.9275752076414,0
               </coordinates>
             </LinearRing>
@@ -379,8 +314,14 @@
       <Placemark id="S__o_Manoel.11">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20002</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">180</SimpleData>
+            <SimpleData name="Num_Qd">20002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -389,36 +330,11 @@
               <coordinates>
                 -46.3826726148548,-23.9278210075498,0
                 -46.3823829066158,-23.9278618280265,0
-                -46.3823777223125,-23.9278639517477,0
-                -46.3823682762727,-23.9278718031208,0
-                -46.3823587589181,-23.9278821837025,0
-                -46.3823513131357,-23.9278933583834,0
                 -46.3823457414957,-23.9279052386356,0
                 -46.3825845205514,-23.9293948523158,0
-                -46.3825882475843,-23.9294034881181,0
-                -46.3825948349862,-23.929413181829,0
-                -46.3826025733253,-23.9294202463011,0
                 -46.3826158368936,-23.9294295186563,0
-                -46.3826294712862,-23.9294367106336,0
-                -46.3826472286847,-23.9294435945558,0
                 -46.3826617039214,-23.9294467151892,0
-                -46.3826821243966,-23.9294453572799,0
-                -46.3826895864453,-23.929444928843,0
                 -46.3829694660265,-23.929407193722,0
-                -46.382918322672,-23.929133272475,0
-                -46.3829009530491,-23.929053697785,0
-                -46.382886460596,-23.928976788425,0
-                -46.3828696211388,-23.9288978624449,0
-                -46.3828537483595,-23.9288167905488,0
-                -46.3828412194118,-23.9287423911862,0
-                -46.3828249696492,-23.9286607926195,0
-                -46.3828107127068,-23.9285832650705,0
-                -46.3827955839498,-23.9284955319393,0
-                -46.3827848873873,-23.9284228655336,0
-                -46.3827714204003,-23.9283436855945,0
-                -46.38275638746,-23.9282616542585,0
-                -46.3827405554385,-23.9281754599419,0
-                -46.3827245598326,-23.9280959382255,0
                 -46.3826726148548,-23.9278210075498,0
               </coordinates>
             </LinearRing>
@@ -428,38 +344,28 @@
       <Placemark id="S__o_Manoel.12">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20010</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">181</SimpleData>
+            <SimpleData name="Num_Qd">20010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3821724900887,-23.9283436988775,0
-                -46.3821926937417,-23.9283404465664,0
+                -46.3807636009629,-23.9285312099859,0
                 -46.382200719181,-23.9283375748219,0
-                -46.382206660542,-23.9283327351105,0
-                -46.3822091588831,-23.9283274748698,0
                 -46.3822102463682,-23.9283188860117,0
                 -46.3821540329183,-23.9279296315875,0
-                -46.3821483374292,-23.9279206522694,0
-                -46.3821389003846,-23.9279108938838,0
-                -46.3821292099743,-23.9279050209353,0
                 -46.3821191670019,-23.9279029440112,0
                 -46.3807242225027,-23.9280802147735,0
-                -46.3807130487359,-23.9280826632277,0
-                -46.3807042422004,-23.9280859934502,0
-                -46.3806983990256,-23.9280908322219,0
-                -46.3806932742219,-23.9280985543246,0
                 -46.380690595678,-23.9281053513656,0
-                -46.3806898875866,-23.9281126725206,0
-                -46.3807521570176,-23.9285174961005,0
-                -46.3807546762733,-23.9285234336371,0
-                -46.3807585669757,-23.9285289976142,0
                 -46.3807636009629,-23.9285312099859,0
-                -46.3807738289127,-23.9285322016621,0
-                -46.3821724900887,-23.9283436988775,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -468,8 +374,14 @@
       <Placemark id="S__o_Manoel.13">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20024</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">900</SimpleData>
+            <SimpleData name="Num_Qd">20024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1184</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -479,18 +391,15 @@
                 -46.3781860312937,-23.9293235620248,0
                 -46.3781753446701,-23.9293348326523,0
                 -46.3781720571655,-23.9295652524957,0
-                -46.3782416266329,-23.9295667939317,0
                 -46.3783555964384,-23.929576237417,0
                 -46.3784413571807,-23.9296100077409,0
                 -46.3784381081134,-23.9296257370992,0
                 -46.3785589539569,-23.9296393054013,0
                 -46.3785609038634,-23.9297156954429,0
                 -46.3786839158249,-23.9297187774023,0
-                -46.3787832731031,-23.92974614534,0
                 -46.3788532521375,-23.9297696942645,0
                 -46.3789258444575,-23.9295589636756,0
                 -46.378348492229,-23.9293581106913,0
-                -46.3782523452248,-23.9293353829648,0
                 -46.3781860312937,-23.9293235620248,0
               </coordinates>
             </LinearRing>
@@ -500,44 +409,31 @@
       <Placemark id="S__o_Manoel.14">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20023</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">901</SimpleData>
+            <SimpleData name="Num_Qd">20023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1184</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3791092072882,-23.9298832077813,0
-                -46.3791989850248,-23.9299208949554,0
-                -46.3792798466637,-23.9299473234368,0
+                -46.3789268885419,-23.9298091417708,0
                 -46.379375073185,-23.9299741643957,0
-                -46.3794653817665,-23.930011969752,0
-                -46.3795518312081,-23.9300538335548,0
-                -46.3796297642508,-23.9300847854039,0
                 -46.3797151419741,-23.9301201404459,0
-                -46.3797988949529,-23.9301597634555,0
                 -46.3798767013676,-23.93019820268,0
-                -46.3799585613542,-23.9302447839492,0
-                -46.3800284631445,-23.9302843046746,0
-                -46.380120698491,-23.9303390173908,0
                 -46.3802158690167,-23.9303958974038,0
                 -46.3803409474619,-23.9302024313655,0
                 -46.3803348842287,-23.9301871234582,0
-                -46.3802070767858,-23.9301047327693,0
-                -46.3801707881996,-23.9300830312443,0
                 -46.3800848756432,-23.9300356135131,0
-                -46.3800002132809,-23.9299929566793,0
-                -46.3799116093173,-23.9299525264027,0
-                -46.3798235073084,-23.9299125187425,0
                 -46.3797374842982,-23.9298699888242,0
-                -46.3796485923274,-23.9298314370061,0
-                -46.3794077976957,-23.9297354523145,0
-                -46.3791578918378,-23.9296436885506,0
                 -46.3790126509043,-23.9295953281284,0
                 -46.3789268885419,-23.9298091417708,0
-                -46.3790178308707,-23.929843754604,0
-                -46.3791092072882,-23.9298832077813,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -546,8 +442,14 @@
       <Placemark id="S__o_Manoel.15">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">30024</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">902</SimpleData>
+            <SimpleData name="Num_Qd">30024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1081</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -557,15 +459,10 @@
                 -46.3804442128837,-23.9302599559426,0
                 -46.3803020453073,-23.9304411021269,0
                 -46.3805232723754,-23.9306015730315,0
-                -46.3806625762188,-23.9307164157386,0
                 -46.3808085500938,-23.9308390815801,0
-                -46.3810059036543,-23.9310400451899,0
-                -46.3812569644358,-23.931305984997,0
                 -46.3813847576684,-23.9314469402971,0
                 -46.381566071495,-23.9312971987266,0
                 -46.3814189429663,-23.9311247562585,0
-                -46.3811814769591,-23.93088257906,0
-                -46.3809597355156,-23.9306658277469,0
                 -46.38090662558,-23.9306123291591,0
                 -46.3806758557558,-23.9304183855105,0
                 -46.3804442128837,-23.9302599559426,0
@@ -577,8 +474,14 @@
       <Placemark id="S__o_Manoel.16">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">30023</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">903</SimpleData>
+            <SimpleData name="Num_Qd">30023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1081</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -586,10 +489,8 @@
             <LinearRing>
               <coordinates>
                 -46.3810761958219,-23.9303681686955,0
-                -46.3810679956764,-23.9303701316355,0
                 -46.381047746519,-23.9303986512584,0
                 -46.3811072124949,-23.9307721704544,0
-                -46.3812026500378,-23.9308563240521,0
                 -46.3816008147149,-23.9312300648637,0
                 -46.3825899190238,-23.9305418651822,0
                 -46.3825331894481,-23.9301531178569,0
@@ -602,8 +503,14 @@
       <Placemark id="S__o_Manoel.17">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">30025</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">904</SimpleData>
+            <SimpleData name="Num_Qd">30025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1205</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -624,8 +531,14 @@
       <Placemark id="S__o_Manoel.18">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">30029</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">978</SimpleData>
+            <SimpleData name="Num_Qd">30029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1216</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -634,14 +547,10 @@
               <coordinates>
                 -46.3828586993672,-23.9310688319159,0
                 -46.3827873058,-23.931110640517,0
-                -46.3827903227124,-23.9313938468974,0
-                -46.3828061376089,-23.9335211028298,0
                 -46.382806513319,-23.9338028696981,0
-                -46.3827612206428,-23.9341497633893,0
                 -46.3827327556051,-23.9344553014552,0
                 -46.3832009236274,-23.9336552494772,0
                 -46.3830898719778,-23.9327053518864,0
-                -46.383438559915,-23.9311803012676,0
                 -46.3835178278489,-23.9308460835429,0
                 -46.3828586993672,-23.9310688319159,0
               </coordinates>
@@ -652,8 +561,14 @@
       <Placemark id="S__o_Manoel.19">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20005</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">994</SimpleData>
+            <SimpleData name="Num_Qd">20005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -661,43 +576,11 @@
             <LinearRing>
               <coordinates>
                 -46.3829268181984,-23.9277895530102,0
-                -46.3829966890977,-23.9282001008904,0
-                -46.3830136763713,-23.9282884291912,0
-                -46.3830320273983,-23.928383845988,0
-                -46.3830491839688,-23.928473067105,0
-                -46.3830641139518,-23.9285576124642,0
-                -46.3830788805156,-23.9286384188004,0
-                -46.3830935785852,-23.928724330735,0
-                -46.3831106916832,-23.9288213063767,0
-                -46.383125190342,-23.9288977182706,0
-                -46.3831630750326,-23.9290747444281,0
-                -46.3831832911029,-23.9291796102869,0
-                -46.3832021147031,-23.929271582035,0
                 -46.3832204934757,-23.9293741417699,0
                 -46.3833851047837,-23.9293545521373,0
-                -46.3834211014708,-23.9293419816628,0
-                -46.3834349719857,-23.9293344515742,0
                 -46.3834449939993,-23.9293253306615,0
-                -46.3834530233985,-23.9293136088345,0
-                -46.3834553359015,-23.9293001324113,0
                 -46.3834541128949,-23.9292867781572,0
-                -46.3834458239151,-23.9292411129748,0
-                -46.3834295262639,-23.9291513267588,0
-                -46.3834122084195,-23.9290559199846,0
-                -46.3833803903453,-23.9288806286965,0
-                -46.383363413477,-23.9287870999571,0
-                -46.3833474062127,-23.9286989128021,0
-                -46.3833311029868,-23.928609094992,0
-                -46.3833144486668,-23.9285173427813,0
-                -46.3832990497729,-23.9284325068452,0
-                -46.3832826098751,-23.9283419356437,0
-                -46.3832656658141,-23.9282485867345,0
-                -46.3832491871589,-23.9281578017069,0
-                -46.3832033874008,-23.9278978122215,0
                 -46.3831846087473,-23.9277912119047,0
-                -46.3831814528542,-23.927780855156,0
-                -46.383174488917,-23.9277727000607,0
-                -46.3831628078161,-23.9277644068545,0
                 -46.3831521359946,-23.9277586331206,0
                 -46.3829268181984,-23.9277895530102,0
               </coordinates>
@@ -708,8 +591,14 @@
       <Placemark id="S__o_Manoel.20">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20004</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1062</SimpleData>
+            <SimpleData name="Num_Qd">20004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -717,24 +606,9 @@
             <LinearRing>
               <coordinates>
                 -46.3839547332121,-23.927403450963,0
-                -46.3837510188192,-23.9273822730853,0
                 -46.3836214654897,-23.9273684874677,0
-                -46.3835202562308,-23.9273555913521,0
-                -46.3834192861943,-23.9273427256485,0
-                -46.3832384552443,-23.9273196838133,0
-                -46.383083691904,-23.9272999633868,0
-                -46.3829521981321,-23.9272832079127,0
                 -46.3828402829232,-23.9272689471262,0
-                -46.3828705935399,-23.9274643737592,0
                 -46.3829072713242,-23.9276624959484,0
-                -46.3830186112092,-23.9276468633641,0
-                -46.3831427677143,-23.9276310931693,0
-                -46.3832888744794,-23.9276125347489,0
-                -46.3833718786336,-23.9276019915317,0
-                -46.3834573249632,-23.9275911380602,0
-                -46.3835573485733,-23.9275784329064,0
-                -46.3836518810098,-23.927566425187,0
-                -46.3837766905158,-23.9275505715141,0
                 -46.3839757565039,-23.9275231877078,0
                 -46.3839547332121,-23.927403450963,0
               </coordinates>
@@ -745,37 +619,29 @@
       <Placemark id="S__o_Manoel.21">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20001</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1110</SimpleData>
+            <SimpleData name="Num_Qd">20001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3826135302831,-23.9274774845062,0
+                -46.3826524461834,-23.9276969065738,0
                 -46.3825689490956,-23.9272343720802,0
-                -46.3824462047809,-23.92721873107,0
                 -46.3823165874635,-23.9272062620349,0
-                -46.3823042167356,-23.9272070055658,0
-                -46.3822955942736,-23.9272091602414,0
-                -46.3822844561877,-23.9272149498063,0
-                -46.3822630718081,-23.9272272433521,0
                 -46.3822511988003,-23.9272378257485,0
-                -46.3822440861978,-23.9272526096632,0
                 -46.3822431036832,-23.9272618297189,0
-                -46.3822921227622,-23.9275751700952,0
-                -46.3823118361113,-23.9277011815362,0
                 -46.3823123695845,-23.9277051501952,0
-                -46.3823158866168,-23.9277125236157,0
-                -46.3823223679807,-23.9277214958513,0
                 -46.3823299116543,-23.9277287427077,0
-                -46.3823399776903,-23.9277329867539,0
-                -46.3823502151976,-23.9277348813004,0
-                -46.3823598498399,-23.9277355169911,0
                 -46.3823685897983,-23.9277351673721,0
                 -46.3826524461834,-23.9276969065738,0
-                -46.3826135302831,-23.9274774845062,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -784,38 +650,26 @@
       <Placemark id="S__o_Manoel.22">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20018</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1112</SimpleData>
+            <SimpleData name="Num_Qd">20018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3796726167377,-23.9282186264651,0
-                -46.3791173575987,-23.9282941447667,0
-                -46.3791092338503,-23.9282970172352,0
-                -46.3790995757548,-23.928303425423,0
-                -46.3790944556415,-23.9283115989638,0
-                -46.3790938341834,-23.9283178356637,0
-                -46.3790969893749,-23.9283374037303,0
-                -46.3791567611191,-23.9287295174145,0
-                -46.37916125748,-23.9287366111956,0
-                -46.3791655247559,-23.9287406366295,0
-                -46.3791710422283,-23.9287421222623,0
-                -46.3791784156152,-23.9287425978545,0
-                -46.3791864699328,-23.9287424351863,0
-                -46.3797802960105,-23.9286626867697,0
-                -46.3806061395071,-23.9285519516803,0
-                -46.3806128908262,-23.9285493623941,0
-                -46.3806167894924,-23.9285464375392,0
-                -46.3806174416063,-23.9285430903522,0
-                -46.3805533876555,-23.9281182348181,0
-                -46.3805481034471,-23.9281109675524,0
                 -46.3805404846552,-23.9281058886255,0
-                -46.3805322051076,-23.9281033442086,0
-                -46.3805250301451,-23.928103047508,0
-                -46.3796726167377,-23.9282186264651,0
+                -46.3790995757548,-23.928303425423,0
+                -46.3791655247559,-23.9287406366295,0
+                -46.3806167894924,-23.9285464375392,0
+                -46.3805533876555,-23.9281182348181,0
+                -46.3805404846552,-23.9281058886255,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -824,40 +678,28 @@
       <Placemark id="S__o_Manoel.23">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20019</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1113</SimpleData>
+            <SimpleData name="Num_Qd">20019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3806609406578,-23.9291265291254,0
-                -46.3806822675671,-23.9291236264136,0
-                -46.3806895871977,-23.9291190452797,0
-                -46.380696299169,-23.9291127537973,0
-                -46.3807011216205,-23.9291043119654,0
-                -46.3807029797263,-23.9290942712878,0
-                -46.3806609397335,-23.9288385728242,0
-                -46.3806362798961,-23.9286885845069,0
-                -46.3806335756957,-23.9286837323037,0
-                -46.380630204977,-23.9286808728269,0
-                -46.3806262582928,-23.9286792828142,0
-                -46.3796907196079,-23.9288034662058,0
-                -46.379287492288,-23.9288559452835,0
-                -46.379282340508,-23.9288611390159,0
-                -46.3792791678213,-23.9288676695566,0
-                -46.3792765922204,-23.9288749171808,0
-                -46.3792757954055,-23.9288831421892,0
-                -46.3792770375454,-23.9288890912268,0
-                -46.3792800229756,-23.9288926766442,0
-                -46.3796157761117,-23.9292210826557,0
-                -46.3796561312302,-23.9292558490112,0
                 -46.3796647161003,-23.9292593840952,0
-                -46.3796760275724,-23.9292606370226,0
-                -46.3796854466602,-23.9292594686948,0
-                -46.3797863927383,-23.9292455573232,0
-                -46.3806609406578,-23.9291265291254,0
+                -46.3806895871977,-23.9291190452797,0
+                -46.3807029797263,-23.9290942712878,0
+                -46.3806262582928,-23.9286792828142,0
+                -46.379287492288,-23.9288559452835,0
+                -46.3792765922204,-23.9288749171808,0
+                -46.3792800229756,-23.9288926766442,0
+                -46.3796647161003,-23.9292593840952,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -866,35 +708,27 @@
       <Placemark id="S__o_Manoel.24">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20020</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1115</SimpleData>
+            <SimpleData name="Num_Qd">20020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3800086133644,-23.929337653133,0
-                -46.3798186285024,-23.9293589461726,0
-                -46.3798073986652,-23.9293602047777,0
-                -46.3797919988706,-23.9293629360599,0
-                -46.37978266064,-23.9293682057186,0
-                -46.3797810620095,-23.929377035817,0
-                -46.3797890908245,-23.9293884874932,0
-                -46.3801846878461,-23.929764035792,0
-                -46.3801953529964,-23.9297691776483,0
-                -46.3802053045754,-23.9297718876577,0
-                -46.3806609426257,-23.9297098940806,0
-                -46.3807781293301,-23.9296939495641,0
-                -46.3807843866434,-23.9296910937942,0
-                -46.3807896974058,-23.9296823766493,0
-                -46.380793090785,-23.929668890534,0
-                -46.3807291853277,-23.9292581215726,0
-                -46.3807277572107,-23.9292531675883,0
                 -46.3807234098829,-23.9292508587345,0
-                -46.3807150512302,-23.9292501211619,0
-                -46.3806609410916,-23.9292573527235,0
-                -46.3800086133644,-23.929337653133,0
+                -46.3798073986652,-23.9293602047777,0
+                -46.3797810620095,-23.929377035817,0
+                -46.3801953529964,-23.9297691776483,0
+                -46.3807781293301,-23.9296939495641,0
+                -46.3807896974058,-23.9296823766493,0
+                -46.3807234098829,-23.9292508587345,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -903,8 +737,14 @@
       <Placemark id="S__o_Manoel.25">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20013</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1209</SimpleData>
+            <SimpleData name="Num_Qd">20013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1081</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -912,23 +752,13 @@
             <LinearRing>
               <coordinates>
                 -46.3810224443653,-23.9302283383356,0
-                -46.3810303655285,-23.9302400940059,0
                 -46.3810384693781,-23.9302459345648,0
-                -46.3810481027847,-23.9302443695278,0
-                -46.3816122627736,-23.930169692437,0
                 -46.3825180616444,-23.9300640820676,0
-                -46.382525740479,-23.9300300104847,0
-                -46.3825254728452,-23.9300048806685,0
                 -46.382525236698,-23.9299827073013,0
                 -46.3825010824433,-23.9299799681107,0
                 -46.3824341758787,-23.9295873252268,0
                 -46.3818421927574,-23.9296839307014,0
-                -46.3817428450777,-23.9296974325243,0
-                -46.3816365152143,-23.9297129792798,0
-                -46.3810496644981,-23.929783870821,0
-                -46.3809893889127,-23.9297906740829,0
                 -46.3809635576165,-23.9297989486889,0
-                -46.3809515100661,-23.92980750657,0
                 -46.3809522785274,-23.929831288877,0
                 -46.3810224443653,-23.9302283383356,0
               </coordinates>
@@ -939,8 +769,14 @@
       <Placemark id="S__o_Manoel.26">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20003</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1304</SimpleData>
+            <SimpleData name="Num_Qd">20003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -960,54 +796,29 @@
       <Placemark id="S__o_Manoel.27">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20044</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1370</SimpleData>
+            <SimpleData name="Num_Qd">20044</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1249</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3819012907562,-23.9271579846758,0
-                -46.3817572639155,-23.927148534662,0
-                -46.3816415870303,-23.9271443380344,0
-                -46.3814905825,-23.9271438908601,0
-                -46.3813632407758,-23.9271421469477,0
-                -46.3812077888163,-23.9271392109444,0
-                -46.3811292884925,-23.9271388335219,0
-                -46.381079379003,-23.9271386503833,0
-                -46.3809543758718,-23.927140045771,0
-                -46.3805733925202,-23.9271353291957,0
-                -46.3805614077163,-23.9271362158558,0
-                -46.3805537252438,-23.9271375334146,0
-                -46.3805478800836,-23.9271413313945,0
-                -46.3805438456871,-23.9271451130906,0
-                -46.3805412490082,-23.9271563726896,0
-                -46.3805427088499,-23.9271659311802,0
-                -46.380548583617,-23.9272074940826,0
-                -46.3805568362397,-23.9272507242427,0
-                -46.3805721416102,-23.9273367071555,0
-                -46.3805789173562,-23.9273778457954,0
-                -46.3805794142969,-23.9273820028996,0
-                -46.3805821968212,-23.927388220236,0
-                -46.3805854054883,-23.9273919367962,0
-                -46.3805926662579,-23.9273935361288,0
-                -46.3810314498119,-23.9273338716106,0
-                -46.3811515277332,-23.9273177102483,0
-                -46.3812261038593,-23.9273093632803,0
-                -46.3813756057787,-23.9272886023199,0
-                -46.3814897105511,-23.9272743005626,0
-                -46.3816541083655,-23.9272500639643,0
-                -46.3817624384082,-23.92723780071,0
-                -46.3819015504138,-23.9272193001017,0
-                -46.382015171567,-23.9272057247582,0
-                -46.3820250528109,-23.9272018429526,0
-                -46.3820335781964,-23.927190568262,0
-                -46.3820350759245,-23.9271836012182,0
-                -46.3820311650274,-23.9271761410294,0
-                -46.3820215719508,-23.9271701768893,0
                 -46.3820079733977,-23.9271663258444,0
-                -46.3819012907562,-23.9271579846758,0
+                -46.3816415870303,-23.9271443380344,0
+                -46.3805733925202,-23.9271353291957,0
+                -46.3805412490082,-23.9271563726896,0
+                -46.3805794142969,-23.9273820028996,0
+                -46.3805926662579,-23.9273935361288,0
+                -46.382015171567,-23.9272057247582,0
+                -46.3820335781964,-23.927190568262,0
+                -46.3820079733977,-23.9271663258444,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1016,8 +827,14 @@
       <Placemark id="S__o_Manoel.28">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20026</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1371</SimpleData>
+            <SimpleData name="Num_Qd">20026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1248</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1029,7 +846,6 @@
                 -46.3837515200485,-23.9299957577416,0
                 -46.3847301323089,-23.9293740574877,0
                 -46.3847116511001,-23.9292773199861,0
-                -46.3836520074397,-23.929424181797,0
                 -46.3832393097353,-23.9294770513323,0
               </coordinates>
             </LinearRing>
@@ -1039,8 +855,14 @@
       <Placemark id="S__o_Manoel.29">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">28021</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1487</SimpleData>
+            <SimpleData name="Num_Qd">28021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0605</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1049,16 +871,10 @@
               <coordinates>
                 -46.386858927369,-23.9276433422481,0
                 -46.3870022810669,-23.9286178420162,0
-                -46.3875065028492,-23.928556324992,0
-                -46.3880536858618,-23.928486577095,0
-                -46.388341579105,-23.928455307848,0
                 -46.388457369775,-23.9284403938735,0
                 -46.3892896733585,-23.9288830747695,0
-                -46.3898887356535,-23.9282359975871,0
                 -46.3899947503638,-23.9281283137086,0
                 -46.3882294872489,-23.9278146295653,0
-                -46.3879535721885,-23.9277724238821,0
-                -46.3873564474917,-23.9277034725026,0
                 -46.386858927369,-23.9276433422481,0
               </coordinates>
             </LinearRing>
@@ -1068,8 +884,14 @@
       <Placemark id="S__o_Manoel.30">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20043</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1488</SimpleData>
+            <SimpleData name="Num_Qd">20043</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1248</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1089,8 +911,14 @@
       <Placemark id="S__o_Manoel.31">
         <ExtendedData>
           <SchemaData schemaUrl="#S__o_Manoel.schema">
-            <SimpleData name="quadra">20042</SimpleData>
-            <SimpleData name="NOME">S?o Manoel</SimpleData>
+            <SimpleData name="fid">1973</SimpleData>
+            <SimpleData name="Num_Qd">20042</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1248</SimpleData>
+            <SimpleData name="Bairro">S?o Manoel</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1099,135 +927,26 @@
               <LinearRing>
                 <coordinates>
                   -46.3845891169156,-23.9286115829421,0
-                  -46.384679875662,-23.9286090289123,0
-                  -46.3846936811775,-23.9286088056125,0
-                  -46.3847142762137,-23.9286104471206,0
                   -46.3847341065035,-23.9286159476299,0
-                  -46.3847522441837,-23.9286251215112,0
-                  -46.3847679282212,-23.9286374800181,0
                   -46.3847805616306,-23.9286526284704,0
-                  -46.3847892362911,-23.9286699535146,0
                   -46.3847940921383,-23.9286884870391,0
-                  -46.3847944449492,-23.9287074755491,0
-                  -46.3847906615045,-23.9287260870075,0
-                  -46.3847856797453,-23.9287380103877,0
                   -46.384777548937,-23.9287531998439,0
-                  -46.3847619036756,-23.9287704055296,0
-                  -46.3847521420643,-23.928777379283,0
-                  -46.3847416512191,-23.9287831621013,0
-                  -46.3847303634531,-23.9287875150924,0
                   -46.3847245187433,-23.9287891844565,0
-                  -46.3847185392976,-23.9287904359062,0
-                  -46.3847125560202,-23.9287913281365,0
-                  -46.3847063728743,-23.9287918030402,0
-                  -46.3847002516681,-23.9287919780066,0
-                  -46.3846941266305,-23.9287917937536,0
-                  -46.3846880616171,-23.928791129954,0
-                  -46.3846818926588,-23.9287900329543,0
-                  -46.3846759852288,-23.9287887241087,0
-                  -46.3846701692525,-23.9287869803008,0
-                  -46.384664479072,-23.9287848162283,0
                   -46.3846590468685,-23.9287824103263,0
-                  -46.3846536101954,-23.928779585335,0
-                  -46.3846484959937,-23.9287764580566,0
-                  -46.3846436391305,-23.9287730290786,0
-                  -46.3846391272334,-23.9287693140611,0
-                  -46.3846347935566,-23.9287653318921,0
-                  -46.3846307667393,-23.9287610647893,0
-                  -46.3846269954155,-23.9287565581852,0
-                  -46.3846237055804,-23.9287516979352,0
                   -46.3846109634425,-23.9287335382272,0
                   -46.3846940248681,-23.9291790271049,0
                   -46.3847083971956,-23.9291766700826,0
-                  -46.3847160899999,-23.9291739997932,0
-                  -46.3847196691304,-23.929172336437,0
-                  -46.384726724431,-23.9291683494081,0
-                  -46.3847299608329,-23.9291660278984,0
-                  -46.3847359973512,-23.9291609479842,0
-                  -46.3847387481036,-23.9291580577764,0
-                  -46.3847412101933,-23.9291550820063,0
                   -46.3847435270115,-23.9291519752977,0
-                  -46.3847455063503,-23.929148818707,0
-                  -46.3848245465206,-23.9290037743313,0
-                  -46.3848309285501,-23.9289934415669,0
-                  -46.3848381224532,-23.9289834708856,0
-                  -46.3848458077645,-23.9289739431289,0
-                  -46.3848542625622,-23.9289648557879,0
                   -46.3848632851548,-23.9289560930025,0
-                  -46.3850242453021,-23.9288232458571,0
-                  -46.3850320328316,-23.9288168184723,0
-                  -46.3850394847097,-23.928810668114,0
-                  -46.3851340629516,-23.9287324194561,0
                   -46.3851549382704,-23.9287168720501,0
-                  -46.3851766052903,-23.9287030240581,0
-                  -46.3851992096077,-23.9286900208857,0
-                  -46.3852224478925,-23.9286784341229,0
-                  -46.3853419616494,-23.9286281778416,0
-                  -46.3853474513331,-23.9286254945402,0
-                  -46.385352671575,-23.9286224234835,0
-                  -46.3853576239364,-23.9286191109773,0
-                  -46.3853624134879,-23.9286154585271,0
-                  -46.3853668815827,-23.9286115163377,0
-                  -46.385370795166,-23.9286073559998,0
                   -46.3853748024287,-23.9286029582949,0
-                  -46.3853783066742,-23.9285981956569,0
-                  -46.3853813849132,-23.9285932905435,0
-                  -46.3853841437775,-23.9285882907655,0
-                  -46.3853865281296,-23.9285830017273,0
-                  -46.3853885400514,-23.9285776185036,0
-                  -46.3853901559215,-23.9285722736088,0
-                  -46.3853913292514,-23.9285667618764,0
-                  -46.3853920599811,-23.9285610114407,0
                   -46.3853924248267,-23.928555338489,0
-                  -46.3853838917023,-23.9284954014321,0
-                  -46.3853712685348,-23.928418435207,0
-                  -46.3853679929106,-23.9283985388709,0
-                  -46.3853663280861,-23.9283932321827,0
                   -46.3853648256432,-23.9283880718543,0
-                  -46.3853626815612,-23.9283830651418,0
-                  -46.3853600566443,-23.9283782105938,0
-                  -46.3853571132741,-23.9283736545704,0
-                  -46.3853543322855,-23.9283692449069,0
-                  -46.3853505848953,-23.9283646961391,0
-                  -46.3853466830104,-23.9283607400669,0
-                  -46.385342782703,-23.9283569318056,0
                   -46.3853384047153,-23.9283535713311,0
-                  -46.3853337035426,-23.9283500659477,0
-                  -46.3853288494523,-23.9283473010707,0
-                  -46.3853239953622,-23.9283445361936,0
-                  -46.3853187063053,-23.9283421785214,0
-                  -46.3853133499847,-23.9283401571128,0
-                  -46.3853078917891,-23.9283383276768,0
-                  -46.3853021969039,-23.9283370416943,0
                   -46.3852964700989,-23.9283360107376,0
-                  -46.3852906434571,-23.9283353627885,0
-                  -46.3848937773861,-23.9283136130448,0
-                  -46.3848650257284,-23.9283107134365,0
-                  -46.3848357663197,-23.9283062389099,0
                   -46.3848072216109,-23.9282997271534,0
-                  -46.3847796394626,-23.9282914015733,0
-                  -46.3847525337835,-23.9282817178388,0
-                  -46.3847261379947,-23.9282695456347,0
                   -46.3847004689427,-23.9282564643031,0
-                  -46.3846762509535,-23.9282413391012,0
-                  -46.3846532482005,-23.9282250747245,0
-                  -46.3846312104191,-23.928207222147,0
-                  -46.3846109576928,-23.9281882078644,0
-                  -46.3846090355717,-23.9281869969371,0
-                  -46.3846038393388,-23.928182573729,0
-                  -46.3845991590848,-23.9281773570301,0
-                  -46.384595834207,-23.9281740563742,0
-                  -46.3845921298235,-23.9281709344382,0
-                  -46.3845882756245,-23.9281681024618,0
-                  -46.3845842041441,-23.9281653964163,0
-                  -46.3845798407671,-23.9281630692606,0
                   -46.3845754797269,-23.9281609612049,0
-                  -46.3845708359269,-23.9281591624694,0
-                  -46.3845661477266,-23.9281576709041,0
-                  -46.3845613669867,-23.9281564431187,0
-                  -46.3845563649692,-23.9281556109579,0
-                  -46.3845464255952,-23.9281546934339,0
-                  -46.3845364649777,-23.9281550462152,0
                   -46.3845056722172,-23.9281602256205,0
                   -46.3845891169156,-23.9286115829421,0
                 </coordinates>
@@ -1238,57 +957,32 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3843837460289,-23.9273429725997,0
-                  -46.3844165876503,-23.9273619882662,0
-                  -46.384446845702,-23.9273849929689,0
+                  -46.3843472680906,-23.927328255954,0
                   -46.3844733634326,-23.9274103304386,0
-                  -46.3844903790954,-23.9274320056902,0
-                  -46.384509577825,-23.9274633073965,0
                   -46.3845141462738,-23.9274741730655,0
-                  -46.3845243983096,-23.9275037556196,0
-                  -46.3845301208209,-23.9275279267984,0
-                  -46.3845391281995,-23.9275806489263,0
-                  -46.384552101942,-23.9276483013067,0
-                  -46.3846165733306,-23.9279774004492,0
                   -46.3846224427554,-23.9279971626375,0
                   -46.3846516736973,-23.928059812103,0
-                  -46.3846730118323,-23.9280898378091,0
                   -46.3847152469984,-23.9281337934355,0
-                  -46.3847459308389,-23.9281558088767,0
                   -46.384812563082,-23.9281881509349,0
                   -46.3848644424653,-23.9282015539173,0
-                  -46.3849510973087,-23.9282087531377,0
-                  -46.385296034605,-23.9282268451648,0
                   -46.3853433962233,-23.9282351089211,0
-                  -46.3853865809453,-23.928253877841,0
                   -46.3854157579576,-23.9282742332309,0
                   -46.3854491709015,-23.9283133949534,0
-                  -46.3854732764785,-23.9283610441732,0
                   -46.3854800236654,-23.9283873480694,0
-                  -46.3854964038368,-23.9284845459689,0
                   -46.3855041227684,-23.9285348308044,0
                   -46.3854988000129,-23.9285996404647,0
-                  -46.3854781337429,-23.9286490562081,0
                   -46.3854541403773,-23.9286819166445,0
                   -46.3853990217839,-23.9287231469313,0
-                  -46.3852912928654,-23.9287689663545,0
                   -46.3852259447314,-23.9288035681481,0
-                  -46.3851870348945,-23.9288326026383,0
-                  -46.3851198568181,-23.9288885232,0
                   -46.3849377680596,-23.9290400976525,0
-                  -46.384924450471,-23.9290561034546,0
-                  -46.3848878446747,-23.9291216748759,0
-                  -46.3848266260857,-23.9292313346691,0
                   -46.3848116005662,-23.9292538132345,0
                   -46.3847761037287,-23.9292832171532,0
-                  -46.3847413837921,-23.9292978938042,0
                   -46.3847162527624,-23.9293013837103,0
                   -46.3847239913607,-23.9293418905204,0
                   -46.3854181085565,-23.9287943897811,0
                   -46.38585004593,-23.9287680304231,0
                   -46.3856291033148,-23.9274919709156,0
                   -46.3843472680906,-23.927328255954,0
-                  -46.3843837460289,-23.9273429725997,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1297,16 +991,11 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.384491194784,-23.9280297087908,0
-                  -46.3845012177128,-23.9280178049946,0
-                  -46.3845051674759,-23.9280057247036,0
+                  -46.3844819990582,-23.9280352912818,0
                   -46.3845044522187,-23.9279931180012,0
                   -46.3844357036656,-23.9276385387791,0
-                  -46.3844288907676,-23.9276198658779,0
-                  -46.3844188309947,-23.9276069847923,0
                   -46.3843979687574,-23.9275935533318,0
                   -46.3844819990582,-23.9280352912818,0
-                  -46.384491194784,-23.9280297087908,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Morro_Jabaquara.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Morro_Jabaquara">
+      <name>Morro Jabaquara</name>
+      <Placemark id="Morro_Jabaquara.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Jabaquara.schema">
+            <SimpleData name="fid">1667</SimpleData>
+            <SimpleData name="Num_Qd">35041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0055</SimpleData>
+            <SimpleData name="Bairro">Morro Jabaquara</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3403837936798,-23.9392837122589,0
+                -46.3403303619928,-23.9394099506956,0
+                -46.3404204050386,-23.9394460792008,0
+                -46.3404678055772,-23.9393339627439,0
+                -46.3403837936798,-23.9392837122589,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Jabaquara.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Jabaquara.schema">
+            <SimpleData name="fid">1896</SimpleData>
+            <SimpleData name="Num_Qd">16008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0055</SimpleData>
+            <SimpleData name="Bairro">Morro Jabaquara</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3423746855493,-23.9407725470674,0
+                -46.3425746179021,-23.9406639877655,0
+                -46.3425826267554,-23.9406470032299,0
+                -46.3425038116527,-23.9404727232422,0
+                -46.3423070957107,-23.9405068280306,0
+                -46.3422188040865,-23.9405068055724,0
+                -46.3423746855493,-23.9407725470674,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

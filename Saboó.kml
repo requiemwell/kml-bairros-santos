@@ -2,34 +2,39 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Sabo__.schema">
-      <SimpleField name="quadra" type="string"/>
-      <SimpleField name="total_imov" type="string"/>
-      <SimpleField name="obs" type="string"/>
-      <SimpleField name="IEs" type="string"/>
-      <SimpleField name="P_estrateg" type="string"/>
-      <SimpleField name="NOME" type="string"/>
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
     </Schema>
     <Document id="Sabo__">
       <name>Saboó</name>
       <Placemark id="Sabo__.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23020</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">148</SimpleData>
+            <SimpleData name="Num_Qd">23020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0206</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3520423888559,-23.9306457067037,0
+                -46.3520366094512,-23.9306099966768,0
                 -46.3524106503309,-23.9326259192057,0
                 -46.3526059510861,-23.9325945343769,0
-                -46.3522402455634,-23.9306169810025,0
                 -46.3522320289107,-23.9305809700174,0
-                -46.3522177538163,-23.9305823054951,0
                 -46.3520366094512,-23.9306099966768,0
-                -46.3520423888559,-23.9306457067037,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -38,41 +43,30 @@
       <Placemark id="Sabo__.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23017</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">183</SimpleData>
+            <SimpleData name="Num_Qd">23017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3562495356855,-23.932699300606,0
-                -46.3562733418319,-23.9326833769172,0
-                -46.3562795611937,-23.9326768198905,0
-                -46.3562815345768,-23.9326682233293,0
-                -46.3562817500368,-23.9326606356731,0
-                -46.3562775287023,-23.932651552008,0
-                -46.3559999000914,-23.9322208944498,0
-                -46.3559920694313,-23.9322142809372,0
-                -46.3559814994092,-23.9322087753022,0
-                -46.3559654544354,-23.932205846615,0
-                -46.3559539605123,-23.9322059481479,0
-                -46.3559432930596,-23.9322099255627,0
-                -46.3555241335613,-23.9324254507803,0
-                -46.3554304836298,-23.9324721517134,0
-                -46.3554228988905,-23.9324799361584,0
-                -46.3554204800789,-23.9324870513794,0
-                -46.3554157667538,-23.9324961051609,0
-                -46.3554656247981,-23.9325862612843,0
-                -46.3555534025443,-23.9327447868206,0
-                -46.3556990625999,-23.9330013623885,0
-                -46.355707450664,-23.9330049005673,0
-                -46.3557193772288,-23.9330085881056,0
-                -46.355729988957,-23.9330086749926,0
-                -46.355740573333,-23.9330061432296,0
                 -46.3557552460306,-23.9329999630923,0
-                -46.3561106056268,-23.9327838081489,0
-                -46.3562495356855,-23.932699300606,0
+                -46.3562795611937,-23.9326768198905,0
+                -46.3562775287023,-23.932651552008,0
+                -46.3559814994092,-23.9322087753022,0
+                -46.3559432930596,-23.9322099255627,0
+                -46.3554304836298,-23.9324721517134,0
+                -46.3554157667538,-23.9324961051609,0
+                -46.3556990625999,-23.9330013623885,0
+                -46.3557193772288,-23.9330085881056,0
+                -46.3557552460306,-23.9329999630923,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -81,8 +75,14 @@
       <Placemark id="Sabo__.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23016</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">184</SimpleData>
+            <SimpleData name="Num_Qd">23016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -94,15 +94,10 @@
                 -46.3560910183494,-23.9321497406636,0
                 -46.3563797714688,-23.9326013411857,0
                 -46.3564166479745,-23.9325951453957,0
-                -46.3566683242377,-23.9324413867771,0
                 -46.3569376073367,-23.9322802475945,0
-                -46.3569466330876,-23.9322696019385,0
                 -46.3569559157936,-23.9322553417479,0
-                -46.3569598983307,-23.932241579944,0
-                -46.3569551272447,-23.9322269021513,0
                 -46.3569422373464,-23.9322062455893,0
                 -46.3566648562585,-23.9318557793097,0
-                -46.3566466406357,-23.9318519668113,0
                 -46.356614069764,-23.9318658909625,0
               </coordinates>
             </LinearRing>
@@ -112,8 +107,14 @@
       <Placemark id="Sabo__.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23012</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">254</SimpleData>
+            <SimpleData name="Num_Qd">23012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -124,10 +125,7 @@
                 -46.3553451414501,-23.9323586150643,0
                 -46.3553740274285,-23.9323587212348,0
                 -46.3558836516323,-23.9320965757829,0
-                -46.3558884909319,-23.9320895794292,0
                 -46.3558924036382,-23.9320785274635,0
-                -46.3558934551636,-23.9320663267853,0
-                -46.355892570215,-23.93205685241,0
                 -46.3558880485541,-23.932047229545,0
                 -46.3556119755493,-23.931614751285,0
                 -46.3555759714888,-23.931600981409,0
@@ -142,8 +140,14 @@
       <Placemark id="Sabo__.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23006</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">255</SimpleData>
+            <SimpleData name="Num_Qd">23006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -151,35 +155,16 @@
             <LinearRing>
               <coordinates>
                 -46.3546542194457,-23.9311024080742,0
-                -46.3549411424142,-23.9316241057222,0
                 -46.3549663101512,-23.9316727394508,0
-                -46.3549756501204,-23.9316827713481,0
                 -46.3549908551693,-23.9316899519677,0
-                -46.3550052328386,-23.931693166398,0
                 -46.3550177988586,-23.9316922427146,0
-                -46.355034129246,-23.9316848740305,0
                 -46.3554729158538,-23.9314980388536,0
-                -46.3554854215021,-23.9314913360427,0
-                -46.3554961070012,-23.93147968244,0
                 -46.3555011258045,-23.931471058994,0
-                -46.355503893617,-23.9314632681847,0
-                -46.3555044057244,-23.9314558585206,0
                 -46.3555017770413,-23.9314487475109,0
                 -46.3554517455778,-23.9313633364128,0
-                -46.3553983196417,-23.9312860608,0
-                -46.3551555076874,-23.9309078880484,0
-                -46.3551511201838,-23.9309016956241,0
                 -46.3551438969847,-23.9308967925259,0
-                -46.3551323796071,-23.9308946365346,0
-                -46.3551222714932,-23.9308957191401,0
                 -46.3546738830263,-23.9310284540258,0
-                -46.354663736026,-23.9310352262628,0
-                -46.3546544920117,-23.9310437966631,0
-                -46.3546485077492,-23.9310540541225,0
                 -46.3546458532071,-23.9310632888249,0
-                -46.354645654611,-23.9310725018543,0
-                -46.3546485268315,-23.9310841260635,0
-                -46.3546517891771,-23.93109547591,0
                 -46.3546542194457,-23.9311024080742,0
               </coordinates>
             </LinearRing>
@@ -189,8 +174,14 @@
       <Placemark id="Sabo__.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23014</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">256</SimpleData>
+            <SimpleData name="Num_Qd">23014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -200,21 +191,10 @@
                 -46.3545404542752,-23.9327838083644,0
                 -46.35454806601,-23.9327643546211,0
                 -46.3542671430466,-23.9321681004372,0
-                -46.3542610192735,-23.9321649937323,0
                 -46.3542520691889,-23.9321640793214,0
-                -46.3538505489244,-23.932344802824,0
-                -46.3538426575053,-23.93235119389,0
                 -46.3538378058393,-23.932357016306,0
-                -46.3538346487208,-23.9323651717488,0
-                -46.3538357413026,-23.9323757279893,0
-                -46.3539649033434,-23.932783822949,0
-                -46.3540256251236,-23.9329756759196,0
-                -46.354039870348,-23.9330226903189,0
                 -46.354044936133,-23.933027973723,0
-                -46.3540514444227,-23.9330302642833,0
-                -46.3540603936245,-23.9330310884049,0
                 -46.354070395199,-23.9330291940436,0
-                -46.3545391662947,-23.9327871001182,0
                 -46.3545404542752,-23.9327838083644,0
               </coordinates>
             </LinearRing>
@@ -224,43 +204,28 @@
       <Placemark id="Sabo__.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23015</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">257</SimpleData>
+            <SimpleData name="Num_Qd">23015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3538405602611,-23.9327838258149,0
-                -46.3537260154673,-23.9324244679247,0
-                -46.3537211935822,-23.9324143057986,0
-                -46.3537133846798,-23.9324097690268,0
-                -46.3537050240137,-23.9324088493864,0
-                -46.3536968814855,-23.9324100048746,0
-                -46.3535084925348,-23.9324902329272,0
-                -46.35332745559,-23.9325594688317,0
-                -46.3533183579602,-23.9325632516138,0
-                -46.353307336032,-23.9325709345468,0
-                -46.3533012392352,-23.9325798383504,0
-                -46.3532972999311,-23.932588361906,0
-                -46.3532963087398,-23.9325969497766,0
-                -46.3532977308322,-23.9326108444632,0
-                -46.3533291394645,-23.9327838365534,0
-                -46.3534191638073,-23.9332796685099,0
-                -46.3534228244042,-23.9333009486004,0
-                -46.3534289121189,-23.9333100158934,0
-                -46.3534393073116,-23.9333176002988,0
-                -46.3534483688949,-23.9333197780642,0
-                -46.3534566106641,-23.9333187120189,0
-                -46.353482043733,-23.9333080121883,0
-                -46.3536917248244,-23.9332155855742,0
-                -46.3539155696002,-23.9331058754924,0
-                -46.3539249346506,-23.9330994714232,0
                 -46.353932011936,-23.9330903783342,0
-                -46.3539342886766,-23.9330825918817,0
-                -46.3539329173722,-23.9330735733145,0
-                -46.3538405602611,-23.9327838258149,0
+                -46.3537133846798,-23.9324097690268,0
+                -46.353307336032,-23.9325709345468,0
+                -46.3532977308322,-23.9326108444632,0
+                -46.3534228244042,-23.9333009486004,0
+                -46.3534393073116,-23.9333176002988,0
+                -46.3536917248244,-23.9332155855742,0
+                -46.353932011936,-23.9330903783342,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -269,42 +234,30 @@
       <Placemark id="Sabo__.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23010</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">258</SimpleData>
+            <SimpleData name="Num_Qd">23010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1253</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3530003467419,-23.9325178312666,0
+                -46.3527239934528,-23.9325761667296,0
                 -46.3530999423599,-23.9324868812426,0
-                -46.3531165592097,-23.9324786974711,0
-                -46.3531226654283,-23.932470696658,0
                 -46.3531253891614,-23.9324586618623,0
-                -46.3531226259732,-23.9324386381422,0
-                -46.3529605282826,-23.9315537070392,0
                 -46.3529554051891,-23.9315429153928,0
-                -46.3529476936625,-23.9315382874137,0
-                -46.3529377603027,-23.9315372912837,0
-                -46.35290825552,-23.9315437824878,0
                 -46.3527183328378,-23.9315898056984,0
                 -46.3527149634648,-23.9315707965536,0
                 -46.3525345880589,-23.9315971955659,0
-                -46.3525289184617,-23.9315999547216,0
-                -46.352524367121,-23.9316063162914,0
                 -46.3525239596673,-23.9316143571762,0
-                -46.3525910506035,-23.9319903448699,0
-                -46.3526964242054,-23.9325515753505,0
                 -46.3526976450498,-23.9325650202853,0
-                -46.3527008545727,-23.9325713134682,0
-                -46.3527056076897,-23.9325748838482,0
-                -46.3527097440822,-23.9325758407696,0
-                -46.3527147608622,-23.9325764287058,0
                 -46.3527239934528,-23.9325761667296,0
-                -46.3528604332999,-23.9325545946086,0
-                -46.3529304045591,-23.9325376830671,0
-                -46.3530003467419,-23.9325178312666,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -313,8 +266,14 @@
       <Placemark id="Sabo__.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23009</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">259</SimpleData>
+            <SimpleData name="Num_Qd">23009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -322,35 +281,16 @@
             <LinearRing>
               <coordinates>
                 -46.3541744826482,-23.9320538672583,0
-                -46.3541821916862,-23.9320488323846,0
-                -46.354189557021,-23.9320391045976,0
                 -46.3541922182067,-23.9320305019902,0
-                -46.3541919303502,-23.932021744786,0
                 -46.3541880701067,-23.9320095874453,0
                 -46.3540480039018,-23.9317115468375,0
-                -46.354042731333,-23.9317052718817,0
-                -46.3540359170928,-23.9317019003374,0
                 -46.3540274535234,-23.9317005300873,0
-                -46.3540227427919,-23.9317010231732,0
-                -46.3538278622084,-23.9317710138851,0
                 -46.3532176284121,-23.9319953883332,0
-                -46.3532067728773,-23.9320001799779,0
-                -46.3531979056482,-23.9320072117604,0
-                -46.3531921167631,-23.9320173771385,0
-                -46.353190062828,-23.9320276902042,0
                 -46.353190621799,-23.9320341873562,0
-                -46.3532548428001,-23.9323985504037,0
                 -46.3532582968351,-23.9324094470581,0
-                -46.3532628779597,-23.9324153669098,0
-                -46.353270582019,-23.9324192724829,0
                 -46.3532820995098,-23.9324214286091,0
-                -46.353297035593,-23.9324216581555,0
                 -46.3533204544434,-23.9324156720602,0
-                -46.3534445458755,-23.9323684936315,0
                 -46.3535458502893,-23.9323296230403,0
-                -46.3538787953627,-23.9321853097272,0
-                -46.3540072443067,-23.9321299245757,0
-                -46.354029778654,-23.9321190015348,0
                 -46.3541744826482,-23.9320538672583,0
               </coordinates>
             </LinearRing>
@@ -360,23 +300,27 @@
       <Placemark id="Sabo__.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">24015</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">305</SimpleData>
+            <SimpleData name="Num_Qd">24015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1330</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3476086681073,-23.9309946993728,0
+                -46.3476260504774,-23.931009599561,0
                 -46.3466698721956,-23.9306321030949,0
                 -46.3450518308002,-23.9342174748035,0
                 -46.3459559067171,-23.9345665226418,0
                 -46.3463106220038,-23.9337906243272,0
                 -46.3463571564617,-23.9337509883741,0
                 -46.3476260504774,-23.931009599561,0
-                -46.3476237141407,-23.9310005106199,0
-                -46.3476086681073,-23.9309946993728,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -385,43 +329,29 @@
       <Placemark id="Sabo__.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33007</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">309</SimpleData>
+            <SimpleData name="Num_Qd">33007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0206</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.352724762339,-23.9339017496911,0
-                -46.3526954058888,-23.9337548302716,0
+                -46.352853948432,-23.9345348924341,0
                 -46.3526908316932,-23.9337401505982,0
-                -46.3526849273116,-23.9337298173664,0
-                -46.3526748855605,-23.9337184369154,0
-                -46.3526614016497,-23.9337067255713,0
-                -46.3526485504691,-23.9336991627561,0
                 -46.3526351465513,-23.9336951267703,0
-                -46.3526183221168,-23.9336928367522,0
-                -46.3526016316816,-23.9336939772043,0
-                -46.3525357658838,-23.9337038408029,0
-                -46.352410439718,-23.9337226086863,0
                 -46.3522992020445,-23.9337392666956,0
                 -46.3519717689402,-23.9337044931984,0
                 -46.3519652828024,-23.9337137616089,0
-                -46.3521608074203,-23.9345056295238,0
-                -46.3521905298154,-23.9346376229097,0
                 -46.3522055935329,-23.9346619668416,0
-                -46.3522324645739,-23.934673633946,0
                 -46.3522660696489,-23.9346764868888,0
-                -46.3525421182616,-23.9346109335512,0
-                -46.3526426693214,-23.9345880780137,0
-                -46.3527325747633,-23.934568317637,0
-                -46.3528335748359,-23.9345474646169,0
-                -46.3528443193721,-23.9345434324197,0
                 -46.352853948432,-23.9345348924341,0
-                -46.3528581512567,-23.934524214935,0
-                -46.3528587138795,-23.9345121965543,0
-                -46.352724762339,-23.9339017496911,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -430,51 +360,32 @@
       <Placemark id="Sabo__.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23001</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">314</SimpleData>
+            <SimpleData name="Num_Qd">23001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.354804342006,-23.9301988296059,0
-                -46.354676148595,-23.9302193768544,0
-                -46.3546190879921,-23.9302295861739,0
-                -46.3545927949003,-23.9302342905458,0
-                -46.3545821105992,-23.9302366424915,0
-                -46.3545721262073,-23.9302401622468,0
-                -46.3545649188399,-23.9302461860831,0
-                -46.3545585454235,-23.9302568081995,0
-                -46.3545561865422,-23.9302661305986,0
-                -46.3545592420163,-23.9302764889015,0
-                -46.3546190885653,-23.9303811766623,0
-                -46.354872371606,-23.9308242347893,0
-                -46.354905880072,-23.9308248421015,0
-                -46.3549155820374,-23.9308224988024,0
-                -46.3553332351246,-23.9307007810974,0
-                -46.3556700593245,-23.9306006369515,0
-                -46.3556757250341,-23.930597516491,0
-                -46.3556802959862,-23.9305930510993,0
-                -46.3556824592587,-23.9305838207201,0
-                -46.3556786253322,-23.9305741917711,0
-                -46.3556660597553,-23.9305563317251,0
-                -46.3556287927716,-23.9305062697428,0
-                -46.3555884776306,-23.9304559637477,0
-                -46.3555527606438,-23.9304132028928,0
-                -46.3555030053539,-23.9303620771667,0
-                -46.3554239880258,-23.9302936000061,0
-                -46.3553940912772,-23.9302719194696,0
-                -46.3553578496602,-23.9302541781316,0
-                -46.3553371199129,-23.9302447886539,0
-                -46.355238693619,-23.930208722218,0
-                -46.3551857545493,-23.9301913991679,0
-                -46.355133958315,-23.930180026248,0
-                -46.3551057095786,-23.9301750378311,0
                 -46.3550680395032,-23.93017103564,0
-                -46.355043581279,-23.9301715224565,0
-                -46.355017267859,-23.9301731093244,0
-                -46.354804342006,-23.9301988296059,0
+                -46.3545821105992,-23.9302366424915,0
+                -46.3545561865422,-23.9302661305986,0
+                -46.354872371606,-23.9308242347893,0
+                -46.3549155820374,-23.9308224988024,0
+                -46.3556802959862,-23.9305930510993,0
+                -46.3556287927716,-23.9305062697428,0
+                -46.3555030053539,-23.9303620771667,0
+                -46.3553940912772,-23.9302719194696,0
+                -46.3553371199129,-23.9302447886539,0
+                -46.3551857545493,-23.9301913991679,0
+                -46.3550680395032,-23.93017103564,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -483,32 +394,27 @@
       <Placemark id="Sabo__.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23002</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">315</SimpleData>
+            <SimpleData name="Num_Qd">23002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3546190906332,-23.9309130978444,0
+                -46.3539179063596,-23.9311163995685,0
                 -46.354731287749,-23.9308805669977,0
-                -46.3547392980064,-23.9308761615866,0
-                -46.3547413876146,-23.930869279841,0
                 -46.3547411148059,-23.9308619674112,0
-                -46.3547371117925,-23.9308549588213,0
-                -46.354619089594,-23.930650250683,0
-                -46.3544111244685,-23.9302895356754,0
-                -46.3544020275421,-23.9302745347267,0
                 -46.3543957801833,-23.9302689908341,0
-                -46.3543878835182,-23.9302654482392,0
-                -46.35437363629,-23.9302653030193,0
-                -46.3538554505261,-23.9303373330333,0
                 -46.353614739552,-23.9303743141367,0
                 -46.3535852884217,-23.9304236103495,0
-                -46.3538393966617,-23.9309552624767,0
                 -46.3539179063596,-23.9311163995685,0
-                -46.3546190906332,-23.9309130978444,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -517,38 +423,30 @@
       <Placemark id="Sabo__.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23007</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">316</SimpleData>
+            <SimpleData name="Num_Qd">23007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3547742711545,-23.9317984254515,0
-                -46.3548473489248,-23.9317684308144,0
+                -46.3543474063056,-23.9319792835759,0
                 -46.3548574959701,-23.9317616585638,0
-                -46.3548635047506,-23.9317537488523,0
-                -46.3548658419532,-23.9317423495889,0
                 -46.3548653302434,-23.9317309754711,0
-                -46.354861715435,-23.9317235119271,0
-                -46.3546190921243,-23.9312808351459,0
-                -46.3545217919565,-23.9311033057423,0
                 -46.3545092867816,-23.9310912246905,0
-                -46.3544901579673,-23.9310846204811,0
                 -46.3544747431015,-23.9310855692565,0
                 -46.3540381163532,-23.9312157602639,0
-                -46.3540214912471,-23.9312231314417,0
-                -46.354007921878,-23.9312314690374,0
                 -46.353999653592,-23.9312393986471,0
-                -46.3539930619444,-23.931247945614,0
-                -46.3539895420471,-23.9312589940724,0
-                -46.3539900273035,-23.9312678398439,0
                 -46.3539932735856,-23.9312776546347,0
                 -46.3543224709272,-23.9319717372091,0
                 -46.3543474063056,-23.9319792835759,0
-                -46.3546190946081,-23.9318641723075,0
-                -46.3547742711545,-23.9317984254515,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -557,8 +455,14 @@
       <Placemark id="Sabo__.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23013</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">317</SimpleData>
+            <SimpleData name="Num_Qd">23013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -566,21 +470,11 @@
             <LinearRing>
               <coordinates>
                 -46.3549350459128,-23.9318777405234,0
-                -46.354619095271,-23.9320131651396,0
                 -46.3544073606165,-23.9321039195744,0
                 -46.3543959547623,-23.9321312928151,0
-                -46.3546190979455,-23.9325993241753,0
-                -46.3546230640971,-23.9326076429426,0
-                -46.3546688675864,-23.9327036861861,0
                 -46.3546750196672,-23.9327095018218,0
-                -46.3546821117304,-23.9327112453638,0
-                -46.3546891679814,-23.9327095575702,0
-                -46.3547000301108,-23.9327053979088,0
                 -46.3552147325432,-23.9324400490467,0
-                -46.3552221213884,-23.9324325786701,0
                 -46.3552282048437,-23.9324224106201,0
-                -46.3552314186302,-23.9324102811608,0
-                -46.355232298254,-23.9324004299747,0
                 -46.3552294485733,-23.9323909729408,0
                 -46.3549570471356,-23.9318959688705,0
                 -46.3549470720556,-23.9319003916378,0
@@ -593,8 +487,14 @@
       <Placemark id="Sabo__.16">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23005</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">318</SimpleData>
+            <SimpleData name="Num_Qd">23005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -602,25 +502,13 @@
             <LinearRing>
               <coordinates>
                 -46.3552797438852,-23.9308846661172,0
-                -46.3556063401487,-23.9313949947739,0
                 -46.3556238914281,-23.9314104628189,0
                 -46.3556467631428,-23.9313991531198,0
                 -46.3556568756822,-23.9314173057463,0
-                -46.3561278940266,-23.931212484005,0
-                -46.3561388249751,-23.9312055241344,0
                 -46.3561431031038,-23.9312012419292,0
-                -46.3561453059726,-23.9311958040721,0
-                -46.3561454137711,-23.9311873142998,0
                 -46.3561435832265,-23.9311813702365,0
-                -46.3558288139769,-23.9307688306736,0
                 -46.3557776994568,-23.9307004684907,0
-                -46.3557717948311,-23.9306995272676,0
-                -46.3557656115255,-23.9307001237179,0
-                -46.3556206594132,-23.9307434867394,0
                 -46.3552841483727,-23.9308454341573,0
-                -46.3552792628871,-23.9308480058757,0
-                -46.3552768418276,-23.9308513685958,0
-                -46.3552758952757,-23.9308548086043,0
                 -46.3552797438852,-23.9308846661172,0
               </coordinates>
             </LinearRing>
@@ -630,8 +518,14 @@
       <Placemark id="Sabo__.17">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23011</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">319</SimpleData>
+            <SimpleData name="Num_Qd">23011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -640,24 +534,13 @@
               <coordinates>
                 -46.3562133972767,-23.9313280434992,0
                 -46.3557474361277,-23.9315279442891,0
-                -46.355740145601,-23.9315354138205,0
                 -46.3557269086017,-23.9315567527807,0
-                -46.3557261649801,-23.931570215032,0
                 -46.355731251364,-23.9315868768307,0
-                -46.3557470446172,-23.9316127456457,0
                 -46.3560000240453,-23.932007047352,0
                 -46.3560180037114,-23.9319976772494,0
                 -46.3560325644423,-23.9320184094422,0
-                -46.3565530838395,-23.9317461415693,0
-                -46.3565616504824,-23.9317385704165,0
                 -46.3565660051466,-23.9317322104719,0
-                -46.3565667221631,-23.9317256117549,0
-                -46.3565656066256,-23.9317222802701,0
                 -46.3562635571429,-23.9313331993354,0
-                -46.3562540461022,-23.9313256073084,0
-                -46.3562444858842,-23.9313227116579,0
-                -46.356233076127,-23.9313214578665,0
-                -46.3562241534528,-23.9313231622182,0
                 -46.3562133972767,-23.9313280434992,0
               </coordinates>
             </LinearRing>
@@ -667,29 +550,29 @@
       <Placemark id="Sabo__.18">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23018</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">320</SimpleData>
+            <SimpleData name="Num_Qd">23018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3554443217698,-23.9327838090755,0
+                -46.355607522198,-23.9330777495844,0
                 -46.3553274478721,-23.9325620322861,0
                 -46.3552894392017,-23.9325472155402,0
-                -46.3548298249051,-23.9327838073582,0
                 -46.3547419951036,-23.9328290185196,0
                 -46.354752848095,-23.9328522218384,0
                 -46.3547419027958,-23.9328578271438,0
-                -46.3550136248535,-23.9334287853428,0
-                -46.3550196900579,-23.9334356854084,0
                 -46.3550267065501,-23.9334395969582,0
-                -46.3550324110476,-23.9334401787457,0
-                -46.3550424835368,-23.933435664803,0
                 -46.355603161629,-23.9330955486558,0
                 -46.355607522198,-23.9330777495844,0
-                -46.3554443217698,-23.9327838090755,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -698,26 +581,28 @@
       <Placemark id="Sabo__.19">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23003</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">321</SimpleData>
+            <SimpleData name="Num_Qd">23003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0658</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3529117991296,-23.9305263562131,0
+                -46.35291435664,-23.9304889467057,0
                 -46.3530627197753,-23.931347719855,0
                 -46.3530836230933,-23.9313643326427,0
                 -46.3537812741123,-23.931156887998,0
                 -46.3534482641477,-23.9304547100255,0
                 -46.3533892241521,-23.9304081807776,0
                 -46.3529309506669,-23.9304785958019,0
-                -46.3529213553918,-23.9304817507956,0
                 -46.35291435664,-23.9304889467057,0
-                -46.3529111125574,-23.9304981865785,0
-                -46.3529100334636,-23.9305077685974,0
-                -46.3529117991296,-23.9305263562131,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -726,42 +611,30 @@
       <Placemark id="Sabo__.20">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23008</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">322</SimpleData>
+            <SimpleData name="Num_Qd">23008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3538762488929,-23.931662670684,0
-                -46.353978314936,-23.931623751343,0
-                -46.353984533429,-23.9316171041074,0
-                -46.3539869585852,-23.9316047107057,0
-                -46.3539893083895,-23.931585093437,0
-                -46.3539867243355,-23.9315728345261,0
-                -46.3539818061111,-23.9315628538698,0
-                -46.3538554051843,-23.9313032534408,0
-                -46.3538427346509,-23.9312941539112,0
-                -46.3538247790416,-23.9312869974316,0
-                -46.3538118900801,-23.9312852146647,0
-                -46.3538030693741,-23.9312872792036,0
-                -46.3531370262871,-23.931482705481,0
-                -46.3531240039022,-23.9314869743794,0
-                -46.3531115916538,-23.9314932246453,0
-                -46.3531026450397,-23.9315020632548,0
-                -46.3530983137395,-23.9315106805678,0
-                -46.3530962447425,-23.9315195488589,0
-                -46.3530963225218,-23.9315364355204,0
-                -46.3531606292808,-23.9318902320127,0
-                -46.3531644705984,-23.9319005834166,0
-                -46.3531701200863,-23.9319053198677,0
-                -46.3531769343169,-23.9319086914511,0
-                -46.3531866787601,-23.9319104116831,0
-                -46.3532000288477,-23.9319093006224,0
                 -46.3532201178569,-23.9319043372729,0
-                -46.353235775775,-23.931898419611,0
-                -46.3538762488929,-23.931662670684,0
+                -46.353978314936,-23.931623751343,0
+                -46.3539893083895,-23.931585093437,0
+                -46.3538554051843,-23.9313032534408,0
+                -46.3538247790416,-23.9312869974316,0
+                -46.3531370262871,-23.931482705481,0
+                -46.3530962447425,-23.9315195488589,0
+                -46.3531606292808,-23.9318902320127,0
+                -46.3531769343169,-23.9319086914511,0
+                -46.3532201178569,-23.9319043372729,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -770,37 +643,28 @@
       <Placemark id="Sabo__.21">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">23004</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">323</SimpleData>
+            <SimpleData name="Num_Qd">23004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1253</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3524183743716,-23.9310515028026,0
-                -46.3524829492395,-23.9314029493401,0
-                -46.3524949955467,-23.9314747273243,0
-                -46.3524980867621,-23.931485865123,0
+                -46.3523300151251,-23.9305671536679,0
                 -46.3525066062478,-23.9314927377784,0
-                -46.352516404134,-23.9314942862075,0
                 -46.3526930761295,-23.9314665733397,0
-                -46.352893088226,-23.9314176674337,0
-                -46.3529046323343,-23.9314129600501,0
                 -46.352912436803,-23.9314076534784,0
-                -46.3529209735313,-23.9313971929721,0
-                -46.352924811767,-23.9313883993961,0
-                -46.352928155047,-23.9313792489557,0
-                -46.3529288684838,-23.9313722890538,0
                 -46.3529275917468,-23.9313629084123,0
                 -46.3527735879821,-23.9305378692038,0
-                -46.3527690383766,-23.9305255372802,0
-                -46.3527619552986,-23.9305152144293,0
                 -46.3527521629751,-23.9305088889469,0
-                -46.3527406466034,-23.9305068230706,0
-                -46.3527235579825,-23.9305074251904,0
                 -46.3523300151251,-23.9305671536679,0
-                -46.3524183743716,-23.9310515028026,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -809,42 +673,28 @@
       <Placemark id="Sabo__.22">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33001</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">527</SimpleData>
+            <SimpleData name="Num_Qd">33001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.354619101365,-23.9336929743911,0
-                -46.354892894751,-23.9335245827001,0
-                -46.3548991142237,-23.9335180257252,0
-                -46.3549026406917,-23.9335076093377,0
-                -46.3549023819998,-23.9335016513854,0
-                -46.3549006487702,-23.9334956161426,0
-                -46.3548611552793,-23.9334205587358,0
-                -46.3546431008536,-23.9329648093953,0
-                -46.3546190991719,-23.9329183254065,0
-                -46.3546143218971,-23.9329090732726,0
-                -46.3546105313201,-23.932903598021,0
-                -46.3546028366184,-23.9329005955017,0
-                -46.3545976289963,-23.932900551152,0
-                -46.3545904914571,-23.9329038651783,0
-                -46.3541204523631,-23.9331468735215,0
-                -46.3541080550853,-23.9331545686448,0
-                -46.3541011507373,-23.9331614025503,0
-                -46.354096523795,-23.9331699321908,0
-                -46.3540948280215,-23.9331769007606,0
-                -46.354095001624,-23.9331841237591,0
-                -46.3540968584863,-23.9331925962011,0
-                -46.3543041042877,-23.9338555147945,0
-                -46.354308212215,-23.9338631546111,0
-                -46.3543146468093,-23.9338677937805,0
-                -46.3543224313236,-23.9338699827601,0
                 -46.3543303897046,-23.9338700028465,0
-                -46.3543425980924,-23.9338630318235,0
-                -46.354619101365,-23.9336929743911,0
+                -46.3549026406917,-23.9335076093377,0
+                -46.3546431008536,-23.9329648093953,0
+                -46.3545976289963,-23.932900551152,0
+                -46.3541204523631,-23.9331468735215,0
+                -46.354095001624,-23.9331841237591,0
+                -46.354308212215,-23.9338631546111,0
+                -46.3543303897046,-23.9338700028465,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -853,35 +703,28 @@
       <Placemark id="Sabo__.23">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33002</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">528</SimpleData>
+            <SimpleData name="Num_Qd">33002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3541800123806,-23.9338457728472,0
+                -46.3541981112298,-23.9339137043573,0
                 -46.3539881882282,-23.9332389790565,0
                 -46.3539489181297,-23.9332323718442,0
-                -46.3536982958426,-23.9333557738262,0
-                -46.3534862891081,-23.9334418994981,0
-                -46.3534756403034,-23.9334476827152,0
-                -46.3534656820004,-23.9334537307628,0
                 -46.3534578319276,-23.9334640949389,0
-                -46.3534555011683,-23.9334761262735,0
-                -46.3535305494241,-23.9338893398104,0
                 -46.3535913535492,-23.9342084890775,0
                 -46.3536360127244,-23.9342230861341,0
-                -46.3541608515245,-23.9339585542415,0
                 -46.3541753119143,-23.9339508409103,0
-                -46.3541835888323,-23.9339437239714,0
-                -46.3541909731098,-23.9339358021478,0
-                -46.3541962594863,-23.9339245574882,0
                 -46.3541981112298,-23.9339137043573,0
-                -46.354197711932,-23.9339036838459,0
-                -46.3541949586427,-23.9338940453293,0
-                -46.3541800123806,-23.9338457728472,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -890,8 +733,14 @@
       <Placemark id="Sabo__.24">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33004</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">529</SimpleData>
+            <SimpleData name="Num_Qd">33004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1254</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -899,40 +748,15 @@
             <LinearRing>
               <coordinates>
                 -46.3527999249605,-23.9337719704666,0
-                -46.3529430310368,-23.9344936138267,0
                 -46.3529487788754,-23.9344983494138,0
-                -46.352953216642,-23.9344999358161,0
-                -46.3529602880766,-23.9344996928706,0
-                -46.3530527955451,-23.9344766619864,0
-                -46.3531465424468,-23.9344500078553,0
                 -46.3532406210716,-23.9344174808124,0
-                -46.3533376926895,-23.9343704782629,0
-                -46.3534414144472,-23.9343205272025,0
-                -46.3534503053548,-23.9343157528596,0
                 -46.3534563416416,-23.9343104618481,0
-                -46.3534618302273,-23.9342997572683,0
-                -46.3534641845379,-23.9342899833922,0
                 -46.3534643888607,-23.9342813121542,0
-                -46.3534544775521,-23.9342353431699,0
-                -46.3533937641414,-23.9338965964983,0
-                -46.3533294429053,-23.9335510182819,0
-                -46.3533262468289,-23.9335365973987,0
                 -46.3533224591095,-23.933531393009,0
-                -46.3533156259577,-23.9335262154701,0
-                -46.3533046639119,-23.9335208034139,0
                 -46.3532952868842,-23.9335166416755,0
-                -46.3532881097329,-23.9335161631135,0
                 -46.3532573292926,-23.9335228462592,0
-                -46.3530877588271,-23.9335800603581,0
-                -46.3529905022524,-23.9336092739564,0
-                -46.3529306383677,-23.933625455278,0
-                -46.3528886964803,-23.9336387117443,0
                 -46.3528613295542,-23.933649334678,0
-                -46.3528153136284,-23.9336742133488,0
-                -46.3528066512175,-23.9336820560668,0
                 -46.3528000781963,-23.933692408956,0
-                -46.3527940669603,-23.9337095298926,0
-                -46.3527910973963,-23.9337262627951,0
                 -46.3527999249605,-23.9337719704666,0
               </coordinates>
             </LinearRing>
@@ -942,30 +766,28 @@
       <Placemark id="Sabo__.25">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33005</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1359</SimpleData>
+            <SimpleData name="Num_Qd">33005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1330</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3525654385529,-23.9347048095167,0
+                -46.3530791481446,-23.9346201075359,0
                 -46.3523684634163,-23.9347477882137,0
                 -46.3522324549813,-23.9347533446896,0
                 -46.3522880016722,-23.9351335324006,0
-                -46.3526172182213,-23.9351516349743,0
-                -46.352856261794,-23.9351675723174,0
                 -46.3530600038875,-23.9351755382625,0
                 -46.3533741137345,-23.9351710379782,0
                 -46.3532680365758,-23.9345599424142,0
-                -46.3531716395132,-23.9345929549298,0
                 -46.3530791481446,-23.9346201075359,0
-                -46.3529604684064,-23.9346441785172,0
-                -46.3528779857581,-23.9346614598636,0
-                -46.3527791297619,-23.9346760447222,0
-                -46.3526738544151,-23.9346917926678,0
-                -46.3525654385529,-23.9347048095167,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -974,27 +796,24 @@
       <Placemark id="Sabo__.26">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">24016</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1417</SimpleData>
+            <SimpleData name="Num_Qd">24016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1330</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.346299117906,-23.9308015001692,0
-                -46.3462947926251,-23.930801267182,0
-                -46.3461306168396,-23.9308576135041,0
-                -46.3461277969647,-23.9308604377442,0
-                -46.3461276538631,-23.9308655864896,0
-                -46.3462226537639,-23.9309598465107,0
-                -46.3462272971763,-23.9309623343809,0
-                -46.3462306353992,-23.9309621244918,0
-                -46.3462364631963,-23.9309556615971,0
                 -46.346304487377,-23.9308076842503,0
-                -46.3463047549321,-23.9308050630053,0
-                -46.3463029660449,-23.9308030919435,0
-                -46.346299117906,-23.9308015001692,0
+                -46.3461277969647,-23.9308604377442,0
+                -46.3462272971763,-23.9309623343809,0
+                -46.346304487377,-23.9308076842503,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1003,32 +822,28 @@
       <Placemark id="Sabo__.27">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">05017</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1516</SimpleData>
+            <SimpleData name="Num_Qd">05017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3401665034318,-23.9308008418587,0
+                -46.3398149066367,-23.9308617706435,0
                 -46.3402470367418,-23.9307837299892,0
                 -46.3401964214225,-23.9306144940617,0
                 -46.3400974765799,-23.9304098461935,0
-                -46.3400028769123,-23.9304443203709,0
                 -46.3398457790687,-23.9305203574302,0
-                -46.3396933782147,-23.9306079126415,0
-                -46.3396148129071,-23.9306443598387,0
                 -46.3395279963221,-23.9306920193523,0
-                -46.3395847273779,-23.9308119134416,0
                 -46.3396483985061,-23.9309408968734,0
-                -46.3397545302397,-23.9308966503747,0
                 -46.3398149066367,-23.9308617706435,0
-                -46.339873188659,-23.9308505244521,0
-                -46.3399038154037,-23.9308460668865,0
-                -46.3399996452715,-23.9308374640096,0
-                -46.3400316220898,-23.9308305185875,0
-                -46.3401665034318,-23.9308008418587,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1037,46 +852,40 @@
       <Placemark id="Sabo__.28">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06003</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1517</SimpleData>
+            <SimpleData name="Num_Qd">06003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1327</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3421288057186,-23.9306989803854,0
+                -46.3421046140199,-23.930770490023,0
                 -46.3421456896343,-23.9306237487464,0
                 -46.3422226318182,-23.9305564474066,0
                 -46.3421864855701,-23.9305124571084,0
-                -46.3421743232525,-23.9305105341481,0
                 -46.3420890630689,-23.9305562623402,0
                 -46.3421017735837,-23.9305726432935,0
                 -46.3420440011746,-23.9305545607501,0
-                -46.3419938208899,-23.9306488488686,0
-                -46.3419065665009,-23.9308388047,0
-                -46.3419005050627,-23.9308369431785,0
                 -46.3418525667425,-23.9309477986004,0
                 -46.3418371199959,-23.9309418740256,0
                 -46.3417858888989,-23.9310877611876,0
                 -46.3417971711965,-23.9311166149813,0
                 -46.341874423034,-23.9311489288443,0
                 -46.3419599014414,-23.931268037007,0
-                -46.3418169528753,-23.9314706169136,0
                 -46.3417930755873,-23.9314997780343,0
                 -46.3417969696032,-23.9315219685378,0
-                -46.3418443014652,-23.9315653175519,0
                 -46.3418784358996,-23.9316074453735,0
-                -46.3419075813813,-23.9316630725339,0
                 -46.3419431935311,-23.9317065329946,0
                 -46.3419723769843,-23.9316955042521,0
-                -46.3419768796324,-23.9317062385076,0
-                -46.3419637098886,-23.9317076992131,0
                 -46.341959972926,-23.9317710280201,0
-                -46.3419667665875,-23.9317904929905,0
-                -46.3419691759728,-23.9318106735907,0
                 -46.3419752050262,-23.9318274540979,0
-                -46.3419967714058,-23.9318589091112,0
                 -46.3420329045877,-23.931881486027,0
                 -46.3419919664594,-23.9318892581279,0
                 -46.3420392578227,-23.9319999402819,0
@@ -1085,35 +894,19 @@
                 -46.3424171755525,-23.9318505191825,0
                 -46.3424061617903,-23.9318486016541,0
                 -46.342410934719,-23.9318142161879,0
-                -46.3425254847167,-23.9318401439244,0
                 -46.3425659048425,-23.9318525869038,0
-                -46.3426258427833,-23.93183994348,0
-                -46.3426996982531,-23.9318278465689,0
                 -46.3427553145713,-23.9318219777928,0
                 -46.3427646388815,-23.931803040144,0
                 -46.342745519265,-23.9317251009293,0
-                -46.3427350361675,-23.9317022998211,0
                 -46.342712809444,-23.9316782558608,0
-                -46.3426862024605,-23.9316562640547,0
-                -46.3425889877529,-23.9315975027381,0
-                -46.3425553286904,-23.9315795099685,0
                 -46.3423811677931,-23.9314486611621,0
                 -46.3422976637235,-23.9313495118867,0
-                -46.3422790462163,-23.931321995603,0
-                -46.3422536371955,-23.9312704719009,0
-                -46.3422150059527,-23.9312058248059,0
-                -46.3422030779594,-23.9311914980494,0
                 -46.3421870834622,-23.9311639588181,0
-                -46.3421763748431,-23.9311411867289,0
                 -46.3421398841237,-23.9310307984879,0
                 -46.3421187157377,-23.9310093189262,0
-                -46.3421184295858,-23.9309816423478,0
-                -46.3421234790573,-23.9309635458413,0
                 -46.3421290930534,-23.9309164287759,0
                 -46.3421687590053,-23.9308227045861,0
                 -46.3421046140199,-23.930770490023,0
-                -46.342136592689,-23.9307020015963,0
-                -46.3421288057186,-23.9306989803854,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1122,8 +915,14 @@
       <Placemark id="Sabo__.29">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">07015</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1570</SimpleData>
+            <SimpleData name="Num_Qd">07015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1330</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1131,45 +930,27 @@
             <LinearRing>
               <coordinates>
                 -46.3463787081548,-23.935325241963,0
-                -46.3463530022382,-23.9353064158863,0
-                -46.346323287857,-23.9352854267079,0
-                -46.3463015524247,-23.9352651002895,0
                 -46.3462805761312,-23.9352411034463,0
-                -46.3462515426857,-23.9351979897973,0
                 -46.3461896960022,-23.9350683003321,0
                 -46.3461736129463,-23.9350632131012,0
                 -46.3460534437891,-23.9350937355373,0
                 -46.3460491243079,-23.9350835309414,0
-                -46.3459029232811,-23.9351219655518,0
                 -46.3456408703505,-23.9351939494255,0
-                -46.3456371668517,-23.9352004182353,0
                 -46.3457097662063,-23.9352928611254,0
                 -46.3456961257357,-23.9353562293062,0
                 -46.3458681639178,-23.9354157373741,0
                 -46.345724941564,-23.9353799198484,0
-                -46.34568401086,-23.9354034495372,0
                 -46.3455300022664,-23.9354619544262,0
                 -46.3455257389811,-23.9354456038856,0
                 -46.3456544108629,-23.9353851723885,0
-                -46.3456771283404,-23.935306964767,0
                 -46.3456724895866,-23.9352822956768,0
                 -46.345614022284,-23.9352021064528,0
-                -46.3455514446403,-23.9352184108019,0
-                -46.3454372886288,-23.9352487101482,0
-                -46.3454317640199,-23.9352353907897,0
-                -46.3453339125603,-23.9352530820064,0
-                -46.3452694596652,-23.9352709755406,0
                 -46.3451675161547,-23.9352974755688,0
                 -46.3452172061373,-23.9354351144571,0
                 -46.345321841851,-23.9354025899667,0
                 -46.3453899739256,-23.9356531827019,0
-                -46.3455058208903,-23.9356421265014,0
-                -46.3455825809445,-23.9356287888405,0
                 -46.3456291177494,-23.9356201918479,0
-                -46.3457674665294,-23.9355911738738,0
-                -46.3459074636534,-23.9355590518793,0
                 -46.3460427217692,-23.9355209027702,0
-                -46.3463174779238,-23.9353612017481,0
                 -46.3463787081548,-23.935325241963,0
               </coordinates>
             </LinearRing>
@@ -1179,8 +960,14 @@
       <Placemark id="Sabo__.30">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">07014</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1588</SimpleData>
+            <SimpleData name="Num_Qd">07014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1330</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1188,15 +975,9 @@
             <LinearRing>
               <coordinates>
                 -46.345735031887,-23.9348769175053,0
-                -46.3456297485873,-23.9349284044857,0
-                -46.3455234208674,-23.9349898602485,0
                 -46.3454801204139,-23.9350139326525,0
-                -46.3454529337833,-23.9350493001004,0
                 -46.3453529073855,-23.9351646971115,0
-                -46.3453768431229,-23.9351908182772,0
                 -46.3454012019183,-23.935217698947,0
-                -46.3455129724705,-23.9351861905201,0
-                -46.3456024912344,-23.9351574628614,0
                 -46.3457292039071,-23.9351204042039,0
                 -46.3456910384958,-23.9350398601245,0
                 -46.3457978254556,-23.9349843227039,0
@@ -1209,8 +990,14 @@
       <Placemark id="Sabo__.31">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">08001</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1589</SimpleData>
+            <SimpleData name="Num_Qd">08001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0203</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1218,10 +1005,8 @@
             <LinearRing>
               <coordinates>
                 -46.3548248093318,-23.9337377747155,0
-                -46.3547556945348,-23.9337810092,0
                 -46.3546772719886,-23.933825229136,0
                 -46.3547911245131,-23.9340023359715,0
-                -46.3548695714815,-23.9339500965344,0
                 -46.3549494356658,-23.9339028575517,0
                 -46.3548248093318,-23.9337377747155,0
               </coordinates>
@@ -1232,86 +1017,58 @@
       <Placemark id="Sabo__.32">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06013</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1618</SimpleData>
+            <SimpleData name="Num_Qd">06013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1327</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3422909127951,-23.9308077772396,0
-                -46.3422959685053,-23.9308165709427,0
-                -46.3423553463148,-23.9308654313082,0
+                -46.342262540969,-23.9307864237634,0
                 -46.3424479559189,-23.9309255003919,0
                 -46.3425548307747,-23.930909165937,0
                 -46.3425798402369,-23.9310265449036,0
                 -46.342584356794,-23.9311469116412,0
-                -46.3426477850852,-23.9312580304382,0
                 -46.3426934026881,-23.9313189498458,0
-                -46.3427749340884,-23.9314030800475,0
-                -46.342803200048,-23.9314363366636,0
                 -46.342869222152,-23.9315198890514,0
                 -46.3429167018106,-23.9316107288393,0
                 -46.3429355524057,-23.931708239894,0
                 -46.3429548758799,-23.9317023634448,0
-                -46.3429607068413,-23.9317408193029,0
-                -46.3429725964494,-23.9317656670865,0
-                -46.3430052298226,-23.931845944385,0
                 -46.3430208286523,-23.9319292244103,0
-                -46.3429925239426,-23.931967256462,0
                 -46.342907642449,-23.9320807432579,0
                 -46.342986095725,-23.9321422985147,0
-                -46.3430486327099,-23.9321428640452,0
                 -46.3431370848372,-23.9321456572468,0
-                -46.3432335854772,-23.9321761764352,0
                 -46.3433519446714,-23.9322207727626,0
                 -46.3434314895695,-23.9322628549991,0
-                -46.3434858675053,-23.9322702177209,0
                 -46.3434966787306,-23.9322658515819,0
                 -46.3435261960642,-23.9321950093616,0
                 -46.3435286362634,-23.9321308159196,0
                 -46.3435048764792,-23.9320839739778,0
-                -46.3434297482667,-23.9320946104156,0
-                -46.3433491678047,-23.9321024498635,0
                 -46.3433282600494,-23.9321061909236,0
-                -46.3432769462034,-23.9320189519608,0
-                -46.3431297930737,-23.9317400533608,0
-                -46.3430840054431,-23.9316627358502,0
-                -46.3430348997634,-23.9315647851298,0
-                -46.3429795656885,-23.9314640261508,0
-                -46.3429281096815,-23.9313639466456,0
-                -46.3428814873766,-23.9312809470274,0
-                -46.3428593120297,-23.9312362223494,0
-                -46.3428300610416,-23.9311837209211,0
-                -46.3427927631015,-23.9311112236758,0
                 -46.3426365079644,-23.9308326479426,0
                 -46.3423796337566,-23.9304234108127,0
                 -46.3423549589354,-23.9304371726217,0
-                -46.3423306595965,-23.9304131376847,0
                 -46.3422478477894,-23.9303219563951,0
                 -46.3422801450195,-23.930303296533,0
                 -46.3423256640848,-23.9303803909122,0
-                -46.3423890420447,-23.9303584429985,0
-                -46.342385878809,-23.9303527722909,0
                 -46.3424545418443,-23.9303165186684,0
                 -46.342465566701,-23.9303328219981,0
                 -46.3425003378874,-23.9303196853024,0
                 -46.3424876626126,-23.9302948443404,0
                 -46.3425502350052,-23.9302700587383,0
-                -46.3424489765394,-23.930076858944,0
                 -46.3423698317461,-23.9299258510332,0
-                -46.3422798152907,-23.9299683057657,0
                 -46.3421623914216,-23.9300170471957,0
-                -46.3421998898801,-23.9300976054145,0
                 -46.3422177825457,-23.9301096665494,0
-                -46.3421863998677,-23.9301544344109,0
-                -46.3421755384758,-23.9301571824709,0
                 -46.3419773003946,-23.9303698906039,0
-                -46.3419838185716,-23.9303997794108,0
                 -46.3420559463907,-23.9305212205151,0
                 -46.342183929609,-23.9304919736913,0
-                -46.3421919372157,-23.9304991955128,0
                 -46.342288289753,-23.9305902848107,0
                 -46.3422724051026,-23.9306016714086,0
                 -46.3422308109757,-23.9305681773338,0
@@ -1320,7 +1077,6 @@
                 -46.342135794632,-23.9307699447088,0
                 -46.3422196299342,-23.9308355021119,0
                 -46.342262540969,-23.9307864237634,0
-                -46.3422909127951,-23.9308077772396,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -1329,8 +1085,14 @@
       <Placemark id="Sabo__.33">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33006</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1642</SimpleData>
+            <SimpleData name="Num_Qd">33006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0203</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1354,8 +1116,14 @@
       <Placemark id="Sabo__.34">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33008</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1655</SimpleData>
+            <SimpleData name="Num_Qd">33008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0206</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1364,16 +1132,9 @@
               <coordinates>
                 -46.3522730578393,-23.9336209834099,0
                 -46.352617314549,-23.9335622073891,0
-                -46.3526314703599,-23.9335541501166,0
-                -46.3526435836158,-23.9335420100121,0
                 -46.3526474480575,-23.933533656956,0
-                -46.3526478768428,-23.9335211176797,0
-                -46.3525685942912,-23.9331473069925,0
                 -46.3525118658458,-23.932879835859,0
-                -46.352459024125,-23.9328759053328,0
                 -46.3520962928229,-23.9328387426855,0
-                -46.3521228474802,-23.93299453944,0
-                -46.3522133874973,-23.9333792849507,0
                 -46.3522730578393,-23.9336209834099,0
               </coordinates>
             </LinearRing>
@@ -1383,8 +1144,14 @@
       <Placemark id="Sabo__.35">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06019</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1833</SimpleData>
+            <SimpleData name="Num_Qd">06019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0063</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1392,30 +1159,14 @@
             <LinearRing>
               <coordinates>
                 -46.3462686811977,-23.9312666486805,0
-                -46.3462526460961,-23.9312494865178,0
                 -46.3461898846091,-23.9312190616746,0
-                -46.3461770150249,-23.9312200866339,0
                 -46.3461632288037,-23.931228407393,0
-                -46.3460768251034,-23.9314022471804,0
-                -46.3460555640363,-23.9314552721506,0
-                -46.3460684907564,-23.9314588071954,0
                 -46.3460237766601,-23.9315439161324,0
-                -46.3459826729145,-23.9315934757183,0
                 -46.3459071072852,-23.9316661038105,0
-                -46.3459011261146,-23.9316625168864,0
-                -46.3458203825096,-23.9317133270496,0
-                -46.3457445026234,-23.9317689259494,0
-                -46.3456820068208,-23.9318086850609,0
-                -46.3456806854488,-23.9318063215744,0
-                -46.345607947749,-23.9318560771029,0
-                -46.3455852026789,-23.9318607466725,0
                 -46.3455117145471,-23.9319091992862,0
                 -46.3454278306676,-23.9319442782311,0
-                -46.3453714247014,-23.931944095306,0
                 -46.3453195217569,-23.9319546555343,0
-                -46.3452961795657,-23.931964279111,0
                 -46.3451618521523,-23.9320085507246,0
-                -46.3452132473972,-23.9320902524867,0
                 -46.3452551692953,-23.9321774195392,0
                 -46.3453655812431,-23.9321575958072,0
                 -46.345386350449,-23.9321394523937,0
@@ -1423,20 +1174,10 @@
                 -46.3453581203869,-23.9322124295155,0
                 -46.3453930503564,-23.9322567693245,0
                 -46.3452790100384,-23.932289453032,0
-                -46.345340438519,-23.9324456602359,0
-                -46.34541067961,-23.9326407047754,0
                 -46.3454313139753,-23.932694592251,0
                 -46.3455192393371,-23.9327062380631,0
                 -46.3456061989051,-23.9326743729447,0
-                -46.3456271011032,-23.9326612982174,0
                 -46.3456525108799,-23.9326320696045,0
-                -46.3456687884422,-23.9325948768928,0
-                -46.3457160516417,-23.93249877342,0
-                -46.34572276408,-23.9324809692784,0
-                -46.3457942083116,-23.9323225407435,0
-                -46.3458603547364,-23.9321857058407,0
-                -46.3459237274051,-23.9320476309367,0
-                -46.3459512843806,-23.9319783136091,0
                 -46.3460003606125,-23.9318657041304,0
                 -46.3460706251421,-23.9317603230317,0
                 -46.3460520991885,-23.9317533108487,0
@@ -1444,10 +1185,6 @@
                 -46.3460654944266,-23.9316483152915,0
                 -46.3460752650292,-23.9316345661886,0
                 -46.3461061259273,-23.9316479589935,0
-                -46.3461312327083,-23.9315839731651,0
-                -46.3461738961194,-23.9314924974889,0
-                -46.3461922179843,-23.9314440587754,0
-                -46.3462523246097,-23.9313141670983,0
                 -46.3462686811977,-23.9312666486805,0
               </coordinates>
             </LinearRing>
@@ -1457,8 +1194,14 @@
       <Placemark id="Sabo__.36">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06020</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1834</SimpleData>
+            <SimpleData name="Num_Qd">06020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1326</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1467,26 +1210,13 @@
               <coordinates>
                 -46.3457635904855,-23.9308087877056,0
                 -46.3455222790083,-23.9309076216683,0
-                -46.3454867673601,-23.9308914577194,0
-                -46.3454634413493,-23.9308808384943,0
-                -46.345444732227,-23.9308723095053,0
                 -46.345415541539,-23.9308682037877,0
-                -46.3453949157509,-23.9308682200016,0
                 -46.3453494464177,-23.9308890719658,0
-                -46.3452992391906,-23.9309145745931,0
-                -46.3452501124839,-23.9309476896127,0
                 -46.3451828626387,-23.9310019653665,0
-                -46.3451165748064,-23.9310599300042,0
                 -46.3450841669284,-23.9310882227233,0
-                -46.3450724697621,-23.9311057482606,0
                 -46.3450450319564,-23.9311468575371,0
-                -46.3450347903775,-23.9312043364557,0
-                -46.3450278435794,-23.9312906103915,0
                 -46.3450122528016,-23.9314057718602,0
                 -46.344973293282,-23.9315762823119,0
-                -46.3449809965332,-23.931595048976,0
-                -46.34502660258,-23.9316820062944,0
-                -46.3450710790454,-23.9317783888123,0
                 -46.3451457564575,-23.9319657993704,0
                 -46.3452436407422,-23.9319307200357,0
                 -46.3451611456201,-23.9317458277778,0
@@ -1496,8 +1226,6 @@
                 -46.3452539852382,-23.931825895612,0
                 -46.3453063883472,-23.9317715928942,0
                 -46.3453239741713,-23.9316706257664,0
-                -46.3452834144166,-23.9316078836699,0
-                -46.3451984983295,-23.9315173930893,0
                 -46.3452026382736,-23.931509981423,0
                 -46.3452926003157,-23.9316041492975,0
                 -46.3453078829061,-23.9315983743973,0
@@ -1506,70 +1234,41 @@
                 -46.3453188023144,-23.9317637470251,0
                 -46.3455184771612,-23.9318346278234,0
                 -46.3458365994241,-23.931631206581,0
-                -46.3458041362533,-23.9315998406914,0
-                -46.3457690933779,-23.9315410669739,0
-                -46.3457247159901,-23.9314676048436,0
-                -46.3456942639028,-23.9314087908598,0
                 -46.3456485552061,-23.9313577330153,0
-                -46.3456202866049,-23.9313441909601,0
-                -46.3455863174348,-23.9313237994247,0
                 -46.3455184864837,-23.9312933735859,0
-                -46.3454620386299,-23.9312749039113,0
-                -46.3454122107467,-23.931257759369,0
                 -46.3453563238376,-23.9312445646006,0
-                -46.3453242764301,-23.9312393134012,0
-                -46.345310988712,-23.9312408856595,0
-                -46.3452942018392,-23.931241032776,0
-                -46.3452777407515,-23.9312420505194,0
-                -46.3452575211022,-23.9312471774571,0
                 -46.3452348226075,-23.9312402500175,0
                 -46.3452125295305,-23.9312765089331,0
-                -46.3451066515456,-23.931239770346,0
                 -46.3451098898263,-23.9312327026062,0
                 -46.3452001997766,-23.9312645957956,0
                 -46.3452387580719,-23.9311993435004,0
                 -46.3453095730848,-23.9312179568027,0
                 -46.3453249612823,-23.9312092330754,0
                 -46.3455383460242,-23.9312814144661,0
-                -46.3456250436574,-23.9313206785077,0
                 -46.3457090272548,-23.9313795005181,0
                 -46.3457638180712,-23.9313149229487,0
                 -46.3457383849886,-23.9312546246443,0
-                -46.3457099322948,-23.9312378782956,0
                 -46.3456992766928,-23.9312316067452,0
                 -46.3457051197294,-23.9312214432079,0
-                -46.3457438787368,-23.9312413410253,0
                 -46.3457847385752,-23.9312694710274,0
                 -46.3457693671584,-23.9312936933808,0
                 -46.3458476755596,-23.9313472900431,0
-                -46.3458223930742,-23.9313972843055,0
                 -46.3457862888244,-23.9314686686207,0
                 -46.3459121346575,-23.9315634892132,0
                 -46.3459712236904,-23.9314733683445,0
                 -46.3460429424597,-23.9313189216907,0
-                -46.3459821886931,-23.9312841842812,0
-                -46.3459861142892,-23.931273958956,0
                 -46.3459231060348,-23.9312418742338,0
                 -46.3459281413624,-23.9312283512054,0
                 -46.3460538920481,-23.9312934536703,0
                 -46.3461187184408,-23.9311777743469,0
-                -46.346010096954,-23.9310878239443,0
-                -46.346004290832,-23.931092588872,0
-                -46.3459444802537,-23.9310473277242,0
-                -46.3458890792812,-23.9310026946872,0
-                -46.3458092788673,-23.9309404364202,0
                 -46.3457826291669,-23.9309100354019,0
                 -46.3456394467507,-23.9310183493752,0
-                -46.3455923122918,-23.9310652254257,0
                 -46.3455223938217,-23.9311433894325,0
                 -46.3453720249852,-23.9310891676119,0
-                -46.3453588391967,-23.9310874018091,0
                 -46.3453231030006,-23.9310883112329,0
                 -46.3453289254598,-23.9310789408539,0
                 -46.3453030753166,-23.9310701327405,0
                 -46.3453219546373,-23.9310449186288,0
-                -46.345337666293,-23.9310509054362,0
-                -46.3454109785559,-23.9310775959369,0
                 -46.3455165023872,-23.9311253530237,0
                 -46.3455859362585,-23.9310338492082,0
                 -46.3457708775639,-23.9308966465809,0
@@ -1582,8 +1281,14 @@
       <Placemark id="Sabo__.37">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">24010</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1923</SimpleData>
+            <SimpleData name="Num_Qd">24010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1326</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1591,23 +1296,14 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.345336607787,-23.9299517378174,0
-                  -46.3452573233885,-23.929965952884,0
+                  -46.345526138013,-23.929886139952,0
                   -46.3452133807846,-23.9299839147533,0
                   -46.3451295157727,-23.9299819448083,0
                   -46.3450973677579,-23.9300025075625,0
-                  -46.3450502873586,-23.9300015676296,0
                   -46.3449986824272,-23.9299898505882,0
                   -46.3449467833642,-23.9299497422634,0
-                  -46.3448568249881,-23.929927544191,0
-                  -46.3447257255859,-23.929909762399,0
                   -46.3446298139576,-23.929880855855,0
-                  -46.3445497453673,-23.9298193605032,0
-                  -46.3443025768785,-23.9296592952815,0
-                  -46.3443001088466,-23.9296486606459,0
-                  -46.3442957162762,-23.9296419260503,0
                   -46.3442865362597,-23.9296377619369,0
-                  -46.3442023143844,-23.9296233649792,0
                   -46.3439356547081,-23.9295777816178,0
                   -46.3439351870427,-23.9296778244417,0
                   -46.3434896122615,-23.9298312642515,0
@@ -1618,63 +1314,35 @@
                   -46.3425003069635,-23.9303194210479,0
                   -46.3424655357343,-23.9303325574946,0
                   -46.3424545108681,-23.9303162540603,0
-                  -46.3423850684832,-23.9303517997079,0
-                  -46.3423890109842,-23.930358177943,0
                   -46.342325637652,-23.9303801240052,0
                   -46.3423796011533,-23.9304231425246,0
                   -46.3426364744352,-23.9308323890047,0
-                  -46.3427214145632,-23.9309848976732,0
-                  -46.3427920483368,-23.9311103564942,0
-                  -46.3428307959351,-23.9311820258303,0
-                  -46.3428814573353,-23.9312806831363,0
-                  -46.3431289898564,-23.9317405111766,0
-                  -46.3432547621225,-23.931976824027,0
                   -46.3433282330159,-23.9321059385849,0
                   -46.3435048496104,-23.9320837186849,0
-                  -46.343595426198,-23.9320888160693,0
                   -46.3437469436134,-23.932077153165,0
-                  -46.3439039522507,-23.9320298341851,0
                   -46.3439855527312,-23.9319983606865,0
-                  -46.3440773570331,-23.9319774797197,0
-                  -46.3441642156782,-23.9319619324623,0
                   -46.3442911645207,-23.9319339356313,0
-                  -46.3444929159513,-23.9318726073988,0
                   -46.3446457564125,-23.9318256111593,0
                   -46.3447136004497,-23.931785805129,0
-                  -46.3447695055595,-23.9317389169876,0
                   -46.344966598013,-23.9316052168132,0
                   -46.3450122254275,-23.9314055258406,0
-                  -46.3450278153835,-23.9312903666972,0
-                  -46.3450347622071,-23.9312040927067,0
                   -46.3450450038097,-23.9311466137949,0
                   -46.3450841388389,-23.9310879792082,0
-                  -46.3451165467603,-23.9310596867025,0
-                  -46.3451828346812,-23.9310017225013,0
                   -46.3452500846152,-23.9309474471961,0
-                  -46.3452992113856,-23.9309143325124,0
-                  -46.345349418676,-23.9308888302388,0
                   -46.3453948880662,-23.9308679785978,0
                   -46.3453887723879,-23.9308555714151,0
-                  -46.3454569695266,-23.9308553127457,0
                   -46.3455631951237,-23.9308755496475,0
                   -46.3458070126999,-23.9307468538384,0
-                  -46.3459791733145,-23.9306707028757,0
                   -46.3461313881341,-23.9306143650474,0
-                  -46.3460973287316,-23.9305683608903,0
                   -46.3460666912929,-23.9305285004198,0
                   -46.3463840975441,-23.9303026083586,0
                   -46.3462210184606,-23.9301701059465,0
                   -46.3456880451278,-23.9306089881684,0
                   -46.3456025790521,-23.9305195851382,0
                   -46.3461144259717,-23.9301133899436,0
-                  -46.3460427177866,-23.9300671488482,0
-                  -46.3459712351499,-23.9300237052577,0
                   -46.3458933297366,-23.9299861878468,0
-                  -46.3458164170389,-23.929949655076,0
                   -46.345711970798,-23.9299202267481,0
-                  -46.3456125382118,-23.9299009678772,0
                   -46.345526138013,-23.929886139952,0
-                  -46.345336607787,-23.9299517378174,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1696,8 +1364,14 @@
       <Placemark id="Sabo__.38">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">22049</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1926</SimpleData>
+            <SimpleData name="Num_Qd">22049</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0204</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1709,21 +1383,12 @@
                 -46.3559271394236,-23.9307652651763,0
                 -46.3560149027704,-23.9307056595773,0
                 -46.3559837449244,-23.9306405667305,0
-                -46.355973257807,-23.9305899618008,0
-                -46.355964677964,-23.9305431518456,0
                 -46.3559579311245,-23.9305035220945,0
-                -46.3559565641735,-23.9304699164142,0
-                -46.3559640450352,-23.9304240790819,0
-                -46.3559788713168,-23.9303639706397,0
-                -46.3559914761447,-23.930310857845,0
                 -46.3559928543349,-23.930248279324,0
-                -46.3559738053658,-23.9302077579272,0
                 -46.355949360335,-23.9301692879396,0
-                -46.3559043190176,-23.9301310316149,0
                 -46.3558572819994,-23.9301075341539,0
                 -46.3558104757077,-23.930100476579,0
                 -46.3557506683871,-23.9301131440616,0
-                -46.3556991827361,-23.9301444146219,0
                 -46.3556639698847,-23.93017740924,0
                 -46.3556289422794,-23.9302281449165,0
                 -46.3556176005912,-23.9303094878756,0
@@ -1735,8 +1400,14 @@
       <Placemark id="Sabo__.39">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06002</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1948</SimpleData>
+            <SimpleData name="Num_Qd">06002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1328</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1745,47 +1416,31 @@
               <LinearRing>
                 <coordinates>
                   -46.3411384105334,-23.9311306498686,0
-                  -46.3411413954483,-23.9311666111868,0
                   -46.3411633344473,-23.9312683944388,0
                   -46.3412011635717,-23.9312668631335,0
                   -46.3412255547546,-23.9313530379648,0
                   -46.3412061498595,-23.9313672049579,0
                   -46.3412092139935,-23.9313889602775,0
-                  -46.3412225940891,-23.9313993010354,0
                   -46.341232218184,-23.9314131604339,0
-                  -46.3412598674566,-23.9314286054026,0
-                  -46.3412875707585,-23.9314492786742,0
                   -46.3413322750749,-23.9314636987587,0
-                  -46.3413759283484,-23.9314676794775,0
-                  -46.341451776891,-23.931468760182,0
                   -46.341501998204,-23.9314665787603,0
                   -46.3414825010272,-23.9315345605779,0
                   -46.3415200932543,-23.9315474201202,0
-                  -46.341503161324,-23.9315933868255,0
                   -46.3415034641648,-23.9316464576467,0
-                  -46.3415809408364,-23.9316989447755,0
                   -46.3416583073394,-23.9317513591174,0
                   -46.3417254808574,-23.9317748043521,0
                   -46.3417388599175,-23.9317263101289,0
                   -46.3417715980778,-23.9317585582645,0
                   -46.3418837504293,-23.9316745682497,0
-                  -46.3418329302208,-23.9316094718922,0
                   -46.3417986626352,-23.9315606649064,0
-                  -46.3417774796346,-23.9315032154322,0
                   -46.3417691185833,-23.9314708295728,0
                   -46.3418153950924,-23.9314453471537,0
                   -46.3418637680877,-23.931388871088,0
-                  -46.3418702948097,-23.931321688844,0
-                  -46.3418702118139,-23.9313091549483,0
-                  -46.3418816556812,-23.9312868575231,0
                   -46.341881912001,-23.9312337186072,0
-                  -46.3418445568843,-23.9311927113115,0
-                  -46.3418178155936,-23.9311700610452,0
                   -46.3417788494039,-23.9311290678019,0
                   -46.3417190685959,-23.9310941623999,0
                   -46.3416993035667,-23.931123856383,0
                   -46.3417098531873,-23.9311341044165,0
-                  -46.3413470219582,-23.9311461225719,0
                   -46.3412847408149,-23.9311449685206,0
                   -46.3412608429449,-23.9311055865203,0
                   -46.3411384105334,-23.9311306498686,0
@@ -1798,21 +1453,13 @@
               <LinearRing>
                 <coordinates>
                   -46.3411681814048,-23.9313599711364,0
-                  -46.3411737973955,-23.9313529503723,0
                   -46.3411736442951,-23.9313381323362,0
-                  -46.3411511160467,-23.9312677542634,0
-                  -46.3411329005795,-23.9311754751888,0
                   -46.3411201239679,-23.9311313002722,0
-                  -46.3410883947457,-23.9310965654559,0
                   -46.3409036298945,-23.9308891278654,0
                   -46.3408834926675,-23.9308913627614,0
-                  -46.3408268145933,-23.9309361353385,0
                   -46.3408269103827,-23.930945409029,0
                   -46.340885109407,-23.9310478777292,0
-                  -46.34090466924,-23.9310981704148,0
                   -46.3409291333997,-23.9311885797697,0
-                  -46.3409532146768,-23.9312419214496,0
-                  -46.3409941715278,-23.931309203594,0
                   -46.3410301698829,-23.93139864522,0
                   -46.3411681814048,-23.9313599711364,0
                 </coordinates>
@@ -1824,8 +1471,14 @@
       <Placemark id="Sabo__.40">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">06017</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1951</SimpleData>
+            <SimpleData name="Num_Qd">06017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0063</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -1833,16 +1486,13 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3439829721047,-23.9330498323407,0
-                  -46.3439830913149,-23.9330613454394,0
+                  -46.3439764063287,-23.9330210999086,0
                   -46.3440001099035,-23.9330918919063,0
                   -46.3440274424623,-23.9331108430307,0
                   -46.3442093865848,-23.9331418701016,0
                   -46.3442531219382,-23.9331318968306,0
-                  -46.3442551151336,-23.9331222887887,0
                   -46.3442146210525,-23.9330420441128,0
                   -46.3439764063287,-23.9330210999086,0
-                  -46.3439829721047,-23.9330498323407,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1858,7 +1508,6 @@
                   -46.3446088317629,-23.9329071074935,0
                   -46.3445908327746,-23.9327411453301,0
                   -46.3442953451299,-23.9327444445446,0
-                  -46.3442697789542,-23.9328979462969,0
                   -46.3442392731871,-23.9330222679232,0
                 </coordinates>
               </LinearRing>
@@ -1870,18 +1519,14 @@
                 <coordinates>
                   -46.3449879906225,-23.9325702759337,0
                   -46.3449408194833,-23.9326032626081,0
-                  -46.34493491688,-23.9326157947039,0
                   -46.3449298634433,-23.9326733012696,0
                   -46.3447918442245,-23.9326780675327,0
                   -46.3448081823143,-23.9329074938834,0
                   -46.3448742267468,-23.9329190349552,0
-                  -46.3449021490134,-23.932918086133,0
                   -46.3449568211207,-23.9329101842929,0
-                  -46.3451208252831,-23.9328597117788,0
                   -46.3454128235059,-23.9327567155487,0
                   -46.3453973070094,-23.9327147142016,0
                   -46.345195896367,-23.9326643526671,0
-                  -46.3450736461546,-23.9326131894655,0
                   -46.3449879906225,-23.9325702759337,0
                 </coordinates>
               </LinearRing>
@@ -1891,21 +1536,18 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3452235463335,-23.9323470428021,0
+                  -46.3452555529385,-23.9324415848692,0
                   -46.3452082933118,-23.9322972727233,0
-                  -46.345177298918,-23.9323003978006,0
                   -46.3451741231552,-23.9322925869611,0
                   -46.3449774040805,-23.9323962567656,0
                   -46.3449756514439,-23.9325267385951,0
                   -46.3450156261378,-23.9325663133509,0
                   -46.345036457579,-23.9325561520581,0
-                  -46.345172938833,-23.932627681342,0
                   -46.3452064979682,-23.9326473453463,0
                   -46.3453697756817,-23.9326851269048,0
                   -46.3453905627474,-23.932670685403,0
                   -46.3453043729417,-23.9324368858677,0
                   -46.3452555529385,-23.9324415848692,0
-                  -46.3452235463335,-23.9323470428021,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1914,34 +1556,17 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3445424048606,-23.9322775112635,0
-                  -46.3444903527503,-23.9323467268399,0
+                  -46.3445708849253,-23.932254549622,0
                   -46.344474677553,-23.9323624059481,0
                   -46.3444449033495,-23.9322955235654,0
-                  -46.3443913164643,-23.932301935088,0
-                  -46.3443480433927,-23.9323052851693,0
-                  -46.3442654638184,-23.9323202678228,0
                   -46.3442460812202,-23.932320437561,0
                   -46.3440874624377,-23.9323586627115,0
-                  -46.3440564667242,-23.9323607131575,0
-                  -46.344033163627,-23.9323569825346,0
-                  -46.3440059212145,-23.9323486843423,0
-                  -46.3439593668617,-23.932347312902,0
                   -46.3439563376328,-23.9323547596068,0
-                  -46.3438749467206,-23.9323088407521,0
-                  -46.3438560057907,-23.9322899879427,0
-                  -46.3438149842411,-23.9322612321233,0
                   -46.3437837574464,-23.9322419088946,0
-                  -46.3437460848457,-23.9322244121002,0
-                  -46.3436923355834,-23.9322141902695,0
                   -46.3436722762861,-23.9322125777815,0
-                  -46.343656122113,-23.9322133152103,0
                   -46.3436465156507,-23.9322211205381,0
                   -46.3436089326423,-23.9322749202213,0
-                  -46.3435870795356,-23.9322869958881,0
                   -46.3435569252974,-23.9323086444951,0
-                  -46.3436049855833,-23.9323302135608,0
-                  -46.3436094860817,-23.9323283860913,0
                   -46.3437900697459,-23.9324141411264,0
                   -46.3438890533334,-23.9324851678836,0
                   -46.3439334191391,-23.932400414764,0
@@ -1958,18 +1583,10 @@
                   -46.3446351153687,-23.9325234988225,0
                   -46.344673049931,-23.9324458186859,0
                   -46.3446140096676,-23.9324199301383,0
-                  -46.3447448212513,-23.9323463400535,0
                   -46.3447958869637,-23.9323108987752,0
-                  -46.3448514953262,-23.932262530892,0
-                  -46.3448713227067,-23.9322427064063,0
                   -46.344879224598,-23.9322315926459,0
-                  -46.3448831309624,-23.9322217330339,0
-                  -46.3448867638533,-23.9321854791206,0
-                  -46.3448858859749,-23.9321652309815,0
                   -46.3448748667422,-23.9321333950156,0
-                  -46.3446394812505,-23.9322355351803,0
                   -46.3445708849253,-23.932254549622,0
-                  -46.3445424048606,-23.9322775112635,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -1978,13 +1595,8 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3450262263945,-23.9320675093103,0
+                  -46.3450839848959,-23.9320531415299,0
                   -46.3448977106173,-23.9321246427416,0
-                  -46.3449032983622,-23.9321395667253,0
-                  -46.3449065670997,-23.9321639390576,0
-                  -46.3449048743883,-23.9321750435723,0
-                  -46.3449094146219,-23.932205500495,0
-                  -46.3449282284554,-23.9322746554377,0
                   -46.3449338120945,-23.9322901303282,0
                   -46.3447273252854,-23.93240027906,0
                   -46.3447796058465,-23.9324820911148,0
@@ -1995,11 +1607,9 @@
                   -46.3451175820321,-23.9322092229441,0
                   -46.3451330697366,-23.9322484611863,0
                   -46.3452183854902,-23.9322149959838,0
-                  -46.345213724466,-23.9321728905311,0
                   -46.3451679354605,-23.9320623944791,0
                   -46.3450939750996,-23.9320852214112,0
                   -46.3450839848959,-23.9320531415299,0
-                  -46.3450262263945,-23.9320675093103,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2009,8 +1619,14 @@
       <Placemark id="Sabo__.41">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">24013</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1981</SimpleData>
+            <SimpleData name="Num_Qd">24013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1326</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2021,7 +1637,6 @@
                   -46.3463840975441,-23.9303026083586,0
                   -46.3460666912929,-23.9305285004198,0
                   -46.3461313881341,-23.9306143650474,0
-                  -46.3463195750305,-23.9305434738654,0
                   -46.346501635819,-23.9304705743519,0
                   -46.3465070366011,-23.9304403162086,0
                   -46.3463840975441,-23.9303026083586,0
@@ -2035,22 +1650,13 @@
                 <coordinates>
                   -46.3404594952423,-23.9303341255546,0
                   -46.3405442246362,-23.930372705315,0
-                  -46.3406816938422,-23.9305946184196,0
-                  -46.3407194418472,-23.9306600078729,0
-                  -46.3407425179497,-23.9306999817008,0
                   -46.3407834792386,-23.9307706519687,0
                   -46.3408149191134,-23.9307588220148,0
                   -46.3408462364062,-23.9308271950648,0
                   -46.3410262156274,-23.9307641779672,0
-                  -46.3408846850338,-23.9303705764239,0
-                  -46.3408728247461,-23.9303326479891,0
                   -46.3408552422571,-23.9302771375222,0
-                  -46.340826892532,-23.930208779021,0
                   -46.3407958574504,-23.9301480668694,0
-                  -46.3407708229732,-23.9301330397154,0
                   -46.3407458934658,-23.9301281755102,0
-                  -46.3407101174285,-23.9301437337693,0
-                  -46.3404796755605,-23.930262402312,0
                   -46.3403541993468,-23.9303159468445,0
                   -46.3403996250124,-23.9303357717431,0
                   -46.3404594952423,-23.9303341255546,0
@@ -2063,32 +1669,15 @@
               <LinearRing>
                 <coordinates>
                   -46.341294269938,-23.9311034399188,0
-                  -46.341556204247,-23.9310188425338,0
                   -46.3416456718362,-23.930977611847,0
-                  -46.3417914983185,-23.9306951221654,0
                   -46.3418655201832,-23.9305470945648,0
-                  -46.3418678183908,-23.9305318125979,0
-                  -46.3418698200169,-23.930516352607,0
-                  -46.3418708065931,-23.9304977407334,0
-                  -46.3418702484292,-23.930481761256,0
-                  -46.3418673549543,-23.9304679695439,0
                   -46.34186201113,-23.9304547410742,0
-                  -46.3415231175741,-23.9297853641604,0
-                  -46.3415161588324,-23.9297774778937,0
                   -46.341508631195,-23.9297715833497,0
-                  -46.3414996822499,-23.9297707584117,0
-                  -46.3414884203933,-23.9297742884074,0
-                  -46.3414168930795,-23.9298119387944,0
-                  -46.3411979315181,-23.9299194192603,0
                   -46.340850503354,-23.9300888699299,0
                   -46.3409492408572,-23.9302753011371,0
                   -46.3409734598376,-23.9303557917113,0
                   -46.3409497273061,-23.9303663070367,0
                   -46.3410013991153,-23.9304910682365,0
-                  -46.3410325641328,-23.9305558648633,0
-                  -46.3410877421084,-23.9306864961667,0
-                  -46.3411899571909,-23.9308886938684,0
-                  -46.3412494025329,-23.931015480663,0
                   -46.341294269938,-23.9311034399188,0
                 </coordinates>
               </LinearRing>
@@ -2099,29 +1688,21 @@
               <LinearRing>
                 <coordinates>
                   -46.343214794934,-23.9295263943876,0
-                  -46.3421470820738,-23.9295289516339,0
                   -46.3420815517789,-23.9295295278144,0
-                  -46.3420367064178,-23.9295376630398,0
                   -46.3419303020396,-23.9295669852965,0
-                  -46.3418548371976,-23.9296011996318,0
                   -46.3417598241334,-23.9296459093372,0
                   -46.3416676455166,-23.92969317541,0
                   -46.3416597554606,-23.9297448677963,0
                   -46.3419143545873,-23.9302196969644,0
-                  -46.3421469297505,-23.9301201202456,0
                   -46.3421998586537,-23.9300973385899,0
                   -46.3421623601683,-23.9300167799844,0
-                  -46.3422797835123,-23.9299680431108,0
                   -46.342369802404,-23.9299255886749,0
-                  -46.3424489456057,-23.9300765939939,0
-                  -46.3425502041493,-23.9302697948026,0
                   -46.3425938753794,-23.93034501173,0
                   -46.3432423585242,-23.9300843252366,0
                   -46.3434896122615,-23.9298312642515,0
                   -46.3439351870427,-23.9296778244417,0
                   -46.3439356547081,-23.9295777816178,0
                   -46.3437668767729,-23.9295489301074,0
-                  -46.3435031118198,-23.9295324528089,0
                   -46.343214794934,-23.9295263943876,0
                 </coordinates>
               </LinearRing>
@@ -2132,20 +1713,14 @@
               <LinearRing>
                 <coordinates>
                   -46.3446298139576,-23.929880855855,0
-                  -46.3447257255859,-23.929909762399,0
-                  -46.3448568249881,-23.929927544191,0
                   -46.3449467833642,-23.9299497422634,0
                   -46.3449986824272,-23.9299898505882,0
-                  -46.3450502873586,-23.9300015676296,0
                   -46.3450973677579,-23.9300025075625,0
                   -46.3451295157727,-23.9299819448083,0
                   -46.3452133807846,-23.9299839147533,0
-                  -46.3452573233885,-23.929965952884,0
                   -46.345336607787,-23.9299517378174,0
                   -46.3455261380131,-23.929886139952,0
-                  -46.3454116699768,-23.9298664949687,0
                   -46.3443025768785,-23.9296592952815,0
-                  -46.3445497453673,-23.9298193605032,0
                   -46.3446298139576,-23.929880855855,0
                 </coordinates>
               </LinearRing>
@@ -2156,8 +1731,14 @@
       <Placemark id="Sabo__.42">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">32013</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1997</SimpleData>
+            <SimpleData name="Num_Qd">32013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0203</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2165,30 +1746,17 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3580930051495,-23.9336189434102,0
-                  -46.3579830449159,-23.9334874626815,0
-                  -46.3579213014868,-23.9333941166251,0
+                  -46.3581669687294,-23.933702412105,0
                   -46.3578544470516,-23.933309954745,0
                   -46.3575706884837,-23.9334812670237,0
-                  -46.3576040903157,-23.9335306979022,0
-                  -46.3576291440287,-23.9335860554173,0
                   -46.3576601774355,-23.933662533002,0
-                  -46.3576679426813,-23.9337167199823,0
-                  -46.357675514164,-23.9337523823704,0
                   -46.3576888161989,-23.9337853474997,0
-                  -46.3577107417455,-23.933816913109,0
-                  -46.3577428964652,-23.9338629446922,0
                   -46.3577625929254,-23.9339031279328,0
-                  -46.3577682260914,-23.9339689753944,0
                   -46.357781084941,-23.9340165804429,0
-                  -46.3578113424783,-23.9340731209905,0
                   -46.3578514544903,-23.9341154287035,0
-                  -46.357989598166,-23.9339184925038,0
                   -46.3580123926431,-23.933885809817,0
                   -46.3580280223245,-23.9338988948321,0
                   -46.3581669687294,-23.933702412105,0
-                  -46.3581490781381,-23.9336886520868,0
-                  -46.3580930051495,-23.9336189434102,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2197,7 +1765,7 @@
             <outerBoundaryIs>
               <LinearRing>
                 <coordinates>
-                  -46.3573986898595,-23.9326920756971,0
+                  -46.3575330983474,-23.9328085949002,0
                   -46.3572070420263,-23.9325259349124,0
                   -46.3570801046902,-23.9323891845884,0
                   -46.356599724601,-23.9326610251147,0
@@ -2211,7 +1779,6 @@
                   -46.3577652452638,-23.9332101894664,0
                   -46.3575159538197,-23.9328405651132,0
                   -46.3575330983474,-23.9328085949002,0
-                  -46.3573986898595,-23.9326920756971,0
                 </coordinates>
               </LinearRing>
             </outerBoundaryIs>
@@ -2221,8 +1788,14 @@
       <Placemark id="Sabo__.43">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">33003</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">1999</SimpleData>
+            <SimpleData name="Num_Qd">33003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0206</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2231,15 +1804,9 @@
               <LinearRing>
                 <coordinates>
                   -46.351747435456,-23.9328871954231,0
-                  -46.3518982165813,-23.9335096091377,0
                   -46.3519063891562,-23.9335453843717,0
-                  -46.3519260739307,-23.9335631347244,0
                   -46.3519651821486,-23.9335735447169,0
-                  -46.3521058298923,-23.9335973999374,0
                   -46.3522730375518,-23.9336207986887,0
-                  -46.3522133671905,-23.9333790994617,0
-                  -46.3521633610715,-23.9331730567656,0
-                  -46.3521228271476,-23.9329943527637,0
                   -46.3520962724915,-23.9328385556073,0
                   -46.351747435456,-23.9328871954231,0
                 </coordinates>
@@ -2254,27 +1821,15 @@
                   -46.3531465502323,-23.9326413463005,0
                   -46.3531396355773,-23.9326189208984,0
                   -46.3529193434041,-23.9326829936702,0
-                  -46.3528226263974,-23.9326999734182,0
                   -46.3527268825159,-23.9327145285283,0
                   -46.3526230255197,-23.9326922877953,0
                   -46.3524342774684,-23.9327197185581,0
                   -46.352459024125,-23.9328759053328,0
-                  -46.3525311927117,-23.9328812734449,0
                   -46.3526191585635,-23.9328770406699,0
-                  -46.3527153788189,-23.9333427655968,0
                   -46.3527505706614,-23.9335048268237,0
-                  -46.352758405011,-23.9335118016982,0
                   -46.3527699705909,-23.9335185630751,0
-                  -46.3527814975853,-23.9335216222183,0
-                  -46.3529454969437,-23.9334860408509,0
                   -46.3530468955101,-23.9334583259854,0
-                  -46.3532828887492,-23.9333829165399,0
-                  -46.3532873927097,-23.9333814319245,0
-                  -46.353293257903,-23.9333785807079,0
                   -46.353296745573,-23.9333738540132,0
-                  -46.3532965795459,-23.9333673533988,0
-                  -46.3532157994282,-23.9329319747787,0
-                  -46.3531883636624,-23.9327838392067,0
                   -46.3531612465604,-23.9326374238666,0
                 </coordinates>
               </LinearRing>
@@ -2285,8 +1840,14 @@
       <Placemark id="Sabo__.44">
         <ExtendedData>
           <SchemaData schemaUrl="#Sabo__.schema">
-            <SimpleData name="quadra">32010</SimpleData>
-            <SimpleData name="NOME">Sabo?</SimpleData>
+            <SimpleData name="fid">2136</SimpleData>
+            <SimpleData name="Num_Qd">32010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0203</SimpleData>
+            <SimpleData name="Bairro">Sabo?</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -2298,27 +1859,17 @@
                   -46.3662507796057,-23.9454177499296,0
                   -46.366200465698,-23.945390610145,0
                   -46.3657881204539,-23.9452437243056,0
-                  -46.3648229920085,-23.9448577203584,0
-                  -46.3646049123024,-23.9447678153445,0
-                  -46.364511984895,-23.9447277221567,0
                   -46.3637791376572,-23.9444398640561,0
                   -46.3633433848562,-23.9442455078269,0
                   -46.3632273748661,-23.9445994234005,0
                   -46.3631694475695,-23.9448721505927,0
                   -46.3632150763249,-23.9448865152075,0
-                  -46.3631055117922,-23.9453296804731,0
                   -46.3629213956508,-23.9460696640742,0
                   -46.3635941381095,-23.9466150874783,0
-                  -46.3636505125462,-23.9466531694576,0
                   -46.3637490664863,-23.9467101680147,0
-                  -46.3638263617444,-23.9467416334661,0
                   -46.3639211616817,-23.9467605605643,0
-                  -46.3640054625571,-23.9467708652203,0
-                  -46.3641047382984,-23.9467755096474,0
                   -46.3642159532361,-23.9467717572875,0
-                  -46.3643238418624,-23.946737635691,0
                   -46.3644256009779,-23.946692514445,0
-                  -46.3645660387357,-23.9466083598398,0
                   -46.366297108105,-23.9455414824724,0
                   -46.3662863770593,-23.9454726085401,0
                 </coordinates>
@@ -2344,12 +1895,8 @@
                 <coordinates>
                   -46.3576391001552,-23.9395665274568,0
                   -46.3564952083991,-23.9394254885505,0
-                  -46.3565763776179,-23.9393712960027,0
                   -46.3566416939885,-23.9393276875306,0
                   -46.3567778960907,-23.9392865756006,0
-                  -46.3569018455302,-23.9392618234523,0
-                  -46.3570521879016,-23.9392336855946,0
-                  -46.357121707429,-23.9392164805254,0
                   -46.357216444286,-23.9391998308661,0
                   -46.3573272995493,-23.9391984656626,0
                   -46.3575070440698,-23.9392208101146,0
@@ -2365,29 +1912,18 @@
                   -46.3603156927789,-23.9349942946106,0
                   -46.360233045559,-23.9349809825041,0
                   -46.3602140529552,-23.9347730516747,0
-                  -46.3598532303846,-23.9345833823013,0
-                  -46.3594727445339,-23.9343791275132,0
                   -46.3591622856791,-23.9342075401458,0
                   -46.358810777746,-23.9357322795096,0
                   -46.358708707327,-23.9357328134439,0
-                  -46.3589848049487,-23.934583666483,0
                   -46.3590631828656,-23.9342057819564,0
-                  -46.3582581048895,-23.9337576681473,0
                   -46.3581669687294,-23.933702412105,0
                   -46.3580280223245,-23.9338988948321,0
                   -46.3580123926431,-23.933885809817,0
                   -46.3578514544903,-23.9341154287035,0
-                  -46.3578113424783,-23.9340731209905,0
                   -46.357781084941,-23.9340165804429,0
-                  -46.3577682260914,-23.9339689753944,0
                   -46.3577625929254,-23.9339031279328,0
-                  -46.3577428964652,-23.9338629446922,0
-                  -46.3577107417455,-23.933816913109,0
                   -46.357675514164,-23.9337523823704,0
-                  -46.3576679426813,-23.9337167199823,0
                   -46.3576601774355,-23.933662533002,0
-                  -46.3576291440287,-23.9335860554173,0
-                  -46.3576040903157,-23.9335306979022,0
                   -46.3575706884837,-23.9334812670237,0
                   -46.3576382473584,-23.9334404813775,0
                   -46.357279092218,-23.9332349620266,0
@@ -2398,17 +1934,12 @@
                   -46.355642157281,-23.9368199948194,0
                   -46.3540264393003,-23.9383084116762,0
                   -46.3536826784075,-23.9390235944908,0
-                  -46.3538715754969,-23.939041878717,0
-                  -46.3540698098759,-23.9390727810328,0
                   -46.3541720791297,-23.9390875222301,0
                   -46.3542831209107,-23.9390895574374,0
                   -46.3544623730281,-23.9392465611187,0
                   -46.3548309958581,-23.9394515381756,0
                   -46.3550482570924,-23.939617054632,0
-                  -46.3555628042097,-23.9399694995406,0
-                  -46.3555613427225,-23.9399748000576,0
                   -46.3567590787636,-23.9408092235929,0
-                  -46.3570001112283,-23.9407392290288,0
                   -46.3571929048052,-23.94066819105,0
                   -46.3576391001552,-23.9395665274568,0
                 </coordinates>

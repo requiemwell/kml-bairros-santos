@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Porto_Alemoa.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Porto_Alemoa">
+      <name>Porto Alemoa</name>
+      <Placemark id="Porto_Alemoa.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Alemoa.schema">
+            <SimpleData name="fid">1668</SimpleData>
+            <SimpleData name="Num_Qd">21007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0218</SimpleData>
+            <SimpleData name="Bairro">Porto Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3783485706305,-23.92283494726,0
+                -46.378086376054,-23.9219501027123,0
+                -46.3777644885901,-23.9219318611464,0
+                -46.3777599476722,-23.9215223634983,0
+                -46.375933239275,-23.9218224752365,0
+                -46.3756363532424,-23.9208523408782,0
+                -46.3746008980697,-23.9209224135797,0
+                -46.3745557363218,-23.9208214850708,0
+                -46.3742032363001,-23.9208449067443,0
+                -46.3740906545117,-23.9206229820709,0
+                -46.3720028506458,-23.9210882051951,0
+                -46.3719083969026,-23.9207317681187,0
+                -46.3713810901069,-23.9208296044831,0
+                -46.3715576260466,-23.9214574033463,0
+                -46.3713461647418,-23.9214712014325,0
+                -46.371076727583,-23.9204930694397,0
+                -46.3710163164822,-23.9204975786301,0
+                -46.3709401018875,-23.9202322831468,0
+                -46.3707417642308,-23.9202618423232,0
+                -46.3708182717294,-23.9205549238368,0
+                -46.3702624127424,-23.9206710393272,0
+                -46.3701686341231,-23.920378111609,0
+                -46.3696601360204,-23.9204623811721,0
+                -46.3695815793824,-23.9208120863264,0
+                -46.368723744488,-23.920958678001,0
+                -46.3684031702876,-23.9204534016864,0
+                -46.3678939927605,-23.9207738790455,0
+                -46.368173789137,-23.9211515940603,0
+                -46.3640012052529,-23.9217413354444,0
+                -46.3620345966388,-23.9220907200317,0
+                -46.3617246063811,-23.9221816397702,0
+                -46.3614216837848,-23.9225064767865,0
+                -46.3617324597778,-23.9239695113298,0
+                -46.3628305266156,-23.9237685359356,0
+                -46.3631369308794,-23.9251254678965,0
+                -46.3693351421886,-23.9241923514594,0
+                -46.3705657308603,-23.9240188081851,0
+                -46.3783485706305,-23.92283494726,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

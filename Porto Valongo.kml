@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Porto_Valongo.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Porto_Valongo">
+      <name>Porto Valongo</name>
+      <Placemark id="Porto_Valongo.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Valongo.schema">
+            <SimpleData name="fid">372</SimpleData>
+            <SimpleData name="Num_Qd">25001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0005</SimpleData>
+            <SimpleData name="Bairro">Porto Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3334768964505,-23.9301327113013,0
+                -46.333428542455,-23.9301565820344,0
+                -46.333262536322,-23.9304454768375,0
+                -46.3332592192039,-23.9304848435889,0
+                -46.3332770174211,-23.9304966614281,0
+                -46.3333095332041,-23.9304921031593,0
+                -46.333607580205,-23.930343279733,0
+                -46.3334768964505,-23.9301327113013,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Porto_Valongo.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Valongo.schema">
+            <SimpleData name="fid">480</SimpleData>
+            <SimpleData name="Num_Qd">25003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0005</SimpleData>
+            <SimpleData name="Bairro">Porto Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3310579202785,-23.9312943351804,0
+                -46.3303896156738,-23.9314446188281,0
+                -46.330425681053,-23.9316166682586,0
+                -46.3311174757306,-23.9314612034629,0
+                -46.3310579202785,-23.9312943351804,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Porto_Valongo.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Valongo.schema">
+            <SimpleData name="fid">1984</SimpleData>
+            <SimpleData name="Num_Qd">25002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0005</SimpleData>
+            <SimpleData name="Bairro">Porto Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3311174313976,-23.9314608548293,0
+                  -46.3311647689702,-23.9314112138476,0
+                  -46.3311663323235,-23.9313547489264,0
+                  -46.3311208212674,-23.9313039431454,0
+                  -46.3310578759103,-23.9312939858954,0
+                  -46.3311174313976,-23.9314608548293,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3311871674645,-23.9312524356235,0
+                  -46.3312375580024,-23.9313283140555,0
+                  -46.3312516223825,-23.9314042528017,0
+                  -46.3313301940118,-23.9313746660745,0
+                  -46.331270152942,-23.9313041897849,0
+                  -46.3312575528459,-23.93122486199,0
+                  -46.3311871674645,-23.9312524356235,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3313361124781,-23.9311977083565,0
+                  -46.3313351555568,-23.9312436654417,0
+                  -46.3313737952972,-23.9313207871531,0
+                  -46.3314232542428,-23.9313387380785,0
+                  -46.331470702815,-23.9313278472014,0
+                  -46.3328940992606,-23.9306816127463,0
+                  -46.3329375950909,-23.9306289101028,0
+                  -46.3329348592288,-23.9305716721837,0
+                  -46.3329067229901,-23.930551183606,0
+                  -46.3328304200154,-23.9305469091814,0
+                  -46.3313922303083,-23.9311614504179,0
+                  -46.3313361124781,-23.9311977083565,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Porto_Valongo.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Valongo.schema">
+            <SimpleData name="fid">1985</SimpleData>
+            <SimpleData name="Num_Qd">25007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0005</SimpleData>
+            <SimpleData name="Bairro">Porto Valongo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3293806104309,-23.9319571346864,0
+                  -46.3293491329491,-23.9319734742323,0
+                  -46.3293575933619,-23.9320790271847,0
+                  -46.329092916006,-23.9321083619229,0
+                  -46.3290747848895,-23.9321223359158,0
+                  -46.3291232523147,-23.9326242955444,0
+                  -46.3302003762198,-23.9325689990521,0
+                  -46.3301473035269,-23.9319061529252,0
+                  -46.3301294253123,-23.9318804027841,0
+                  -46.3293806104309,-23.9319571346864,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3303895705016,-23.9314442647604,0
+                  -46.3300107894317,-23.9315296571551,0
+                  -46.3293914691928,-23.9317167257222,0
+                  -46.3304256358878,-23.9316163146736,0
+                  -46.3303895705016,-23.9314442647604,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

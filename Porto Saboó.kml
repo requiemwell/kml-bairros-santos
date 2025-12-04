@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Porto_Sabo__.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Porto_Sabo__">
+      <name>Porto Saboó</name>
+      <Placemark id="Porto_Sabo__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Porto_Sabo__.schema">
+            <SimpleData name="fid">1975</SimpleData>
+            <SimpleData name="Num_Qd">21008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0036</SimpleData>
+            <SimpleData name="Bairro">Porto Sabo?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.342034925655,-23.9258522039118,0
+                  -46.3419864084015,-23.9258756347861,0
+                  -46.3416956777734,-23.9251368299799,0
+                  -46.3410033964007,-23.9253823823279,0
+                  -46.3410416166203,-23.9254789931694,0
+                  -46.340849847854,-23.9255319900679,0
+                  -46.3407988092312,-23.9253955727434,0
+                  -46.3374688493903,-23.9265930872674,0
+                  -46.3380902391059,-23.9280439477569,0
+                  -46.3408416634448,-23.9270161260994,0
+                  -46.3413462160177,-23.9268485159423,0
+                  -46.3417100220961,-23.9266961143926,0
+                  -46.3416744673707,-23.9266099374399,0
+                  -46.3419508339133,-23.9265183056093,0
+                  -46.342020090813,-23.9267052661282,0
+                  -46.3429720194357,-23.9265090445662,0
+                  -46.3425877083006,-23.9256409214254,0
+                  -46.3430666045475,-23.9254578773876,0
+                  -46.3428587158624,-23.9249771353876,0
+                  -46.3418378676923,-23.9253529579413,0
+                  -46.342034925655,-23.9258522039118,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.34339412197,-23.9256905687875,0
+                  -46.3435418975674,-23.9256486957656,0
+                  -46.3438548469212,-23.9263732208865,0
+                  -46.3446461787095,-23.9262308653508,0
+                  -46.3448138789199,-23.9261649058879,0
+                  -46.3447846153826,-23.9260490765288,0
+                  -46.3446922807869,-23.9259402482797,0
+                  -46.3436773886855,-23.925282628246,0
+                  -46.3432808551401,-23.9254103900438,0
+                  -46.34339412197,-23.9256905687875,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3437978053465,-23.9249291002297,0
+                  -46.3440456760081,-23.9251526543054,0
+                  -46.3455018493517,-23.9262040278939,0
+                  -46.3459678695514,-23.9264901602471,0
+                  -46.3462210907018,-23.9265524339343,0
+                  -46.3469301762353,-23.9265978136509,0
+                  -46.3475968353285,-23.926611316218,0
+                  -46.3448255101745,-23.924578302727,0
+                  -46.3437978053465,-23.9249291002297,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3476505601526,-23.925701740411,0
+                  -46.347303331267,-23.9253694304901,0
+                  -46.3469567731092,-23.9251016056295,0
+                  -46.3464673703478,-23.9245899637641,0
+                  -46.3463377529889,-23.9242686412679,0
+                  -46.3462379353647,-23.9241147361079,0
+                  -46.3456634214579,-23.9235135490057,0
+                  -46.3453226842746,-23.9231295837354,0
+                  -46.3438480905511,-23.9236842283304,0
+                  -46.3442696923513,-23.9240052803413,0
+                  -46.3434895719589,-23.9242935894096,0
+                  -46.3436193826056,-23.924634260438,0
+                  -46.3437393758716,-23.9247041513901,0
+                  -46.344738816604,-23.9243342468703,0
+                  -46.3476162323185,-23.926450146481,0
+                  -46.3483025295129,-23.9263280357332,0
+                  -46.3479973891237,-23.9259953579084,0
+                  -46.3476505601526,-23.925701740411,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

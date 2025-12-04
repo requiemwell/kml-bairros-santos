@@ -1,0 +1,3456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Embar__.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Embar__">
+      <name>Embaré</name>
+      <Placemark id="Embar__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">43</SimpleData>
+            <SimpleData name="Num_Qd">67003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0309</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3178198940084,-23.9644019307736,0
+                -46.3182560503888,-23.9647324089314,0
+                -46.3183090646891,-23.96471750405,0
+                -46.3191803981012,-23.963736770912,0
+                -46.3191588261657,-23.9635290694036,0
+                -46.3191315422394,-23.9634553425323,0
+                -46.3191044257442,-23.9634173758489,0
+                -46.3189467805385,-23.9632998875227,0
+                -46.3188458930721,-23.9632939821259,0
+                -46.318766764372,-23.9633403580195,0
+                -46.3178198940084,-23.9644019307736,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">44</SimpleData>
+            <SimpleData name="Num_Qd">67004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0309</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3172780033843,-23.9639849421786,0
+                -46.3176404659047,-23.9642607472972,0
+                -46.3176605237565,-23.9642582680621,0
+                -46.318502145557,-23.9633141865538,0
+                -46.3185114823228,-23.9632659725566,0
+                -46.3184850906115,-23.9632219489427,0
+                -46.3184440319787,-23.9632045114198,0
+                -46.3183907198258,-23.9632093947924,0
+                -46.3172844605678,-23.96395309858,0
+                -46.3172780033843,-23.9639849421786,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">282</SimpleData>
+            <SimpleData name="Num_Qd">57041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0310</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.316151677889,-23.9628603540128,0
+                -46.3172587652894,-23.9621113231759,0
+                -46.317276369383,-23.9620643025262,0
+                -46.3172677032007,-23.9620334918924,0
+                -46.3169067571316,-23.9617524043409,0
+                -46.3168652348434,-23.9617350298294,0
+                -46.3166265326644,-23.9617959814793,0
+                -46.3165209152735,-23.9618086274709,0
+                -46.3163910598338,-23.961789261006,0
+                -46.3162098979482,-23.9617206066756,0
+                -46.3161430735405,-23.9617190441139,0
+                -46.3156180392621,-23.9620836847313,0
+                -46.3155829900966,-23.9621547862817,0
+                -46.3155886058771,-23.9621949248386,0
+                -46.316115351733,-23.9628540733324,0
+                -46.316151677889,-23.9628603540128,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">348</SimpleData>
+            <SimpleData name="Num_Qd">68010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0776</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3087896362369,-23.9679852806437,0
+                -46.3086526953976,-23.9680774537412,0
+                -46.3087676154988,-23.9682267318946,0
+                -46.3089124695246,-23.9681305528462,0
+                -46.3087896362369,-23.9679852806437,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">409</SimpleData>
+            <SimpleData name="Num_Qd">77012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0769</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3128344124823,-23.9745497109327,0
+                -46.3135135870224,-23.9753400412939,0
+                -46.3135682750653,-23.9753540218543,0
+                -46.3136007072976,-23.975344261703,0
+                -46.3148748034568,-23.9744799366074,0
+                -46.3141698246943,-23.9736070218653,0
+                -46.3128373035085,-23.9745052550391,0
+                -46.3128344124823,-23.9745497109327,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">489</SimpleData>
+            <SimpleData name="Num_Qd">77002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0764</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3202702707427,-23.9729705016072,0
+                -46.320170339994,-23.9728663350742,0
+                -46.3200642262063,-23.9728401566737,0
+                -46.3200039780456,-23.9728495255053,0
+                -46.3194402330686,-23.973147334305,0
+                -46.319406827837,-23.9731869053601,0
+                -46.3203978847603,-23.9744118764892,0
+                -46.3204580718697,-23.9744350185265,0
+                -46.3210728347039,-23.974099379189,0
+                -46.3210993139009,-23.97406492466,0
+                -46.3211073386551,-23.9740133805226,0
+                -46.3202702707427,-23.9729705016072,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">492</SimpleData>
+            <SimpleData name="Num_Qd">77006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0780</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.317053016853,-23.9742590413986,0
+                -46.3179396804189,-23.9737832696627,0
+                -46.3179452735906,-23.9737630831031,0
+                -46.3173218904814,-23.9730100419183,0
+                -46.3164961084573,-23.9735771295558,0
+                -46.3164953138547,-23.9735956493365,0
+                -46.3170323136178,-23.9742527171483,0
+                -46.317053016853,-23.9742590413986,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">545</SimpleData>
+            <SimpleData name="Num_Qd">77003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0765</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3195990299168,-23.9738686947611,0
+                -46.3200550668684,-23.974420066568,0
+                -46.3202203949743,-23.9743063009752,0
+                -46.319773568622,-23.9737522314699,0
+                -46.3195990299168,-23.9738686947611,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">607</SimpleData>
+            <SimpleData name="Num_Qd">77013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0768</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3149617891379,-23.974616186447,0
+                -46.3136923208731,-23.9754620499614,0
+                -46.3136774301107,-23.9754958621343,0
+                -46.313690170875,-23.975521400187,0
+                -46.3141431596567,-23.9758322380879,0
+                -46.314184202622,-23.9758477803022,0
+                -46.3142248603249,-23.9758447225375,0
+                -46.3144560701289,-23.9756850639588,0
+                -46.3154134886017,-23.9751678807696,0
+                -46.3154176090452,-23.9751477972339,0
+                -46.3149838369946,-23.9746194290027,0
+                -46.3149617891379,-23.974616186447,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">608</SimpleData>
+            <SimpleData name="Num_Qd">77016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0762</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3144822463527,-23.9758529913939,0
+                -46.3141753444482,-23.97608870538,0
+                -46.3141676009073,-23.9761295002817,0
+                -46.3141803486671,-23.9761750864105,0
+                -46.3154960300096,-23.9776922493669,0
+                -46.3155451642091,-23.9777205453553,0
+                -46.3156191734969,-23.97771106009,0
+                -46.3158906540093,-23.9775003914219,0
+                -46.3158923738762,-23.9774568486454,0
+                -46.3145055343973,-23.9758525207846,0
+                -46.3144822463527,-23.9758529913939,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">630</SimpleData>
+            <SimpleData name="Num_Qd">67065</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0742</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3200161420947,-23.9725193485688,0
+                -46.3193360941582,-23.9716937451349,0
+                -46.3192992427748,-23.9716843993894,0
+                -46.3182825336455,-23.9723975400184,0
+                -46.3189515110642,-23.9732171928399,0
+                -46.3189799546544,-23.973221192565,0
+                -46.3199764655586,-23.9726764631865,0
+                -46.3200188523375,-23.9726213721823,0
+                -46.3200284534761,-23.9725701757358,0
+                -46.3200161420947,-23.9725193485688,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">631</SimpleData>
+            <SimpleData name="Num_Qd">77005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0781</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3181096166436,-23.9736972812685,0
+                -46.3187996213787,-23.9733187403224,0
+                -46.3188063513695,-23.9732943898319,0
+                -46.3181261081633,-23.9724686020348,0
+                -46.3181028060688,-23.9724676283813,0
+                -46.3174466104777,-23.9729136962387,0
+                -46.3180852057777,-23.9736936079412,0
+                -46.3181096166436,-23.9736972812685,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">632</SimpleData>
+            <SimpleData name="Num_Qd">67070</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0783</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3172217912396,-23.9728794148449,0
+                -46.3165369800947,-23.9720381259269,0
+                -46.3164900913418,-23.9720371739477,0
+                -46.3157170440473,-23.9725612698594,0
+                -46.3157204676426,-23.9725790309852,0
+                -46.3156942161861,-23.9725973176964,0
+                -46.316386754505,-23.9734545284284,0
+                -46.3172117959859,-23.9729016259603,0
+                -46.3172217912396,-23.9728794148449,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">633</SimpleData>
+            <SimpleData name="Num_Qd">67066</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0782</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3180136421529,-23.9723589427441,0
+                -46.3180207038099,-23.972338201714,0
+                -46.3173246778586,-23.9714863565175,0
+                -46.3173095286759,-23.971484951458,0
+                -46.3166714067063,-23.9719202044339,0
+                -46.3166734507184,-23.9719666047413,0
+                -46.3173440911473,-23.9727867023256,0
+                -46.3173732390324,-23.9727923218308,0
+                -46.3180136421529,-23.9723589427441,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">634</SimpleData>
+            <SimpleData name="Num_Qd">77009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0770</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3133479281379,-23.9726396503473,0
+                -46.312017747065,-23.9735356889195,0
+                -46.311999077409,-23.9735748614099,0
+                -46.3120068222413,-23.973602067911,0
+                -46.3127079471384,-23.9743967297981,0
+                -46.3127458637972,-23.9743947795976,0
+                -46.3140567068333,-23.9735007065507,0
+                -46.3140559175326,-23.973481026353,0
+                -46.3133728209091,-23.9726424172427,0
+                -46.3133479281379,-23.9726396503473,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">635</SimpleData>
+            <SimpleData name="Num_Qd">67054</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0793</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.312627613427,-23.9714344380603,0
+                -46.313353406147,-23.9709404733471,0
+                -46.3133494580438,-23.9709097124057,0
+                -46.3126703915168,-23.9700790117748,0
+                -46.3126439059046,-23.9700741813163,0
+                -46.3119204039704,-23.9705612596885,0
+                -46.3119116310687,-23.9705877947787,0
+                -46.3126017491756,-23.9714327630383,0
+                -46.312627613427,-23.9714344380603,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">636</SimpleData>
+            <SimpleData name="Num_Qd">67061</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0792</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3127037938624,-23.9715522689157,0
+                -46.3133708339985,-23.9723785566335,0
+                -46.3134161221458,-23.9724058026717,0
+                -46.3141511290739,-23.9719286426562,0
+                -46.3141540319241,-23.9719047766779,0
+                -46.3134643222401,-23.9710528587589,0
+                -46.3134457962573,-23.9710479602601,0
+                -46.3127037938624,-23.9715522689157,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">637</SimpleData>
+            <SimpleData name="Num_Qd">67067</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0335</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3164123092359,-23.9719168302683,0
+                -46.3164146459002,-23.9718953171084,0
+                -46.3157320081953,-23.9710540957642,0
+                -46.3157066326047,-23.9710521461509,0
+                -46.3144097520914,-23.971923987382,0
+                -46.3144075612478,-23.9719405323779,0
+                -46.3147235844842,-23.9723237955964,0
+                -46.3152055078533,-23.9719902988433,0
+                -46.3155842872087,-23.9724663222951,0
+                -46.3156064458159,-23.9724708281239,0
+                -46.3164123092359,-23.9719168302683,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">638</SimpleData>
+            <SimpleData name="Num_Qd">67068</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0319</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3147923525593,-23.9724179380925,0
+                -46.3150999838439,-23.9727972085759,0
+                -46.3151274032999,-23.9727971539882,0
+                -46.3155138599644,-23.9725357903562,0
+                -46.3155188398626,-23.9725070410196,0
+                -46.3151989817118,-23.972112824514,0
+                -46.3147947676089,-23.9723944375191,0
+                -46.3147923525593,-23.9724179380925,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">639</SimpleData>
+            <SimpleData name="Num_Qd">67069</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0319</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3142061271519,-23.9734072221483,0
+                -46.3149554762134,-23.9729097967924,0
+                -46.3149595029863,-23.9728901656025,0
+                -46.3142658673617,-23.9720398206642,0
+                -46.3142440201651,-23.9720369374967,0
+                -46.3135155617451,-23.9725299359241,0
+                -46.3135128681274,-23.9725550644012,0
+                -46.3142061271519,-23.9734072221483,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">640</SimpleData>
+            <SimpleData name="Num_Qd">67050</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0760</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3177002917635,-23.9697172634916,0
+                -46.3166665565647,-23.9704081434732,0
+                -46.316664571741,-23.9704255897958,0
+                -46.3173568495502,-23.971267446575,0
+                -46.3173802689794,-23.9712703157912,0
+                -46.318423678452,-23.9705737487236,0
+                -46.3177242077685,-23.9697206702405,0
+                -46.3177002917635,-23.9697172634916,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">641</SimpleData>
+            <SimpleData name="Num_Qd">67046</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0741</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3142618899985,-23.969016018641,0
+                -46.3149545488181,-23.9698589676703,0
+                -46.3156085785375,-23.9694131097754,0
+                -46.3155994613317,-23.9693766135962,0
+                -46.3149132371796,-23.9685383985952,0
+                -46.3142691867368,-23.9689796525977,0
+                -46.3142618899985,-23.969016018641,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">642</SimpleData>
+            <SimpleData name="Num_Qd">67053</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0334</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3128022630585,-23.9699609348614,0
+                -46.313057180289,-23.9702795233192,0
+                -46.3130862617822,-23.9702980581717,0
+                -46.3131157593751,-23.970289768208,0
+                -46.3143872053785,-23.9694301669319,0
+                -46.3143952565863,-23.9694100497147,0
+                -46.3141256410806,-23.9690861710467,0
+                -46.3141052757378,-23.9690839975984,0
+                -46.3128022630585,-23.9699609348614,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">643</SimpleData>
+            <SimpleData name="Num_Qd">67047</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0786</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3127013979255,-23.9698413285798,0
+                -46.3135114552958,-23.9693038362824,0
+                -46.3131692662591,-23.9688697781521,0
+                -46.3132604835039,-23.9688076175727,0
+                -46.3135975291151,-23.9692246219245,0
+                -46.31362390441,-23.9692282791744,0
+                -46.3140095539969,-23.9689676894711,0
+                -46.3140144643206,-23.9689479604169,0
+                -46.3134777184584,-23.9682927745508,0
+                -46.313423296703,-23.9683144629212,0
+                -46.312309597624,-23.9690584674439,0
+                -46.3122149536173,-23.9691357676865,0
+                -46.312199568664,-23.9691983919761,0
+                -46.3122198464332,-23.9692501451149,0
+                -46.3127013979255,-23.9698413285798,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">644</SimpleData>
+            <SimpleData name="Num_Qd">67060</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0334</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3136082609823,-23.9709617699423,0
+                -46.3142958075409,-23.9718038622658,0
+                -46.3143199231605,-23.971807538746,0
+                -46.3156127686363,-23.9709351910642,0
+                -46.3156146674184,-23.9709092566164,0
+                -46.3153369006709,-23.9705672082532,0
+                -46.3153092926694,-23.9705583240695,0
+                -46.3146148172425,-23.9710286396726,0
+                -46.3145423497326,-23.9709378701339,0
+                -46.3152282856253,-23.9704686214941,0
+                -46.3152227299607,-23.9704344427314,0
+                -46.3149275917363,-23.9700618570812,0
+                -46.3149029143658,-23.9700665235236,0
+                -46.313611157512,-23.9709372718724,0
+                -46.3136082609823,-23.9709617699423,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">645</SimpleData>
+            <SimpleData name="Num_Qd">77014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0772</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3164872308251,-23.9747538170295,0
+                -46.3146198088388,-23.9757723415114,0
+                -46.3146124928886,-23.9757971484029,0
+                -46.3151784012336,-23.976455509869,0
+                -46.3152072312203,-23.9764587845013,0
+                -46.3168953942136,-23.9752470906757,0
+                -46.3168980725132,-23.9752205173867,0
+                -46.3165261438945,-23.9747628747991,0
+                -46.3164872308251,-23.9747538170295,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">646</SimpleData>
+            <SimpleData name="Num_Qd">77015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0294</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3176788014012,-23.9761945433767,0
+                -46.3169942820139,-23.9753357354885,0
+                -46.3169722450152,-23.9753335768207,0
+                -46.3152810397931,-23.976545749134,0
+                -46.3152849031562,-23.9765777750085,0
+                -46.3159864776205,-23.9773840660627,0
+                -46.3160425840984,-23.9773827716221,0
+                -46.3176730648191,-23.9762103061129,0
+                -46.3176788014012,-23.9761945433767,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">662</SimpleData>
+            <SimpleData name="Num_Qd">68002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0315</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3094285929325,-23.9662556649578,0
+                -46.3083055449625,-23.967008841581,0
+                -46.3082788326069,-23.9670496174999,0
+                -46.308274927481,-23.9671008551027,0
+                -46.3088238520613,-23.9677778108421,0
+                -46.3088473427854,-23.9677878150675,0
+                -46.3100637050372,-23.966961591352,0
+                -46.3100980441801,-23.9669170473805,0
+                -46.3100882408543,-23.966880556663,0
+                -46.3096221686139,-23.9663212005635,0
+                -46.3095499427014,-23.9662537256283,0
+                -46.3094945600977,-23.9662386657091,0
+                -46.3094285929325,-23.9662556649578,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">704</SimpleData>
+            <SimpleData name="Num_Qd">77004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0296</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3178020904232,-23.9761215088654,0
+                -46.3192276710777,-23.9751660808638,0
+                -46.3200694046731,-23.9746697323011,0
+                -46.3200899488994,-23.9746122104462,0
+                -46.3190940940863,-23.9733599155497,0
+                -46.3190659121783,-23.9733526625418,0
+                -46.3166403298098,-23.9746742059764,0
+                -46.3166338243443,-23.9747013539758,0
+                -46.3177788721639,-23.9761191798596,0
+                -46.3178020904232,-23.9761215088654,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">717</SimpleData>
+            <SimpleData name="Num_Qd">67052</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0334</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3144809659399,-23.9695177739148,0
+                -46.3144451327141,-23.9695215127793,0
+                -46.3131659934482,-23.9703881340909,0
+                -46.3131837169242,-23.9704108300244,0
+                -46.3131724055402,-23.9704195963959,0
+                -46.3134904947211,-23.9708135010485,0
+                -46.3135368080852,-23.9708159038085,0
+                -46.3148131530508,-23.9699546314667,0
+                -46.314795542295,-23.9699333796771,0
+                -46.3148101818361,-23.9699233203503,0
+                -46.3144809659399,-23.9695177739148,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">718</SimpleData>
+            <SimpleData name="Num_Qd">67033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0338</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.314971902845,-23.9683308109969,0
+                -46.315213343507,-23.9681638393137,0
+                -46.3148611134832,-23.9677271542881,0
+                -46.3149093395417,-23.9676954041434,0
+                -46.3152631868207,-23.9681365002374,0
+                -46.3154155080987,-23.9680293535689,0
+                -46.3150626671273,-23.9675905971865,0
+                -46.3151017531168,-23.9675684979349,0
+                -46.3154543737838,-23.9680049081287,0
+                -46.3156118983286,-23.9678972650999,0
+                -46.3152627617148,-23.9674652504406,0
+                -46.3153007300329,-23.9674395484389,0
+                -46.3156524207278,-23.9678714507894,0
+                -46.3158089741886,-23.9677649898927,0
+                -46.3154601357873,-23.9673333343572,0
+                -46.3154960633385,-23.9673099074966,0
+                -46.3158454721359,-23.9677396616037,0
+                -46.3160166010453,-23.9676265733092,0
+                -46.315451977273,-23.9669362332534,0
+                -46.3154271838442,-23.9669334658054,0
+                -46.3150221204372,-23.9672351526493,0
+                -46.3144143011953,-23.9676446513042,0
+                -46.3144087608049,-23.9676700751266,0
+                -46.3149482617926,-23.9683254146892,0
+                -46.314971902845,-23.9683308109969,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">719</SimpleData>
+            <SimpleData name="Num_Qd">67027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0332</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3127120263116,-23.9676891253929,0
+                -46.3136690035407,-23.9670364070321,0
+                -46.3136655715784,-23.9670080799566,0
+                -46.3133569073207,-23.9666317043688,0
+                -46.3133301654696,-23.9666209159186,0
+                -46.3123912503068,-23.9672520747345,0
+                -46.3123786708858,-23.9672811710336,0
+                -46.3126963524204,-23.9676843829816,0
+                -46.3127120263116,-23.9676891253929,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">776</SimpleData>
+            <SimpleData name="Num_Qd">67011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0313</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3120782413768,-23.9644660638365,0
+                -46.3119821740026,-23.9647034006137,0
+                -46.3124878939998,-23.9653054867347,0
+                -46.3125159362391,-23.9653088590176,0
+                -46.3133197446919,-23.9647585982479,0
+                -46.3128093816924,-23.9641154648198,0
+                -46.3127654476604,-23.9640857685794,0
+                -46.3127048585769,-23.9640708446748,0
+                -46.3126437742114,-23.9640846427092,0
+                -46.3120782413768,-23.9644660638365,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">777</SimpleData>
+            <SimpleData name="Num_Qd">67014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0314</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3123501033123,-23.9654209047257,0
+                -46.3123535722312,-23.9653946859217,0
+                -46.3119103851494,-23.9648635878035,0
+                -46.311878109389,-23.9648594388561,0
+                -46.3118496833203,-23.9648763888826,0
+                -46.311702663647,-23.9650509462377,0
+                -46.3114818046178,-23.9652317340192,0
+                -46.3112311670489,-23.9653735827452,0
+                -46.3109935972369,-23.9654666437084,0
+                -46.3109731485587,-23.9655047476036,0
+                -46.3114087298211,-23.9660418737797,0
+                -46.3123501033123,-23.9654209047257,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">790</SimpleData>
+            <SimpleData name="Num_Qd">67043</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0306</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3197237210938,-23.9693603061624,0
+                -46.3196432840617,-23.9685258385643,0
+                -46.3196281375869,-23.9684957160451,0
+                -46.3195795114225,-23.9684784343376,0
+                -46.3192187916888,-23.9687055901572,0
+                -46.3192038873565,-23.9687282048552,0
+                -46.3196618169559,-23.9693806162169,0
+                -46.3196917495078,-23.9693958011028,0
+                -46.3197089041528,-23.9693914993276,0
+                -46.3197237210938,-23.9693603061624,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">791</SimpleData>
+            <SimpleData name="Num_Qd">67025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0338</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3143809931257,-23.9667539656683,0
+                -46.314435945531,-23.9672788118042,0
+                -46.3144883766187,-23.9673225225897,0
+                -46.314537349525,-23.9673159618768,0
+                -46.3149025941048,-23.967069362052,0
+                -46.3151040239214,-23.9669207048168,0
+                -46.3151100811409,-23.9668978051423,0
+                -46.314785190255,-23.9665110057853,0
+                -46.3147334607144,-23.9665170483584,0
+                -46.314396092816,-23.966731169124,0
+                -46.3143809931257,-23.9667539656683,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">793</SimpleData>
+            <SimpleData name="Num_Qd">67041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0786</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3148065689564,-23.9684050163874,0
+                -46.3142744435727,-23.967759817818,0
+                -46.3142520901976,-23.9677554037404,0
+                -46.3136160755807,-23.96818457524,0
+                -46.3136067025769,-23.9682100318716,0
+                -46.3141334750889,-23.9688605164749,0
+                -46.3141619166971,-23.9688644268466,0
+                -46.3148040675892,-23.9684296917037,0
+                -46.3148065689564,-23.9684050163874,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">819</SimpleData>
+            <SimpleData name="Num_Qd">67058</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0761</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3174949522743,-23.9714242070443,0
+                -46.3181807312176,-23.972263767477,0
+                -46.3182221407391,-23.9722574511721,0
+                -46.3192026418012,-23.9715499506257,0
+                -46.3191997347524,-23.9715250508888,0
+                -46.3185264219649,-23.9707035395639,0
+                -46.3184970054369,-23.970700451171,0
+                -46.3174881046798,-23.9713886848854,0
+                -46.3174949522743,-23.9714242070443,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">820</SimpleData>
+            <SimpleData name="Num_Qd">67064</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0743</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3199128848416,-23.9713457944651,0
+                -46.319894373614,-23.9713037804325,0
+                -46.3198448042772,-23.971300143338,0
+                -46.3194774578772,-23.9715528235846,0
+                -46.3194601875816,-23.9715843990702,0
+                -46.3198461164228,-23.9720753277428,0
+                -46.319886476407,-23.9720914161738,0
+                -46.3199506659148,-23.9720734342984,0
+                -46.3199765931319,-23.9720426873002,0
+                -46.319982041483,-23.9720083237169,0
+                -46.3199128848416,-23.9713457944651,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">856</SimpleData>
+            <SimpleData name="Num_Qd">57048</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0313</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3134731672967,-23.9646633646807,0
+                -46.3139632232217,-23.9643304480889,0
+                -46.3139801174332,-23.9643005019359,0
+                -46.3138984022062,-23.9634715490841,0
+                -46.3138606130795,-23.9634082062,0
+                -46.3137719290237,-23.9633652572214,0
+                -46.3136847627369,-23.9633847878337,0
+                -46.3129569193808,-23.9638758807771,0
+                -46.3129216048503,-23.9639209755388,0
+                -46.3129299391917,-23.9640064252025,0
+                -46.313443940512,-23.9646594608709,0
+                -46.3134731672967,-23.9646633646807,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">857</SimpleData>
+            <SimpleData name="Num_Qd">67022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0791</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3157418095177,-23.9658346176131,0
+                -46.3148968911184,-23.9664104391398,0
+                -46.3148955424123,-23.9664324856682,0
+                -46.3152200064321,-23.9668159470844,0
+                -46.3152450726401,-23.9668165448541,0
+                -46.3156729196632,-23.9664445114422,0
+                -46.3160168147228,-23.9660798801362,0
+                -46.3160230143279,-23.9660419882124,0
+                -46.3157721661289,-23.9658432975597,0
+                -46.3157418095177,-23.9658346176131,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">858</SimpleData>
+            <SimpleData name="Num_Qd">67021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0324</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3155677261207,-23.9668375278542,0
+                -46.3161250067372,-23.9675208865515,0
+                -46.3161564124745,-23.9675360595178,0
+                -46.3169527475628,-23.967004989134,0
+                -46.3165777349336,-23.9664831634647,0
+                -46.3164724636223,-23.9663845487438,0
+                -46.3162359560639,-23.9662046099961,0
+                -46.3162076711803,-23.9661967251285,0
+                -46.3161912910222,-23.966199845861,0
+                -46.3158567261299,-23.966554192771,0
+                -46.3155704394435,-23.9668143859309,0
+                -46.3155677261207,-23.9668375278542,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">859</SimpleData>
+            <SimpleData name="Num_Qd">67026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0338</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3139268118184,-23.9670783584307,0
+                -46.3141848216894,-23.967392132441,0
+                -46.3142734760959,-23.9673543466462,0
+                -46.3142320992491,-23.9668792336814,0
+                -46.3142052580985,-23.9668683559326,0
+                -46.3139296090563,-23.9670537708918,0
+                -46.3139268118184,-23.9670783584307,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">861</SimpleData>
+            <SimpleData name="Num_Qd">67042</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0787</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3130019816046,-23.9682945913032,0
+                -46.3127117999004,-23.9679287125069,0
+                -46.3126852959132,-23.9679123228664,0
+                -46.3126536666028,-23.9679138579352,0
+                -46.3116821032912,-23.9685654538469,0
+                -46.3116789753829,-23.9685930315133,0
+                -46.3119631884914,-23.9689375991373,0
+                -46.3120222951619,-23.968967328361,0
+                -46.3121034373289,-23.9689608443559,0
+                -46.3129964394458,-23.9683586666026,0
+                -46.3130089055444,-23.968337789188,0
+                -46.3130019816046,-23.9682945913032,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">862</SimpleData>
+            <SimpleData name="Num_Qd">67035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0332</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3122625173185,-23.967369311625,0
+                -46.3122265977265,-23.9673644714996,0
+                -46.3112443451117,-23.9680260667914,0
+                -46.3112416269284,-23.9680390942866,0
+                -46.3115606416471,-23.9684382333854,0
+                -46.3116067398084,-23.9684291695769,0
+                -46.3125748470798,-23.9677778074477,0
+                -46.3122625173185,-23.967369311625,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">863</SimpleData>
+            <SimpleData name="Num_Qd">67034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0338</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3137840066541,-23.9671548079458,0
+                -46.3128157837226,-23.9678033788666,0
+                -46.3128130977207,-23.967819566863,0
+                -46.3131251929642,-23.9682143367465,0
+                -46.313177172184,-23.9682328561258,0
+                -46.3141228385151,-23.967598473837,0
+                -46.3141271933443,-23.9675724280326,0
+                -46.3137840066541,-23.9671548079458,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">880</SimpleData>
+            <SimpleData name="Num_Qd">67049</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0744</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3184764174195,-23.9691987308201,0
+                -46.3178443232363,-23.9696260797262,0
+                -46.3185492788894,-23.9704869672079,0
+                -46.3191239136749,-23.9700962541528,0
+                -46.3184923534046,-23.9692002193148,0
+                -46.3184764174195,-23.9691987308201,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.48">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">881</SimpleData>
+            <SimpleData name="Num_Qd">67045</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0784</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3169142170712,-23.9687353359891,0
+                -46.3158678479198,-23.96942053938,0
+                -46.3158572456317,-23.9694410397885,0
+                -46.3165503612398,-23.9702986972485,0
+                -46.316569665107,-23.9703027759276,0
+                -46.3176012932487,-23.9696076702749,0
+                -46.3176066567339,-23.9695842346389,0
+                -46.3169142170712,-23.9687353359891,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.49">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">882</SimpleData>
+            <SimpleData name="Num_Qd">67059</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0740</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.316505748586,-23.9705120229242,0
+                -46.3158687379047,-23.9709403996446,0
+                -46.3158650759654,-23.9709572282032,0
+                -46.315870707313,-23.9709794857398,0
+                -46.3165384490314,-23.9717958192929,0
+                -46.3165728701366,-23.9718078054854,0
+                -46.3172109827031,-23.9713813127933,0
+                -46.3172179122083,-23.9713572315672,0
+                -46.3165317825051,-23.9705207397911,0
+                -46.316505748586,-23.9705120229242,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.50">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">883</SimpleData>
+            <SimpleData name="Num_Qd">67051</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0740</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3150662294687,-23.969994544225,0
+                -46.3153695667591,-23.9703579572202,0
+                -46.3154036084139,-23.9703519758232,0
+                -46.3157736986741,-23.9700980173167,0
+                -46.3158470060037,-23.9701843540095,0
+                -46.315460997699,-23.9704482927463,0
+                -46.3154795132271,-23.9704715234467,0
+                -46.3154634979115,-23.9704815946409,0
+                -46.3157423219095,-23.9708212857136,0
+                -46.3157774793244,-23.970828389193,0
+                -46.3164144080399,-23.9704016390877,0
+                -46.3164174573444,-23.9703825580992,0
+                -46.3157236403155,-23.9695332143095,0
+                -46.3156928905112,-23.969534290936,0
+                -46.3150611017747,-23.9699637934546,0
+                -46.3150662294687,-23.969994544225,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.51">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">939</SimpleData>
+            <SimpleData name="Num_Qd">67037</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0306</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3196164744616,-23.9682479234569,0
+                -46.3195703214029,-23.9677786334443,0
+                -46.3195235081085,-23.9677366822685,0
+                -46.3187644163217,-23.9680446578158,0
+                -46.3187519806072,-23.968068425233,0
+                -46.3187541931545,-23.968092698818,0
+                -46.3191106905234,-23.9685900240249,0
+                -46.3191379666583,-23.9685856352417,0
+                -46.3196030297993,-23.968288406433,0
+                -46.3196164744616,-23.9682479234569,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.52">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">954</SimpleData>
+            <SimpleData name="Num_Qd">67030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0306</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3182889404737,-23.9674247241394,0
+                -46.318646530808,-23.9679429021442,0
+                -46.3186679035526,-23.9679571674824,0
+                -46.3186979402462,-23.9679536581122,0
+                -46.3194896036817,-23.9676209293998,0
+                -46.3195422100466,-23.9675851666298,0
+                -46.3194917211644,-23.9669698872541,0
+                -46.3194623943276,-23.966946569452,0
+                -46.3194323514587,-23.9669494468671,0
+                -46.3183107978671,-23.9673900389,0
+                -46.3182892903176,-23.9674011509698,0
+                -46.3182889404737,-23.9674247241394,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.53">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1063</SimpleData>
+            <SimpleData name="Num_Qd">67023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0790</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3141190670133,-23.9660829700222,0
+                -46.3134848310546,-23.9665220593487,0
+                -46.3138177272452,-23.966942748539,0
+                -46.3141517937548,-23.9667130341417,0
+                -46.314186148782,-23.966670205004,0
+                -46.3141371699326,-23.96608498226,0
+                -46.3141190670133,-23.9660829700222,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.54">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1335</SimpleData>
+            <SimpleData name="Num_Qd">57056</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0310</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3169088381533,-23.9611651090082,0
+                -46.3166381958351,-23.9613000939851,0
+                -46.3165520144631,-23.9613583595243,0
+                -46.316323931866,-23.9615523104804,0
+                -46.3163124762748,-23.9615661355027,0
+                -46.3163220800331,-23.9615828502238,0
+                -46.3164544325215,-23.9616293964361,0
+                -46.3165390611917,-23.9616407711578,0
+                -46.3166152708513,-23.9616297105992,0
+                -46.3168513688886,-23.961553923575,0
+                -46.3168921106048,-23.9615112196584,0
+                -46.3169177292622,-23.9614502229134,0
+                -46.3169354523321,-23.9612698174908,0
+                -46.3169237609549,-23.9611830423199,0
+                -46.3169088381533,-23.9611651090082,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.55">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1386</SimpleData>
+            <SimpleData name="Num_Qd">67071</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0743</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3200140609102,-23.9721776729882,0
+                -46.3199082745807,-23.9722002318791,0
+                -46.3199003838738,-23.9722168207519,0
+                -46.3200245158113,-23.9723519073794,0
+                -46.3200140609102,-23.9721776729882,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.56">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1445</SimpleData>
+            <SimpleData name="Num_Qd">67074</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0306</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3197596423163,-23.9694715364653,0
+                -46.3197312168635,-23.9694667997733,0
+                -46.319703289364,-23.9695112812855,0
+                -46.3197345525049,-23.9695703884613,0
+                -46.319756958647,-23.9695809066161,0
+                -46.3197688767041,-23.9695698113658,0
+                -46.3197596423163,-23.9694715364653,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.57">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1457</SimpleData>
+            <SimpleData name="Num_Qd">77021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0765</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3206915785189,-23.9744824050128,0
+                -46.3200634555385,-23.9748382060989,0
+                -46.320034265318,-23.974905645862,0
+                -46.3200582511646,-23.9749543857239,0
+                -46.3201038161184,-23.9749796405546,0
+                -46.3201536016289,-23.9749754189428,0
+                -46.3207821088708,-23.9746187110974,0
+                -46.3208117630986,-23.9745775465422,0
+                -46.3207989860419,-23.9745100166867,0
+                -46.3207472389616,-23.9744760555423,0
+                -46.3206915785189,-23.9744824050128,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.58">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1458</SimpleData>
+            <SimpleData name="Num_Qd">64046</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0309</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.318530291275,-23.9629896515014,0
+                -46.318465629751,-23.9630966650305,0
+                -46.3185452818944,-23.9631301308902,0
+                -46.3185599595504,-23.9630171231058,0
+                -46.318530291275,-23.9629896515014,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.59">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1459</SimpleData>
+            <SimpleData name="Num_Qd">77022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0769</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.313924980338,-23.975836130879,0
+                -46.3140354083104,-23.9759702267534,0
+                -46.3140453189666,-23.9759093920737,0
+                -46.313942232604,-23.9758348221863,0
+                -46.313924980338,-23.975836130879,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.60">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1546</SimpleData>
+            <SimpleData name="Num_Qd">68028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0317</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3115275368051,-23.9686726833383,0
+                -46.3102699895956,-23.9695182352345,0
+                -46.3102669366538,-23.9695370452428,0
+                -46.3105857649953,-23.9699370909425,0
+                -46.3106176356002,-23.9699496421586,0
+                -46.3106477311321,-23.9699421603224,0
+                -46.3117665133346,-23.9691840359595,0
+                -46.3118106404159,-23.9691217407998,0
+                -46.3118169455347,-23.9690400159357,0
+                -46.3115275368051,-23.9686726833383,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.61">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1547</SimpleData>
+            <SimpleData name="Num_Qd">68029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0286</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3101062428397,-23.9696234878329,0
+                -46.3088210145751,-23.9704936478639,0
+                -46.3088166682085,-23.970540102933,0
+                -46.3092158939411,-23.9708338959403,0
+                -46.3092882980689,-23.9708409537965,0
+                -46.3093709692024,-23.970803944278,0
+                -46.31045781654,-23.9700686506805,0
+                -46.310465721443,-23.9700277776912,0
+                -46.3101397945132,-23.9696273552881,0
+                -46.3101062428397,-23.9696234878329,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.62">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1551</SimpleData>
+            <SimpleData name="Num_Qd">68034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0286</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3119167433033,-23.9693337146596,0
+                -46.3112686586135,-23.9697683380107,0
+                -46.311263589685,-23.9697918612525,0
+                -46.3117935224203,-23.9704443137062,0
+                -46.3118189152363,-23.9704479796655,0
+                -46.3125486293457,-23.9699532627881,0
+                -46.3125478727324,-23.9699270801637,0
+                -46.3120796989517,-23.9693564620972,0
+                -46.3120315834063,-23.9693313168667,0
+                -46.3119167433033,-23.9693337146596,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.63">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1552</SimpleData>
+            <SimpleData name="Num_Qd">68035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0286</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3101792910616,-23.9715506535209,0
+                -46.31165310457,-23.97056291444,0
+                -46.3116551558926,-23.9705325536518,0
+                -46.3111438702984,-23.9698872561496,0
+                -46.311107933585,-23.9698807904013,0
+                -46.3095307335242,-23.9709365055688,0
+                -46.3094998478514,-23.9709728019745,0
+                -46.3094922697662,-23.9710203683411,0
+                -46.3095110505454,-23.971060214076,0
+                -46.3097187820934,-23.9712226184059,0
+                -46.3101434677121,-23.9715457218169,0
+                -46.3101792910616,-23.9715506535209,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.64">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1638</SimpleData>
+            <SimpleData name="Num_Qd">68016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0316</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3106303051099,-23.9675877268977,0
+                -46.3093902039825,-23.9684184926021,0
+                -46.3093802225399,-23.9684519012452,0
+                -46.3097108272406,-23.968870271142,0
+                -46.3097368120524,-23.9688742033259,0
+                -46.3109902470495,-23.9680304068393,0
+                -46.3109950430983,-23.9680090533104,0
+                -46.3106547247122,-23.9675923947711,0
+                -46.3106303051099,-23.9675877268977,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.65">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1736</SimpleData>
+            <SimpleData name="Num_Qd">68008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0331</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3117058800181,-23.9666795207873,0
+                -46.3113914934734,-23.9662808840335,0
+                -46.3113418576337,-23.9662704716257,0
+                -46.3103526524752,-23.9669249560644,0
+                -46.3103516073265,-23.9669462507704,0
+                -46.3106855452521,-23.9673554358505,0
+                -46.3107137619814,-23.967366302465,0
+                -46.3117032985569,-23.9666963400275,0
+                -46.3117058800181,-23.9666795207873,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.66">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1737</SimpleData>
+            <SimpleData name="Num_Qd">68009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0316</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3105432326852,-23.9674808247736,0
+                -46.3105458568693,-23.967458496437,0
+                -46.3102122527767,-23.9670446692349,0
+                -46.3101860809202,-23.9670416417901,0
+                -46.3089442777512,-23.9678788302179,0
+                -46.3089293545718,-23.9679094814923,0
+                -46.3092413695447,-23.9683071502208,0
+                -46.3092635567219,-23.9683242997875,0
+                -46.3092925411868,-23.9683236007643,0
+                -46.3105432326852,-23.9674808247736,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.67">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1741</SimpleData>
+            <SimpleData name="Num_Qd">68022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0317</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3098227363555,-23.9690036022123,0
+                -46.31013750158,-23.969390860037,0
+                -46.3101723188167,-23.9693935426787,0
+                -46.3114113943285,-23.9685581736835,0
+                -46.3114147496861,-23.9685304206486,0
+                -46.3111034868331,-23.9681397941541,0
+                -46.311078384722,-23.9681356740363,0
+                -46.3098265499427,-23.9689822571072,0
+                -46.3098227363555,-23.9690036022123,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.68">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1742</SimpleData>
+            <SimpleData name="Num_Qd">68023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0285</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3100107045273,-23.969469616929,0
+                -46.3097035070639,-23.96909990039,0
+                -46.3096708513702,-23.969087643126,0
+                -46.3082542445527,-23.9700361112526,0
+                -46.3082485247935,-23.9700722097186,0
+                -46.3083336993867,-23.9701742349343,0
+                -46.3086203711846,-23.9703906039517,0
+                -46.3086856228215,-23.9703949871904,0
+                -46.3100057311114,-23.9695076251448,0
+                -46.3100107045273,-23.969469616929,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.69">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1824</SimpleData>
+            <SimpleData name="Num_Qd">67024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0325</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3180849130374,-23.9679124155221,0
+                -46.3182291255132,-23.9681271722776,0
+                -46.31850147091,-23.9679491847337,0
+                -46.3183572804091,-23.9677363300998,0
+                -46.3180849130374,-23.9679124155221,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.70">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1829</SimpleData>
+            <SimpleData name="Num_Qd">67038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0325</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3176504340893,-23.9678034278831,0
+                -46.3177308405039,-23.9679166706188,0
+                -46.317971221784,-23.9677473983495,0
+                -46.3178928372509,-23.9676393221081,0
+                -46.3176504340893,-23.9678034278831,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.71">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">1921</SimpleData>
+            <SimpleData name="Num_Qd">67057</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0305</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3197980471507,-23.9710104316676,0
+                  -46.3198545923812,-23.9711310459076,0
+                  -46.3198927381335,-23.971066370851,0
+                  -46.3198751587141,-23.9709169256367,0
+                  -46.319854280678,-23.9709253022772,0
+                  -46.3197980471507,-23.9710104316676,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.319819652996,-23.9710947089074,0
+                  -46.3192160371145,-23.9702268998228,0
+                  -46.3186613702684,-23.9705950633594,0
+                  -46.3186603289469,-23.9706182812584,0
+                  -46.3193347835482,-23.9714553209108,0
+                  -46.3193559060763,-23.971454597457,0
+                  -46.3198060190675,-23.971132955558,0
+                  -46.319819652996,-23.9710947089074,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.72">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2023</SimpleData>
+            <SimpleData name="Num_Qd">68001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0314</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3107767711598,-23.9655119350377,0
+                -46.3104910088011,-23.9655332515963,0
+                -46.3097473115278,-23.9660430687862,0
+                -46.3097280169464,-23.9660787243725,0
+                -46.309714493853,-23.9661506342209,0
+                -46.3102430387805,-23.966813941865,0
+                -46.3102695158181,-23.9668246400975,0
+                -46.3112566749488,-23.9661489301379,0
+                -46.3112476357939,-23.9660979775911,0
+                -46.3107767711598,-23.9655119350377,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Embar__.73">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2064</SimpleData>
+            <SimpleData name="Num_Qd">57043</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0309</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.314719812315,-23.9648316078833,0
+                  -46.3147025075284,-23.9651819496748,0
+                  -46.3147632321758,-23.9651405229446,0
+                  -46.3147436765485,-23.9654971878511,0
+                  -46.3162749742006,-23.964472905323,0
+                  -46.3169860731145,-23.9639790509222,0
+                  -46.316988862306,-23.9639634038229,0
+                  -46.3165444180408,-23.9636291097566,0
+                  -46.3165092992551,-23.9636256183373,0
+                  -46.3150277109263,-23.964623533999,0
+                  -46.3152093909578,-23.9648396341984,0
+                  -46.3150648278958,-23.9649355061312,0
+                  -46.3148870078105,-23.964718962754,0
+                  -46.314719812315,-23.9648316078833,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3180493318387,-23.9626172500416,0
+                  -46.3180039002075,-23.9626142987919,0
+                  -46.3166655771724,-23.9635187629739,0
+                  -46.3171110753336,-23.963869106835,0
+                  -46.3171515298724,-23.9638754424161,0
+                  -46.3183858539287,-23.9630365465146,0
+                  -46.3184123510376,-23.962975000266,0
+                  -46.3183971779137,-23.9628841911522,0
+                  -46.3180493318387,-23.9626172500416,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.74">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2065</SimpleData>
+            <SimpleData name="Num_Qd">57045</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0311</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3141746352336,-23.9641876668898,0
+                  -46.3149450528647,-23.9636700141262,0
+                  -46.3149996758389,-23.9636296299518,0
+                  -46.3150006179595,-23.9635965694176,0
+                  -46.3144870173226,-23.962954282152,0
+                  -46.3144464151429,-23.962923654759,0
+                  -46.3143963211404,-23.9629164079832,0
+                  -46.3143490219016,-23.9629327977462,0
+                  -46.3140615754707,-23.96312662211,0
+                  -46.3140426233603,-23.9631862066925,0
+                  -46.3141366233072,-23.9641605392167,0
+                  -46.3141746352336,-23.9641876668898,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3159769868691,-23.9629380127208,0
+                  -46.3154477758155,-23.962287730382,0
+                  -46.31540842402,-23.9622737990603,0
+                  -46.3153247965606,-23.9622739738661,0
+                  -46.3146435426411,-23.9627356819124,0
+                  -46.3146074877248,-23.9627852082434,0
+                  -46.3146123202565,-23.9628450406513,0
+                  -46.3151496501106,-23.9635208133141,0
+                  -46.3151723207202,-23.9635178195315,0
+                  -46.3157386257881,-23.9631362940608,0
+                  -46.3159793723665,-23.962960027262,0
+                  -46.3159769868691,-23.9629380127208,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.75">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2068</SimpleData>
+            <SimpleData name="Num_Qd">58012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0314</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3117291958803,-23.9647206460281,0
+                  -46.3117690450373,-23.9646186191212,0
+                  -46.3117631643323,-23.964552203233,0
+                  -46.311734832595,-23.9645007897843,0
+                  -46.3116595664023,-23.9644436368736,0
+                  -46.3116017149626,-23.9644273345089,0
+                  -46.3114955619384,-23.9644352863418,0
+                  -46.3112567833796,-23.9645155343529,0
+                  -46.3110292767674,-23.9646414714597,0
+                  -46.3107506000532,-23.9648676352322,0
+                  -46.3106640058719,-23.9649730415687,0
+                  -46.3106073450516,-23.9650744894388,0
+                  -46.3105954097385,-23.9651575838944,0
+                  -46.3106119529873,-23.9652094595405,0
+                  -46.3106675883816,-23.9652787013138,0
+                  -46.3107607227366,-23.9653146603678,0
+                  -46.3108982241691,-23.9653065313518,0
+                  -46.3110428910103,-23.9652586960339,0
+                  -46.3112901262498,-23.9651302421927,0
+                  -46.3114343948423,-23.965033373042,0
+                  -46.3115835893845,-23.964898893784,0
+                  -46.3117291958803,-23.9647206460281,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3104089854051,-23.9615292611869,0
+                  -46.3106929233782,-23.9645840160365,0
+                  -46.3107141977609,-23.9646081270651,0
+                  -46.3107449638778,-23.9646087673983,0
+                  -46.3109327363306,-23.9644796495661,0
+                  -46.3111594153085,-23.9643593202062,0
+                  -46.3113089048893,-23.9643025943151,0
+                  -46.3115675263433,-23.9642409622265,0
+                  -46.3115918494789,-23.9642167325953,0
+                  -46.3112088246786,-23.9606946723987,0
+                  -46.310367800755,-23.9607603734172,0
+                  -46.3103378956203,-23.9607962098619,0
+                  -46.3104031444906,-23.9614278054162,0
+                  -46.3104174856972,-23.9614368943504,0
+                  -46.3107161662614,-23.9614111351748,0
+                  -46.3107301513898,-23.9613850071958,0
+                  -46.3107084335022,-23.9611860582097,0
+                  -46.3107841763477,-23.9611790459601,0
+                  -46.3108296421585,-23.961602792044,0
+                  -46.3108392068122,-23.9617128855031,0
+                  -46.3107633659088,-23.9617213692753,0
+                  -46.3107288988116,-23.9614943802701,0
+                  -46.3104371006934,-23.9615107790472,0
+                  -46.3104089854051,-23.9615292611869,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.76">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2082</SimpleData>
+            <SimpleData name="Num_Qd">67006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0328</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3156162212659,-23.9657254614651,0
+                  -46.3151927261641,-23.9653931478159,0
+                  -46.3151597943775,-23.9653921657106,0
+                  -46.3143174770977,-23.9659532363054,0
+                  -46.3143063761418,-23.9659730183746,0
+                  -46.3143615121579,-23.9665354319399,0
+                  -46.3143963339256,-23.9665483185902,0
+                  -46.3146041030085,-23.9664142387742,0
+                  -46.3156162212659,-23.9657254614651,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3175076090703,-23.964423939766,0
+                  -46.3175198069109,-23.964386447795,0
+                  -46.3174978453992,-23.9643528615852,0
+                  -46.3171388760867,-23.964074638232,0
+                  -46.3171057536575,-23.964074200253,0
+                  -46.3153334647755,-23.9652715331893,0
+                  -46.3153258592392,-23.9652967941414,0
+                  -46.315719979441,-23.965600999536,0
+                  -46.3161019612495,-23.9651935969109,0
+                  -46.3161078261333,-23.9651808132595,0
+                  -46.3160581772679,-23.9651303963953,0
+                  -46.3162106238868,-23.9650263184117,0
+                  -46.3162751199757,-23.9650775108591,0
+                  -46.3157568798537,-23.9656347287482,0
+                  -46.3158302401652,-23.9656878320764,0
+                  -46.3159745323484,-23.9655355099182,0
+                  -46.3160002739368,-23.9655542535264,0
+                  -46.3158569147487,-23.9657113539844,0
+                  -46.316127944747,-23.9659232367591,0
+                  -46.3161526021254,-23.9659223026725,0
+                  -46.3175076090703,-23.964423939766,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.77">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2083</SimpleData>
+            <SimpleData name="Num_Qd">67010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0310</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3160744465505,-23.9630724688009,0
+                  -46.3141533781572,-23.9643656833076,0
+                  -46.3142127767064,-23.9649803485565,0
+                  -46.3142348824404,-23.964989460928,0
+                  -46.316253946786,-23.9636279339756,0
+                  -46.3164182827324,-23.9635141822679,0
+                  -46.3164262892904,-23.9634897306171,0
+                  -46.3160744465505,-23.9630724688009,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3178487233717,-23.9624626973772,0
+                  -46.3174623223905,-23.9621729703392,0
+                  -46.3174174796316,-23.9621699238761,0
+                  -46.3162307195395,-23.9629698504803,0
+                  -46.3165507824084,-23.9633946175771,0
+                  -46.3165922019435,-23.9633992288908,0
+                  -46.3178715964349,-23.9625376364163,0
+                  -46.3178740393187,-23.9625072722054,0
+                  -46.3178487233717,-23.9624626973772,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.78">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2084</SimpleData>
+            <SimpleData name="Num_Qd">67012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0329</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3147197423255,-23.9648311808364,0
+                  -46.3142398872521,-23.965150181121,0
+                  -46.3142244074422,-23.9651809493756,0
+                  -46.3142766261092,-23.965677929258,0
+                  -46.3142909645873,-23.9657076359686,0
+                  -46.314324529006,-23.9657299222102,0
+                  -46.3143824847639,-23.9657350693021,0
+                  -46.3147436064533,-23.9654967618003,0
+                  -46.3147631621745,-23.9651400965924,0
+                  -46.3147024374488,-23.9651815229377,0
+                  -46.3147197423255,-23.9648311808364,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3148870078105,-23.964718962754,0
+                  -46.3150648278958,-23.9649355061312,0
+                  -46.3152093909578,-23.9648396341984,0
+                  -46.3150288837391,-23.9646240686773,0
+                  -46.3148870078105,-23.964718962754,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.79">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2085</SimpleData>
+            <SimpleData name="Num_Qd">67017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0330</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3127982987917,-23.9659415731897,0
+                  -46.3124629057555,-23.965526050409,0
+                  -46.3124344896106,-23.9655245777714,0
+                  -46.3115080824337,-23.9661483994905,0
+                  -46.3114996291706,-23.9661773701277,0
+                  -46.3118286181594,-23.9665914145972,0
+                  -46.3118617540707,-23.9665931178834,0
+                  -46.3127945785393,-23.9659623757139,0
+                  -46.3127982987917,-23.9659415731897,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3125985059497,-23.9654145436737,0
+                  -46.3125928048065,-23.9654338279095,0
+                  -46.312921042644,-23.9658414674785,0
+                  -46.3129654017651,-23.9658451518313,0
+                  -46.3140490268112,-23.9651135090815,0
+                  -46.3140579512538,-23.9650923007469,0
+                  -46.3139928268259,-23.9644943913089,0
+                  -46.313967509577,-23.9644883768434,0
+                  -46.3125985059497,-23.9654145436737,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.80">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2086</SimpleData>
+            <SimpleData name="Num_Qd">67032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0324</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3174149192043,-23.9683868480659,0
+                  -46.3175926456473,-23.9686072625755,0
+                  -46.3175019837723,-23.9686679778734,0
+                  -46.3175432308069,-23.9687192433778,0
+                  -46.3179630575573,-23.96844342755,0
+                  -46.3178598534357,-23.9682966573062,0
+                  -46.3176048399518,-23.9684630726605,0
+                  -46.3174981104568,-23.9683302637056,0
+                  -46.3174149192043,-23.9683868480659,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3176681313605,-23.9680429747143,0
+                  -46.317671081256,-23.9680238042507,0
+                  -46.3170425236955,-23.9671357053126,0
+                  -46.3162537577959,-23.9676476563816,0
+                  -46.3162518609908,-23.967673771439,0
+                  -46.316939296288,-23.9685147695011,0
+                  -46.3169584713434,-23.9685158691112,0
+                  -46.3176681313605,-23.9680429747143,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.81">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2087</SimpleData>
+            <SimpleData name="Num_Qd">67039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0324</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3177599749405,-23.9694978460983,0
+                  -46.3184018891941,-23.9690697809596,0
+                  -46.3179631245326,-23.9684438267414,0
+                  -46.3175432983212,-23.9687196452635,0
+                  -46.3175020513239,-23.9686683801207,0
+                  -46.3175927130823,-23.9686076642428,0
+                  -46.3174149867998,-23.9683872512908,0
+                  -46.3170430735171,-23.9686402178588,0
+                  -46.3177354656925,-23.9694940832235,0
+                  -46.3177599749405,-23.9694978460983,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3178598534357,-23.9682966573062,0
+                  -46.3177718775404,-23.9681715433302,0
+                  -46.3177446620353,-23.9681625656829,0
+                  -46.3174981104568,-23.9683302637056,0
+                  -46.3176048399518,-23.9684630726605,0
+                  -46.3178598534357,-23.9682966573062,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.82">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2088</SimpleData>
+            <SimpleData name="Num_Qd">67040</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0337</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3157449425429,-23.9693082569577,0
+                  -46.3157731666569,-23.9693100918258,0
+                  -46.3162126145903,-23.9690152601685,0
+                  -46.31622272178,-23.9689944027588,0
+                  -46.3155977943529,-23.9682214083157,0
+                  -46.315536044151,-23.9681504148147,0
+                  -46.3155157515418,-23.9681457123241,0
+                  -46.315069150466,-23.9684424997634,0
+                  -46.315066171556,-23.9684685337858,0
+                  -46.3157449425429,-23.9693082569577,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3156158122273,-23.9680762547299,0
+                  -46.3163151568311,-23.9689384720419,0
+                  -46.3168167525194,-23.9686087916882,0
+                  -46.3161128078699,-23.9677516483352,0
+                  -46.3156158122273,-23.9680762547299,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.83">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2089</SimpleData>
+            <SimpleData name="Num_Qd">67044</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0305</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3185953369406,-23.9691377111782,0
+                  -46.3197652311175,-23.970807638949,0
+                  -46.3197947571757,-23.9708214729252,0
+                  -46.3198310644532,-23.9708160131434,0
+                  -46.3198580215679,-23.9707609648321,0
+                  -46.3197620774447,-23.9697647084799,0
+                  -46.3191123130633,-23.9688134000855,0
+                  -46.319083842837,-23.9688066911501,0
+                  -46.318604608916,-23.9691120745661,0
+                  -46.3185953369406,-23.9691377111782,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3176644948526,-23.9667443463539,0
+                  -46.317585343389,-23.9667790717478,0
+                  -46.3171568747655,-23.9670605348405,0
+                  -46.3171482293852,-23.9670813925144,0
+                  -46.3176503668821,-23.9678030256365,0
+                  -46.3178927703559,-23.9676389214112,0
+                  -46.3179711549577,-23.9677469983534,0
+                  -46.3177307733666,-23.9679162690939,0
+                  -46.3184898542739,-23.9690010420375,0
+                  -46.3185102336083,-23.9690039834788,0
+                  -46.3189938061848,-23.9686700174587,0
+                  -46.318998122458,-23.9686499321591,0
+                  -46.3185014046543,-23.9679487888265,0
+                  -46.3182290589078,-23.9681267746188,0
+                  -46.318084846309,-23.9679120165533,0
+                  -46.3183572140298,-23.9677359328846,0
+                  -46.3176644948526,-23.9667443463539,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3175603576758,-23.966624637686,0
+                  -46.3175606978286,-23.9665963846514,0
+                  -46.3172743123903,-23.9662130327364,0
+                  -46.3169827872677,-23.9659090341673,0
+                  -46.3167018645847,-23.9656618374783,0
+                  -46.3166607031304,-23.9656730277639,0
+                  -46.3163171258204,-23.9660570520924,0
+                  -46.3163225017402,-23.9660921744662,0
+                  -46.3166168034389,-23.9663346744465,0
+                  -46.3170530744768,-23.9669466652121,0
+                  -46.3171013450101,-23.9669427914101,0
+                  -46.3175603576758,-23.966624637686,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.84">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2090</SimpleData>
+            <SimpleData name="Num_Qd">68004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0283</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3071483571282,-23.9678862031289,0
+                  -46.3071025077308,-23.9678614885102,0
+                  -46.3070323083131,-23.9678682277947,0
+                  -46.3064061408811,-23.968292138708,0
+                  -46.306358906039,-23.9683347146953,0
+                  -46.3063125085586,-23.9684408599551,0
+                  -46.3063069258891,-23.9685304924697,0
+                  -46.3063194298452,-23.9685814999407,0
+                  -46.3063839862443,-23.9686876030017,0
+                  -46.3068985362788,-23.9690844540427,0
+                  -46.3069363932585,-23.9690767261676,0
+                  -46.3076832928354,-23.9685697843664,0
+                  -46.3071483571282,-23.9678862031289,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3072671906712,-23.9677881743325,0
+                  -46.3078127737177,-23.9684750104261,0
+                  -46.3078372652766,-23.9684770593946,0
+                  -46.3086975333326,-23.9678886873877,0
+                  -46.3086916967971,-23.9678654378308,0
+                  -46.3081322666899,-23.9671992227159,0
+                  -46.3080605223527,-23.9671891779434,0
+                  -46.3079806808351,-23.9672239946669,0
+                  -46.3072762512294,-23.9677023953251,0
+                  -46.3072585224038,-23.9677277421387,0
+                  -46.3072671906712,-23.9677881743325,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.85">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2091</SimpleData>
+            <SimpleData name="Num_Qd">68011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0776</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3077681586335,-23.9686797564761,0
+                  -46.3070345249248,-23.9691769181492,0
+                  -46.3070464584542,-23.9692005673821,0
+                  -46.3074808154437,-23.9695289278997,0
+                  -46.3075068676588,-23.9695297896197,0
+                  -46.3081089596518,-23.9691253188082,0
+                  -46.3081169272533,-23.9691065572443,0
+                  -46.3078608099613,-23.9687747831384,0
+                  -46.3077681586335,-23.9686797564761,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3089121223673,-23.9681298956918,0
+                  -46.3087676154988,-23.9682267318946,0
+                  -46.3086536686056,-23.9680778662021,0
+                  -46.3079071133364,-23.9685839501218,0
+                  -46.3079071918851,-23.9686014690823,0
+                  -46.3082364700437,-23.9690056753697,0
+                  -46.3082753353111,-23.9690102203651,0
+                  -46.3091232156634,-23.9684310673126,0
+                  -46.3091290690056,-23.9683976036209,0
+                  -46.3089121223673,-23.9681298956918,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.86">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2092</SimpleData>
+            <SimpleData name="Num_Qd">68015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0331</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3118171148032,-23.9668113265061,0
+                  -46.3117935860889,-23.9668072831709,0
+                  -46.3108083411569,-23.96746446996,0
+                  -46.3107999159637,-23.9674962398284,0
+                  -46.3111355550509,-23.967906890365,0
+                  -46.3111675508215,-23.967903699821,0
+                  -46.3121477750224,-23.96724651738,0
+                  -46.3121523305232,-23.9672285708604,0
+                  -46.3118171148032,-23.9668113265061,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3128974856242,-23.9660674374806,0
+                  -46.3119352309475,-23.9667034831828,0
+                  -46.3119317600845,-23.9667295213866,0
+                  -46.3122726781643,-23.9671469876522,0
+                  -46.3122981091978,-23.9671447834343,0
+                  -46.3132396711784,-23.9665128860277,0
+                  -46.3132437945097,-23.966493073429,0
+                  -46.3128974856242,-23.9660674374806,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3140484303018,-23.9652807438234,0
+                  -46.3130393092505,-23.965965066681,0
+                  -46.3130370703452,-23.9659865789838,0
+                  -46.313379387162,-23.9664061952092,0
+                  -46.3133970308189,-23.966411372221,0
+                  -46.3140983260103,-23.9659467838131,0
+                  -46.3141318654382,-23.9659010718473,0
+                  -46.3140743040157,-23.9652931651273,0
+                  -46.3140484303018,-23.9652807438234,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.87">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2093</SimpleData>
+            <SimpleData name="Num_Qd">68017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0285</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3076249576163,-23.969619276644,0
+                  -46.3076237920717,-23.9696401526665,0
+                  -46.3080542179886,-23.9699648494777,0
+                  -46.3080896824079,-23.9699732164316,0
+                  -46.3085413355701,-23.9696782117131,0
+                  -46.3085577212043,-23.9696463739964,0
+                  -46.3082222501437,-23.9692325584744,0
+                  -46.308185142895,-23.9692366679755,0
+                  -46.3076249576163,-23.969619276644,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3083550750948,-23.9691574472315,0
+                  -46.3086680346365,-23.9695608913529,0
+                  -46.3087051616078,-23.9695781846889,0
+                  -46.3095760607475,-23.9689814990778,0
+                  -46.3095930204566,-23.9689578744148,0
+                  -46.3092522312784,-23.9685431102745,0
+                  -46.3092218515542,-23.9685321713283,0
+                  -46.3083599706043,-23.9691264300321,0
+                  -46.3083550750948,-23.9691574472315,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.88">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2094</SimpleData>
+            <SimpleData name="Num_Qd">68039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0800</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3118779009744,-23.9717283147501,0
+                  -46.3119851587547,-23.9718579821565,0
+                  -46.3124641963793,-23.971520922431,0
+                  -46.312366462922,-23.9714001143325,0
+                  -46.312198177503,-23.9715124989616,0
+                  -46.312245631413,-23.9715689753984,0
+                  -46.3121045769156,-23.9716647870375,0
+                  -46.3120582398743,-23.9716091049501,0
+                  -46.3118779009744,-23.9717283147501,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3117427555761,-23.9706787439281,0
+                  -46.3103201721822,-23.9716402092204,0
+                  -46.3103081866371,-23.9716600888857,0
+                  -46.310315898111,-23.9716840448028,0
+                  -46.3104927199128,-23.9718607112657,0
+                  -46.311018987392,-23.9724611849201,0
+                  -46.3110596304137,-23.9724761899148,0
+                  -46.311882032365,-23.971922801467,0
+                  -46.3118905909745,-23.9718847992078,0
+                  -46.3116176867048,-23.9715466734065,0
+                  -46.312163851273,-23.9711807746282,0
+                  -46.3121711848717,-23.9711576835429,0
+                  -46.3117684076217,-23.9706788858768,0
+                  -46.3117427555761,-23.9706787439281,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3121263252258,-23.9714272693152,0
+                  -46.312174223951,-23.971484339711,0
+                  -46.3123466729532,-23.97137028659,0
+                  -46.3122505377391,-23.9712519941786,0
+                  -46.3122201467045,-23.9712497256836,0
+                  -46.311745358451,-23.9715695929201,0
+                  -46.3118534065999,-23.9716997042779,0
+                  -46.3120352751664,-23.9715759515431,0
+                  -46.3119904316028,-23.9715192834272,0
+                  -46.3121263252258,-23.9714272693152,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.89">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2095</SimpleData>
+            <SimpleData name="Num_Qd">68043</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0288</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3128654299786,-23.9720146124897,0
+                  -46.3128369498207,-23.9720166625076,0
+                  -46.3123014353301,-23.9723861785974,0
+                  -46.3119983627573,-23.9720291690222,0
+                  -46.3111709846472,-23.9725860375149,0
+                  -46.311170411779,-23.9726362532449,0
+                  -46.3118584839409,-23.973424077457,0
+                  -46.3119111342575,-23.9734310321209,0
+                  -46.313252242704,-23.9725271344568,0
+                  -46.3132624333356,-23.9725047412883,0
+                  -46.3128654299786,-23.9720146124897,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3128009344463,-23.9719317397848,0
+                  -46.3126991899407,-23.9718031095044,0
+                  -46.3125292347293,-23.971917554173,0
+                  -46.3125752798711,-23.9719722952605,0
+                  -46.3124345124028,-23.9720687021329,0
+                  -46.3123921307481,-23.9720176742185,0
+                  -46.3122190133633,-23.9721344903448,0
+                  -46.3123202562703,-23.9722621318553,0
+                  -46.3128009344463,-23.9719317397848,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3123645522288,-23.9719843409007,0
+                  -46.3123153219911,-23.9719254207057,0
+                  -46.3124558307516,-23.9718302867352,0
+                  -46.3125037003393,-23.9718870997775,0
+                  -46.3126726918934,-23.9717776889029,0
+                  -46.3125644636233,-23.971649294602,0
+                  -46.3120819565904,-23.9719737412805,0
+                  -46.3121875633862,-23.9721053190985,0
+                  -46.3123645522288,-23.9719843409007,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.90">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2106</SimpleData>
+            <SimpleData name="Num_Qd">77007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0319</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3165164204281,-23.9745410737648,0
+                  -46.3165493930453,-23.9745458478042,0
+                  -46.316879214245,-23.9743708897032,0
+                  -46.31696585662,-23.9743088269167,0
+                  -46.3164365066138,-23.9736404951041,0
+                  -46.3163712873725,-23.9736346433099,0
+                  -46.3160237169521,-23.9738714324141,0
+                  -46.3160172542609,-23.9739221501835,0
+                  -46.3165164204281,-23.9745410737648,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3159038800138,-23.9737876158681,0
+                  -46.3163229941083,-23.9735019914465,0
+                  -46.3156125527059,-23.9726335491573,0
+                  -46.3152052802463,-23.9729044403495,0
+                  -46.3151953682268,-23.9729252056712,0
+                  -46.3159038800138,-23.9737876158681,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.91">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2107</SimpleData>
+            <SimpleData name="Num_Qd">77008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0768</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3163525644944,-23.9746550034485,0
+                  -46.3163605955795,-23.974623236697,0
+                  -46.3158579618429,-23.9740015428402,0
+                  -46.315120075237,-23.9744956232643,0
+                  -46.3151149986233,-23.9745183339038,0
+                  -46.3155477796987,-23.975055560364,0
+                  -46.3155744426433,-23.9750680648602,0
+                  -46.3163525644944,-23.9746550034485,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3143154373636,-23.97352272275,0
+                  -46.3149937610549,-23.9743741073605,0
+                  -46.3150327795723,-23.9743838873637,0
+                  -46.3157571981069,-23.9738893857185,0
+                  -46.3150744266237,-23.9730163688985,0
+                  -46.3150384144045,-23.9730122524827,0
+                  -46.3143154373636,-23.97352272275,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Embar__.92">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Embar__.schema">
+            <SimpleData name="fid">2127</SimpleData>
+            <SimpleData name="Num_Qd">67005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0794</SimpleData>
+            <SimpleData name="Bairro">Embar?</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3181725897129,-23.9660245187385,0
+                  -46.3171083034257,-23.9652147582083,0
+                  -46.3170831833183,-23.9652184959411,0
+                  -46.3168050329098,-23.9655148345668,0
+                  -46.3167957825464,-23.9655716269155,0
+                  -46.317024438328,-23.9657719513765,0
+                  -46.3173099579868,-23.9660749177827,0
+                  -46.3174636413241,-23.9662568307375,0
+                  -46.3176593211983,-23.9665386236016,0
+                  -46.3176876346949,-23.9665493074708,0
+                  -46.3177464144929,-23.9665117764267,0
+                  -46.3178401284144,-23.9664111816666,0
+                  -46.318165738691,-23.9660562754407,0
+                  -46.3181725897129,-23.9660245187385,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3177262755869,-23.9645372478512,0
+                  -46.3176896402605,-23.9645392782195,0
+                  -46.3175421151802,-23.9646937403849,0
+                  -46.3172181566154,-23.9650549161858,0
+                  -46.3172099204243,-23.9650954445412,0
+                  -46.3182930689013,-23.9659141721124,0
+                  -46.3187904506919,-23.9653651656406,0
+                  -46.3187882024298,-23.9653470332008,0
+                  -46.3177262755869,-23.9645372478512,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

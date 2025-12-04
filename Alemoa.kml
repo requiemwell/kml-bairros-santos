@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Alemoa.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Alemoa">
+      <name>Alemoa</name>
+      <Placemark id="Alemoa.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">55</SimpleData>
+            <SimpleData name="Num_Qd">28010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3898118564424,-23.9236884210654,0
+                -46.3879032383408,-23.9239631594262,0
+                -46.38787424702,-23.9239903382705,0
+                -46.3879657258243,-23.9245259240558,0
+                -46.3889264580378,-23.9243961102148,0
+                -46.3893544467222,-23.924323023239,0
+                -46.3899304274722,-23.9242024523547,0
+                -46.3909772052498,-23.9239225295596,0
+                -46.3908620953605,-23.923320260481,0
+                -46.3897706877772,-23.9234936696468,0
+                -46.3898118564424,-23.9236884210654,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">56</SimpleData>
+            <SimpleData name="Num_Qd">28007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.387796934496,-23.924592383,0
+                -46.3876955961523,-23.9240005656906,0
+                -46.3848406700631,-23.9244658011609,0
+                -46.3849502792876,-23.9250769343627,0
+                -46.3852933475293,-23.924994392383,0
+                -46.3857629266956,-23.9249199726084,0
+                -46.3857577707128,-23.9248929193382,0
+                -46.387796934496,-23.924592383,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">57</SimpleData>
+            <SimpleData name="Num_Qd">28004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3847123197607,-23.9244473401711,0
+                -46.3818057353126,-23.9248737483679,0
+                -46.3818976114363,-23.9254850238665,0
+                -46.3848123268646,-23.9250193028177,0
+                -46.3847123197607,-23.9244473401711,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">58</SimpleData>
+            <SimpleData name="Num_Qd">28001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3817824405784,-23.9255017554175,0
+                -46.3816734507676,-23.924886710112,0
+                -46.3787668851165,-23.9253169849055,0
+                -46.3788716769153,-23.9259399179198,0
+                -46.3817824405784,-23.9255017554175,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">59</SimpleData>
+            <SimpleData name="Num_Qd">22005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3786389094695,-23.925333829096,0
+                -46.3757323207175,-23.9257640472148,0
+                -46.3758455101674,-23.9263751363174,0
+                -46.3787478021853,-23.9259410304431,0
+                -46.3786389094695,-23.925333829096,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">60</SimpleData>
+            <SimpleData name="Num_Qd">22004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3755998719305,-23.9257848527189,0
+                -46.3726804554537,-23.9262151285666,0
+                -46.3728107454291,-23.9268299912336,0
+                -46.3757131854986,-23.9264077120476,0
+                -46.3755998719305,-23.9257848527189,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">61</SimpleData>
+            <SimpleData name="Num_Qd">22002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3695347819141,-23.9266826816996,0
+                -46.366651613968,-23.9271091101862,0
+                -46.3667493508283,-23.9277329594933,0
+                -46.3696522530721,-23.9272976619023,0
+                -46.3695347819141,-23.9266826816996,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">63</SimpleData>
+            <SimpleData name="Num_Qd">22003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.369659667082,-23.9266647351689,0
+                -46.3697758991281,-23.9272971867344,0
+                -46.37266802369,-23.9268599983698,0
+                -46.3725575202372,-23.9262341328665,0
+                -46.369659667082,-23.9266647351689,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">110</SimpleData>
+            <SimpleData name="Num_Qd">22006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.372249594208,-23.9243614360688,0
+                -46.3693102046937,-23.9247992131988,0
+                -46.3694653749616,-23.9256885204748,0
+                -46.3724002126171,-23.9252557549982,0
+                -46.372249594208,-23.9243614360688,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">766</SimpleData>
+            <SimpleData name="Num_Qd">28011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3907494642924,-23.9227240211349,0
+                -46.3877883970555,-23.9231180804683,0
+                -46.3877448862449,-23.9231356893624,0
+                -46.3877329539044,-23.9231874440518,0
+                -46.3878393895788,-23.9238005054778,0
+                -46.3908620953605,-23.923320260481,0
+                -46.3907494642924,-23.9227240211349,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">984</SimpleData>
+            <SimpleData name="Num_Qd">28015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3844688096796,-23.9224199691288,0
+                -46.3874173161918,-23.9219682298734,0
+                -46.3905308421706,-23.9215587519735,0
+                -46.3905686371238,-23.921592817348,0
+                -46.3905844025896,-23.9216563681499,0
+                -46.3915436761964,-23.9215100889082,0
+                -46.3917447657246,-23.9227827206291,0
+                -46.3934230978751,-23.923078016001,0
+                -46.3934313996885,-23.9225874424616,0
+                -46.3932568175192,-23.9223313073722,0
+                -46.39246307911,-23.9216858956973,0
+                -46.3919629848253,-23.9214903899648,0
+                -46.3919598352356,-23.9213853110943,0
+                -46.391916891246,-23.9213321408399,0
+                -46.391050056716,-23.9210089009347,0
+                -46.3903543304552,-23.9207150294985,0
+                -46.3901724774865,-23.9206711460678,0
+                -46.3899605764171,-23.9206681953578,0
+                -46.3890736413402,-23.9207229182873,0
+                -46.3892920186725,-23.9212611541453,0
+                -46.3892154390047,-23.921322523079,0
+                -46.3873266523463,-23.9215246246943,0
+                -46.3859703832335,-23.9217127980009,0
+                -46.3858242700376,-23.9209459093763,0
+                -46.3852432229756,-23.9210566900343,0
+                -46.3847897148309,-23.9211674976934,0
+                -46.3836453718687,-23.9214545483564,0
+                -46.3808920876986,-23.9221808393681,0
+                -46.3808939233278,-23.9223375226774,0
+                -46.3822325145166,-23.9220756081832,0
+                -46.382303590909,-23.9220912641778,0
+                -46.3823454713107,-23.9221397747152,0
+                -46.3823581296205,-23.9222669972727,0
+                -46.3843746400901,-23.9219584019432,0
+                -46.3844688096796,-23.9224199691288,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1037</SimpleData>
+            <SimpleData name="Num_Qd">28012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.390608894017,-23.9225646981037,0
+                -46.3904563245498,-23.9216927322847,0
+                -46.3904328692208,-23.9216765993365,0
+                -46.3875434041265,-23.9221027030324,0
+                -46.3876874848854,-23.9230028116938,0
+                -46.390608894017,-23.9225646981037,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1038</SimpleData>
+            <SimpleData name="Num_Qd">28009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3846654244143,-23.9234420940928,0
+                -46.3875648940538,-23.9230106248513,0
+                -46.3874160556859,-23.9221366348627,0
+                -46.3845089409475,-23.9225495665358,0
+                -46.3846654244143,-23.9234420940928,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1039</SimpleData>
+            <SimpleData name="Num_Qd">28008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3847950835906,-23.9242418481408,0
+                -46.3876936247431,-23.9238138158556,0
+                -46.3877066861749,-23.9237950044848,0
+                -46.3876047733817,-23.9231847354073,0
+                -46.3846935046219,-23.9236248007075,0
+                -46.3847950835906,-23.9242418481408,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1040</SimpleData>
+            <SimpleData name="Num_Qd">28005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.381778579255,-23.9246834405033,0
+                -46.3846683543827,-23.9242696313921,0
+                -46.3845727257358,-23.9236393455261,0
+                -46.3816645917374,-23.9240622578685,0
+                -46.381778579255,-23.9246834405033,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1041</SimpleData>
+            <SimpleData name="Num_Qd">28003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3814764449461,-23.9239130495353,0
+                -46.3814906140521,-23.9238505205753,0
+                -46.3813434029417,-23.9230149790294,0
+                -46.378443370439,-23.9234513934391,0
+                -46.3785958367567,-23.924339449362,0
+                -46.3814764449461,-23.9239130495353,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1061</SimpleData>
+            <SimpleData name="Num_Qd">28013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3907514252733,-23.9227259231223,0
+                -46.3909772052498,-23.9239225295596,0
+                -46.3918629838764,-23.9236219756138,0
+                -46.3922792889433,-23.9235113653062,0
+                -46.3928851996569,-23.9234109045004,0
+                -46.3930443244149,-23.9233975901763,0
+                -46.3934750750287,-23.92342533628,0
+                -46.3934903384107,-23.9232431814405,0
+                -46.3907514252733,-23.9227259231223,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1090</SimpleData>
+            <SimpleData name="Num_Qd">28018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3785058695755,-23.9245225971229,0
+                -46.3744929516548,-23.9251254594006,0
+                -46.3746161162003,-23.92579307697,0
+                -46.3757499114257,-23.9255983653925,0
+                -46.378609352222,-23.9251676911913,0
+                -46.3785058695755,-23.9245225971229,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1111</SimpleData>
+            <SimpleData name="Num_Qd">28002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3787345386207,-23.9251430117656,0
+                -46.3816418042019,-23.9247089637448,0
+                -46.3815291473914,-23.9240835246293,0
+                -46.3786287503541,-23.9245155216318,0
+                -46.3787345386207,-23.9251430117656,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1392</SimpleData>
+            <SimpleData name="Num_Qd">22007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3544593934153,-23.9273667389907,0
+                -46.353607769285,-23.9274996576111,0
+                -46.3536409434988,-23.9276803653618,0
+                -46.3544915361234,-23.9275521547352,0
+                -46.3544593934153,-23.9273667389907,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1443</SimpleData>
+            <SimpleData name="Num_Qd">28025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3856623885012,-23.9209722374648,0
+                -46.3861601576184,-23.9209115318277,0
+                -46.3877587816017,-23.9208301439316,0
+                -46.3899605764171,-23.9206681953578,0
+                -46.3901724774865,-23.9206711460678,0
+                -46.3902733663278,-23.9206945778848,0
+                -46.390560457146,-23.9207942283058,0
+                -46.3908563961087,-23.920924922634,0
+                -46.3908764069297,-23.9208622740468,0
+                -46.3903215197548,-23.9206391578413,0
+                -46.3901439161093,-23.9206081742265,0
+                -46.3899311812965,-23.920607384103,0
+                -46.3880184249485,-23.9207740651655,0
+                -46.3860961619601,-23.9208810569015,0
+                -46.3856624655546,-23.9209392908277,0
+                -46.3852360995609,-23.9210186465014,0
+                -46.3846167919329,-23.9211605923078,0
+                -46.3808802834305,-23.9221386606891,0
+                -46.3808920876986,-23.9221808393681,0
+                -46.3836453718687,-23.9214545483564,0
+                -46.3852432229756,-23.9210566900343,0
+                -46.3856623885012,-23.9209722374648,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1486</SimpleData>
+            <SimpleData name="Num_Qd">28031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3915436761964,-23.9215100889082,0
+                -46.3905844025896,-23.9216563681499,0
+                -46.3907242596237,-23.9225978247246,0
+                -46.3917447657246,-23.9227827206291,0
+                -46.3915436761964,-23.9215100889082,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1644</SimpleData>
+            <SimpleData name="Num_Qd">22010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3725654966241,-23.925394189036,0
+                -46.3726620021083,-23.9260518748702,0
+                -46.3746161162003,-23.92579307697,0
+                -46.3744929516548,-23.9251254594006,0
+                -46.3725654966241,-23.925394189036,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1648</SimpleData>
+            <SimpleData name="Num_Qd">20041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1169</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3850280290246,-23.9254366408992,0
+                -46.3832356683351,-23.925701462635,0
+                -46.3833272556842,-23.9262969203234,0
+                -46.3852230711555,-23.9264920128132,0
+                -46.3850280290246,-23.9254366408992,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alemoa.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1974</SimpleData>
+            <SimpleData name="Num_Qd">21006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0218</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3830901447068,-23.9257113234218,0
+                  -46.3830771026059,-23.9257320306775,0
+                  -46.3830061948583,-23.9257434158677,0
+                  -46.3829787930158,-23.9257256918228,0
+                  -46.3827534121164,-23.9257613157548,0
+                  -46.3827540146841,-23.9257809970308,0
+                  -46.3823137629544,-23.9258431114354,0
+                  -46.3823619474985,-23.9261889370058,0
+                  -46.3833272556842,-23.9262969203234,0
+                  -46.3832284009882,-23.9256856913104,0
+                  -46.3830901447068,-23.9257113234218,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3734976296969,-23.9251031656388,0
+                  -46.3754839225623,-23.9247984798966,0
+                  -46.3753398194376,-23.9239136248455,0
+                  -46.3733547943045,-23.9242047473349,0
+                  -46.3734976296969,-23.9251031656388,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3713398165673,-23.9239010347132,0
+                  -46.3692761855292,-23.9242673975708,0
+                  -46.3681104553818,-23.9244531250022,0
+                  -46.3681861823499,-23.9248159783829,0
+                  -46.3693380104141,-23.9246587174808,0
+                  -46.3740998315723,-23.9239563513384,0
+                  -46.3740186487233,-23.9234870712622,0
+                  -46.3713398165673,-23.9239010347132,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1976</SimpleData>
+            <SimpleData name="Num_Qd">22001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.363586331822,-23.927554047193,0
+                  -46.3637033428747,-23.9282109076965,0
+                  -46.3666134782621,-23.9277742381237,0
+                  -46.3664998166878,-23.9271292582032,0
+                  -46.363586331822,-23.927554047193,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3663567618411,-23.9263210978507,0
+                  -46.3634485118637,-23.9267553865849,0
+                  -46.3635562509131,-23.927378900489,0
+                  -46.3664627191018,-23.9269513980831,0
+                  -46.3663567618411,-23.9263210978507,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3642075675041,-23.925550349337,0
+                  -46.3643656528868,-23.9264397413009,0
+                  -46.3663250023165,-23.9261503322455,0
+                  -46.3661728969435,-23.9252609034923,0
+                  -46.3642075675041,-23.925550349337,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1977</SimpleData>
+            <SimpleData name="Num_Qd">22009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0218</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3631144063893,-23.9279093773095,0
+                  -46.3626991113745,-23.9252376333305,0
+                  -46.3624386725801,-23.9252781507168,0
+                  -46.362311194731,-23.9246298446787,0
+                  -46.3618180977083,-23.9246947848068,0
+                  -46.3615969778944,-23.9247476882088,0
+                  -46.3613898447843,-23.9248132028487,0
+                  -46.3610861236676,-23.9249464648677,0
+                  -46.3607202785251,-23.9252059747276,0
+                  -46.3605676763837,-23.9253821213584,0
+                  -46.3603295158569,-23.9257453027691,0
+                  -46.3602496634336,-23.9259481143235,0
+                  -46.3599423487727,-23.9268299450093,0
+                  -46.359871526857,-23.9271702670417,0
+                  -46.3598416647036,-23.9272193960019,0
+                  -46.3596145662478,-23.9279402066846,0
+                  -46.3598123726583,-23.9284915676935,0
+                  -46.3624143272084,-23.9281032984027,0
+                  -46.3624592851101,-23.9283639791575,0
+                  -46.3631206164388,-23.9282826630722,0
+                  -46.3631144063893,-23.9279093773095,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3713398165673,-23.9239010347132,0
+                  -46.3693351436064,-23.9241922904751,0
+                  -46.3631369249224,-23.9251253582626,0
+                  -46.3632151178999,-23.9255447795327,0
+                  -46.3681861823499,-23.9248159783829,0
+                  -46.3681104553818,-23.9244531250022,0
+                  -46.3692761855292,-23.9242673975708,0
+                  -46.3713398165673,-23.9239010347132,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1978</SimpleData>
+            <SimpleData name="Num_Qd">22011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0218</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3664896023215,-23.9263039323499,0
+                  -46.3665870018698,-23.9268958380116,0
+                  -46.3666316268035,-23.9269259647283,0
+                  -46.369500943069,-23.9264990971646,0
+                  -46.3693872044046,-23.9258775382804,0
+                  -46.3664896023215,-23.9263039323499,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3643656528868,-23.9264397413009,0
+                  -46.3642075675041,-23.925550349337,0
+                  -46.3632749071691,-23.9256944096661,0
+                  -46.3634273529122,-23.9265871868807,0
+                  -46.3643656528868,-23.9264397413009,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3695188355665,-23.9258575814667,0
+                  -46.3696253418233,-23.9264815858854,0
+                  -46.3725293184295,-23.9260653552936,0
+                  -46.372442300245,-23.9254213736349,0
+                  -46.3695188355665,-23.9258575814667,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3664700002308,-23.9261309890984,0
+                  -46.3693116101955,-23.9257148475726,0
+                  -46.3691583789299,-23.9248229918777,0
+                  -46.3663010913023,-23.9252412560544,0
+                  -46.36645089002,-23.9261168003006,0
+                  -46.3664700002308,-23.9261309890984,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3725236887473,-23.9252483424345,0
+                  -46.3734976296969,-23.9251031656388,0
+                  -46.3733547943045,-23.9242047473349,0
+                  -46.3723678322332,-23.9243480692338,0
+                  -46.3725236887473,-23.9252483424345,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3784599978139,-23.9243542199652,0
+                  -46.3783024909663,-23.9234782589435,0
+                  -46.3754257520939,-23.9238963990991,0
+                  -46.3755774279717,-23.9247833149782,0
+                  -46.3784599978139,-23.9243542199652,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3740998315723,-23.9239563513384,0
+                  -46.380990621935,-23.9229158991819,0
+                  -46.3809275991365,-23.9224685109155,0
+                  -46.3783485827756,-23.9228349582166,0
+                  -46.3740186487233,-23.9234870712622,0
+                  -46.3740998315723,-23.9239563513384,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1979</SimpleData>
+            <SimpleData name="Num_Qd">22030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0489</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.364294490747,-23.9386974882427,0
+                  -46.3639419192051,-23.9383410356837,0
+                  -46.3637848364188,-23.9382524318435,0
+                  -46.3636476375992,-23.9382681381802,0
+                  -46.364248159755,-23.9392566313931,0
+                  -46.3646285338585,-23.9400407450296,0
+                  -46.3647979919723,-23.9398443912049,0
+                  -46.3649620570932,-23.9393186145395,0
+                  -46.3646708778504,-23.9391192681781,0
+                  -46.364294490747,-23.9386974882427,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3646524137719,-23.9386986891653,0
+                  -46.3650237543768,-23.9389253655864,0
+                  -46.3656421015154,-23.9384443259338,0
+                  -46.3661182535108,-23.9381605310168,0
+                  -46.3670094553405,-23.9374070168478,0
+                  -46.3670087163277,-23.937336861304,0
+                  -46.3669321012031,-23.9373102578242,0
+                  -46.3644355130507,-23.9382367661508,0
+                  -46.3644418845273,-23.9384394002472,0
+                  -46.3646524137719,-23.9386986891653,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3619292020044,-23.9349294335104,0
+                  -46.362139937834,-23.9349372113246,0
+                  -46.3622191726973,-23.9349042885943,0
+                  -46.3622553998213,-23.9348581727559,0
+                  -46.3623294268235,-23.9349093213889,0
+                  -46.3623936579799,-23.9348422446176,0
+                  -46.3626029470914,-23.9349938291245,0
+                  -46.3626232084362,-23.9349103571342,0
+                  -46.3626682815736,-23.934920290284,0
+                  -46.3626898856167,-23.9348724855413,0
+                  -46.3627522105859,-23.9348833785385,0
+                  -46.3627470782113,-23.9349299240031,0
+                  -46.3628035823945,-23.9349578389117,0
+                  -46.3632938367777,-23.9348062354747,0
+                  -46.3636228230222,-23.9336670642962,0
+                  -46.3620888246236,-23.9335622188784,0
+                  -46.3617819826774,-23.9348274066392,0
+                  -46.3619292020044,-23.9349294335104,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3636302302572,-23.9302236817123,0
+                  -46.3630881705403,-23.930262880066,0
+                  -46.362692068241,-23.9302551257729,0
+                  -46.3626627762907,-23.9304271328542,0
+                  -46.3636010794011,-23.9306505793799,0
+                  -46.3636302302572,-23.9302236817123,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3905124315826,-23.9246789252093,0
+                  -46.3899899721141,-23.9248410890261,0
+                  -46.3898093001015,-23.9249409944818,0
+                  -46.3896290484456,-23.9250802044694,0
+                  -46.3893965046567,-23.9253279855454,0
+                  -46.3892597467066,-23.9255355918147,0
+                  -46.389186706067,-23.9257033134258,0
+                  -46.3891248806016,-23.9259200692948,0
+                  -46.3889848902378,-23.9268784479615,0
+                  -46.3889392588693,-23.9270815845042,0
+                  -46.3898263610767,-23.9272175728732,0
+                  -46.3907018444556,-23.9273794419056,0
+                  -46.3908991341888,-23.9272254998538,0
+                  -46.3913381824186,-23.9271715625753,0
+                  -46.3921033125835,-23.926607151471,0
+                  -46.3926212178226,-23.9264416519235,0
+                  -46.3925859013315,-23.9263007632687,0
+                  -46.391901452227,-23.9244981181808,0
+                  -46.3905124315826,-23.9246789252093,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.389073666359,-23.9207230160888,0
+                  -46.3877588050739,-23.9208302307849,0
+                  -46.386541242011,-23.9208862591121,0
+                  -46.3858242912429,-23.9209459801252,0
+                  -46.3859704044471,-23.921712870941,0
+                  -46.3874377928361,-23.9215139675648,0
+                  -46.3892154640616,-23.9213226228335,0
+                  -46.3892920438312,-23.9212612544691,0
+                  -46.389073666359,-23.9207230160888,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1987</SimpleData>
+            <SimpleData name="Num_Qd">25038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0036</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3366990954475,-23.930619438912,0
+                  -46.3364810674899,-23.9300928600918,0
+                  -46.3364054822029,-23.9299849534319,0
+                  -46.3362876967617,-23.9298920145739,0
+                  -46.3361751203416,-23.9298433557247,0
+                  -46.336017490403,-23.9298165595286,0
+                  -46.3355499610853,-23.9298949282626,0
+                  -46.3353797338382,-23.9298962229122,0
+                  -46.3352798633564,-23.9298739370975,0
+                  -46.3351590149,-23.9298209802376,0
+                  -46.3350369246271,-23.9297188209695,0
+                  -46.3331558764298,-23.930644651314,0
+                  -46.3333736459517,-23.9309829571011,0
+                  -46.3333141295477,-23.9310158238862,0
+                  -46.3334592086788,-23.9312431021838,0
+                  -46.3335184314891,-23.9312111599308,0
+                  -46.3338687385412,-23.9317710009279,0
+                  -46.333895371013,-23.9318003902521,0
+                  -46.3339341737821,-23.9318094450146,0
+                  -46.3343452041106,-23.9315986916414,0
+                  -46.3341984846537,-23.9313745093585,0
+                  -46.3343540357558,-23.9312805709574,0
+                  -46.3343124050225,-23.931224807816,0
+                  -46.3344127768179,-23.9311680935102,0
+                  -46.3346158477683,-23.9314625882039,0
+                  -46.3352383456168,-23.9311435605911,0
+                  -46.3366846420536,-23.9306374455671,0
+                  -46.3366990954475,-23.930619438912,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3366222362329,-23.9301004663626,0
+                  -46.3386901725596,-23.92957772146,0
+                  -46.3388091588463,-23.9295618485464,0
+                  -46.3393350735405,-23.9294283225629,0
+                  -46.3395140456128,-23.9297958391396,0
+                  -46.3393487311484,-23.9298532490205,0
+                  -46.3394843756213,-23.9301398079775,0
+                  -46.3395558378459,-23.9301078366033,0
+                  -46.3395643375831,-23.9301243509657,0
+                  -46.339663496761,-23.9300847745692,0
+                  -46.3397826246666,-23.9303136392323,0
+                  -46.3409513600163,-23.9297472746545,0
+                  -46.3415009562135,-23.9294643574895,0
+                  -46.3419111242141,-23.9292954336046,0
+                  -46.3420239047985,-23.929261953188,0
+                  -46.3434407138663,-23.9292541047053,0
+                  -46.3437665004169,-23.9292854458952,0
+                  -46.345800276553,-23.9296651322479,0
+                  -46.3460423746192,-23.9297599748363,0
+                  -46.3468840904123,-23.9302755077219,0
+                  -46.3472326751554,-23.9304663780945,0
+                  -46.3473766154739,-23.9305413013024,0
+                  -46.3476261785366,-23.9306291498732,0
+                  -46.3478375675629,-23.930668851293,0
+                  -46.3480713435635,-23.9306875781611,0
+                  -46.3487942670891,-23.930646603827,0
+                  -46.349313622788,-23.9305935620967,0
+                  -46.3513118520234,-23.9303063826435,0
+                  -46.3564212122605,-23.929555925044,0
+                  -46.3599024688958,-23.9290285581546,0
+                  -46.3635666173981,-23.9285059310947,0
+                  -46.3642306910067,-23.9283896196842,0
+                  -46.3812864137992,-23.9258787880128,0
+                  -46.3895670378342,-23.9246755229337,0
+                  -46.3926243089759,-23.9241693826244,0
+                  -46.3929764420729,-23.924141040453,0
+                  -46.3934125933993,-23.924143998317,0
+                  -46.3936985958059,-23.9241690526608,0
+                  -46.3939396352424,-23.9242083382665,0
+                  -46.3943393070042,-23.9243153039442,0
+                  -46.3949277977644,-23.9245000423582,0
+                  -46.3951695064136,-23.9246015276399,0
+                  -46.3953888824443,-23.9247239512206,0
+                  -46.3955479614779,-23.9248330981297,0
+                  -46.3958931125724,-23.9251225884571,0
+                  -46.3959434309978,-23.9250055466342,0
+                  -46.396012248254,-23.9249734950755,0
+                  -46.3961499654152,-23.9248531306327,0
+                  -46.3961706556043,-23.9247956255908,0
+                  -46.3962573403049,-23.924688430725,0
+                  -46.3963590799058,-23.9246108908844,0
+                  -46.3963743899347,-23.9245235705931,0
+                  -46.3961780503383,-23.9244134476542,0
+                  -46.3960981595027,-23.9243475278221,0
+                  -46.3959037122262,-23.9242626006905,0
+                  -46.3953201461425,-23.9238588152434,0
+                  -46.3949370107939,-23.9236944150273,0
+                  -46.3947642637802,-23.923599175154,0
+                  -46.3945643088961,-23.9235409364452,0
+                  -46.3944004549942,-23.9235236396661,0
+                  -46.3942860951175,-23.9234954181923,0
+                  -46.3942058440562,-23.9235065224145,0
+                  -46.3941485231507,-23.923482939813,0
+                  -46.3941051032885,-23.9234831530973,0
+                  -46.3939798663697,-23.9235032533755,0
+                  -46.3938785053464,-23.9234687728866,0
+                  -46.3937723781587,-23.9234753344033,0
+                  -46.3934751045788,-23.923425474818,0
+                  -46.3930443534717,-23.9233977250105,0
+                  -46.3922793170896,-23.9235114937763,0
+                  -46.3919069493705,-23.923610400676,0
+                  -46.3909772318005,-23.9239226474961,0
+                  -46.389930452751,-23.9242025617815,0
+                  -46.3894621670139,-23.9243005849396,0
+                  -46.3889333372489,-23.9243950408304,0
+                  -46.3879678278283,-23.9245257358846,0
+                  -46.3877969572207,-23.9245924749153,0
+                  -46.3857577910117,-23.9248929945016,0
+                  -46.3857629469948,-23.9249200478491,0
+                  -46.3852933672688,-23.9249944637832,0
+                  -46.3849502986123,-23.9250770029949,0
+                  -46.3848123460416,-23.9250193702231,0
+                  -46.3818976271388,-23.9254850675503,0
+                  -46.3788716890172,-23.9259399371004,0
+                  -46.3787478141435,-23.925941048602,0
+                  -46.3697759004111,-23.9272971332176,0
+                  -46.3696522542119,-23.9272976073847,0
+                  -46.3667492116239,-23.9277345424178,0
+                  -46.3667596540709,-23.9277630997913,0
+                  -46.3666134782621,-23.9277742381237,0
+                  -46.3637033428747,-23.9282109076965,0
+                  -46.3621702261386,-23.9283994062039,0
+                  -46.3609708009226,-23.92857141316,0
+                  -46.3597622289449,-23.9287623602865,0
+                  -46.3591602950248,-23.9288803753387,0
+                  -46.3586413634653,-23.9289638473391,0
+                  -46.357705903412,-23.929075790398,0
+                  -46.3543253139811,-23.9296037126784,0
+                  -46.3512697626839,-23.9300317901659,0
+                  -46.349453928844,-23.930318755134,0
+                  -46.3491374214267,-23.9303146087113,0
+                  -46.3487676710775,-23.9302624474256,0
+                  -46.3480036629659,-23.9299747996085,0
+                  -46.3479202119388,-23.9299201241639,0
+                  -46.3476995645068,-23.9297142813079,0
+                  -46.3474615167168,-23.9294653035318,0
+                  -46.3470479907369,-23.9288248162846,0
+                  -46.3467371530561,-23.928640540397,0
+                  -46.3461864435617,-23.9282124943278,0
+                  -46.3459018700279,-23.9280175976098,0
+                  -46.3455388358263,-23.9278857209749,0
+                  -46.345230190954,-23.9278217610856,0
+                  -46.3446167929389,-23.9278847638015,0
+                  -46.3443285556941,-23.9278872858129,0
+                  -46.3432163385643,-23.9280145406552,0
+                  -46.3421612704927,-23.9280483341477,0
+                  -46.341522000046,-23.9280507113822,0
+                  -46.3411278069423,-23.9280800880249,0
+                  -46.3407236635567,-23.9280805432354,0
+                  -46.3369783074666,-23.928757419172,0
+                  -46.3367786569391,-23.9288230413186,0
+                  -46.3359086351726,-23.9292965933244,0
+                  -46.3356004908274,-23.9294467715436,0
+                  -46.3354964027767,-23.9294627080735,0
+                  -46.3354442257886,-23.929557110237,0
+                  -46.3353727252875,-23.9295614896103,0
+                  -46.335146906697,-23.929666795567,0
+                  -46.3351820214594,-23.929702190925,0
+                  -46.3353103515017,-23.9297678424959,0
+                  -46.3354494436128,-23.9297915171229,0
+                  -46.3358870094603,-23.9297126615664,0
+                  -46.3360432802723,-23.9297084933833,0
+                  -46.3361578489497,-23.9297251563678,0
+                  -46.3362962992752,-23.9297713112096,0
+                  -46.3364272132843,-23.9298488365,0
+                  -46.3365366449044,-23.9299602616461,0
+                  -46.3366222362329,-23.9301004663626,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">1990</SimpleData>
+            <SimpleData name="Num_Qd">28006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1172</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3845047225336,-23.923462326946,0
+                  -46.3845146756817,-23.9234467948742,0
+                  -46.3843740386698,-23.9226491261301,0
+                  -46.384349193465,-23.9225855038211,0
+                  -46.3824592977434,-23.9228752561056,0
+                  -46.3814736957139,-23.9229989965724,0
+                  -46.3816340557766,-23.9238884226437,0
+                  -46.3845047225336,-23.923462326946,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3823581465312,-23.9222670407362,0
+                  -46.3809275991365,-23.9224685109155,0
+                  -46.380990621935,-23.9229158991819,0
+                  -46.3822601371463,-23.9227535447659,0
+                  -46.3844706810809,-23.9224220262222,0
+                  -46.3843757132247,-23.9219603203504,0
+                  -46.3823581465312,-23.9222670407362,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Alemoa.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alemoa.schema">
+            <SimpleData name="fid">2129</SimpleData>
+            <SimpleData name="Num_Qd">21011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0036</SimpleData>
+            <SimpleData name="Bairro">Alemoa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3625391335607,-23.9244063689476,0
+                  -46.3624872538479,-23.9243162327485,0
+                  -46.3624228194185,-23.9243041373826,0
+                  -46.361673507429,-23.9244670128133,0
+                  -46.3534971298465,-23.9258746418183,0
+                  -46.3487923885354,-23.926699953149,0
+                  -46.3407236960813,-23.9280808238223,0
+                  -46.3432163681888,-23.9280148023213,0
+                  -46.3443285840046,-23.9278875391251,0
+                  -46.344616820915,-23.9278850149075,0
+                  -46.345169927978,-23.9278208043507,0
+                  -46.3453726832822,-23.9278458657123,0
+                  -46.3455388627348,-23.927885965002,0
+                  -46.3459018965429,-23.9280178386814,0
+                  -46.3462631433847,-23.9282712244729,0
+                  -46.3467371787313,-23.9286407742602,0
+                  -46.3470480160898,-23.9288250475217,0
+                  -46.3474615417219,-23.9294655307783,0
+                  -46.3476995892873,-23.9297145064055,0
+                  -46.347920236506,-23.9299203473001,0
+                  -46.3480036874476,-23.9299750220317,0
+                  -46.3487676947337,-23.9302626635814,0
+                  -46.3488960634092,-23.9302892394032,0
+                  -46.3493032683528,-23.9303202904319,0
+                  -46.3494539517171,-23.9303189659045,0
+                  -46.3508830228161,-23.9300939896588,0
+                  -46.3543253310673,-23.9296038863866,0
+                  -46.3577059164751,-23.9290759381882,0
+                  -46.3586413754221,-23.9289639878802,0
+                  -46.3597622395622,-23.9287624922062,0
+                  -46.3611949383671,-23.9285393929418,0
+                  -46.3624592851101,-23.9283639791575,0
+                  -46.3624145428325,-23.9281044940684,0
+                  -46.3598123726583,-23.9284915676935,0
+                  -46.3596145662478,-23.9279402066846,0
+                  -46.3598416647036,-23.9272193960019,0
+                  -46.359871526857,-23.9271702670417,0
+                  -46.3599423487727,-23.9268299450093,0
+                  -46.3602496634336,-23.9259481143235,0
+                  -46.3603295158569,-23.9257453027691,0
+                  -46.3605676763837,-23.9253821213584,0
+                  -46.3607202785251,-23.9252059747276,0
+                  -46.3610861236676,-23.9249464648677,0
+                  -46.3611966983429,-23.9248913287847,0
+                  -46.3613898447843,-23.9248132028487,0
+                  -46.3618180977083,-23.9246947848068,0
+                  -46.362311194731,-23.9246298446787,0
+                  -46.3624386725801,-23.9252781507168,0
+                  -46.3627037033913,-23.9252368968406,0
+                  -46.3625391335607,-23.9244063689476,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.356934423322,-23.9228301886772,0
+                  -46.3557986180796,-23.9226189372302,0
+                  -46.354428361195,-23.9217499142017,0
+                  -46.3540116949458,-23.9212466452967,0
+                  -46.3481762242043,-23.9222486518318,0
+                  -46.3482053501215,-23.9224105792246,0
+                  -46.3497533595276,-23.9246098767723,0
+                  -46.3498711788229,-23.9251945017973,0
+                  -46.3497773323059,-23.9252187532934,0
+                  -46.3497680369946,-23.9252674899094,0
+                  -46.3496273326444,-23.9253101735827,0
+                  -46.3496320460445,-23.925575031044,0
+                  -46.3490177554094,-23.9256975619018,0
+                  -46.3489373331885,-23.9264479144469,0
+                  -46.3573632537556,-23.9249572560655,0
+                  -46.356934423322,-23.9228301886772,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

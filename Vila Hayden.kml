@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Vila_Hayden.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Vila_Hayden">
+      <name>Vila Hayden</name>
+      <Placemark id="Vila_Hayden.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Hayden.schema">
+            <SimpleData name="fid">42</SimpleData>
+            <SimpleData name="Num_Qd">67002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1281</SimpleData>
+            <SimpleData name="Bairro">Vila Hayden</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3192096445821,-23.9640342924741,0
+                -46.3191900031891,-23.9639659781455,0
+                -46.3191655201095,-23.9639540030428,0
+                -46.3191279315068,-23.9639614766511,0
+                -46.3183934385426,-23.9648098853787,0
+                -46.3183958989056,-23.9648392140535,0
+                -46.3184299702812,-23.9648749536866,0
+                -46.3189080203263,-23.9652369480888,0
+                -46.3192834243176,-23.9648216474362,0
+                -46.3192096445821,-23.9640342924741,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Vila_Hayden.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Vila_Hayden.schema">
+            <SimpleData name="fid">799</SimpleData>
+            <SimpleData name="Num_Qd">67020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0796</SimpleData>
+            <SimpleData name="Bairro">Vila Hayden</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3183987555821,-23.9660353109878,0
+                -46.3179226700012,-23.9665552346466,0
+                -46.3177924266846,-23.9666683348524,0
+                -46.3177851347135,-23.9667050622225,0
+                -46.3181979984014,-23.9672954636855,0
+                -46.3194030310431,-23.9668398857054,0
+                -46.3194758651708,-23.9667928411425,0
+                -46.3193087161315,-23.9651244102893,0
+                -46.319269406251,-23.9651050615222,0
+                -46.319240437363,-23.965107207189,0
+                -46.318432933524,-23.9659967559498,0
+                -46.3186621009961,-23.9663386983647,0
+                -46.3186944904558,-23.9663605760197,0
+                -46.3188935933788,-23.9666165814675,0
+                -46.3188198864866,-23.9666438028122,0
+                -46.3183987555821,-23.9660353109878,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

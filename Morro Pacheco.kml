@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Morro_Pacheco.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Morro_Pacheco">
+      <name>Morro Pacheco</name>
+      <Placemark id="Morro_Pacheco.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">907</SimpleData>
+            <SimpleData name="Num_Qd">04038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0026</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3395045898968,-23.9353363559266,0
+                -46.3395821718244,-23.9351152906166,0
+                -46.3389947687973,-23.9349793744444,0
+                -46.3386030466827,-23.9348623458267,0
+                -46.3384624205878,-23.9349438847185,0
+                -46.3385404335493,-23.9350445512002,0
+                -46.3385948740525,-23.9350784960944,0
+                -46.3389280065938,-23.9352066051313,0
+                -46.3395045898968,-23.9353363559266,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1398</SimpleData>
+            <SimpleData name="Num_Qd">04039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0026</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3381543291848,-23.93737763746,0
+                -46.3385970031647,-23.9367203069648,0
+                -46.3389651893283,-23.9362189384312,0
+                -46.3391558662644,-23.9359331734835,0
+                -46.339484103474,-23.9353671299584,0
+                -46.3390252917436,-23.935258313304,0
+                -46.3389857873694,-23.9352605701348,0
+                -46.3389776834968,-23.9352816750653,0
+                -46.3390397375479,-23.9355180319915,0
+                -46.3390224887801,-23.9355567143309,0
+                -46.3389467852824,-23.9355708288241,0
+                -46.3387480640654,-23.9355273076122,0
+                -46.3387693598354,-23.9356567702468,0
+                -46.3386761948695,-23.9356551366398,0
+                -46.3386723167009,-23.9356661783458,0
+                -46.3387803712049,-23.9359443556444,0
+                -46.3390111075473,-23.9358669699156,0
+                -46.3390287977493,-23.9359021844282,0
+                -46.3387903651747,-23.9359700839932,0
+                -46.3388234314806,-23.9360657918819,0
+                -46.3387652458426,-23.9361956209299,0
+                -46.3385353288291,-23.9364848456237,0
+                -46.3383281065268,-23.9367861214436,0
+                -46.3382800964389,-23.9368670196641,0
+                -46.3381866946792,-23.9371010413827,0
+                -46.3381503538257,-23.9370878257278,0
+                -46.3382450506406,-23.9368899929113,0
+                -46.3382044315534,-23.9368984807743,0
+                -46.3380954988155,-23.9369758873009,0
+                -46.3380059924978,-23.9368638230582,0
+                -46.3379797149728,-23.9368535280148,0
+                -46.3378884488353,-23.9368858959646,0
+                -46.3378467689318,-23.9368837046761,0
+                -46.3378375758541,-23.9368698015083,0
+                -46.3378728381461,-23.9366409703672,0
+                -46.3378596141733,-23.9366275546239,0
+                -46.3372700839641,-23.9363473167434,0
+                -46.337223279832,-23.9364337054369,0
+                -46.3376387821501,-23.9367791275274,0
+                -46.3376519132433,-23.936824285491,0
+                -46.3377414741826,-23.9369424755039,0
+                -46.3378385837047,-23.9370125038849,0
+                -46.3380598297247,-23.9372473453253,0
+                -46.3380558075854,-23.9372698159865,0
+                -46.3381543291848,-23.93737763746,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1512</SimpleData>
+            <SimpleData name="Num_Qd">05011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1082</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.339434021693,-23.9333738022539,0
+                -46.3392552909982,-23.933259760894,0
+                -46.3391876010273,-23.9333665179957,0
+                -46.339105625817,-23.9334531680827,0
+                -46.3390468322502,-23.933491081266,0
+                -46.3389707806803,-23.9334696445202,0
+                -46.338922443785,-23.9336247673333,0
+                -46.3388748866081,-23.9337001217639,0
+                -46.3390122827068,-23.9337276844443,0
+                -46.3393284179187,-23.9337147262667,0
+                -46.3393780699513,-23.933687092819,0
+                -46.3394058804983,-23.9336936501983,0
+                -46.3393932331948,-23.933722660773,0
+                -46.3393089695371,-23.9338015966086,0
+                -46.3393071617959,-23.9338217870417,0
+                -46.3393260172195,-23.9338405481517,0
+                -46.339459966324,-23.9338215193141,0
+                -46.3396055761452,-23.933688507506,0
+                -46.3397883030857,-23.9336281641699,0
+                -46.3395398705578,-23.9330566762133,0
+                -46.3394458694796,-23.9330880967301,0
+                -46.3395253841877,-23.9332659041936,0
+                -46.3395169093129,-23.9333407787084,0
+                -46.3394932711964,-23.9333800852785,0
+                -46.339434021693,-23.9333738022539,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1513</SimpleData>
+            <SimpleData name="Num_Qd">05014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.339795564087,-23.9329392028924,0
+                -46.3398263452199,-23.9328852523883,0
+                -46.3398486275113,-23.9327396910117,0
+                -46.3400067087743,-23.9326847428356,0
+                -46.3399137875152,-23.9324653288646,0
+                -46.3397759753045,-23.9322520297403,0
+                -46.3397337976434,-23.9322194327683,0
+                -46.3395285193766,-23.9322138986615,0
+                -46.3395929709185,-23.9322810978015,0
+                -46.3396320743668,-23.9323788352071,0
+                -46.3396494083211,-23.9323838735674,0
+                -46.3396712934933,-23.9324829760221,0
+                -46.3394773739981,-23.9324707401416,0
+                -46.3394359522055,-23.9325113922567,0
+                -46.3394248858921,-23.9325656153775,0
+                -46.3393946437646,-23.9325630317369,0
+                -46.3393651755076,-23.9326035795323,0
+                -46.3393878084811,-23.9326729750243,0
+                -46.3394852715923,-23.9326739572076,0
+                -46.3395720041918,-23.9329185012225,0
+                -46.3395776894133,-23.9330436811452,0
+                -46.339795564087,-23.9329392028924,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1514</SimpleData>
+            <SimpleData name="Num_Qd">05015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3399395914516,-23.9319219882828,0
+                -46.3399422630811,-23.9319342918669,0
+                -46.3398541633637,-23.9319903738972,0
+                -46.3398638734616,-23.9320106714317,0
+                -46.3397061820601,-23.9320922132809,0
+                -46.3397685442126,-23.9321887490238,0
+                -46.3397570382048,-23.9321991083215,0
+                -46.3399189092705,-23.9324139535992,0
+                -46.3402689635853,-23.9322279807982,0
+                -46.3402172414401,-23.9321428755491,0
+                -46.3402485135994,-23.9321247759153,0
+                -46.3402572050911,-23.9321368101958,0
+                -46.3403907931488,-23.9320445330549,0
+                -46.3404414924372,-23.9320543672776,0
+                -46.3405442548593,-23.9319996559655,0
+                -46.3404163407565,-23.9317137412636,0
+                -46.3402717153468,-23.9317732340125,0
+                -46.3402896401827,-23.9318393176825,0
+                -46.3401795086773,-23.9318644814987,0
+                -46.3402133514456,-23.9319520646444,0
+                -46.3401616460342,-23.9318615128259,0
+                -46.3400136501896,-23.9319057548222,0
+                -46.3400074291304,-23.9318935434159,0
+                -46.3399395914516,-23.9319219882828,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1515</SimpleData>
+            <SimpleData name="Num_Qd">05016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3402397318646,-23.9317103647526,0
+                -46.3403505801389,-23.9316839181409,0
+                -46.3402916821264,-23.9315137431632,0
+                -46.3402543790635,-23.9314501405384,0
+                -46.3402344930764,-23.9312150373507,0
+                -46.3400800836295,-23.930987213302,0
+                -46.3400229261309,-23.9309846237553,0
+                -46.3399811332743,-23.9311284863965,0
+                -46.340093765652,-23.9312200046437,0
+                -46.3400152048977,-23.931273095593,0
+                -46.3399640439563,-23.9312822748694,0
+                -46.33989578978,-23.9312697400031,0
+                -46.3398559940461,-23.9313539193455,0
+                -46.339836249919,-23.9313571259914,0
+                -46.3398182314553,-23.9314209135719,0
+                -46.3401709231928,-23.9315248938015,0
+                -46.3402397318646,-23.9317103647526,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1585</SimpleData>
+            <SimpleData name="Num_Qd">05013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0025</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3409492282466,-23.9349619487451,0
+                -46.3411119485408,-23.9349070179759,0
+                -46.3411294564542,-23.9347625877372,0
+                -46.3412241288382,-23.9344021221802,0
+                -46.3412934802938,-23.9340281963328,0
+                -46.341276423894,-23.9339273912517,0
+                -46.3411456798823,-23.9337226248088,0
+                -46.3407574709481,-23.9333710466776,0
+                -46.3404504454512,-23.9330573647799,0
+                -46.3403077424132,-23.9329392916467,0
+                -46.3402296457546,-23.9330013781448,0
+                -46.3400736087199,-23.9328057394976,0
+                -46.3400067087743,-23.9326847428356,0
+                -46.3398486275113,-23.9327396910117,0
+                -46.3398263452199,-23.9328852523883,0
+                -46.339795564087,-23.9329392028924,0
+                -46.3395776894133,-23.9330436811452,0
+                -46.3396728418741,-23.9333208371735,0
+                -46.3398095043634,-23.933630258315,0
+                -46.3395904932172,-23.9337339676643,0
+                -46.3394920935731,-23.9338300987315,0
+                -46.3394057309076,-23.9338543441686,0
+                -46.3393107419444,-23.9338682240206,0
+                -46.3392850651493,-23.9338567021522,0
+                -46.3392662447568,-23.9338216286437,0
+                -46.3392688149566,-23.933795504204,0
+                -46.3393419689018,-23.9337296108759,0
+                -46.3390568675536,-23.933758200295,0
+                -46.3387976114147,-23.9339523115798,0
+                -46.3387015524968,-23.9340001330141,0
+                -46.3385343979323,-23.93403813358,0
+                -46.338350650222,-23.9341193469795,0
+                -46.3383338284146,-23.9341403752673,0
+                -46.338318403865,-23.9341933003681,0
+                -46.3383262540608,-23.9342171945646,0
+                -46.3383892326161,-23.9342808430884,0
+                -46.3384461441651,-23.9342920927468,0
+                -46.3385978701467,-23.9342724982293,0
+                -46.3389684132298,-23.9344400824761,0
+                -46.3389651976605,-23.9345168516635,0
+                -46.3389283501525,-23.9345711991906,0
+                -46.3389081225486,-23.9346818825349,0
+                -46.3392751187399,-23.9346816125456,0
+                -46.339439159335,-23.9347545718703,0
+                -46.3396191462568,-23.9347216787029,0
+                -46.3398476206174,-23.9347092436878,0
+                -46.3400054300615,-23.9347287476728,0
+                -46.3405449900414,-23.9348662921875,0
+                -46.3406487947134,-23.9348810467517,0
+                -46.3408287005364,-23.934840322276,0
+                -46.3408558783127,-23.93485966136,0
+                -46.3409066082782,-23.9349597108839,0
+                -46.3409492282466,-23.9349619487451,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1586</SimpleData>
+            <SimpleData name="Num_Qd">05018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3401665034318,-23.9308008418587,0
+                -46.3400777842553,-23.9308520347629,0
+                -46.3400488643349,-23.930905721872,0
+                -46.3402318879031,-23.9311863334407,0
+                -46.3402586862723,-23.9312963733403,0
+                -46.3403603854879,-23.9315307531512,0
+                -46.3405641923995,-23.9314377182485,0
+                -46.3404469515753,-23.9312006205914,0
+                -46.3405182316037,-23.9311665213519,0
+                -46.3404840594798,-23.9311073706664,0
+                -46.3403960800287,-23.9311502851762,0
+                -46.3403293796375,-23.9309551994083,0
+                -46.3402900873362,-23.9309777878412,0
+                -46.3401665034318,-23.9308008418587,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1709</SimpleData>
+            <SimpleData name="Num_Qd">05008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3394649519781,-23.9330532096471,0
+                -46.3394050559756,-23.9329209694996,0
+                -46.3392498452501,-23.9327092979761,0
+                -46.339176281754,-23.932700624602,0
+                -46.3391183388298,-23.9327325688091,0
+                -46.3390920655048,-23.9327600729939,0
+                -46.3392138787452,-23.9328519361934,0
+                -46.3393374436067,-23.9329707135519,0
+                -46.3394176747646,-23.9330784180046,0
+                -46.3394649519781,-23.9330532096471,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1710</SimpleData>
+            <SimpleData name="Num_Qd">05009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3394756131206,-23.9330457171895,0
+                -46.3395468804275,-23.9330097408886,0
+                -46.339561648137,-23.9329693574073,0
+                -46.3395581502771,-23.9328947837952,0
+                -46.3394902046472,-23.9327217183487,0
+                -46.3394530857738,-23.9326938306027,0
+                -46.3393219954452,-23.9327018689447,0
+                -46.3394756131206,-23.9330457171895,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1744</SimpleData>
+            <SimpleData name="Num_Qd">05012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0026</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3405110029164,-23.9349240075068,0
+                -46.3403130471956,-23.9348438098369,0
+                -46.339875971363,-23.9347474195779,0
+                -46.3397590514947,-23.9347365108461,0
+                -46.3394326607648,-23.9348013918797,0
+                -46.3393936792574,-23.9347969603169,0
+                -46.3392631172729,-23.9347217519216,0
+                -46.3392189202104,-23.9347149799564,0
+                -46.33841357579,-23.9347101944135,0
+                -46.3386030466827,-23.9348623458267,0
+                -46.3389947687973,-23.9349793744444,0
+                -46.3395821718244,-23.9351152906166,0
+                -46.339484103474,-23.9353671299584,0
+                -46.3396481409409,-23.93539733508,0
+                -46.3405110029164,-23.9349240075068,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1765</SimpleData>
+            <SimpleData name="Num_Qd">04057</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0025</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3395656016665,-23.9354714339967,0
+                -46.339507475385,-23.935893070259,0
+                -46.3397034090052,-23.9358898445265,0
+                -46.339745568739,-23.9358327637613,0
+                -46.3397959120701,-23.9358032183864,0
+                -46.3400864529555,-23.9357483400466,0
+                -46.3401195013153,-23.9357232893339,0
+                -46.3401332610921,-23.9356780699048,0
+                -46.340172072384,-23.9354537427066,0
+                -46.3405041761789,-23.9352850932386,0
+                -46.3406161542051,-23.9352462856525,0
+                -46.3407006290608,-23.9353051684412,0
+                -46.3407386002927,-23.9354561370028,0
+                -46.3407967375692,-23.9355704905414,0
+                -46.3408383669797,-23.935615244222,0
+                -46.3409278379944,-23.9357002541721,0
+                -46.3410569511877,-23.9357907605617,0
+                -46.3411536046093,-23.9358044644842,0
+                -46.3410912093683,-23.9354311751358,0
+                -46.3411158107212,-23.9353626610529,0
+                -46.3412239131441,-23.9352540254534,0
+                -46.3413218960128,-23.9350902916553,0
+                -46.3413056585544,-23.9350525859191,0
+                -46.3410279188986,-23.934972156152,0
+                -46.3409682354257,-23.935013387955,0
+                -46.3409160561182,-23.9350211315817,0
+                -46.3408732350494,-23.9350084201936,0
+                -46.340792844451,-23.9348883730492,0
+                -46.3405110029164,-23.9349240075068,0
+                -46.3395929062274,-23.9354265304992,0
+                -46.3395656016665,-23.9354714339967,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1768</SimpleData>
+            <SimpleData name="Num_Qd">05004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3394864474678,-23.9307210540461,0
+                -46.3394004078211,-23.9307690301794,0
+                -46.3393675326278,-23.9308059997279,0
+                -46.339266160034,-23.9310820406257,0
+                -46.3391431286781,-23.9313427965553,0
+                -46.3390852046678,-23.9313995268511,0
+                -46.3393430925634,-23.9316490672137,0
+                -46.3391760876496,-23.9317018601064,0
+                -46.3389737111359,-23.9314883021572,0
+                -46.3383685226924,-23.9319887737021,0
+                -46.3381991783979,-23.9325207529716,0
+                -46.3382510850834,-23.9325251895835,0
+                -46.3384408341058,-23.9324856444512,0
+                -46.3384521708082,-23.9324244314686,0
+                -46.3386774060534,-23.9324579734343,0
+                -46.338739396473,-23.9323146664459,0
+                -46.3389655343957,-23.9321947595914,0
+                -46.3390012342489,-23.9321495410664,0
+                -46.339232356563,-23.9319927476515,0
+                -46.3392780943806,-23.9319924148876,0
+                -46.3393827751046,-23.9319595027138,0
+                -46.3395318042154,-23.9318442670221,0
+                -46.3395244062407,-23.9318362596316,0
+                -46.3396443601793,-23.931632006495,0
+                -46.3397180693538,-23.9314648280756,0
+                -46.3397886672277,-23.9313550849415,0
+                -46.3398060590854,-23.9313628982252,0
+                -46.3398514685446,-23.931329530801,0
+                -46.3399106132108,-23.9311886323273,0
+                -46.3399721893018,-23.9311034049376,0
+                -46.3400040219355,-23.9309664022678,0
+                -46.3400388640779,-23.9309467724241,0
+                -46.3400271550495,-23.9308531542728,0
+                -46.3399487358139,-23.9308569743496,0
+                -46.3398380690566,-23.9308762310371,0
+                -46.3396324489247,-23.930990635487,0
+                -46.3395970353172,-23.9309886747884,0
+                -46.3395518970307,-23.9309217331008,0
+                -46.3395347260886,-23.9308530341974,0
+                -46.3394996983902,-23.930808701652,0
+                -46.3394864474678,-23.9307210540461,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1769</SimpleData>
+            <SimpleData name="Num_Qd">05005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3386774060534,-23.9324579734343,0
+                -46.3388112880697,-23.932455965953,0
+                -46.3389673462234,-23.9323960045541,0
+                -46.3390963051743,-23.9322701204891,0
+                -46.3390879651954,-23.9322559608581,0
+                -46.3391918096493,-23.9321679718876,0
+                -46.3393176159851,-23.9320898514366,0
+                -46.3397059590554,-23.9319677992755,0
+                -46.3398324695458,-23.9318713309212,0
+                -46.3398934523617,-23.9317857023536,0
+                -46.3402583544433,-23.9317637961878,0
+                -46.3401680260114,-23.9315280552706,0
+                -46.339782367912,-23.9314177497662,0
+                -46.3395983532583,-23.9317474410512,0
+                -46.3395318042154,-23.9318442670221,0
+                -46.3394741240922,-23.9318999251854,0
+                -46.3393827751046,-23.9319595027138,0
+                -46.3392780943806,-23.9319924148876,0
+                -46.339232356563,-23.9319927476515,0
+                -46.3390012342489,-23.9321495410664,0
+                -46.3389655343957,-23.9321947595914,0
+                -46.338739396473,-23.9323146664459,0
+                -46.3386774060534,-23.9324579734343,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1800</SimpleData>
+            <SimpleData name="Num_Qd">05001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1082</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3389146151093,-23.9346004579057,0
+                -46.3389044585633,-23.9345636041012,0
+                -46.3389282202788,-23.9345504170657,0
+                -46.3389557292737,-23.9344792876306,0
+                -46.3389477862509,-23.9344464082925,0
+                -46.3386007801234,-23.9342936777349,0
+                -46.3384358791337,-23.9343140861514,0
+                -46.3383759652058,-23.9342976350393,0
+                -46.3382999185378,-23.9341914646537,0
+                -46.3383251525518,-23.93411037072,0
+                -46.3384845233882,-23.9340412924824,0
+                -46.33870076929,-23.9339868570116,0
+                -46.338914076542,-23.9338571037471,0
+                -46.3390128893502,-23.9337628214608,0
+                -46.3388460279641,-23.9337171715507,0
+                -46.3387551340492,-23.9337214273755,0
+                -46.3384469224164,-23.9338030817631,0
+                -46.3382376218537,-23.9338385588033,0
+                -46.3381980530459,-23.9338752415316,0
+                -46.3381313472885,-23.9338916860653,0
+                -46.3380640383813,-23.9338885446149,0
+                -46.3380738383965,-23.9338619523999,0
+                -46.3381325424154,-23.9338664328649,0
+                -46.3382201095073,-23.9338257317158,0
+                -46.3384055027965,-23.9337911666623,0
+                -46.3385768850779,-23.9337357941356,0
+                -46.3385406237281,-23.9335193028839,0
+                -46.3383899510711,-23.9334472503486,0
+                -46.3383096919731,-23.9334289302092,0
+                -46.3381753005316,-23.9333697830258,0
+                -46.3381469913336,-23.9333165143553,0
+                -46.3381264881832,-23.9333156997158,0
+                -46.338081363417,-23.9333329534062,0
+                -46.3381157756782,-23.9334278279946,0
+                -46.3381016425225,-23.9334464099547,0
+                -46.3381462599158,-23.9335038265256,0
+                -46.3381391798816,-23.9335489785425,0
+                -46.3381576985114,-23.9335917309982,0
+                -46.3381325632167,-23.9335533077462,0
+                -46.338135866526,-23.9335134896759,0
+                -46.3380819273395,-23.933440070682,0
+                -46.3380640081229,-23.93338112094,0
+                -46.3380777741483,-23.9332764163743,0
+                -46.3380117127831,-23.9332269801974,0
+                -46.3377491642846,-23.9334579240597,0
+                -46.3377764964901,-23.9334862712173,0
+                -46.3377122870216,-23.9335432549304,0
+                -46.3377306677909,-23.9335619027844,0
+                -46.3376503678,-23.9336137688027,0
+                -46.3376358588803,-23.9335997489076,0
+                -46.3375435295067,-23.933671617954,0
+                -46.3376116778804,-23.9337423660385,0
+                -46.3375669544053,-23.9337833085829,0
+                -46.3376840400782,-23.9339333736525,0
+                -46.3383769518839,-23.9346711970365,0
+                -46.3388915743175,-23.9346835296773,0
+                -46.3389146151093,-23.9346004579057,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1801</SimpleData>
+            <SimpleData name="Num_Qd">05002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3385885663148,-23.9337313546149,0
+                -46.3388511082409,-23.933691352653,0
+                -46.3389476402311,-23.9334791651653,0
+                -46.338939065466,-23.9334355855574,0
+                -46.3388849003433,-23.9333326835947,0
+                -46.3388947196085,-23.9333159453347,0
+                -46.3388530793905,-23.933276672792,0
+                -46.33866207707,-23.9332655872915,0
+                -46.3384263827058,-23.9331755565335,0
+                -46.3383755391467,-23.9332527608174,0
+                -46.3383296462464,-23.9332784107986,0
+                -46.3381815736868,-23.9333049515892,0
+                -46.3381921224468,-23.9333684899536,0
+                -46.3384202885158,-23.9334477859872,0
+                -46.338545938088,-23.9335114946501,0
+                -46.3385671847582,-23.9335520107407,0
+                -46.3385663304065,-23.9336339808328,0
+                -46.3385885663148,-23.9337313546149,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1856</SimpleData>
+            <SimpleData name="Num_Qd">05006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3393268175853,-23.9325572548252,0
+                -46.3393879328559,-23.932539328013,0
+                -46.3394218627088,-23.9324912234275,0
+                -46.3394726948844,-23.9324535150479,0
+                -46.3395906346731,-23.9324574481975,0
+                -46.3396374437074,-23.9324401930252,0
+                -46.3396036132005,-23.9323563205594,0
+                -46.339558437418,-23.9322920800879,0
+                -46.339489424206,-23.932233298089,0
+                -46.3394840691521,-23.9322053992962,0
+                -46.3395267876338,-23.9321712590213,0
+                -46.3396622255998,-23.9321607619109,0
+                -46.3397559798204,-23.9321692995341,0
+                -46.3397061820601,-23.9320922132809,0
+                -46.3396244346519,-23.9320586248069,0
+                -46.3395305927337,-23.9320489641606,0
+                -46.3394244685551,-23.9320766713237,0
+                -46.3391089057656,-23.9322630027427,0
+                -46.3390182425858,-23.9323506509127,0
+                -46.3389597840069,-23.9324353360063,0
+                -46.3389704007002,-23.9325137883229,0
+                -46.3389857689773,-23.9325299558235,0
+                -46.3393268175853,-23.9325572548252,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1857</SimpleData>
+            <SimpleData name="Num_Qd">05007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3391723135442,-23.9326843576668,0
+                -46.3392978709397,-23.9326983993895,0
+                -46.3393672259243,-23.9326675199385,0
+                -46.3393504984367,-23.9326029508208,0
+                -46.3393244043658,-23.932568919848,0
+                -46.3390758232005,-23.9325408142309,0
+                -46.3389897731901,-23.9325497156412,0
+                -46.3390410888996,-23.9326121454372,0
+                -46.339090291706,-23.9327153475331,0
+                -46.3391723135442,-23.9326843576668,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1891</SimpleData>
+            <SimpleData name="Num_Qd">04019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0026</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.337998724289,-23.9347870384266,0
+                -46.3380943351353,-23.9351620048474,0
+                -46.3386051268925,-23.934862327685,0
+                -46.3384470139244,-23.9347457995305,0
+                -46.3380612436136,-23.9347543030022,0
+                -46.33795517901,-23.9347723610571,0
+                -46.3376881362346,-23.9347652546398,0
+                -46.3374965136585,-23.9347275596879,0
+                -46.3373324133121,-23.9346548314286,0
+                -46.3371334909216,-23.9344699370011,0
+                -46.3370334332636,-23.9345604482387,0
+                -46.3369855372442,-23.9346243762064,0
+                -46.33699441392,-23.9347836167702,0
+                -46.3369595336014,-23.9348483275699,0
+                -46.3367414394755,-23.9350182975142,0
+                -46.3367504394386,-23.935090816962,0
+                -46.3369938590292,-23.9352609845781,0
+                -46.3371337657835,-23.9351921258725,0
+                -46.337147520025,-23.935076656885,0
+                -46.3372281786413,-23.9349789102671,0
+                -46.3372372046595,-23.9349843222985,0
+                -46.3373052454749,-23.9349178144028,0
+                -46.337369844741,-23.9349044369957,0
+                -46.3373791763619,-23.9349269337364,0
+                -46.3373384751489,-23.9349532322804,0
+                -46.3373941863116,-23.9351404229233,0
+                -46.3374207735162,-23.9351099745314,0
+                -46.3374523429937,-23.9349842810603,0
+                -46.3376936960661,-23.934903141203,0
+                -46.3377019991797,-23.9349853095282,0
+                -46.3376772291605,-23.9350601376894,0
+                -46.337707116601,-23.9351578344346,0
+                -46.3377473310033,-23.9351941034432,0
+                -46.3378190583067,-23.9350982676021,0
+                -46.337998724289,-23.9347870384266,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1944</SimpleData>
+            <SimpleData name="Num_Qd">05003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3379197656701,-23.9330495537526,0
+                  -46.3379512795945,-23.9331177592159,0
+                  -46.3380028455495,-23.9331744655215,0
+                  -46.338058511845,-23.9331399981312,0
+                  -46.3380488020518,-23.9331225721435,0
+                  -46.3380935184117,-23.9331124024216,0
+                  -46.3382121819879,-23.9331274977086,0
+                  -46.3382075547617,-23.9331551629667,0
+                  -46.3381746619739,-23.9331590707897,0
+                  -46.3381700070167,-23.9331421155322,0
+                  -46.3380932928178,-23.9331448427107,0
+                  -46.3380934786233,-23.9331628663973,0
+                  -46.3380318994968,-23.9331670059751,0
+                  -46.3380425415532,-23.933221494925,0
+                  -46.3381260735062,-23.9332901684256,0
+                  -46.3381859705231,-23.9332934486449,0
+                  -46.33828784631,-23.9332792770602,0
+                  -46.338364861671,-23.9332428625985,0
+                  -46.3384143836256,-23.9331680181057,0
+                  -46.3384116777101,-23.9331438032451,0
+                  -46.3385703365256,-23.9332044348696,0
+                  -46.3386014408334,-23.9331414275003,0
+                  -46.338728389292,-23.9330405410058,0
+                  -46.3386261252396,-23.9329608329687,0
+                  -46.3385392142303,-23.9330360935905,0
+                  -46.338559234345,-23.9330015031161,0
+                  -46.338549632842,-23.9329898197517,0
+                  -46.3384043316087,-23.9330106913153,0
+                  -46.338152061978,-23.9329481927647,0
+                  -46.3381517916125,-23.9330053085122,0
+                  -46.3380538967862,-23.9330730993355,0
+                  -46.3380301001754,-23.9330470462221,0
+                  -46.3380028018651,-23.9330617014234,0
+                  -46.3379765948713,-23.9330191922006,0
+                  -46.3379197656701,-23.9330495537526,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3386972258855,-23.933098762636,0
+                  -46.3385798302109,-23.933205661606,0
+                  -46.3386675323011,-23.9332528234344,0
+                  -46.3386887659212,-23.9332434903032,0
+                  -46.3387249882523,-23.9332623378436,0
+                  -46.3387717865412,-23.9332501720569,0
+                  -46.3387864874732,-23.9332047278372,0
+                  -46.3387773925392,-23.9331789052945,0
+                  -46.3387979173335,-23.9331641074294,0
+                  -46.3387987576265,-23.933245575191,0
+                  -46.3388760943905,-23.9332069993376,0
+                  -46.3388974049282,-23.9331584541572,0
+                  -46.3388586314729,-23.9330693957862,0
+                  -46.3388868887693,-23.9330644358687,0
+                  -46.3388588949684,-23.9328910843392,0
+                  -46.3388349361444,-23.932892988531,0
+                  -46.3388433075934,-23.9329568376103,0
+                  -46.33880710574,-23.9330433409217,0
+                  -46.3387254400379,-23.933107262954,0
+                  -46.3387054433467,-23.9331143773795,0
+                  -46.3386972258855,-23.933098762636,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3379519544579,-23.9329112758666,0
+                  -46.3379577811757,-23.9329874316784,0
+                  -46.3380780710006,-23.9329184160497,0
+                  -46.3380136470924,-23.9328638818586,0
+                  -46.3379519544579,-23.9329112758666,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.33812860188,-23.9327120091276,0
+                  -46.3380275526198,-23.9328539760646,0
+                  -46.3381128970862,-23.9329278987049,0
+                  -46.338202760265,-23.9329502797734,0
+                  -46.3382646165683,-23.9329507704725,0
+                  -46.3383569835176,-23.9328037315155,0
+                  -46.3382156403834,-23.9327323654474,0
+                  -46.33812860188,-23.9327120091276,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3390402222923,-23.9326346101871,0
+                  -46.3389687354163,-23.9325373409715,0
+                  -46.3389449077296,-23.9324437649814,0
+                  -46.3388996340564,-23.9324408275506,0
+                  -46.3387880692937,-23.9324680889856,0
+                  -46.3388398166858,-23.9326071529635,0
+                  -46.33886089251,-23.9327206476066,0
+                  -46.3387456070328,-23.9326567675089,0
+                  -46.3387221971344,-23.9326675105022,0
+                  -46.3387500041611,-23.9327315936751,0
+                  -46.3387410935592,-23.9327449826419,0
+                  -46.3387613686388,-23.9327808473434,0
+                  -46.3388377599452,-23.9328173333816,0
+                  -46.3388760295002,-23.9327260604293,0
+                  -46.3390829435813,-23.9327253572808,0
+                  -46.3390402222923,-23.9326346101871,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1945</SimpleData>
+            <SimpleData name="Num_Qd">05010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3389521937651,-23.9327501153002,0
+                  -46.338883739827,-23.932770920899,0
+                  -46.3388845085282,-23.9329210607,0
+                  -46.3388700239786,-23.9329251946868,0
+                  -46.3388987636084,-23.9330767913871,0
+                  -46.3388772533886,-23.9330869530143,0
+                  -46.3389134072997,-23.933150602469,0
+                  -46.3388607045078,-23.9332361310724,0
+                  -46.3389356640551,-23.9333518927069,0
+                  -46.3389658044111,-23.9334411785584,0
+                  -46.339054353065,-23.9334570413615,0
+                  -46.3391116236529,-23.9334104855525,0
+                  -46.3391278493893,-23.9333642874955,0
+                  -46.3391639104058,-23.9333690728439,0
+                  -46.3391943673156,-23.9332736065193,0
+                  -46.3391455474487,-23.9332579591596,0
+                  -46.3391154942851,-23.9331104696498,0
+                  -46.3390743181175,-23.9331036201091,0
+                  -46.3390866024055,-23.9330755378265,0
+                  -46.3390032811474,-23.933026369361,0
+                  -46.3389881532052,-23.9329094541528,0
+                  -46.3390753077785,-23.9328407223023,0
+                  -46.3390527681036,-23.93274562192,0
+                  -46.3389521937651,-23.9327501153002,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3390293145091,-23.9328860844201,0
+                  -46.3391548374834,-23.933008709492,0
+                  -46.3391135209403,-23.9330512794305,0
+                  -46.3391948308419,-23.9331759432778,0
+                  -46.3392937719528,-23.9330535448837,0
+                  -46.3393258366383,-23.9331255468338,0
+                  -46.3392294361045,-23.9331570923049,0
+                  -46.3392389031464,-23.9331985870495,0
+                  -46.3393371185688,-23.93330324727,0
+                  -46.3393817837046,-23.9333300577458,0
+                  -46.3394612997155,-23.933360463417,0
+                  -46.3394909104294,-23.9333422249026,0
+                  -46.3395068093246,-23.9332653252205,0
+                  -46.3394137547762,-23.9330812878494,0
+                  -46.3393094498773,-23.9329542690703,0
+                  -46.3392180699318,-23.9328648767434,0
+                  -46.3391172120553,-23.9328024333747,0
+                  -46.3390293145091,-23.9328860844201,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1946</SimpleData>
+            <SimpleData name="Num_Qd">05019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3414140677923,-23.9345487553779,0
+                  -46.3414100136751,-23.9344426350135,0
+                  -46.3413714385086,-23.9344348083803,0
+                  -46.3413616835499,-23.9342552550807,0
+                  -46.3414082940912,-23.9340851790853,0
+                  -46.3413929070342,-23.9340729776271,0
+                  -46.3414637122437,-23.9340039513399,0
+                  -46.3414437412671,-23.9339814407729,0
+                  -46.3414749130074,-23.9339412436541,0
+                  -46.3414539686619,-23.933920565795,0
+                  -46.3413308060409,-23.9340377768326,0
+                  -46.3413390983069,-23.9340758048653,0
+                  -46.341184671175,-23.934775398253,0
+                  -46.3413337782317,-23.9348100750149,0
+                  -46.3414140677923,-23.9345487553779,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3415202154752,-23.9336475338696,0
+                  -46.3414572531138,-23.9336680415107,0
+                  -46.3414322280856,-23.9336470378638,0
+                  -46.3414171146257,-23.9336562818086,0
+                  -46.3413586960213,-23.9336068882008,0
+                  -46.3413245697036,-23.9336321379953,0
+                  -46.3412652460927,-23.9335835830765,0
+                  -46.3413288494564,-23.9335214744889,0
+                  -46.3412731165329,-23.9334695558906,0
+                  -46.3412240695897,-23.9335112995648,0
+                  -46.3411613598599,-23.9334630721765,0
+                  -46.341189452468,-23.9334367552847,0
+                  -46.3411267503177,-23.9333902075252,0
+                  -46.341107176612,-23.9334109832942,0
+                  -46.3409906594036,-23.9333249565642,0
+                  -46.3410286913092,-23.933285937048,0
+                  -46.3409042020948,-23.9331919935165,0
+                  -46.3409462001651,-23.9331441164033,0
+                  -46.3408452155514,-23.9330621536361,0
+                  -46.340760778365,-23.932948513084,0
+                  -46.3407857493593,-23.9329301341002,0
+                  -46.3406915177537,-23.9327977357525,0
+                  -46.3406615024054,-23.9328148218876,0
+                  -46.3405688651889,-23.9327046157463,0
+                  -46.3404601956132,-23.9327249077019,0
+                  -46.340294939334,-23.9328474512762,0
+                  -46.3403569085356,-23.9329125097148,0
+                  -46.340346918233,-23.9329193247514,0
+                  -46.3411479807009,-23.933673441865,0
+                  -46.3412540820879,-23.9338010315605,0
+                  -46.341356077195,-23.9340028081432,0
+                  -46.3416375233917,-23.9337281560746,0
+                  -46.3415202154752,-23.9336475338696,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3405763042993,-23.9325725489723,0
+                  -46.3405002817785,-23.9324016267432,0
+                  -46.3404728948223,-23.9322754378684,0
+                  -46.3404370172959,-23.9322328911485,0
+                  -46.3403791148132,-23.9322248171455,0
+                  -46.3402575926664,-23.9322487159596,0
+                  -46.3401179375758,-23.9323091395153,0
+                  -46.3399335172005,-23.9324187463,0
+                  -46.3400582224497,-23.932733626977,0
+                  -46.3401509781056,-23.9328773582077,0
+                  -46.3403250119245,-23.9327531250599,0
+                  -46.3403357851266,-23.9327307884373,0
+                  -46.3405815470994,-23.9326625664786,0
+                  -46.3405738494154,-23.9326763693537,0
+                  -46.3407868243142,-23.9328182255299,0
+                  -46.3409222274699,-23.9327161527271,0
+                  -46.3407418154489,-23.9326250270397,0
+                  -46.3405763042993,-23.9325725489723,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Morro_Pacheco.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Pacheco.schema">
+            <SimpleData name="fid">1982</SimpleData>
+            <SimpleData name="Num_Qd">24014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0034</SimpleData>
+            <SimpleData name="Bairro">Morro Pacheco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3351597051515,-23.9345810717481,0
+                  -46.3352105605103,-23.9348573033423,0
+                  -46.3355256686718,-23.9347917610927,0
+                  -46.3355474950291,-23.9347593210535,0
+                  -46.3355558543645,-23.934674379191,0
+                  -46.3355203165281,-23.9346305561584,0
+                  -46.3353385724297,-23.9345557537374,0
+                  -46.3353193564588,-23.9344829332542,0
+                  -46.3351943873175,-23.9345417304903,0
+                  -46.3351597051515,-23.9345810717481,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3359107820766,-23.9342659197312,0
+                  -46.335528735566,-23.9344245098619,0
+                  -46.3357181442818,-23.9350347235613,0
+                  -46.335781363651,-23.9350145855019,0
+                  -46.3362491044928,-23.9349723268713,0
+                  -46.3363722779858,-23.9347808444979,0
+                  -46.3361795408883,-23.9346037559456,0
+                  -46.3362873063981,-23.9344635152201,0
+                  -46.3359479886438,-23.9342701039678,0
+                  -46.3359107820766,-23.9342659197312,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3379247930953,-23.932929176834,0
+                  -46.3360675124415,-23.9341916133246,0
+                  -46.3360271156642,-23.9342265445121,0
+                  -46.3360275012426,-23.9342640026855,0
+                  -46.3362816110736,-23.9343937372178,0
+                  -46.3364587448387,-23.9342587693852,0
+                  -46.3364845268705,-23.934299573435,0
+                  -46.3366800220329,-23.9343473459085,0
+                  -46.3368038009959,-23.9344886991894,0
+                  -46.3370073533889,-23.9343524287581,0
+                  -46.3373323755242,-23.9346545333631,0
+                  -46.3374964816861,-23.9347281754244,0
+                  -46.3376880967192,-23.9347649579123,0
+                  -46.3379551419188,-23.9347720678419,0
+                  -46.3380612066488,-23.9347540105661,0
+                  -46.3384469774077,-23.9347455100012,0
+                  -46.3376840028438,-23.9339330773414,0
+                  -46.3374236714986,-23.9341241085641,0
+                  -46.3372342497657,-23.9339309874687,0
+                  -46.3373066261982,-23.9338738477474,0
+                  -46.337282745383,-23.9338438077338,0
+                  -46.3373759912379,-23.9337658115641,0
+                  -46.3374110679618,-23.9338015256314,0
+                  -46.3375031411515,-23.9337183939649,0
+                  -46.337566917066,-23.9337830112003,0
+                  -46.3376116406012,-23.9337420689423,0
+                  -46.3375434921629,-23.933671320255,0
+                  -46.337635821658,-23.9335994518161,0
+                  -46.3376503305916,-23.9336134718383,0
+                  -46.3377306306861,-23.9335616063618,0
+                  -46.3377122498993,-23.9335429583457,0
+                  -46.3377764594536,-23.9334859750464,0
+                  -46.3377491272222,-23.933457627647,0
+                  -46.3380104312358,-23.9332255581933,0
+                  -46.337873052795,-23.9330708591521,0
+                  -46.3379218064873,-23.9330110673139,0
+                  -46.3379247930953,-23.932929176834,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3379494688693,-23.9329929489593,0
+                  -46.3380028385534,-23.9330619964136,0
+                  -46.3380312571101,-23.933047331259,0
+                  -46.3380550590064,-23.9330738990221,0
+                  -46.3381518281169,-23.9330056024465,0
+                  -46.3381513026259,-23.9329546310876,0
+                  -46.3380963398996,-23.9329484164088,0
+                  -46.3380781075726,-23.9329187106498,0
+                  -46.3379494688693,-23.9329929489593,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3381286011072,-23.9327120122921,0
+                  -46.3382677729892,-23.9327478839681,0
+                  -46.3382781037801,-23.9327284338525,0
+                  -46.3382357718699,-23.9325948950452,0
+                  -46.3381588097241,-23.932620841124,0
+                  -46.3381286011072,-23.9327120122921,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3393430577139,-23.9316487806039,0
+                  -46.3390851695705,-23.9313992379753,0
+                  -46.3389736758914,-23.9314880125476,0
+                  -46.3391760525959,-23.9317015722968,0
+                  -46.3393430577139,-23.9316487806039,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

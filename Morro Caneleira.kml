@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Morro_Caneleira.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Morro_Caneleira">
+      <name>Morro Caneleira</name>
+      <Placemark id="Morro_Caneleira.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Morro_Caneleira.schema">
+            <SimpleData name="fid">2022</SimpleData>
+            <SimpleData name="Num_Qd">42050</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0474</SimpleData>
+            <SimpleData name="Bairro">Morro Caneleira</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3660439674481,-23.9448339999763,0
+                  -46.3657881133977,-23.9452436611206,0
+                  -46.3662507730481,-23.9454176906815,0
+                  -46.3662863705314,-23.945472549647,0
+                  -46.3662971015753,-23.9455414237518,0
+                  -46.3671966150068,-23.9449724658911,0
+                  -46.3669635044208,-23.944689466764,0
+                  -46.3669028953297,-23.9446348305707,0
+                  -46.3667495255743,-23.9445603290288,0
+                  -46.3662503718592,-23.9444085560585,0
+                  -46.3660439674481,-23.9448339999763,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3676219857096,-23.9444781785253,0
+                  -46.3671149254498,-23.9444285192779,0
+                  -46.3670891283498,-23.9445065528923,0
+                  -46.3669371704132,-23.9445393732095,0
+                  -46.3672917650193,-23.944907473123,0
+                  -46.3675414595951,-23.9447551453357,0
+                  -46.3676219857096,-23.9444781785253,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3638016404348,-23.9443198346235,0
+                  -46.3640195204567,-23.943715912306,0
+                  -46.3629738852274,-23.9434214715673,0
+                  -46.3629526653262,-23.9434337720065,0
+                  -46.362801173718,-23.9437916975598,0
+                  -46.362667229458,-23.9437787762563,0
+                  -46.3626353775847,-23.9439644360598,0
+                  -46.3625025419357,-23.9442840627433,0
+                  -46.3632287538597,-23.9445999413596,0
+                  -46.3633433751814,-23.9442454238028,0
+                  -46.3637791284458,-23.9444397837593,0
+                  -46.3638255462384,-23.9443356912338,0
+                  -46.3638016404348,-23.9443198346235,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3603836468632,-23.9421212372295,0
+                  -46.3598659634342,-23.9418299550559,0
+                  -46.3593393872079,-23.9428060214928,0
+                  -46.3623858687325,-23.9440670320614,0
+                  -46.3624782433388,-23.9439840147586,0
+                  -46.3625349558681,-23.9438968411935,0
+                  -46.3625811590798,-23.9437745669657,0
+                  -46.3626004315121,-23.9433042136238,0
+                  -46.3625720009423,-23.9430936133565,0
+                  -46.3624447331609,-23.9428324977582,0
+                  -46.3623832370727,-23.942595266227,0
+                  -46.3623781357334,-23.9424195960867,0
+                  -46.3624871666288,-23.9420918960292,0
+                  -46.3625480070503,-23.941956602064,0
+                  -46.3626480004791,-23.9417978701368,0
+                  -46.3618700339754,-23.9415571230228,0
+                  -46.3614623338475,-23.941529127472,0
+                  -46.3603836468632,-23.9421212372295,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3627157091698,-23.9400550308491,0
+                  -46.3628098637468,-23.9395750815644,0
+                  -46.3627125655948,-23.9395495205389,0
+                  -46.3626196512395,-23.9400357453861,0
+                  -46.3627157091698,-23.9400550308491,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -2,20 +2,28 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Chico_de_Paula.schema">
-      <SimpleField name="quadra" type="string"/>
-      <SimpleField name="total_imov" type="string"/>
-      <SimpleField name="obs" type="string"/>
-      <SimpleField name="IEs" type="string"/>
-      <SimpleField name="P_estrateg" type="string"/>
-      <SimpleField name="NOME" type="string"/>
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
     </Schema>
     <Document id="Chico_de_Paula">
       <name>Chico de Paula</name>
       <Placemark id="Chico_de_Paula.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">20022</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">52</SimpleData>
+            <SimpleData name="Num_Qd">20022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -24,17 +32,10 @@
               <coordinates>
                 -46.3779550708417,-23.9284515233341,0
                 -46.3780227872307,-23.9288996220577,0
-                -46.3784970949685,-23.9288347225823,0
                 -46.3789874984076,-23.9287669819123,0
-                -46.3790020858232,-23.928760112984,0
-                -46.3790092721826,-23.9287465726508,0
                 -46.3790149640168,-23.9287303505871,0
-                -46.3790162867835,-23.928716862927,0
-                -46.3790131546059,-23.9286980249752,0
                 -46.3789581126736,-23.9283468016069,0
                 -46.3789124123688,-23.9283229557099,0
-                -46.3785727257771,-23.9283637387109,0
-                -46.378255041653,-23.9284056710049,0
                 -46.3779550708417,-23.9284515233341,0
               </coordinates>
             </LinearRing>
@@ -44,8 +45,14 @@
       <Placemark id="Chico_de_Paula.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22031</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">165</SimpleData>
+            <SimpleData name="Num_Qd">22031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0489</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -53,67 +60,25 @@
             <LinearRing>
               <coordinates>
                 -46.362023676164,-23.9327837474227,0
-                -46.3620344803652,-23.9327277279146,0
-                -46.3620815944493,-23.93247065897,0
-                -46.3621381740258,-23.9321793701819,0
-                -46.3621682223882,-23.9320281111748,0
-                -46.3622161405676,-23.9317634493096,0
-                -46.3622400692702,-23.9316282288344,0
-                -46.3622696442357,-23.9314786898297,0
-                -46.3623075844895,-23.9312743508769,0
-                -46.3623407530364,-23.9311115049189,0
                 -46.3623639928949,-23.9309481149265,0
-                -46.3624206137301,-23.9307076681878,0
                 -46.3624305631172,-23.9306859308147,0
                 -46.3625196589441,-23.9307014511123,0
                 -46.362589727636,-23.9303410478481,0
                 -46.3609752608229,-23.9302637275202,0
                 -46.3599920956274,-23.9301740101244,0
-                -46.3599551477458,-23.9303540358596,0
-                -46.3598828298354,-23.9307029370563,0
-                -46.3598202046149,-23.9310050740571,0
                 -46.359743106524,-23.931377034071,0
-                -46.3596338102515,-23.9319698468485,0
-                -46.3595462474162,-23.9324454489072,0
-                -46.3595186048935,-23.9325954721371,0
-                -46.3594668134579,-23.9328754745973,0
                 -46.359413825557,-23.9331613304649,0
-                -46.3593571107517,-23.9333361965197,0
                 -46.3593300635085,-23.9334741534492,0
-                -46.3593262646593,-23.9335054331371,0
-                -46.3593298469002,-23.9335285198741,0
                 -46.3593374700902,-23.9335434432402,0
-                -46.3595421744323,-23.9336516235284,0
-                -46.3598274730188,-23.933803819304,0
                 -46.3601432489295,-23.9339722725012,0
                 -46.3602494412381,-23.9337912896047,0
                 -46.3603417609184,-23.9338324962432,0
                 -46.3602296042996,-23.9340186893779,0
-                -46.360337227739,-23.9340756679739,0
-                -46.3610420289039,-23.934447025527,0
                 -46.3615906515243,-23.9347465826152,0
-                -46.36160592804,-23.9347511430288,0
-                -46.3616160629013,-23.9347525883292,0
                 -46.3616286291406,-23.9347516640925,0
-                -46.3616399757591,-23.9347468674987,0
-                -46.3616497249524,-23.9347396468023,0
-                -46.3616579796973,-23.9347304526221,0
                 -46.3616620224229,-23.9347224697922,0
-                -46.3617395466542,-23.9344888817644,0
                 -46.3617834072748,-23.9343430089886,0
-                -46.3617978784183,-23.9342708160748,0
-                -46.3618148741816,-23.9341583240971,0
-                -46.3618594468042,-23.9339211451925,0
-                -46.3619119657604,-23.9336079480659,0
-                -46.3619884221581,-23.9331884284669,0
-                -46.361994061317,-23.9331546941323,0
                 -46.3620002993834,-23.9331218575474,0
-                -46.3620039604902,-23.9330868764742,0
-                -46.3620050222371,-23.933028890327,0
-                -46.3620038086838,-23.932978781028,0
-                -46.362004244653,-23.9329360622192,0
-                -46.3620073719228,-23.9328970220929,0
-                -46.3620134220613,-23.9328369146331,0
                 -46.362023676164,-23.9327837474227,0
               </coordinates>
             </LinearRing>
@@ -123,8 +88,14 @@
       <Placemark id="Chico_de_Paula.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">20014</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">178</SimpleData>
+            <SimpleData name="Num_Qd">20014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -133,12 +104,8 @@
               <coordinates>
                 -46.3778282479659,-23.9277526859005,0
                 -46.3787963717952,-23.9276293584695,0
-                -46.3788342434279,-23.9275752100574,0
                 -46.3788364745007,-23.927572323018,0
-                -46.378780729805,-23.9272077162798,0
                 -46.3787784119292,-23.9272022284272,0
-                -46.3787753331146,-23.9271990953663,0
-                -46.3787712940161,-23.9271980479693,0
                 -46.3777574250283,-23.9273000752808,0
                 -46.3778282479659,-23.9277526859005,0
               </coordinates>
@@ -149,64 +116,36 @@
       <Placemark id="Chico_de_Paula.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22036</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">179</SimpleData>
+            <SimpleData name="Num_Qd">22036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0204</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3598274593032,-23.9302272110297,0
-                -46.3598375846626,-23.9301794311614,0
-                -46.3598375588504,-23.9301582093593,0
-                -46.3598304383593,-23.9301443652319,0
-                -46.3598274589854,-23.9301412661247,0
-                -46.3598188169427,-23.9301322767982,0
-                -46.3598022128756,-23.9301228513895,0
-                -46.3597750228698,-23.9301157774119,0
-                -46.3597513052089,-23.9301119237066,0
-                -46.3595138501456,-23.9300843160044,0
-                -46.3594711879033,-23.9300820749361,0
-                -46.3594199998542,-23.930081896101,0
-                -46.3593459197668,-23.9300816490431,0
-                -46.3592668797064,-23.9300862321141,0
-                -46.3592126869624,-23.9300899629959,0
-                -46.3591396733763,-23.9300977436766,0
-                -46.3591013156763,-23.9301031404488,0
-                -46.3590546040507,-23.9301082499451,0
-                -46.3588948189874,-23.9301328732581,0
-                -46.3579830786604,-23.9302627650098,0
-                -46.3579630817423,-23.9302670960088,0
-                -46.3579535130702,-23.9302727796613,0
-                -46.3579415470335,-23.930284083527,0
-                -46.3579369421677,-23.9302946901293,0
-                -46.3579359399595,-23.9303021944393,0
-                -46.3579365435505,-23.9303129355807,0
-                -46.3580257017088,-23.9308435106306,0
-                -46.3580289482794,-23.9308533253232,0
-                -46.3580365815321,-23.9308598501718,0
-                -46.3580443517458,-23.9308606844956,0
-                -46.3580552598932,-23.9308609492185,0
-                -46.3582029080581,-23.930840588233,0
-                -46.3593432455021,-23.9306800437508,0
-                -46.3593714197685,-23.93067789782,0
-                -46.3594187862528,-23.930679013571,0
-                -46.3594844740614,-23.9306846629899,0
-                -46.3595285099341,-23.9306867112684,0
-                -46.3595496016498,-23.9306837249663,0
-                -46.3595735204958,-23.9306786365722,0
-                -46.359605238745,-23.9306677897848,0
-                -46.3596403451688,-23.9306521267362,0
-                -46.3596630094929,-23.9306398249189,0
-                -46.3596883601419,-23.9306213584614,0
-                -46.3597129805602,-23.930598834675,0
-                -46.3597299554878,-23.9305780041245,0
                 -46.3597507965281,-23.9305510887902,0
-                -46.3597611800903,-23.930529413557,0
-                -46.3597707549176,-23.9304961862534,0
-                -46.35977532829,-23.9304732078883,0
-                -46.3598274593032,-23.9302272110297,0
+                -46.3598375588504,-23.9301582093593,0
+                -46.3598022128756,-23.9301228513895,0
+                -46.3595138501456,-23.9300843160044,0
+                -46.3593459197668,-23.9300816490431,0
+                -46.3590546040507,-23.9301082499451,0
+                -46.3579630817423,-23.9302670960088,0
+                -46.3579415470335,-23.930284083527,0
+                -46.3579365435505,-23.9303129355807,0
+                -46.3580289482794,-23.9308533253232,0
+                -46.3580552598932,-23.9308609492185,0
+                -46.3593432455021,-23.9306800437508,0
+                -46.3595285099341,-23.9306867112684,0
+                -46.359605238745,-23.9306677897848,0
+                -46.3596883601419,-23.9306213584614,0
+                -46.3597507965281,-23.9305510887902,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -215,31 +154,30 @@
       <Placemark id="Chico_de_Paula.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22032</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">275</SimpleData>
+            <SimpleData name="Num_Qd">22032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0486</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3683373864663,-23.9321475044162,0
+                -46.3680001995379,-23.9333439352007,0
                 -46.3683622295843,-23.9320238781943,0
                 -46.3683264352317,-23.9318395011985,0
                 -46.3680828312244,-23.9318957857739,0
-                -46.3679181607922,-23.9318094970186,0
-                -46.3677443027905,-23.9317333616227,0
-                -46.3676014528431,-23.9316717468353,0
                 -46.3674935960628,-23.9316209179755,0
-                -46.3674126191052,-23.9315747819465,0
                 -46.3673220836409,-23.9315127008482,0
                 -46.367262465126,-23.9314565097618,0
                 -46.3672267052496,-23.9314205136449,0
                 -46.3668163516536,-23.930669678919,0
-                -46.3664958005425,-23.9306587692562,0
-                -46.3662850709823,-23.9306568592003,0
                 -46.3661175412369,-23.9306508413282,0
-                -46.36582734287,-23.9305986533994,0
                 -46.3655301973837,-23.9305352319925,0
                 -46.3652331162565,-23.930410598193,0
                 -46.3645961757509,-23.9305228381169,0
@@ -247,27 +185,22 @@
                 -46.3636013356767,-23.930651098809,0
                 -46.362663033603,-23.9304276600577,0
                 -46.3624040067475,-23.931728798124,0
-                -46.3622436310386,-23.9326229225638,0
                 -46.3620888246236,-23.9335622188784,0
                 -46.362909737053,-23.9336012416807,0
                 -46.3642543581275,-23.933708855162,0
                 -46.3647452136579,-23.9333239827969,0
                 -46.3648292219439,-23.9333446996357,0
                 -46.3649056238661,-23.9333187344999,0
-                -46.3650352542796,-23.9333238812009,0
                 -46.3652292365379,-23.9333432453289,0
                 -46.3654774300239,-23.9334090568422,0
-                -46.3658056943797,-23.9335612686986,0
                 -46.3666533408571,-23.9339190356257,0
                 -46.3669053932834,-23.9340719235863,0
-                -46.3670429663065,-23.9342108179526,0
                 -46.3671472964099,-23.9342949613065,0
                 -46.367546072001,-23.9344215198287,0
                 -46.3676437459381,-23.9343906239114,0
                 -46.3679160196343,-23.9339796288198,0
                 -46.368061584237,-23.9333606365916,0
                 -46.3680001995379,-23.9333439352007,0
-                -46.3683373864663,-23.9321475044162,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -276,8 +209,14 @@
       <Placemark id="Chico_de_Paula.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32015</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">310</SimpleData>
+            <SimpleData name="Num_Qd">32015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -287,11 +226,8 @@
                 -46.3626029470914,-23.9349938291245,0
                 -46.3623936579799,-23.9348422446176,0
                 -46.3621710289184,-23.9350747363522,0
-                -46.3623705874851,-23.9352456484815,0
-                -46.3624383628138,-23.9353142994871,0
                 -46.3624518091076,-23.9353269257131,0
                 -46.3624753227746,-23.9353299680133,0
-                -46.3624932136194,-23.9353215010068,0
                 -46.3625168661874,-23.9353003399554,0
                 -46.3626029470914,-23.9349938291245,0
               </coordinates>
@@ -302,8 +238,14 @@
       <Placemark id="Chico_de_Paula.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22033</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">371</SimpleData>
+            <SimpleData name="Num_Qd">22033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -311,34 +253,13 @@
             <LinearRing>
               <coordinates>
                 -46.3591567947089,-23.9337014359873,0
-                -46.3591468497323,-23.9336960511014,0
-                -46.3590806114052,-23.9336601851417,0
-                -46.3589874985425,-23.9336097673867,0
-                -46.3589008842651,-23.9335674453961,0
-                -46.358815608114,-23.9335227349524,0
-                -46.3587220203839,-23.9334730657115,0
-                -46.3586199247575,-23.9334188810157,0
-                -46.3577845565951,-23.9329710083531,0
                 -46.357778891028,-23.9329680613642,0
-                -46.3577662272178,-23.9329650409367,0
-                -46.357752382326,-23.932966506709,0
                 -46.3577400737847,-23.9329712888303,0
-                -46.3577257883371,-23.932978892258,0
-                -46.3577190588155,-23.9329871443375,0
                 -46.3577141465159,-23.9329936936405,0
-                -46.3577105549144,-23.9330011950915,0
-                -46.3577093607891,-23.9330089749468,0
-                -46.3577088989874,-23.9330183177201,0
-                -46.3577108195411,-23.9330264932869,0
                 -46.3577140532333,-23.9330348981959,0
-                -46.3577323741493,-23.9330571451869,0
                 -46.3582581182788,-23.9337578057125,0
                 -46.3590631954157,-23.9342059125933,0
-                -46.3591096243003,-23.9340118848848,0
                 -46.3591751855721,-23.9337379014496,0
-                -46.3591759799921,-23.933729324329,0
-                -46.3591743487432,-23.9337208499636,0
-                -46.3591676478242,-23.9337095577743,0
                 -46.3591567947089,-23.9337014359873,0
               </coordinates>
             </LinearRing>
@@ -348,8 +269,14 @@
       <Placemark id="Chico_de_Paula.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32035</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">541</SimpleData>
+            <SimpleData name="Num_Qd">32035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -357,11 +284,9 @@
             <LinearRing>
               <coordinates>
                 -46.3648599223565,-23.9349709569695,0
-                -46.3657663040633,-23.9347084114713,0
                 -46.3659659823786,-23.9346521677883,0
                 -46.3658279738809,-23.9342443986537,0
                 -46.3658119507069,-23.9342342463169,0
-                -46.3656296651603,-23.934287071963,0
                 -46.3647050877753,-23.9345515390811,0
                 -46.3648599223565,-23.9349709569695,0
               </coordinates>
@@ -372,8 +297,14 @@
       <Placemark id="Chico_de_Paula.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">20015</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1137</SimpleData>
+            <SimpleData name="Num_Qd">20015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1183</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -382,17 +313,9 @@
               <coordinates>
                 -46.3778698780285,-23.927875527844,0
                 -46.3779256693095,-23.9283285511417,0
-                -46.3781637240067,-23.9282961387964,0
-                -46.378526132193,-23.9282473268473,0
-                -46.3788039213242,-23.9282095613823,0
                 -46.378933239581,-23.9281922340953,0
-                -46.3789055386962,-23.9279926155475,0
                 -46.3788780251972,-23.9278106306604,0
-                -46.3788713497266,-23.9277842375843,0
-                -46.3788664133565,-23.9277710554048,0
                 -46.378845412597,-23.9277506694475,0
-                -46.3788309780567,-23.9277463902554,0
-                -46.3786617255333,-23.9277670153057,0
                 -46.3778698780285,-23.927875527844,0
               </coordinates>
             </LinearRing>
@@ -402,8 +325,14 @@
       <Placemark id="Chico_de_Paula.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32033</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1305</SimpleData>
+            <SimpleData name="Num_Qd">32033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -411,25 +340,14 @@
             <LinearRing>
               <coordinates>
                 -46.3693840189425,-23.934977089541,0
-                -46.3690679010567,-23.9347623528158,0
-                -46.368954034754,-23.9346932352828,0
                 -46.3688109250761,-23.9346001946087,0
-                -46.3686835222959,-23.9344949218022,0
                 -46.3685028966678,-23.9343392421443,0
                 -46.3677815601459,-23.9347820252159,0
-                -46.3673163669148,-23.9350338413368,0
                 -46.3672427774588,-23.9350753218259,0
-                -46.3671722060726,-23.9351222187213,0
                 -46.3671045954177,-23.935169089214,0
-                -46.363920844283,-23.9375521208788,0
                 -46.3635951777342,-23.9377884948191,0
                 -46.363858665249,-23.9380563701554,0
-                -46.3642364493575,-23.937917003351,0
                 -46.3668601039906,-23.9369872404766,0
-                -46.3671521222404,-23.936872110277,0
-                -46.3673012720627,-23.9368191808456,0
-                -46.3674589127866,-23.93676323801,0
-                -46.3675994913517,-23.936714812476,0
                 -46.3676952777682,-23.9366726826024,0
                 -46.3686417722298,-23.9357679597634,0
                 -46.3693840189425,-23.934977089541,0
@@ -441,8 +359,14 @@
       <Placemark id="Chico_de_Paula.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32011</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1306</SimpleData>
+            <SimpleData name="Num_Qd">32011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -456,18 +380,11 @@
                 -46.3633207009308,-23.93771828883,0
                 -46.3633756600018,-23.9377127551029,0
                 -46.3633776668401,-23.9377257297365,0
-                -46.363410147699,-23.937722469808,0
-                -46.3634091304102,-23.9377101452045,0
                 -46.3634322695412,-23.9377079293565,0
                 -46.363411201823,-23.9374915781093,0
                 -46.3634385489826,-23.9374407186561,0
                 -46.3634860521309,-23.9374006527885,0
-                -46.3635609239088,-23.9373427242607,0
-                -46.363630491445,-23.9372931019616,0
-                -46.3636909902855,-23.9372496169113,0
-                -46.364227511284,-23.9368843015242,0
                 -46.3649939666775,-23.9363493606093,0
-                -46.3650850027497,-23.9362552909748,0
                 -46.3651748349955,-23.9361624651001,0
                 -46.3652169684921,-23.9360657690293,0
                 -46.3648891365099,-23.9350940385253,0
@@ -479,46 +396,40 @@
       <Placemark id="Chico_de_Paula.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32034</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1307</SimpleData>
+            <SimpleData name="Num_Qd">32034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3651922261862,-23.9359894168853,0
+                -46.364884915363,-23.9350901882541,0
                 -46.3652169684921,-23.9360657690293,0
-                -46.3653723903495,-23.9359581933477,0
-                -46.3656026621819,-23.9357856495409,0
                 -46.3656990389246,-23.9357107978252,0
                 -46.3657257414261,-23.9356190072705,0
                 -46.3657695250756,-23.9355728411885,0
-                -46.3662673180538,-23.9352539861679,0
                 -46.366449787878,-23.9351459829931,0
-                -46.3665507479507,-23.9350676587936,0
                 -46.3666706980071,-23.9349697253147,0
                 -46.3667558035394,-23.934875495679,0
                 -46.3668233763077,-23.9347547422396,0
                 -46.3668586420152,-23.9346423039166,0
                 -46.3668643888414,-23.9345261147531,0
                 -46.3668211013117,-23.9344103622542,0
-                -46.3667411681305,-23.9343282272733,0
-                -46.3666576137783,-23.9342526771526,0
                 -46.3665836571304,-23.9341931047717,0
-                -46.3664958685454,-23.9341320466596,0
-                -46.3663891762536,-23.9340561158188,0
                 -46.3662840975091,-23.9339819232517,0
                 -46.3658127120046,-23.9338393307183,0
-                -46.3655231877298,-23.9337236286453,0
                 -46.365421258585,-23.9336801217842,0
-                -46.3653174564645,-23.9336620755037,0
                 -46.3652070527952,-23.9336552329323,0
                 -46.3650964445763,-23.9336613029635,0
-                -46.3649529052473,-23.9336930971528,0
                 -46.3648518917956,-23.9337148288319,0
                 -46.3645816106252,-23.9334521046823,0
-                -46.3644053764604,-23.9335898201205,0
                 -46.3642525786187,-23.9337092212191,0
                 -46.3637464776467,-23.9336685144801,0
                 -46.3636869160272,-23.9338782794752,0
@@ -527,21 +438,15 @@
                 -46.3639837697384,-23.934091866206,0
                 -46.3642307191166,-23.9343734151444,0
                 -46.3641869522186,-23.9345630787071,0
-                -46.3645978404954,-23.9344479997552,0
                 -46.3650452322502,-23.9343091613295,0
                 -46.3658259348575,-23.9340973193753,0
-                -46.3658757327813,-23.934096876237,0
                 -46.3659288218925,-23.9341082609275,0
                 -46.3659747889681,-23.934131535718,0
                 -46.3660317837354,-23.934202299261,0
-                -46.3660774939005,-23.9343392218691,0
-                -46.3661172963261,-23.9344405931144,0
                 -46.3661690751452,-23.9346283244194,0
                 -46.3661341036973,-23.9347004302512,0
                 -46.3660666544438,-23.9347590407827,0
-                -46.3657656876607,-23.9348423705902,0
                 -46.364884915363,-23.9350901882541,0
-                -46.3651922261862,-23.9359894168853,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -550,8 +455,14 @@
       <Placemark id="Chico_de_Paula.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32018</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1308</SimpleData>
+            <SimpleData name="Num_Qd">32018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -559,25 +470,12 @@
             <LinearRing>
               <coordinates>
                 -46.3641027131796,-23.9347239850544,0
-                -46.3627393118096,-23.9351159862234,0
-                -46.3627224979317,-23.9351206979944,0
-                -46.362707815633,-23.9351251034375,0
                 -46.3626947134852,-23.935132344907,0
-                -46.3626886247731,-23.9351430866792,0
-                -46.3626818507107,-23.9351623847072,0
                 -46.3626058348022,-23.9354478832326,0
-                -46.3626029856994,-23.9354683246464,0
-                -46.3626001809408,-23.9354929896913,0
                 -46.3625980929201,-23.9355176483728,0
-                -46.3626005530962,-23.9355331146224,0
                 -46.3626100068658,-23.9355534468118,0
-                -46.3626232260348,-23.9355723375629,0
-                -46.3626379251902,-23.9355862871443,0
                 -46.3626487507028,-23.9355960470908,0
-                -46.3626602755563,-23.9355994647903,0
                 -46.362679392488,-23.9355964790466,0
-                -46.3626996243315,-23.9355908588294,0
-                -46.3627145259519,-23.935587015059,0
                 -46.3640027672642,-23.9352268009342,0
                 -46.3641027131796,-23.9347239850544,0
               </coordinates>
@@ -588,8 +486,14 @@
       <Placemark id="Chico_de_Paula.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22046</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1339</SimpleData>
+            <SimpleData name="Num_Qd">22046</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0605</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -598,14 +502,11 @@
               <coordinates>
                 -46.3743217253855,-23.9277075197574,0
                 -46.3731557784086,-23.927879274516,0
-                -46.3723291485411,-23.9279864540916,0
-                -46.3714957986383,-23.9280999260328,0
                 -46.370709871458,-23.9282067333254,0
                 -46.3689037175396,-23.928484405184,0
                 -46.3686663301423,-23.928535484778,0
                 -46.3692267360185,-23.9316609816658,0
                 -46.370016703725,-23.9312646185222,0
-                -46.3703346306635,-23.9310970706693,0
                 -46.3711501307274,-23.9306539487546,0
                 -46.3715246724599,-23.9305864300515,0
                 -46.3718226294979,-23.9305663378624,0
@@ -623,8 +524,14 @@
       <Placemark id="Chico_de_Paula.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22047</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1340</SimpleData>
+            <SimpleData name="Num_Qd">22047</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1178</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -636,13 +543,9 @@
                 -46.3774543063068,-23.927585059245,0
                 -46.3772924099902,-23.9276738260665,0
                 -46.3772044128592,-23.9276933257186,0
-                -46.3770958644228,-23.9276942994738,0
                 -46.3770076026712,-23.9276888544526,0
                 -46.3769192086473,-23.9276709370986,0
                 -46.376823765834,-23.9276281359733,0
-                -46.3767212081651,-23.9275542149189,0
-                -46.3766527703247,-23.9274986980328,0
-                -46.3765709836899,-23.9274591762395,0
                 -46.3765090685579,-23.927408151511,0
                 -46.3755470664033,-23.9275210828004,0
                 -46.3743217253855,-23.9277075197574,0
@@ -651,8 +554,6 @@
                 -46.3759427743031,-23.9299907287997,0
                 -46.3767768668857,-23.9296436700865,0
                 -46.3781697400191,-23.9297152816105,0
-                -46.3780227872307,-23.9288996220577,0
-                -46.3779550708417,-23.9284515233341,0
                 -46.3779256693095,-23.9283285511417,0
                 -46.3778698780285,-23.927875527844,0
                 -46.3778282479659,-23.9277526859005,0
@@ -665,8 +566,14 @@
       <Placemark id="Chico_de_Paula.16">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22044</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1397</SimpleData>
+            <SimpleData name="Num_Qd">22044</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0486</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -675,10 +582,8 @@
               <coordinates>
                 -46.3655410145586,-23.929826276879,0
                 -46.3651459981225,-23.9299585902466,0
-                -46.3648973031745,-23.9300267127562,0
                 -46.3646080221229,-23.9300894642678,0
                 -46.3643155631796,-23.9301465120878,0
-                -46.3639730757208,-23.9301896753908,0
                 -46.3636304976939,-23.9302242416407,0
                 -46.3636013469606,-23.930651139006,0
                 -46.3642866172255,-23.9306743268591,0
@@ -694,8 +599,14 @@
       <Placemark id="Chico_de_Paula.17">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">31050</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1641</SimpleData>
+            <SimpleData name="Num_Qd">31050</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0562</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -704,21 +615,14 @@
               <coordinates>
                 -46.3791501976949,-23.9329856743884,0
                 -46.3788235523535,-23.9327101317486,0
-                -46.3785707544281,-23.9323538152094,0
-                -46.3783349621934,-23.9320354930639,0
                 -46.3781455478924,-23.9317854197643,0
                 -46.3779237458104,-23.9316119321161,0
                 -46.3777070657391,-23.9315299523684,0
                 -46.3775202035726,-23.9315201851423,0
                 -46.3773255679903,-23.9315600793113,0
                 -46.3770732397796,-23.9316386384235,0
-                -46.3767377938454,-23.9317064983669,0
                 -46.3764315174929,-23.9317855403037,0
-                -46.375972587422,-23.9319498748709,0
                 -46.3755756608299,-23.9320907638933,0
-                -46.3755897385705,-23.9327424907197,0
-                -46.3755900900901,-23.9328827286381,0
-                -46.3755970912067,-23.9334733362805,0
                 -46.3756038356811,-23.93357445334,0
                 -46.3787319384313,-23.9334624618759,0
                 -46.3791501976949,-23.9329856743884,0
@@ -730,15 +634,21 @@
       <Placemark id="Chico_de_Paula.18">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32017</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1654</SimpleData>
+            <SimpleData name="Num_Qd">32017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                -46.3635342476911,-23.934461767986,0
+                -46.3636869160272,-23.9338782794752,0
                 -46.3634688273078,-23.9347099650207,0
                 -46.3634820153361,-23.9347352499193,0
                 -46.36353055913,-23.9347581859086,0
@@ -748,9 +658,6 @@
                 -46.3639369277575,-23.933995140267,0
                 -46.3638471001437,-23.9340016136341,0
                 -46.3636869160272,-23.9338782794752,0
-                -46.3636577490227,-23.9339887993629,0
-                -46.3636043893007,-23.9341958272426,0
-                -46.3635342476911,-23.934461767986,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -759,8 +666,14 @@
       <Placemark id="Chico_de_Paula.19">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">32030</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1687</SimpleData>
+            <SimpleData name="Num_Qd">32030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0633</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -780,8 +693,14 @@
       <Placemark id="Chico_de_Paula.20">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">22045</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1751</SimpleData>
+            <SimpleData name="Num_Qd">22045</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0486</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -794,27 +713,17 @@
                 -46.3675354715192,-23.929058042108,0
                 -46.3675184938768,-23.928977007936,0
                 -46.3672233284721,-23.9291574445144,0
-                -46.3668658910515,-23.9293289096327,0
-                -46.366522067909,-23.9294812019525,0
-                -46.3663758829517,-23.9295442747341,0
                 -46.3663191874686,-23.9295687364442,0
                 -46.3660886083389,-23.9296501669018,0
-                -46.3658956883113,-23.9296995105992,0
                 -46.3657028683255,-23.9297583785722,0
                 -46.3655410032741,-23.9298262366822,0
                 -46.3655301973837,-23.9305352319925,0
-                -46.36582734287,-23.9305986533994,0
                 -46.3661175412369,-23.9306508413282,0
-                -46.3662850709823,-23.9306568592003,0
-                -46.3664958005425,-23.9306587692562,0
                 -46.3668163516536,-23.930669678919,0
                 -46.3672267052496,-23.9314205136449,0
                 -46.367262465126,-23.9314565097618,0
                 -46.3673220836409,-23.9315127008482,0
                 -46.3674935960628,-23.9316209179755,0
-                -46.3676014528431,-23.9316717468353,0
-                -46.3677443027905,-23.9317333616227,0
-                -46.3679181607922,-23.9318094970186,0
                 -46.3680828312244,-23.9318957857739,0
                 -46.3692203316157,-23.931632963221,0
                 -46.3686663301423,-23.928535484778,0
@@ -826,8 +735,14 @@
       <Placemark id="Chico_de_Paula.21">
         <ExtendedData>
           <SchemaData schemaUrl="#Chico_de_Paula.schema">
-            <SimpleData name="quadra">31048</SimpleData>
-            <SimpleData name="NOME">Chico de Paula</SimpleData>
+            <SimpleData name="fid">1993</SimpleData>
+            <SimpleData name="Num_Qd">31048</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1180</SimpleData>
+            <SimpleData name="Bairro">Chico de Paula</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -836,26 +751,14 @@
               <LinearRing>
                 <coordinates>
                   -46.3710407177988,-23.9328073890004,0
-                  -46.3710006595135,-23.9328181131379,0
                   -46.3709280059378,-23.9328523185182,0
-                  -46.3695967120648,-23.9337646001764,0
-                  -46.3692638495564,-23.9339901246239,0
                   -46.3691799973297,-23.9340455706399,0
-                  -46.3690913877309,-23.9340935225119,0
-                  -46.3687799202789,-23.9342272644045,0
-                  -46.3685300863665,-23.9343282265136,0
                   -46.3685028966678,-23.9343392421443,0
-                  -46.3686835222959,-23.9344949218022,0
                   -46.3688109250761,-23.9346001946087,0
-                  -46.368954034754,-23.9346932352828,0
-                  -46.3690679010567,-23.9347623528158,0
                   -46.3693840189425,-23.934977089541,0
                   -46.3699409679268,-23.9344550630552,0
-                  -46.3700974575152,-23.934279379029,0
                   -46.3702641382686,-23.9340764567561,0
-                  -46.3703181410091,-23.9340684666355,0
                   -46.3718506536578,-23.9337948410436,0
-                  -46.3710738446941,-23.9328342376583,0
                   -46.3710407177988,-23.9328073890004,0
                 </coordinates>
               </LinearRing>
@@ -873,10 +776,6 @@
                   -46.368587621411,-23.9337799150266,0
                   -46.3683834215123,-23.9342022523822,0
                   -46.368430645239,-23.9342427966551,0
-                  -46.3684695031392,-23.9342255040212,0
-                  -46.3685497913658,-23.9341917631467,0
-                  -46.3686159212668,-23.9341639272849,0
-                  -46.3686777124332,-23.934139675767,0
                   -46.3690489748439,-23.9339816553084,0
                   -46.3709469517409,-23.9326609005903,0
                   -46.3702967184573,-23.9318168522848,0

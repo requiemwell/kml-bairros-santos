@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Jos___Menino.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Jos___Menino">
+      <name>José Menino</name>
+      <Placemark id="Jos___Menino.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">302</SimpleData>
+            <SimpleData name="Num_Qd">64041</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0980</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3494108457048,-23.9650300016413,0
+                -46.3492540891727,-23.9650898903059,0
+                -46.3491542358657,-23.965183513544,0
+                -46.3489736320375,-23.9653649927908,0
+                -46.3489011898531,-23.9655335096538,0
+                -46.3488890818598,-23.9655976433995,0
+                -46.3489026162389,-23.9659160349926,0
+                -46.3489168788293,-23.9659833684001,0
+                -46.3489617899865,-23.9660777950197,0
+                -46.349120276117,-23.9662449123994,0
+                -46.3492307066746,-23.9663176307549,0
+                -46.3502118529854,-23.9666836754363,0
+                -46.3505849248649,-23.9668085345419,0
+                -46.3504884225928,-23.9667050806883,0
+                -46.3503695218631,-23.9661874081832,0
+                -46.350368682988,-23.9660974704433,0
+                -46.3504175931412,-23.9659248254925,0
+                -46.3505256459227,-23.9657976255773,0
+                -46.3506308783138,-23.9657109979856,0
+                -46.350956965272,-23.9655428648187,0
+                -46.3511007205126,-23.9655033986569,0
+                -46.3511795879649,-23.9654990011658,0
+                -46.3508016984621,-23.9653830358369,0
+                -46.3498494582856,-23.9650269447542,0
+                -46.3497808861385,-23.9650102095419,0
+                -46.3495813260777,-23.9650038384371,0
+                -46.3494108457048,-23.9650300016413,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">885</SimpleData>
+            <SimpleData name="Num_Qd">63006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0630</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3559952848109,-23.9671166805987,0
+                -46.3556687340291,-23.9670241144583,0
+                -46.3555773975995,-23.9670297082022,0
+                -46.3555146883367,-23.9670569029227,0
+                -46.3554696251315,-23.9670987518453,0
+                -46.3554086152243,-23.9672132576114,0
+                -46.3553804267203,-23.9673369553834,0
+                -46.3553788342152,-23.9674289914917,0
+                -46.3554005486853,-23.9674943618524,0
+                -46.3554412803598,-23.9675645309381,0
+                -46.3554999068263,-23.9676261433363,0
+                -46.3556105781695,-23.9676932557884,0
+                -46.3556592498253,-23.9677051071081,0
+                -46.3559933791606,-23.9677140729475,0
+                -46.3560222654377,-23.9676852807257,0
+                -46.3560296776061,-23.9671445519744,0
+                -46.3559952848109,-23.9671166805987,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">980</SimpleData>
+            <SimpleData name="Num_Qd">64040</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0980</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3503695218631,-23.9661874081832,0
+                -46.3504884225928,-23.9667050806883,0
+                -46.3505188799354,-23.9667515008128,0
+                -46.3506175480931,-23.9668270309079,0
+                -46.3510627534737,-23.9669895433039,0
+                -46.3511127987058,-23.9669918115226,0
+                -46.3511840046749,-23.9668745986025,0
+                -46.3516740670361,-23.9657409988536,0
+                -46.3516599038303,-23.9656833276525,0
+                -46.3511669725068,-23.9654955000745,0
+                -46.3509244554796,-23.9655540783007,0
+                -46.3506308783138,-23.9657109979856,0
+                -46.3504625404542,-23.9658622988738,0
+                -46.3504175931412,-23.9659248254925,0
+                -46.3503725884568,-23.9660667318895,0
+                -46.3503695218631,-23.9661874081832,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">982</SimpleData>
+            <SimpleData name="Num_Qd">64032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0987</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3485283184386,-23.9661451834924,0
+                -46.3485415257854,-23.9676693489008,0
+                -46.3485986856355,-23.9677130962957,0
+                -46.3491320987455,-23.9677864284936,0
+                -46.3491428186815,-23.967777755065,0
+                -46.3492008174157,-23.9664389946064,0
+                -46.3490619708806,-23.966355418556,0
+                -46.3488530148463,-23.9661640914487,0
+                -46.348811050301,-23.9661450447148,0
+                -46.3487479635682,-23.9661266352914,0
+                -46.3485499415088,-23.9661265708217,0
+                -46.3485283184386,-23.9661451834924,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1016</SimpleData>
+            <SimpleData name="Num_Qd">63003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0981</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3526788987433,-23.9677263717948,0
+                -46.3508084280554,-23.9670374790311,0
+                -46.3507434615467,-23.9670367870602,0
+                -46.3507241772644,-23.9670534829974,0
+                -46.3504533355458,-23.9679212742441,0
+                -46.3504946969434,-23.9679672370927,0
+                -46.3505292311964,-23.9679804788657,0
+                -46.3525177453873,-23.9682458805334,0
+                -46.3525706815947,-23.9682426140719,0
+                -46.3526274690405,-23.9682034620265,0
+                -46.3526410210453,-23.9681742638522,0
+                -46.3527151279237,-23.9677889956492,0
+                -46.3527056027422,-23.9677520541097,0
+                -46.3526788987433,-23.9677263717948,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1017</SimpleData>
+            <SimpleData name="Num_Qd">63002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0980</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3530032418634,-23.9661579604444,0
+                -46.3520788659383,-23.9658174414359,0
+                -46.3519768054465,-23.9658123811139,0
+                -46.3517857439259,-23.9658671656883,0
+                -46.3517033444145,-23.9659569341091,0
+                -46.3512462415628,-23.9669999371684,0
+                -46.3512511041454,-23.9670421576751,0
+                -46.3512839736154,-23.967074829815,0
+                -46.3527491907238,-23.967615848921,0
+                -46.3527714727393,-23.9676039125206,0
+                -46.3530032418634,-23.9661579604444,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1114</SimpleData>
+            <SimpleData name="Num_Qd">63014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0465</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3570140681074,-23.9662553338547,0
+                -46.3567202635918,-23.966171277391,0
+                -46.3566158632901,-23.9661684098776,0
+                -46.356665545593,-23.966027778288,0
+                -46.3568375397577,-23.9658610928685,0
+                -46.3566962688952,-23.965722463432,0
+                -46.3565827174221,-23.9657998632614,0
+                -46.3562411606741,-23.965911044503,0
+                -46.3561033162962,-23.9659711153408,0
+                -46.3560812658534,-23.9660142561797,0
+                -46.3559744165479,-23.9660958811404,0
+                -46.3558951641062,-23.9661370473519,0
+                -46.3558218389703,-23.966143476492,0
+                -46.3557688913631,-23.966175359391,0
+                -46.3557149729311,-23.9663171943207,0
+                -46.3558645043654,-23.966357033938,0
+                -46.3558570885539,-23.9663852628305,0
+                -46.3568317859927,-23.9666620653285,0
+                -46.3568511092249,-23.9666499790914,0
+                -46.3570140681074,-23.9662553338547,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1251</SimpleData>
+            <SimpleData name="Num_Qd">63005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0630</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3563862832381,-23.9672316456297,0
+                -46.3562044705418,-23.9671816162999,0
+                -46.3561662699652,-23.9671906643657,0
+                -46.3561521150841,-23.9672091217183,0
+                -46.3561405125138,-23.9676857382343,0
+                -46.356163996865,-23.9677136609598,0
+                -46.356380675675,-23.9677209757302,0
+                -46.3563862832381,-23.9672316456297,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1252</SimpleData>
+            <SimpleData name="Num_Qd">63004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0465</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3557568739538,-23.9666502136142,0
+                -46.3556755709201,-23.9668560333124,0
+                -46.3556894049233,-23.966905179031,0
+                -46.3567857072072,-23.9672330478584,0
+                -46.3567928816663,-23.9669503153393,0
+                -46.3557568739538,-23.9666502136142,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1253</SimpleData>
+            <SimpleData name="Num_Qd">63008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0170</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3531659929511,-23.9659154518499,0
+                -46.3528020828097,-23.9681355464025,0
+                -46.3528027412961,-23.9682174483789,0
+                -46.3528219092358,-23.9682545567348,0
+                -46.3528529762937,-23.9682804373133,0
+                -46.3529165345519,-23.968291057892,0
+                -46.354654729726,-23.968478039463,0
+                -46.3546936708896,-23.9681628244145,0
+                -46.3542011541685,-23.9681100113299,0
+                -46.3542312260109,-23.96792190876,0
+                -46.3544982146497,-23.9679572081134,0
+                -46.3544885317455,-23.9680368534396,0
+                -46.3547594958094,-23.9680673928516,0
+                -46.3547784583237,-23.968057139437,0
+                -46.3548310580347,-23.9679371092282,0
+                -46.354829993426,-23.9677976858289,0
+                -46.354807345285,-23.9677745869437,0
+                -46.3542812049563,-23.9675420980982,0
+                -46.3543299985217,-23.9672371289359,0
+                -46.3544142820418,-23.9672361337869,0
+                -46.3547079907813,-23.9671731183,0
+                -46.3547828131083,-23.9671422468151,0
+                -46.3549082550951,-23.9670116652666,0
+                -46.3549214956698,-23.9669330839772,0
+                -46.3548973288075,-23.9668650255913,0
+                -46.3548462275302,-23.9668054397936,0
+                -46.3545943481982,-23.9665959857265,0
+                -46.3545580822605,-23.9666346960551,0
+                -46.3543959804339,-23.9664949291143,0
+                -46.3544098509457,-23.966479585247,0
+                -46.3542022763922,-23.9663120046048,0
+                -46.354124199584,-23.9663802876951,0
+                -46.3542351146653,-23.9665544565868,0
+                -46.3541516792198,-23.9666750618622,0
+                -46.3539241534896,-23.9665615109436,0
+                -46.3539344645531,-23.9665341918545,0
+                -46.3536983145997,-23.9664126195447,0
+                -46.3533141234894,-23.966100874765,0
+                -46.3533407922371,-23.965945800869,0
+                -46.3531659929511,-23.9659154518499,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1270</SimpleData>
+            <SimpleData name="Num_Qd">63007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0463</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3562337383843,-23.9678299725655,0
+                -46.354969269465,-23.967818017046,0
+                -46.3549538978386,-23.9678394394551,0
+                -46.3549460900602,-23.9679738275822,0
+                -46.3548097024154,-23.9682444293821,0
+                -46.3547804313316,-23.9684714469344,0
+                -46.3548015536783,-23.9684895924578,0
+                -46.355862833881,-23.9685934551192,0
+                -46.3559934412226,-23.9685787263627,0
+                -46.356324143878,-23.9684587791258,0
+                -46.3559164556834,-23.9682589090323,0
+                -46.3559156450274,-23.9680710241906,0
+                -46.3562314092289,-23.9680732108006,0
+                -46.3562337383843,-23.9678299725655,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1382</SimpleData>
+            <SimpleData name="Num_Qd">63023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1005</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3506657641267,-23.9690348127891,0
+                -46.3498103881619,-23.9690361946636,0
+                -46.3497777220373,-23.9717176922857,0
+                -46.3497315540468,-23.9719565507187,0
+                -46.3497994508602,-23.9722465662637,0
+                -46.350125376203,-23.9724139303408,0
+                -46.3504174295077,-23.9723560807111,0
+                -46.3506815107932,-23.9720674103385,0
+                -46.3506657641267,-23.9690348127891,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1450</SimpleData>
+            <SimpleData name="Num_Qd">64049</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0443</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3457525936837,-23.9659520299801,0
+                -46.3456196091572,-23.965964009646,0
+                -46.3455992370963,-23.9659851378537,0
+                -46.345610758353,-23.9660323419272,0
+                -46.3456715264892,-23.9660770864617,0
+                -46.3457346255691,-23.9660630169395,0
+                -46.3457760278156,-23.9660133210403,0
+                -46.3457755015375,-23.9659626415437,0
+                -46.3457525936837,-23.9659520299801,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1489</SimpleData>
+            <SimpleData name="Num_Qd">64021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0450</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3462248746821,-23.9632873564992,0
+                -46.3457091807997,-23.9632493539025,0
+                -46.3455659858866,-23.9632610804255,0
+                -46.3455500854891,-23.9632819001299,0
+                -46.3456522560421,-23.9640678483418,0
+                -46.3456872494808,-23.9641281094906,0
+                -46.3457483443614,-23.9641630490221,0
+                -46.3466143159109,-23.9644789305478,0
+                -46.3466379009332,-23.9644614885771,0
+                -46.3470335683723,-23.9635443112342,0
+                -46.3470221878361,-23.9635177707931,0
+                -46.3465520609936,-23.9633574515316,0
+                -46.3463848765975,-23.9637300922996,0
+                -46.3462829012294,-23.9636930465151,0
+                -46.3464396459661,-23.9633298114299,0
+                -46.3462248746821,-23.9632873564992,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1492</SimpleData>
+            <SimpleData name="Num_Qd">64026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0451</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3486846632107,-23.9654455593628,0
+                -46.3457392925705,-23.9643547065387,0
+                -46.3457042183358,-23.9643650383584,0
+                -46.3458483745534,-23.9655943796313,0
+                -46.3458916365884,-23.9657478821473,0
+                -46.3459622583013,-23.9658105671072,0
+                -46.3460575192479,-23.9658327590607,0
+                -46.3483930821015,-23.965851251439,0
+                -46.3486562652906,-23.9658519170158,0
+                -46.3487085093365,-23.9658257494262,0
+                -46.3487239576959,-23.9654980709192,0
+                -46.3486846632107,-23.9654455593628,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1526</SimpleData>
+            <SimpleData name="Num_Qd">64031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0458</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3493609660133,-23.9665014319873,0
+                -46.3493238632479,-23.9665057319687,0
+                -46.3492974473303,-23.9665359461377,0
+                -46.3492455262359,-23.9677976217745,0
+                -46.3502177479758,-23.9679379786417,0
+                -46.3502478158894,-23.9679281413882,0
+                -46.3502827574557,-23.9678955943193,0
+                -46.350573933511,-23.9670080277517,0
+                -46.3505703988375,-23.9669672021215,0
+                -46.3505238895608,-23.9669304438579,0
+                -46.3493609660133,-23.9665014319873,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1527</SimpleData>
+            <SimpleData name="Num_Qd">64033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0455</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3471898295913,-23.9661828669143,0
+                -46.347211106324,-23.9676245123396,0
+                -46.3472381456966,-23.9676352921439,0
+                -46.3476921688744,-23.967615769508,0
+                -46.3478918406607,-23.967623045016,0
+                -46.3484058445637,-23.9676822819868,0
+                -46.3484219416733,-23.9676425862296,0
+                -46.3483992783553,-23.9661728683621,0
+                -46.3483871276943,-23.9661384781646,0
+                -46.3483593894291,-23.9661266210223,0
+                -46.3472356479578,-23.9661188886308,0
+                -46.3472001374498,-23.9661345527168,0
+                -46.3471898295913,-23.9661828669143,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1528</SimpleData>
+            <SimpleData name="Num_Qd">64034</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0626</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3470267716383,-23.9661145828453,0
+                -46.3462885006637,-23.966108364199,0
+                -46.3461805856899,-23.9661476610042,0
+                -46.3459617583792,-23.9663585511185,0
+                -46.3459404872875,-23.9664867923911,0
+                -46.3459478063859,-23.9675321156579,0
+                -46.3459787043289,-23.9676305493788,0
+                -46.3460448207726,-23.9676851462161,0
+                -46.3461009667125,-23.967707049316,0
+                -46.3461801486586,-23.9677138495871,0
+                -46.3470404059937,-23.9676437121253,0
+                -46.3470752963556,-23.9676250734002,0
+                -46.3470852219013,-23.9675872381168,0
+                -46.3470724752674,-23.9661530131146,0
+                -46.3470641979267,-23.9661319541246,0
+                -46.3470267716383,-23.9661145828453,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1615</SimpleData>
+            <SimpleData name="Num_Qd">63024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1005</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3511293816361,-23.9682834345034,0
+                -46.3509486358981,-23.9682050247247,0
+                -46.3499040344101,-23.968059553628,0
+                -46.3499600275926,-23.9681017286221,0
+                -46.3500682294073,-23.9681411581165,0
+                -46.3511293816361,-23.9682834345034,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1670</SimpleData>
+            <SimpleData name="Num_Qd">63021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1005</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3515873314724,-23.9686643850454,0
+                -46.3515020663523,-23.9686510212455,0
+                -46.351491002694,-23.9688034474964,0
+                -46.3514453426922,-23.9688014973964,0
+                -46.3514390143422,-23.9688697776265,0
+                -46.3514872035773,-23.9688734698588,0
+                -46.3515227401964,-23.9689007992786,0
+                -46.3515495336482,-23.968897034246,0
+                -46.3515698353536,-23.968875094039,0
+                -46.3516054534018,-23.9688771326244,0
+                -46.3516099782599,-23.9688200429831,0
+                -46.3515750002125,-23.9688179987564,0
+                -46.3515873314724,-23.9686643850454,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1672</SimpleData>
+            <SimpleData name="Num_Qd">64019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0979</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.349243535738,-23.9643499222416,0
+                -46.3482063127811,-23.9639570909924,0
+                -46.3481691890835,-23.9639593138063,0
+                -46.3477605297654,-23.9648906240366,0
+                -46.3477703784084,-23.9649115788738,0
+                -46.3488271870794,-23.9652877144556,0
+                -46.3488558830954,-23.9652688589183,0
+                -46.349243535738,-23.9643499222416,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1673</SimpleData>
+            <SimpleData name="Num_Qd">64020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0979</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3480527347173,-23.9639213251952,0
+                -46.3480422664816,-23.9638974860131,0
+                -46.3471696193167,-23.9635768004119,0
+                -46.3471450520301,-23.9635863177967,0
+                -46.3467433793223,-23.9645002253562,0
+                -46.3467554740167,-23.9645292881227,0
+                -46.3476203902769,-23.9648525723765,0
+                -46.3476392997778,-23.9648470781152,0
+                -46.3476601103752,-23.9648259441305,0
+                -46.3480527347173,-23.9639213251952,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1700</SimpleData>
+            <SimpleData name="Num_Qd">13015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0465</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3576130416442,-23.9654510461248,0
+                -46.3577643670992,-23.9654083153726,0
+                -46.3578131978169,-23.9653026061531,0
+                -46.3578456911764,-23.9651065712058,0
+                -46.3577888053741,-23.9648300999073,0
+                -46.3578498722654,-23.96464216918,0
+                -46.3578476257104,-23.9645744093738,0
+                -46.3578209727505,-23.964523810607,0
+                -46.3577969147169,-23.964511830866,0
+                -46.3577408427738,-23.9646086569585,0
+                -46.3576934963786,-23.9646472305324,0
+                -46.3575539022885,-23.9646971143747,0
+                -46.3574699423502,-23.9649057786253,0
+                -46.3574397789152,-23.9650987138983,0
+                -46.3573314409554,-23.9652589549705,0
+                -46.3572149124333,-23.9653315269744,0
+                -46.3571113559921,-23.965354378895,0
+                -46.3568374153033,-23.965638104604,0
+                -46.3568215230406,-23.9656278262192,0
+                -46.3566963306236,-23.965722413895,0
+                -46.3568375397577,-23.9658610928685,0
+                -46.356665545593,-23.966027778288,0
+                -46.3566152971774,-23.9661686761251,0
+                -46.3567203481144,-23.9661719272733,0
+                -46.3570140680573,-23.9662547887651,0
+                -46.3571040532617,-23.966038963792,0
+                -46.3571305883193,-23.966056420873,0
+                -46.3572032117361,-23.9659839948654,0
+                -46.3573221611818,-23.9659274731282,0
+                -46.357364276244,-23.9658803324678,0
+                -46.3573851799893,-23.9658420805635,0
+                -46.357386214214,-23.9657148193333,0
+                -46.3574665842773,-23.9655846136427,0
+                -46.3575575821856,-23.96548482981,0
+                -46.3576130416442,-23.9654510461248,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">1783</SimpleData>
+            <SimpleData name="Num_Qd">13014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0471</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3557848390124,-23.965521537346,0
+                -46.3555921384437,-23.9657186379881,0
+                -46.3555915502187,-23.965770353915,0
+                -46.3554555983871,-23.9658262805684,0
+                -46.3549771537989,-23.9661767432342,0
+                -46.3553681278581,-23.966347082168,0
+                -46.3555260631199,-23.9664053062247,0
+                -46.3556278483571,-23.9664197042526,0
+                -46.3556504322786,-23.9663276992864,0
+                -46.3555156104192,-23.9662835123223,0
+                -46.3558101922134,-23.9661150785752,0
+                -46.3559450294339,-23.9660846631847,0
+                -46.3561358409357,-23.9659056594877,0
+                -46.3563425080358,-23.9658510475778,0
+                -46.3566782292768,-23.965689608278,0
+                -46.356936287385,-23.9654871431184,0
+                -46.3570765270171,-23.9653467672871,0
+                -46.3572343673558,-23.9652927579116,0
+                -46.3573133730845,-23.9652368634574,0
+                -46.3574088487401,-23.9651049208191,0
+                -46.3574395891427,-23.9649576844052,0
+                -46.3573914181244,-23.9649456937256,0
+                -46.3572817747574,-23.9650263233502,0
+                -46.3572025632831,-23.9650522379503,0
+                -46.356829314044,-23.9650081122602,0
+                -46.3565190478056,-23.9649883891278,0
+                -46.3565350538486,-23.9647515459189,0
+                -46.3563899342272,-23.964900769284,0
+                -46.3562657516111,-23.9649988475413,0
+                -46.3563439370172,-23.965146944098,0
+                -46.3558340872573,-23.9655466780948,0
+                -46.3557848390124,-23.965521537346,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Jos___Menino.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">2072</SimpleData>
+            <SimpleData name="Num_Qd">63009</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">1004</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3532504993576,-23.9693106278043,0
+                  -46.3532920458811,-23.9693365402165,0
+                  -46.3549927569161,-23.9691811835901,0
+                  -46.355064551336,-23.9691486709953,0
+                  -46.3551178830852,-23.9690892296888,0
+                  -46.355168525797,-23.968838453292,0
+                  -46.3534051745561,-23.9686509299999,0
+                  -46.3533566588937,-23.9686728511302,0
+                  -46.353314642194,-23.9687336368768,0
+                  -46.3532504993576,-23.9693106278043,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3531018486532,-23.969316953294,0
+                  -46.3531860595719,-23.9686476727409,0
+                  -46.3531734356562,-23.9686245753192,0
+                  -46.3519645598345,-23.9684938102602,0
+                  -46.3519076309617,-23.9685100250952,0
+                  -46.3517945035741,-23.9688832719868,0
+                  -46.351793409331,-23.9689616748495,0
+                  -46.351843004907,-23.9690985009222,0
+                  -46.351902093304,-23.9691705983447,0
+                  -46.3519703966323,-23.9692222857313,0
+                  -46.3520794908406,-23.9692612147874,0
+                  -46.3530855521575,-23.9693280240563,0
+                  -46.3531018486532,-23.969316953294,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Jos___Menino.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jos___Menino.schema">
+            <SimpleData name="fid">2074</SimpleData>
+            <SimpleData name="Num_Qd">63013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0469</SimpleData>
+            <SimpleData name="Bairro">Jos? Menino</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.355018110249,-23.9672449757269,0
+                  -46.3548720348069,-23.9672277746432,0
+                  -46.3547752311153,-23.9672717777927,0
+                  -46.354482728042,-23.9673340026923,0
+                  -46.3544378115748,-23.9673791409219,0
+                  -46.3544307813539,-23.967417119511,0
+                  -46.3544486706824,-23.9674749918909,0
+                  -46.3544762437937,-23.9675031675068,0
+                  -46.3549458104853,-23.9677079124446,0
+                  -46.355328155813,-23.9677076152182,0
+                  -46.3553564037541,-23.9676827096421,0
+                  -46.355356016968,-23.9676457292416,0
+                  -46.3552825926555,-23.9675200168733,0
+                  -46.3552614234805,-23.9674200394705,0
+                  -46.355262952602,-23.9673084914156,0
+                  -46.355018110249,-23.9672449757269,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3556404491233,-23.9666137336697,0
+                  -46.3550338583427,-23.9664410961693,0
+                  -46.3548189022332,-23.9664071389148,0
+                  -46.354675248344,-23.9665287773682,0
+                  -46.3549478544585,-23.9667453424605,0
+                  -46.3550129142544,-23.9668369666176,0
+                  -46.355040754257,-23.9669673354454,0
+                  -46.3550341889521,-23.967005809482,0
+                  -46.3549548091523,-23.9671486497938,0
+                  -46.3549647235536,-23.9671639286876,0
+                  -46.3551047590676,-23.9672292801019,0
+                  -46.3552709746075,-23.9672662284075,0
+                  -46.3553210169639,-23.9671210859636,0
+                  -46.3553771684458,-23.9670271109717,0
+                  -46.3554904890201,-23.9669364726408,0
+                  -46.3555483015575,-23.9668680936299,0
+                  -46.3556404491233,-23.9666137336697,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

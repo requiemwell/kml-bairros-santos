@@ -1,0 +1,3654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Macuco.schema">
+      <SimpleField name="fid" type="string"/>
+      <SimpleField name="Num_Qd" type="string"/>
+      <SimpleField name="Total_imoveis" type="string"/>
+      <SimpleField name="Obs" type="string"/>
+      <SimpleField name="Imoveis_Especiais" type="string"/>
+      <SimpleField name="P_Estrategicos" type="string"/>
+      <SimpleField name="Setor_Censitario" type="string"/>
+      <SimpleField name="Bairro" type="string"/>
+    </Schema>
+    <Document id="Macuco">
+      <name>Macuco</name>
+      <Placemark id="Macuco.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">22</SimpleData>
+            <SimpleData name="Num_Qd">57006</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0608</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.31879944349,-23.9569641294386,0
+                -46.3199169873488,-23.9568758647738,0
+                -46.3199382361724,-23.956861381519,0
+                -46.319876940399,-23.9561105676168,0
+                -46.3187554650767,-23.956192188173,0
+                -46.3187338381725,-23.9562107064744,0
+                -46.31879944349,-23.9569641294386,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">25</SimpleData>
+            <SimpleData name="Num_Qd">57014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0748</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3200110234485,-23.957775310904,0
+                -46.3199518706419,-23.9569939401756,0
+                -46.3199292130776,-23.9569787829228,0
+                -46.3193658002539,-23.9570151292458,0
+                -46.3193588859628,-23.9569199451768,0
+                -46.31879944349,-23.9569641294386,0
+                -46.3188113347701,-23.9570959542408,0
+                -46.3187980835828,-23.9570974227805,0
+                -46.3188511397595,-23.9577341744313,0
+                -46.3188665619051,-23.9577335902904,0
+                -46.3188773965736,-23.9578616430837,0
+                -46.3200110234485,-23.957775310904,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">64</SimpleData>
+            <SimpleData name="Num_Qd">57020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0751</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3188855655021,-23.9579581634474,0
+                -46.3190028249466,-23.9591982853171,0
+                -46.3190573341451,-23.9592532651707,0
+                -46.319157694192,-23.9592752497597,0
+                -46.3192434011021,-23.9592382091011,0
+                -46.3200488445292,-23.9586909712734,0
+                -46.3200659071611,-23.9586391687139,0
+                -46.3200174835534,-23.9578642520464,0
+                -46.3188855655021,-23.9579581634474,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">65</SimpleData>
+            <SimpleData name="Num_Qd">57030</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0809</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3170154539479,-23.9607484189937,0
+                -46.3175461940153,-23.9603695370913,0
+                -46.3175666044164,-23.9602892592417,0
+                -46.3175163005372,-23.9602129302254,0
+                -46.3174487153025,-23.9601766654317,0
+                -46.3163861219273,-23.9602443986022,0
+                -46.3163713475678,-23.9602604194856,0
+                -46.3163979984887,-23.9606300892721,0
+                -46.3164169245656,-23.9606842014878,0
+                -46.3164917903539,-23.9607213073147,0
+                -46.3167063305539,-23.9607422230467,0
+                -46.3168660309826,-23.9608110206492,0
+                -46.3169203120142,-23.9608048652186,0
+                -46.3170154539479,-23.9607484189937,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">66</SimpleData>
+            <SimpleData name="Num_Qd">57022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0808</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3175363725673,-23.9600398707533,0
+                -46.3173770647692,-23.9580628053121,0
+                -46.3161883097956,-23.9581571196856,0
+                -46.3163569868023,-23.9601332998087,0
+                -46.3163696550402,-23.9601421315001,0
+                -46.3175231109198,-23.9600556078228,0
+                -46.3175363725673,-23.9600398707533,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">88</SimpleData>
+            <SimpleData name="Num_Qd">47026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3129522062743,-23.9541206622701,0
+                -46.3119028176587,-23.9542110845976,0
+                -46.3121162535015,-23.9564836515046,0
+                -46.3121402930565,-23.9564995205878,0
+                -46.3131769297238,-23.956423370573,0
+                -46.313198149828,-23.9564034115927,0
+                -46.3129946532294,-23.954172935322,0
+                -46.3129858154437,-23.9541347206227,0
+                -46.3129522062743,-23.9541206622701,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">89</SimpleData>
+            <SimpleData name="Num_Qd">57007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.317504242059,-23.9570634781338,0
+                -46.3186248899501,-23.9569739765384,0
+                -46.3185524551205,-23.9562221092268,0
+                -46.3185372259951,-23.9562126675657,0
+                -46.3174189615272,-23.9563010238328,0
+                -46.3174034117496,-23.9563180448432,0
+                -46.3174734439328,-23.9570498353457,0
+                -46.317504242059,-23.9570634781338,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">90</SimpleData>
+            <SimpleData name="Num_Qd">57008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3172816670014,-23.9570635835915,0
+                -46.3172242813087,-23.9563175067842,0
+                -46.3160311593832,-23.9564194993688,0
+                -46.316100600619,-23.9571615908631,0
+                -46.3172602611183,-23.9570748752152,0
+                -46.3172816670014,-23.9570635835915,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">95</SimpleData>
+            <SimpleData name="Num_Qd">47021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0085</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3196432637827,-23.9535424340477,0
+                -46.3185134672566,-23.9536463021532,0
+                -46.3186272723654,-23.9549598737026,0
+                -46.3186481626258,-23.9549752269763,0
+                -46.3197545565187,-23.9548900347183,0
+                -46.3197742261854,-23.9548723458866,0
+                -46.3196630501258,-23.9535555390043,0
+                -46.3196432637827,-23.9535424340477,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">97</SimpleData>
+            <SimpleData name="Num_Qd">47022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0088</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3173124079533,-23.9550791782527,0
+                -46.3184455347159,-23.9549942173631,0
+                -46.3184615304969,-23.9549727673649,0
+                -46.3183460342271,-23.953645339947,0
+                -46.3171911088015,-23.9537404206789,0
+                -46.3171753737766,-23.9537585269401,0
+                -46.3172925059038,-23.9550643581495,0
+                -46.3173124079533,-23.9550791782527,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">98</SimpleData>
+            <SimpleData name="Num_Qd">57001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0085</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3197844251185,-23.9550151241868,0
+                -46.3186577000751,-23.9551013945432,0
+                -46.3186417713474,-23.9551197735375,0
+                -46.3187176307546,-23.9559794786377,0
+                -46.3187379307282,-23.9559947466584,0
+                -46.3198422422007,-23.955906862159,0
+                -46.3198534636487,-23.9558894266193,0
+                -46.3197844251185,-23.9550151241868,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">102</SimpleData>
+            <SimpleData name="Num_Qd">47024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3156506469021,-23.953879979877,0
+                -46.314492071404,-23.953983831501,0
+                -46.3146146271791,-23.9552844716696,0
+                -46.314634138691,-23.9552995663992,0
+                -46.3157460915992,-23.9552095690043,0
+                -46.3157593934631,-23.9551937414337,0
+                -46.3156506469021,-23.953879979877,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">106</SimpleData>
+            <SimpleData name="Num_Qd">57051</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0748</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3200171953156,-23.9578642758738,0
+                -46.3200109433048,-23.9577757704828,0
+                -46.3188773965736,-23.9578616430837,0
+                -46.3188855655021,-23.9579581634474,0
+                -46.3200171953156,-23.9578642758738,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">160</SimpleData>
+            <SimpleData name="Num_Qd">57002</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0090</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3184560462825,-23.9551195638112,0
+                -46.3173222939371,-23.9552107613911,0
+                -46.317305756189,-23.9552272490302,0
+                -46.3173847942567,-23.9560911722335,0
+                -46.3174032722359,-23.9561012182615,0
+                -46.3185520675885,-23.9560100711276,0
+                -46.3184743708363,-23.9551338554732,0
+                -46.3184560462825,-23.9551195638112,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">161</SimpleData>
+            <SimpleData name="Num_Qd">57012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0745</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3132113188744,-23.9566363821977,0
+                -46.3121485601051,-23.9567143814923,0
+                -46.3121292374762,-23.9567290909209,0
+                -46.3122218278575,-23.9576328130958,0
+                -46.3132931018654,-23.9575410134131,0
+                -46.3133091134547,-23.9575210087018,0
+                -46.3132307705988,-23.9566552705241,0
+                -46.3132113188744,-23.9566363821977,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">162</SimpleData>
+            <SimpleData name="Num_Qd">57018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0745</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3133121912356,-23.9576696282722,0
+                -46.3122507956406,-23.9577569185505,0
+                -46.3122346600039,-23.9577743956116,0
+                -46.312316009092,-23.9586464301846,0
+                -46.3123348613909,-23.9586643303616,0
+                -46.3134104653912,-23.9585723119113,0
+                -46.313323005817,-23.9576798307159,0
+                -46.3133121912356,-23.9576696282722,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">173</SimpleData>
+            <SimpleData name="Num_Qd">47023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0090</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.316993263929,-23.953765779836,0
+                -46.3158145889574,-23.9538641245917,0
+                -46.3159315454931,-23.9551927162564,0
+                -46.3170939564596,-23.9550979415176,0
+                -46.3171089303549,-23.9550822800941,0
+                -46.316993263929,-23.953765779836,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">174</SimpleData>
+            <SimpleData name="Num_Qd">57004</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3157721280725,-23.9553350534832,0
+                -46.3146239197019,-23.9554256327403,0
+                -46.3147105579708,-23.9563043031953,0
+                -46.3147269915892,-23.9563162635286,0
+                -46.3158551968877,-23.9562291961984,0
+                -46.3157721280725,-23.9553350534832,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">231</SimpleData>
+            <SimpleData name="Num_Qd">56019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0748</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3201855387616,-23.9577664351501,0
+                -46.321364363414,-23.9576744880961,0
+                -46.321292069745,-23.9568905591311,0
+                -46.3212435948511,-23.9568780627597,0
+                -46.3208129916667,-23.9569170813438,0
+                -46.3208495402294,-23.9573697474661,0
+                -46.320875302877,-23.9573906574961,0
+                -46.3209264206302,-23.957392474971,0
+                -46.320932095546,-23.9574768633134,0
+                -46.3201822187085,-23.9575449087818,0
+                -46.3201703873896,-23.9575603628362,0
+                -46.3201855387616,-23.9577664351501,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">362</SimpleData>
+            <SimpleData name="Num_Qd">56015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0085</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3211159590439,-23.9549260135389,0
+                -46.3210860780097,-23.9549111741967,0
+                -46.3199594011894,-23.955001969022,0
+                -46.3200358653959,-23.9558816258672,0
+                -46.3200661436913,-23.9558924730915,0
+                -46.3211873643977,-23.9558013100405,0
+                -46.32119731021,-23.955787913207,0
+                -46.3211159590439,-23.9549260135389,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">383</SimpleData>
+            <SimpleData name="Num_Qd">56018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0747</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.321211521705,-23.956016086029,0
+                -46.3211947734666,-23.9560022326702,0
+                -46.3200652249616,-23.9560917890268,0
+                -46.3200496571822,-23.956107004304,0
+                -46.3201128719255,-23.9568433671264,0
+                -46.3201386250356,-23.9568537114287,0
+                -46.3212574753065,-23.9567656839792,0
+                -46.3212803506372,-23.9567456603326,0
+                -46.321211521705,-23.956016086029,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">405</SimpleData>
+            <SimpleData name="Num_Qd">57026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0802</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3123326283034,-23.9588260071389,0
+                -46.3124746216551,-23.960258323799,0
+                -46.3124931373798,-23.9602720726858,0
+                -46.3135451982588,-23.9601828732224,0
+                -46.3135677134708,-23.9601452028522,0
+                -46.3135591690621,-23.9600085860536,0
+                -46.3134245393968,-23.9587199342206,0
+                -46.313405830033,-23.9587064580197,0
+                -46.3123451637167,-23.9587889567008,0
+                -46.3123326283034,-23.9588260071389,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">449</SimpleData>
+            <SimpleData name="Num_Qd">58007</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0803</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3101650033116,-23.9589579566465,0
+                -46.3102986986334,-23.9604017332201,0
+                -46.3103145933541,-23.9604284187284,0
+                -46.3103425402022,-23.9604419066947,0
+                -46.3103961765779,-23.9604400035282,0
+                -46.3111826265107,-23.9603712410807,0
+                -46.3110563169164,-23.9588910989094,0
+                -46.3101650033116,-23.9589579566465,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">450</SimpleData>
+            <SimpleData name="Num_Qd">57027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0803</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3121875466022,-23.9587905240956,0
+                -46.3112159336341,-23.9588748877094,0
+                -46.3113429449759,-23.9603654453889,0
+                -46.3123208878966,-23.9602835707192,0
+                -46.3123341032428,-23.9602667067739,0
+                -46.3121875466022,-23.9587905240956,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">451</SimpleData>
+            <SimpleData name="Num_Qd">57037</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0749</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3133431262254,-23.9619744045694,0
+                -46.312648810665,-23.9620395903372,0
+                -46.3127841232573,-23.9633584542553,0
+                -46.3128249038706,-23.9634425786385,0
+                -46.3128896670112,-23.9634775373261,0
+                -46.3129973311972,-23.9634511807631,0
+                -46.3137456921314,-23.9629485332123,0
+                -46.3138108996309,-23.962895596379,0
+                -46.3138348303034,-23.9628327181075,0
+                -46.3136374711748,-23.9608226327958,0
+                -46.3136033152366,-23.9605261754749,0
+                -46.3135825872771,-23.9605074787723,0
+                -46.3125291193204,-23.9605841379003,0
+                -46.3125086552951,-23.9606012004995,0
+                -46.312567418924,-23.961280350695,0
+                -46.3126478110158,-23.9619020608261,0
+                -46.3132999835375,-23.9618481631549,0
+                -46.3133153606594,-23.9618624806486,0
+                -46.3133431262254,-23.9619744045694,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">455</SimpleData>
+            <SimpleData name="Num_Qd">56020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0748</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3207471440983,-23.9573696358105,0
+                -46.3207059872553,-23.9569372381401,0
+                -46.32066261265,-23.9569237945969,0
+                -46.3201459379848,-23.9569639135876,0
+                -46.3201363160951,-23.956974381727,0
+                -46.3201246593912,-23.9569973297726,0
+                -46.3201582575076,-23.957420224972,0
+                -46.320183746622,-23.9574291781253,0
+                -46.3201854110412,-23.9574526047188,0
+                -46.3207032578837,-23.9574120968383,0
+                -46.3207359971665,-23.9573943856532,0
+                -46.3207471440983,-23.9573696358105,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.27">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">456</SimpleData>
+            <SimpleData name="Num_Qd">56021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0751</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3213736705561,-23.957748914202,0
+                -46.3201898959219,-23.9578406069477,0
+                -46.3202263890847,-23.9583216219904,0
+                -46.3202495531672,-23.9583758610077,0
+                -46.3202876595682,-23.9584132982333,0
+                -46.3203585803271,-23.9584367855292,0
+                -46.3204597385344,-23.9584151395684,0
+                -46.3213190110644,-23.9578349730895,0
+                -46.3213646863663,-23.9577869547195,0
+                -46.3213736705561,-23.957748914202,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.28">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">490</SimpleData>
+            <SimpleData name="Num_Qd">47025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3131541455315,-23.9540774586892,0
+                -46.3132777562719,-23.95539004787,0
+                -46.3133042840007,-23.9554046361269,0
+                -46.3144371624243,-23.9553158869674,0
+                -46.3144491744403,-23.9552938161048,0
+                -46.314315634574,-23.9539898612007,0
+                -46.3131541455315,-23.9540774586892,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.29">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">499</SimpleData>
+            <SimpleData name="Num_Qd">57036</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0812</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3141794920066,-23.9626506856928,0
+                -46.3150480635011,-23.9620641901504,0
+                -46.3150740823664,-23.9620134852814,0
+                -46.3149228007054,-23.960420587907,0
+                -46.3148866345104,-23.9604009400559,0
+                -46.3137839437448,-23.960488144172,0
+                -46.31377472351,-23.9605189276408,0
+                -46.3139721521084,-23.9625260320565,0
+                -46.3139912129859,-23.9625935089098,0
+                -46.3140933247725,-23.9626620803036,0
+                -46.3141794920066,-23.9626506856928,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.30">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">500</SimpleData>
+            <SimpleData name="Num_Qd">57011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0745</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3133915183228,-23.9566341169189,0
+                -46.3137385009051,-23.96012522706,0
+                -46.3137522683854,-23.9601552717804,0
+                -46.3139300509231,-23.960156458078,0
+                -46.3148390890435,-23.9600829241279,0
+                -46.3148766913688,-23.960069778133,0
+                -46.314888866481,-23.9600396917327,0
+                -46.3147128856544,-23.9581715680021,0
+                -46.3145563728023,-23.9565462033893,0
+                -46.3145378363671,-23.9565303778434,0
+                -46.3134097427121,-23.9566191504655,0
+                -46.3133915183228,-23.9566341169189,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.31">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">572</SimpleData>
+            <SimpleData name="Num_Qd">47010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0087</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3193745619902,-23.9505916612558,0
+                -46.3182977882846,-23.9506763379269,0
+                -46.3182677267648,-23.950748304754,0
+                -46.3183710702448,-23.9520016743843,0
+                -46.3184051873678,-23.9520138774455,0
+                -46.3194921072934,-23.9519295552876,0
+                -46.3195071485447,-23.951904433418,0
+                -46.3193745619902,-23.9505916612558,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.32">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">576</SimpleData>
+            <SimpleData name="Num_Qd">47020</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3129780589287,-23.9539606743193,0
+                -46.3128500752405,-23.9526170921218,0
+                -46.3128280133496,-23.9526023801931,0
+                -46.3117661229272,-23.9526949980982,0
+                -46.3118869387282,-23.954049931308,0
+                -46.3119056572961,-23.9540644010344,0
+                -46.3121704077986,-23.9540375730574,0
+                -46.3121563601528,-23.9537563855579,0
+                -46.3122117422255,-23.9537524801559,0
+                -46.3122523828956,-23.9540300084846,0
+                -46.3126160596458,-23.9540005273288,0
+                -46.3126270360666,-23.9539782177824,0
+                -46.3126040255269,-23.9537047831786,0
+                -46.3126516544198,-23.953701847032,0
+                -46.3126877474047,-23.9539862774917,0
+                -46.3127110393283,-23.9539962829191,0
+                -46.3129472625374,-23.9539761998524,0
+                -46.3129780589287,-23.9539606743193,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.33">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">577</SimpleData>
+            <SimpleData name="Num_Qd">47018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0089</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3143506867057,-23.9524927133465,0
+                -46.3144761822788,-23.953841372302,0
+                -46.3156188460642,-23.9537480426472,0
+                -46.3156374252573,-23.9537293703022,0
+                -46.3155187643252,-23.9523872465308,0
+                -46.3143665467931,-23.9524772252075,0
+                -46.3143506867057,-23.9524927133465,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.34">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">578</SimpleData>
+            <SimpleData name="Num_Qd">47017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0089</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3156858500801,-23.9523908708795,0
+                -46.3158005966498,-23.9537150568725,0
+                -46.3158214689774,-23.9537286948674,0
+                -46.3169727493426,-23.9536325720441,0
+                -46.3169892658485,-23.9536140075575,0
+                -46.3168648974096,-23.9523014647944,0
+                -46.3168467662829,-23.9522868100247,0
+                -46.3157042380645,-23.9523727420144,0
+                -46.3156858500801,-23.9523908708795,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.35">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">579</SimpleData>
+            <SimpleData name="Num_Qd">47016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0088</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3181987601219,-23.9521784797969,0
+                -46.317054978044,-23.9522665096485,0
+                -46.3170421803616,-23.9523125859494,0
+                -46.3171612515164,-23.9535968174895,0
+                -46.317182050467,-23.9536128942223,0
+                -46.3183100571332,-23.9535184964651,0
+                -46.3183313640896,-23.9535072055634,0
+                -46.3182192623555,-23.95219437833,0
+                -46.3181987601219,-23.9521784797969,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.36">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">583</SimpleData>
+            <SimpleData name="Num_Qd">47015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0086</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.319510639038,-23.9520584718727,0
+                -46.3194569357301,-23.9520630879033,0
+                -46.319457638321,-23.9520838525339,0
+                -46.3184036747895,-23.9521625406799,0
+                -46.3183883276334,-23.9521801018796,0
+                -46.3185011509964,-23.9534864206051,0
+                -46.3185200556708,-23.9534998042135,0
+                -46.3196309761652,-23.9534068079434,0
+                -46.3196473875596,-23.9533876119372,0
+                -46.3195232431813,-23.9520733463372,0
+                -46.319510639038,-23.9520584718727,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.37">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">584</SimpleData>
+            <SimpleData name="Num_Qd">46058</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0086</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3208143832353,-23.9519697691302,0
+                -46.3197147499064,-23.9520601478436,0
+                -46.3196998997356,-23.9520782467367,0
+                -46.3198237241834,-23.9533731809962,0
+                -46.3198432396446,-23.9533886362491,0
+                -46.3209358508477,-23.9532927176511,0
+                -46.3209520949514,-23.9532764127837,0
+                -46.3208339904053,-23.9519845913225,0
+                -46.3208143832353,-23.9519697691302,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.38">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">616</SimpleData>
+            <SimpleData name="Num_Qd">57055</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3138429810336,-23.955492016606,0
+                -46.3137448615648,-23.955496830489,0
+                -46.3138282754795,-23.956384686434,0
+                -46.3139226908107,-23.9563759848547,0
+                -46.3138429810336,-23.955492016606,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.39">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">703</SimpleData>
+            <SimpleData name="Num_Qd">57054</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3148886617176,-23.9581524440756,0
+                -46.3149022376486,-23.958228655792,0
+                -46.3150266671936,-23.9582322234709,0
+                -46.3160211766607,-23.9581778142168,0
+                -46.3160137059424,-23.9580885964483,0
+                -46.3153539988171,-23.9581454023666,0
+                -46.3149810851028,-23.9581634341504,0
+                -46.3148886617176,-23.9581524440756,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.40">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">728</SimpleData>
+            <SimpleData name="Num_Qd">47012</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3167208082765,-23.9508590052697,0
+                -46.3166693851632,-23.9508268706323,0
+                -46.316596467501,-23.9508206731256,0
+                -46.3156044892672,-23.9508985012747,0
+                -46.3155683440298,-23.9509187072414,0
+                -46.315667605073,-23.9522002694662,0
+                -46.3156849882787,-23.9522117617652,0
+                -46.3168286816869,-23.9521276844777,0
+                -46.3168434988643,-23.9521111637383,0
+                -46.3167208082765,-23.9508590052697,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.41">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">785</SimpleData>
+            <SimpleData name="Num_Qd">57031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0746</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3162442892395,-23.9607641601577,0
+                -46.316203654614,-23.9602657418755,0
+                -46.3161714195001,-23.9602558137823,0
+                -46.3156474113384,-23.9602913753436,0
+                -46.3156050545032,-23.9603201854694,0
+                -46.3156057092439,-23.9603653334923,0
+                -46.3161877055078,-23.9607951696065,0
+                -46.3162187480184,-23.9607940904402,0
+                -46.3162442892395,-23.9607641601577,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.42">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">786</SimpleData>
+            <SimpleData name="Num_Qd">57023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0808</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3149018213705,-23.9582989524529,0
+                -46.3149568978517,-23.9588702610485,0
+                -46.3149750416428,-23.9588860898919,0
+                -46.316080204004,-23.9588211623725,0
+                -46.3160211766607,-23.9581778142168,0
+                -46.3155463515378,-23.9582123930304,0
+                -46.3155519889701,-23.9582745716362,0
+                -46.314915758849,-23.9582827763302,0
+                -46.3149018213705,-23.9582989524529,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.43">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">787</SimpleData>
+            <SimpleData name="Num_Qd">57035</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0812</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3159027900499,-23.9609955679277,0
+                -46.3151911100084,-23.9604624476269,0
+                -46.3151485849177,-23.9604553167735,0
+                -46.3151174281549,-23.9604741872357,0
+                -46.3152300984915,-23.9617191003082,0
+                -46.3152595942697,-23.9617786307717,0
+                -46.3153185491748,-23.9618165960649,0
+                -46.3153999132385,-23.9618258320394,0
+                -46.315943883817,-23.9614521700777,0
+                -46.3159568727367,-23.9614054600836,0
+                -46.3159409980517,-23.9612163122781,0
+                -46.3159594913725,-23.961072926285,0
+                -46.3159027900499,-23.9609955679277,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.44">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">788</SimpleData>
+            <SimpleData name="Num_Qd">68060</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3027558942944,-23.9655389235486,0
+                -46.3025558994609,-23.9657827369241,0
+                -46.3025611168124,-23.9658129456319,0
+                -46.3028199537152,-23.9660066238716,0
+                -46.3028565505685,-23.9660104670949,0
+                -46.3028847123913,-23.9659964107779,0
+                -46.3028898347099,-23.9659682816175,0
+                -46.3028540212083,-23.9655340260679,0
+                -46.3028393773021,-23.9655143731306,0
+                -46.302804588641,-23.9655046445469,0
+                -46.3027558942944,-23.9655389235486,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.45">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">789</SimpleData>
+            <SimpleData name="Num_Qd">68050</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3080005896894,-23.9653723638403,0
+                -46.3077551103958,-23.9653927898519,0
+                -46.3078150520929,-23.9659668143992,0
+                -46.3078403756009,-23.9659637085913,0
+                -46.3080387363509,-23.9658316128443,0
+                -46.3080005896894,-23.9653723638403,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.46">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">807</SimpleData>
+            <SimpleData name="Num_Qd">57024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0745</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3160877797287,-23.9589478887939,0
+                -46.3149788070317,-23.9590151067547,0
+                -46.3150156179693,-23.9594761711781,0
+                -46.315036105463,-23.9594905349987,0
+                -46.3161116063769,-23.9594266741522,0
+                -46.3161293129211,-23.9594090929099,0
+                -46.3160877797287,-23.9589478887939,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.47">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">808</SimpleData>
+            <SimpleData name="Num_Qd">57025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0746</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3161465306689,-23.9595659895145,0
+                -46.3161338019968,-23.9595511980398,0
+                -46.3150463195507,-23.9596158842651,0
+                -46.3150256796502,-23.9596349354546,0
+                -46.3150668352488,-23.9600398817378,0
+                -46.3150893860868,-23.9600638907359,0
+                -46.3153616052618,-23.9601715506699,0
+                -46.3154656012007,-23.960193506493,0
+                -46.3161779791189,-23.9601469372358,0
+                -46.316191893893,-23.9601333620433,0
+                -46.3161465306689,-23.9595659895145,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.48">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">849</SimpleData>
+            <SimpleData name="Num_Qd">57003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0090</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3171010745,-23.9552279229122,0
+                -46.3159523394566,-23.9553244768773,0
+                -46.3160119802389,-23.9561080133757,0
+                -46.3160327035878,-23.9561069325094,0
+                -46.3160384588207,-23.9561898755544,0
+                -46.3162125536633,-23.9561768224743,0
+                -46.3162155001517,-23.9561960326485,0
+                -46.3171859752134,-23.9561177141183,0
+                -46.3171980795356,-23.9561000905647,0
+                -46.3171254348407,-23.9552463170515,0
+                -46.3171010745,-23.9552279229122,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.49">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">865</SimpleData>
+            <SimpleData name="Num_Qd">47011</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3170445705396,-23.9521145494064,0
+                -46.3181932909457,-23.9520199830213,0
+                -46.3181995259855,-23.9519987279913,0
+                -46.3180798609447,-23.9507072655685,0
+                -46.3180563779112,-23.9506966977987,0
+                -46.3169100304069,-23.9507892475414,0
+                -46.3168923786737,-23.9508107384237,0
+                -46.3170214153748,-23.9520979835373,0
+                -46.3170445705396,-23.9521145494064,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.50">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">992</SimpleData>
+            <SimpleData name="Num_Qd">46042</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0087</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3195648296205,-23.950577091268,0
+                -46.319555655259,-23.9505983416009,0
+                -46.3196782864937,-23.9518862219472,0
+                -46.319701400767,-23.9519143166257,0
+                -46.3207948069496,-23.9518320481268,0
+                -46.3208127392682,-23.9518126398461,0
+                -46.3206863147415,-23.9505008974019,0
+                -46.3206668445185,-23.9504842634754,0
+                -46.3195648296205,-23.950577091268,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.51">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1068</SimpleData>
+            <SimpleData name="Num_Qd">58001</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0068</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3109495869522,-23.9577239750669,0
+                -46.3108860959274,-23.9568452979538,0
+                -46.3108550438334,-23.9568208285363,0
+                -46.3099792355446,-23.9568923156758,0
+                -46.3100529943841,-23.9577927734565,0
+                -46.3109495869522,-23.9577239750669,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.52">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1069</SimpleData>
+            <SimpleData name="Num_Qd">58003</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0068</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.310065512991,-23.9579327333776,0
+                -46.3101511075685,-23.9588356750616,0
+                -46.3110432545161,-23.9587629341034,0
+                -46.3109662526035,-23.9578657958941,0
+                -46.3109482085998,-23.9578500560059,0
+                -46.3106038974705,-23.9578716016692,0
+                -46.310672533073,-23.9585661114292,0
+                -46.310638664261,-23.9585694712894,0
+                -46.3105745834799,-23.957878354273,0
+                -46.3100802760485,-23.9579155391803,0
+                -46.310065512991,-23.9579327333776,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.53">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1072</SimpleData>
+            <SimpleData name="Num_Qd">58013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0075</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3105362380461,-23.9648163665722,0
+                -46.3101670597395,-23.9607852193374,0
+                -46.3101498316179,-23.9607724525464,0
+                -46.3092253193525,-23.9608520512765,0
+                -46.3092009407553,-23.9608707723989,0
+                -46.3091981809926,-23.960899152489,0
+                -46.3095753913864,-23.9649695181625,0
+                -46.3096245646143,-23.9654638332501,0
+                -46.3096393276188,-23.9655238822189,0
+                -46.3096914845423,-23.965574238215,0
+                -46.3097607372958,-23.965591495895,0
+                -46.3098257651221,-23.9655799563843,0
+                -46.3102984649448,-23.9652586467222,0
+                -46.3103909110598,-23.9650515948032,0
+                -46.3105362380461,-23.9648163665722,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.54">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1073</SimpleData>
+            <SimpleData name="Num_Qd">58014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.30760491088,-23.9610933594053,0
+                -46.30655395463,-23.9611764584052,0
+                -46.3063879028157,-23.9612278129335,0
+                -46.3062979916872,-23.9612772544921,0
+                -46.3061489773339,-23.961400529038,0
+                -46.305744087118,-23.9618967847127,0
+                -46.3057054558755,-23.9619640314642,0
+                -46.3056916533101,-23.9620474124883,0
+                -46.3057685945716,-23.9628858043584,0
+                -46.3058327653992,-23.9629247223536,0
+                -46.3058418864496,-23.9631082398102,0
+                -46.3057886609834,-23.9631120343789,0
+                -46.3058112959896,-23.9633493503381,0
+                -46.3058615627072,-23.963344497262,0
+                -46.3058714245256,-23.9634649737761,0
+                -46.3058173026317,-23.9635358744514,0
+                -46.30584586916,-23.9637766618747,0
+                -46.3058808476938,-23.9638052624229,0
+                -46.3059161765462,-23.963800355906,0
+                -46.3059315176528,-23.9637818928518,0
+                -46.30762401069,-23.9615157451789,0
+                -46.3076371017056,-23.9614593720176,0
+                -46.3076185196381,-23.9612734067697,0
+                -46.3075889302968,-23.9612334722202,0
+                -46.3075050456104,-23.9612080885112,0
+                -46.3074985969857,-23.9611533268542,0
+                -46.3075998008903,-23.961142078695,0
+                -46.3076136720702,-23.9611240795549,0
+                -46.30760491088,-23.9610933594053,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.55">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1086</SimpleData>
+            <SimpleData name="Num_Qd">46064</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0085</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3198453940951,-23.9536175908437,0
+                -46.3199486795262,-23.954856124792,0
+                -46.3199657286906,-23.9548706078603,0
+                -46.3210762370167,-23.9547843773246,0
+                -46.3210927659305,-23.9547670766073,0
+                -46.3209674552127,-23.9534434391915,0
+                -46.3209486448865,-23.9534296938525,0
+                -46.3198489975323,-23.9535198934534,0
+                -46.3198453940951,-23.9536175908437,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.56">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1097</SimpleData>
+            <SimpleData name="Num_Qd">58029</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3061133938027,-23.9641139214173,0
+                -46.305872820764,-23.9641302570676,0
+                -46.3059642065953,-23.9651144623935,0
+                -46.306204099618,-23.9650936716008,0
+                -46.3061133938027,-23.9641139214173,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.57">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1098</SimpleData>
+            <SimpleData name="Num_Qd">58018</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3066582739831,-23.9630555498687,0
+                -46.3067167619029,-23.9636789363372,0
+                -46.306745969269,-23.9636906983615,0
+                -46.3069517704301,-23.9636729602131,0
+                -46.306871704721,-23.9627714594139,0
+                -46.3066582739831,-23.9630555498687,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.58">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1099</SimpleData>
+            <SimpleData name="Num_Qd">58019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3064266271395,-23.9637341477461,0
+                -46.3066674323938,-23.9637125870283,0
+                -46.306622058,-23.9631364244858,0
+                -46.306608851904,-23.9631203804614,0
+                -46.3063973501994,-23.9634189336281,0
+                -46.3064266271395,-23.9637341477461,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.59">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1117</SimpleData>
+            <SimpleData name="Num_Qd">47019</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3141736409787,-23.9525162749522,0
+                -46.3141411566604,-23.9524923098849,0
+                -46.3135879778373,-23.952532484226,0
+                -46.313625221475,-23.9529812464787,0
+                -46.3136910666688,-23.9529767886949,0
+                -46.3137768601536,-23.9538988498014,0
+                -46.3142688691742,-23.9538582703998,0
+                -46.3142978770498,-23.9538283911409,0
+                -46.3141736409787,-23.9525162749522,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.60">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1118</SimpleData>
+            <SimpleData name="Num_Qd">47014</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0066</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.313576250371,-23.9523647836943,0
+                -46.3141328139773,-23.9523252437182,0
+                -46.3141493340669,-23.9523125837622,0
+                -46.3140849770961,-23.9516371390201,0
+                -46.3140429837979,-23.9516750540444,0
+                -46.3139495083602,-23.9517106281159,0
+                -46.3135255949922,-23.9518463973578,0
+                -46.313576250371,-23.9523647836943,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.61">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1197</SimpleData>
+            <SimpleData name="Num_Qd">58015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3076026862258,-23.9636436863186,0
+                -46.3078396817041,-23.9636265383703,0
+                -46.3076719550723,-23.9617925031995,0
+                -46.3076589255026,-23.9617827119007,0
+                -46.307449101412,-23.9620529402055,0
+                -46.3075888310169,-23.9636330976552,0
+                -46.3076026862258,-23.9636436863186,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.62">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1198</SimpleData>
+            <SimpleData name="Num_Qd">58016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3074024143575,-23.9621203463378,0
+                -46.307186794751,-23.9624069570445,0
+                -46.3073012347305,-23.9636674835971,0
+                -46.3075428189517,-23.9636472416694,0
+                -46.3074024143575,-23.9621203463378,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.63">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1199</SimpleData>
+            <SimpleData name="Num_Qd">58017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3069258052309,-23.9627285951262,0
+                -46.307009265908,-23.9636908522873,0
+                -46.3072547324678,-23.963671642332,0
+                -46.3071386161837,-23.9624387696719,0
+                -46.3069258052309,-23.9627285951262,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.64">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1228</SimpleData>
+            <SimpleData name="Num_Qd">58021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3069695534155,-23.9639671352199,0
+                -46.3078610564445,-23.9638936862425,0
+                -46.3078439273071,-23.9636959687447,0
+                -46.3078272867635,-23.9636830160765,0
+                -46.3069343144694,-23.9637510674695,0
+                -46.3069695534155,-23.9639671352199,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.65">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1229</SimpleData>
+            <SimpleData name="Num_Qd">58022</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.306918475483,-23.9637511086925,0
+                -46.3067918955794,-23.9637620123998,0
+                -46.3068176939815,-23.9639665994799,0
+                -46.3069391463166,-23.9639555403676,0
+                -46.306918475483,-23.9637511086925,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.66">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1230</SimpleData>
+            <SimpleData name="Num_Qd">58023</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3059221752381,-23.9640344324689,0
+                -46.3059335629932,-23.9640531590862,0
+                -46.3066644818239,-23.9639933149773,0
+                -46.3066636680521,-23.9639788598607,0
+                -46.3068006509678,-23.9639695594311,0
+                -46.3067752243546,-23.9637656751924,0
+                -46.3060866104981,-23.9638194147797,0
+                -46.3059221752381,-23.9640344324689,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.67">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1231</SimpleData>
+            <SimpleData name="Num_Qd">58024</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3077163864529,-23.9649775258022,0
+                -46.3079583442197,-23.9649594847277,0
+                -46.3078734163108,-23.9639791019682,0
+                -46.3076273665302,-23.9639966810078,0
+                -46.3077163864529,-23.9649775258022,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.68">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1232</SimpleData>
+            <SimpleData name="Num_Qd">58025</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3073428022367,-23.9640182783827,0
+                -46.3074348333001,-23.9649995247906,0
+                -46.3076724719874,-23.9649805018929,0
+                -46.3075835801967,-23.9640001731821,0
+                -46.3073428022367,-23.9640182783827,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.69">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1233</SimpleData>
+            <SimpleData name="Num_Qd">58026</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3073049302908,-23.9640188272783,0
+                -46.3070535610865,-23.9640391398442,0
+                -46.3071497103844,-23.9650209888154,0
+                -46.3073929783842,-23.9650039434111,0
+                -46.3073049302908,-23.9640188272783,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.70">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1234</SimpleData>
+            <SimpleData name="Num_Qd">58028</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3064890794061,-23.9650741037135,0
+                -46.306394394544,-23.9640906216585,0
+                -46.3061593249735,-23.9641090532841,0
+                -46.3062473242599,-23.9650908841703,0
+                -46.3064890794061,-23.9650741037135,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.71">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1269</SimpleData>
+            <SimpleData name="Num_Qd">58031</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3045812646186,-23.9646214520503,0
+                -46.3045751484814,-23.9645523994901,0
+                -46.3045538557191,-23.9645291242964,0
+                -46.3043212752338,-23.9645429412654,0
+                -46.3043328061311,-23.9646443274597,0
+                -46.3045812646186,-23.9646214520503,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.72">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1310</SimpleData>
+            <SimpleData name="Num_Qd">68046</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0804</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3075754601308,-23.9671065502325,0
+                -46.3085051368724,-23.9664827236014,0
+                -46.3085300020426,-23.9664439501715,0
+                -46.3085263366929,-23.9663826627355,0
+                -46.3081585586896,-23.9659120480071,0
+                -46.3081281297495,-23.9659058957567,0
+                -46.307112133047,-23.9665943032151,0
+                -46.3071146819992,-23.9666326621393,0
+                -46.3074840831047,-23.9670945688366,0
+                -46.3075294223704,-23.9671107989489,0
+                -46.3075754601308,-23.9671065502325,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.73">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1311</SimpleData>
+            <SimpleData name="Num_Qd">68047</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3069568694226,-23.9667014679232,0
+                -46.3061865838046,-23.9672188992427,0
+                -46.3061902052215,-23.9672466830836,0
+                -46.3065855426711,-23.967731516943,0
+                -46.3066630638563,-23.967719929181,0
+                -46.3072785595285,-23.9673101059391,0
+                -46.3073294484782,-23.9672498885892,0
+                -46.3073339739696,-23.9671529501631,0
+                -46.3069964015858,-23.9667246098849,0
+                -46.3069568694226,-23.9667014679232,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.74">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1312</SimpleData>
+            <SimpleData name="Num_Qd">68048</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.307965573531,-23.9650966830605,0
+                -46.3070686839696,-23.9651618160163,0
+                -46.3070589224583,-23.9651804622777,0
+                -46.3070797150818,-23.9653776074139,0
+                -46.3071031835079,-23.9653854340376,0
+                -46.3079844713365,-23.9653138015049,0
+                -46.307965573531,-23.9650966830605,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.75">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1313</SimpleData>
+            <SimpleData name="Num_Qd">68049</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3068856451344,-23.9651750656174,0
+                -46.3059825941994,-23.9652520246764,0
+                -46.3059923645462,-23.9654511597185,0
+                -46.3060106483841,-23.9654711425682,0
+                -46.3068762807579,-23.9654061518418,0
+                -46.3069031107992,-23.9653867780148,0
+                -46.3068856451344,-23.9651750656174,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.76">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1314</SimpleData>
+            <SimpleData name="Num_Qd">68051</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3077627178148,-23.9660103373507,0
+                -46.3077018959294,-23.9653977590184,0
+                -46.3074621850445,-23.9654152455355,0
+                -46.3075298087995,-23.9661566346798,0
+                -46.3075580057647,-23.966155852409,0
+                -46.307746350475,-23.9660342277794,0
+                -46.3077627178148,-23.9660103373507,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.77">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1315</SimpleData>
+            <SimpleData name="Num_Qd">68052</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.307406616729,-23.965420686206,0
+                -46.3071709291707,-23.9654375961237,0
+                -46.307253057042,-23.9663115234025,0
+                -46.3072733220091,-23.9663330244254,0
+                -46.3073115429935,-23.9663224938508,0
+                -46.3074828581675,-23.9662077877661,0
+                -46.307406616729,-23.965420686206,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.78">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1316</SimpleData>
+            <SimpleData name="Num_Qd">68053</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3068808606771,-23.9654885986862,0
+                -46.3069757335718,-23.9665072354711,0
+                -46.306991885574,-23.9665281465067,0
+                -46.3072060856079,-23.9663898591181,0
+                -46.3071216989173,-23.9654827166008,0
+                -46.3070849231148,-23.9654554876307,0
+                -46.3069033461578,-23.965470207252,0
+                -46.3068808606771,-23.9654885986862,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.79">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1317</SimpleData>
+            <SimpleData name="Num_Qd">68054</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0805</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3065866655492,-23.9654840264147,0
+                -46.306698928745,-23.9666959889704,0
+                -46.3067196313698,-23.9667219114011,0
+                -46.3069300820837,-23.9665800511057,0
+                -46.3068263740177,-23.9654662703593,0
+                -46.3065866655492,-23.9654840264147,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.80">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1318</SimpleData>
+            <SimpleData name="Num_Qd">68055</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.306538813711,-23.965487843243,0
+                -46.3063072794314,-23.9655042874716,0
+                -46.3064201577146,-23.9668750055412,0
+                -46.3064413862433,-23.9669043552118,0
+                -46.3066353188552,-23.9667811490536,0
+                -46.3066502061946,-23.9667512257509,0
+                -46.306538813711,-23.965487843243,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.81">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1319</SimpleData>
+            <SimpleData name="Num_Qd">68056</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3059990530756,-23.9655297605495,0
+                -46.3061313297399,-23.9669923370041,0
+                -46.3061616807048,-23.9670297366815,0
+                -46.3062609841041,-23.9670342189334,0
+                -46.3063595110806,-23.9669714287005,0
+                -46.3063750552916,-23.9669340896152,0
+                -46.3062446340449,-23.9655096073935,0
+                -46.3059990530756,-23.9655297605495,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.82">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1351</SimpleData>
+            <SimpleData name="Num_Qd">68078</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0073</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3079364794609,-23.9610275503371,0
+                -46.3077861621521,-23.9610359461128,0
+                -46.3077402452608,-23.9610688587169,0
+                -46.30774221954,-23.961103853497,0
+                -46.3077798053053,-23.9611333301308,0
+                -46.3079499300673,-23.9611229402693,0
+                -46.3079773233246,-23.9611063182436,0
+                -46.3079842950626,-23.9610742268874,0
+                -46.3079364794609,-23.9610275503371,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.83">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1539</SimpleData>
+            <SimpleData name="Num_Qd">57057</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0812</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.316125625214,-23.9611557007219,0
+                -46.3161277047447,-23.961360513781,0
+                -46.3163771144825,-23.9612157202135,0
+                -46.3167572799399,-23.9609595163997,0
+                -46.3166567704371,-23.9609132389062,0
+                -46.3165597604423,-23.9608922173334,0
+                -46.3164554079018,-23.9608967417041,0
+                -46.3163425520108,-23.9609326773121,0
+                -46.3162720251035,-23.9609793952368,0
+                -46.3164751669123,-23.9611409593649,0
+                -46.3163522895836,-23.9612238129999,0
+                -46.3161687236279,-23.961080176523,0
+                -46.316125625214,-23.9611557007219,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.84">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1764</SimpleData>
+            <SimpleData name="Num_Qd">58039</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0072</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3063194125291,-23.9635573198197,0
+                -46.3062999054581,-23.9635542319147,0
+                -46.3061611597391,-23.9637539116138,0
+                -46.3063345269365,-23.9637394186895,0
+                -46.3063194125291,-23.9635573198197,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.85">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1774</SimpleData>
+            <SimpleData name="Num_Qd">56054</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0093</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3227349606047,-23.9575564237262,0
+                -46.3201855387616,-23.9577664351501,0
+                -46.3201893896625,-23.9578396431165,0
+                -46.3227451794592,-23.9576437836452,0
+                -46.3227349606047,-23.9575564237262,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.86">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1840</SimpleData>
+            <SimpleData name="Num_Qd">57052</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3187011332889,-23.9578750111206,0
+                -46.3180306044752,-23.9579310406887,0
+                -46.3175385536387,-23.9579631458678,0
+                -46.3175544187615,-23.9580557045612,0
+                -46.3187088840707,-23.9579625405552,0
+                -46.3187011332889,-23.9578750111206,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.87">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1841</SimpleData>
+            <SimpleData name="Num_Qd">57016</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3173701092871,-23.9579871577055,0
+                -46.317300737438,-23.957192775953,0
+                -46.3161113593325,-23.9572727571456,0
+                -46.3161823928542,-23.9580775378551,0
+                -46.3173701092871,-23.9579871577055,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.88">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1842</SimpleData>
+            <SimpleData name="Num_Qd">57053</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -46.3173770647692,-23.9580628053121,0
+                -46.3173701092871,-23.9579871577055,0
+                -46.3161823928542,-23.9580775378551,0
+                -46.3161883097956,-23.9581571196856,0
+                -46.3173770647692,-23.9580628053121,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Macuco.89">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">1922</SimpleData>
+            <SimpleData name="Num_Qd">57015</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3179728791399,-23.9571340419983,0
+                  -46.3175030262554,-23.9571722530083,0
+                  -46.3174733886515,-23.9572022856773,0
+                  -46.3175384882755,-23.9579627306104,0
+                  -46.3180305396861,-23.9579306289491,0
+                  -46.3179728791399,-23.9571340419983,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3187010692847,-23.9578746041658,0
+                  -46.3186299962833,-23.9570810997755,0
+                  -46.3180395920056,-23.9571334692437,0
+                  -46.318089197295,-23.9578023408374,0
+                  -46.3181198905351,-23.9578218130666,0
+                  -46.3181295582558,-23.9579187741481,0
+                  -46.3187010692847,-23.9578746041658,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.90">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2057</SimpleData>
+            <SimpleData name="Num_Qd">57005</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3133089262302,-23.9555331643273,0
+                  -46.3132906329846,-23.9555510211917,0
+                  -46.3133670848782,-23.9564047647756,0
+                  -46.3133883659995,-23.956419934817,0
+                  -46.3138282754795,-23.956384686434,0
+                  -46.3137448615648,-23.955496830489,0
+                  -46.3133089262302,-23.9555331643273,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3144520143779,-23.9554379530989,0
+                  -46.3138429119007,-23.955491571689,0
+                  -46.3139226215931,-23.9563755416055,0
+                  -46.3145333857367,-23.9563206440279,0
+                  -46.3144520143779,-23.9554379530989,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.91">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2058</SimpleData>
+            <SimpleData name="Num_Qd">57010</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3148164421689,-23.957421750858,0
+                  -46.3148559707426,-23.9578344591523,0
+                  -46.3151478171954,-23.9578126607539,0
+                  -46.315110294294,-23.9573986487997,0
+                  -46.3148164421689,-23.957421750858,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3150177264345,-23.9564932277626,0
+                  -46.3147486280877,-23.9565091573815,0
+                  -46.3147319237249,-23.9565274357114,0
+                  -46.3148059824685,-23.9572900178217,0
+                  -46.3150963395431,-23.9572682049756,0
+                  -46.3150177264345,-23.9564932277626,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.92">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2059</SimpleData>
+            <SimpleData name="Num_Qd">57013</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0068</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3111351735502,-23.9578722887232,0
+                  -46.3112116355067,-23.9587573718122,0
+                  -46.3121777009392,-23.9586778644836,0
+                  -46.3120847929642,-23.9577705263997,0
+                  -46.3116764860678,-23.9577895848533,0
+                  -46.3115513166355,-23.9577085632312,0
+                  -46.311180753287,-23.9577403706271,0
+                  -46.3111865520099,-23.9578318436679,0
+                  -46.3111351735502,-23.9578722887232,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3119761964343,-23.9567335560846,0
+                  -46.3110435471639,-23.9568120603935,0
+                  -46.3111187185202,-23.9576765629875,0
+                  -46.3111667841668,-23.9577069469553,0
+                  -46.3116412372928,-23.9576782816534,0
+                  -46.3117530148198,-23.9577560595737,0
+                  -46.3120878395951,-23.9577246402392,0
+                  -46.3119995943822,-23.9567442831539,0
+                  -46.3119761964343,-23.9567335560846,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.93">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2060</SimpleData>
+            <SimpleData name="Num_Qd">57017</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0091</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3151885011164,-23.9573769477611,0
+                  -46.3152343147487,-23.9578835163951,0
+                  -46.3148632138259,-23.9579080700984,0
+                  -46.3148886617176,-23.9581524440756,0
+                  -46.3149810851028,-23.9581634341504,0
+                  -46.315345029213,-23.9581461746995,0
+                  -46.3160137059424,-23.9580885964483,0
+                  -46.3159546971345,-23.9573135026901,0
+                  -46.3151885011164,-23.9573769477611,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3159312988228,-23.9571787800157,0
+                  -46.3158666604536,-23.956435381522,0
+                  -46.3158429702212,-23.9564249282984,0
+                  -46.3151224797356,-23.9564835706169,0
+                  -46.3151058615783,-23.9565018647703,0
+                  -46.3151764191138,-23.9572673383426,0
+                  -46.3159145650273,-23.9571953594045,0
+                  -46.3159312988228,-23.9571787800157,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.94">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2061</SimpleData>
+            <SimpleData name="Num_Qd">57021</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0752</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3175924565195,-23.9585556265287,0
+                  -46.317722364369,-23.9600344683183,0
+                  -46.3177555020464,-23.9600945091543,0
+                  -46.3178043203672,-23.9601310257656,0
+                  -46.317866737466,-23.9601422298644,0
+                  -46.3179418983958,-23.9601116928409,0
+                  -46.3187748265803,-23.9595505941741,0
+                  -46.3188207537979,-23.9595057684034,0
+                  -46.3188344458628,-23.9594510148409,0
+                  -46.3187517711295,-23.9584916679019,0
+                  -46.3186996362345,-23.9584575280534,0
+                  -46.3176109019801,-23.9585430961007,0
+                  -46.3175924565195,-23.9585556265287,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3175544187615,-23.9580557045612,0
+                  -46.3175858740995,-23.958433731443,0
+                  -46.3187382461962,-23.9583471483475,0
+                  -46.3187088840707,-23.9579625405552,0
+                  -46.3175544187615,-23.9580557045612,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.95">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2063</SimpleData>
+            <SimpleData name="Num_Qd">57038</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0676</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.311895090068,-23.9641942733247,0
+                  -46.3126209161447,-23.9637070903172,0
+                  -46.3126578412366,-23.9636269427642,0
+                  -46.3125860666902,-23.9629858182827,0
+                  -46.3125412165926,-23.9629762927664,0
+                  -46.3116595856452,-23.9630600132652,0
+                  -46.3116424296867,-23.9630900590595,0
+                  -46.3117618965229,-23.9641909866668,0
+                  -46.311791280835,-23.9642201757542,0
+                  -46.311837471684,-23.9642204131165,0
+                  -46.311895090068,-23.9641942733247,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3125778383642,-23.9627945348862,0
+                  -46.3123560431355,-23.9606110856195,0
+                  -46.3121880262156,-23.9606136068739,0
+                  -46.3113945080606,-23.9606831574147,0
+                  -46.3116247172945,-23.9629130449415,0
+                  -46.3125144987295,-23.9628378826484,0
+                  -46.3125677776433,-23.9628199973505,0
+                  -46.3125778383642,-23.9627945348862,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.96">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2067</SimpleData>
+            <SimpleData name="Num_Qd">58008</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0068</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3090114841054,-23.9590685646071,0
+                  -46.3091330708683,-23.9604920391114,0
+                  -46.3091386369176,-23.960517729292,0
+                  -46.3091628843978,-23.9605346809291,0
+                  -46.31008962576,-23.9604618431639,0
+                  -46.3101287881965,-23.9604474209467,0
+                  -46.3100031726303,-23.9589861431248,0
+                  -46.3099907271951,-23.9589710401924,0
+                  -46.3090271463874,-23.959052807841,0
+                  -46.3090114841054,-23.9590685646071,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3090828473799,-23.9589272805646,0
+                  -46.309958037779,-23.9588596637449,0
+                  -46.3098684804662,-23.9579225858196,0
+                  -46.3089999551878,-23.957987887349,0
+                  -46.3090828473799,-23.9589272805646,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.97">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2069</SimpleData>
+            <SimpleData name="Num_Qd">58027</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.306999437936,-23.9644233106583,0
+                  -46.3068206164831,-23.9644354377704,0
+                  -46.3068704386298,-23.9650583056038,0
+                  -46.3070569966826,-23.9650421774473,0
+                  -46.306999437936,-23.9644233106583,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3065327806838,-23.965069217738,0
+                  -46.3067776912951,-23.9650508773254,0
+                  -46.3066869900537,-23.9640669359236,0
+                  -46.3064445415381,-23.9640856164025,0
+                  -46.3065327806838,-23.965069217738,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3068183413839,-23.964406490684,0
+                  -46.3069968924686,-23.9643955770886,0
+                  -46.3069635615116,-23.9640528734748,0
+                  -46.3067829628107,-23.96406533969,0
+                  -46.3068183413839,-23.964406490684,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.98">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2070</SimpleData>
+            <SimpleData name="Num_Qd">58032</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3043413882027,-23.966583381063,0
+                  -46.3043863422952,-23.9671149289843,0
+                  -46.3045778902258,-23.9671017824109,0
+                  -46.3045847686773,-23.9671711014809,0
+                  -46.3048003449015,-23.9671607133816,0
+                  -46.3047454583743,-23.9665580217288,0
+                  -46.3043413882027,-23.966583381063,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3044120878055,-23.9664501138924,0
+                  -46.3044945501637,-23.9664457438474,0
+                  -46.3044757179848,-23.9662494315243,0
+                  -46.3043949766898,-23.9662533792962,0
+                  -46.3044120878055,-23.9664501138924,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3042962103502,-23.9660399357991,0
+                  -46.304699530247,-23.9660101396329,0
+                  -46.3046507492189,-23.9654641476746,0
+                  -46.3044082530951,-23.9654831321613,0
+                  -46.304398529465,-23.9653565151678,0
+                  -46.3042384868769,-23.965367404212,0
+                  -46.3042962103502,-23.9660399357991,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3042255038225,-23.9652384416177,0
+                  -46.3046192839526,-23.9652047040422,0
+                  -46.3046276338993,-23.9651865096586,0
+                  -46.3045811829836,-23.9646209527546,0
+                  -46.3043324385291,-23.9646413146193,0
+                  -46.3043211933147,-23.9645424400482,0
+                  -46.304160964938,-23.9645536904871,0
+                  -46.3042255038225,-23.9652384416177,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3045589146664,-23.9644143576951,0
+                  -46.304479368908,-23.9635030432404,0
+                  -46.3044441387122,-23.9634821240871,0
+                  -46.3041069855513,-23.9638888783561,0
+                  -46.3041589344718,-23.964443474883,0
+                  -46.3045589146664,-23.9644143576951,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.99">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2071</SimpleData>
+            <SimpleData name="Num_Qd">58033</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0069</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.30544502444,-23.9673763065148,0
+                  -46.3054736728082,-23.9676951917344,0
+                  -46.3055357538413,-23.9676528163859,0
+                  -46.3054980472212,-23.9673411224002,0
+                  -46.30544502444,-23.9673763065148,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.304629572493,-23.9632718093994,0
+                  -46.3047952874058,-23.9651975616009,0
+                  -46.3058122725294,-23.9651142209733,0
+                  -46.3057209528617,-23.9638828433857,0
+                  -46.3055736682035,-23.9623147337291,0
+                  -46.3055071822216,-23.9622703265588,0
+                  -46.3054487509385,-23.9622743459266,0
+                  -46.3053979530914,-23.9623142426866,0
+                  -46.3046599812756,-23.9632174565132,0
+                  -46.304629572493,-23.9632718093994,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.100">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2096</SimpleData>
+            <SimpleData name="Num_Qd">68045</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0073</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.308313681427,-23.96468739856,0
+                  -46.3083783304792,-23.9645690864589,0
+                  -46.3083527565903,-23.9642066294582,0
+                  -46.3080373148099,-23.9642374037157,0
+                  -46.3080214217158,-23.9642595741984,0
+                  -46.3080833514015,-23.9649721146292,0
+                  -46.3080954219823,-23.9649898926426,0
+                  -46.3083197400947,-23.9649760600473,0
+                  -46.308313681427,-23.96468739856,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3084425113541,-23.9646185696921,0
+                  -46.3083737763917,-23.9647020579476,0
+                  -46.3083555940352,-23.96477003389,0
+                  -46.3083872235269,-23.9650022158041,0
+                  -46.308437850241,-23.9656948943427,0
+                  -46.3083950259596,-23.9657264155166,0
+                  -46.3083405109538,-23.9651450289621,0
+                  -46.3081491509058,-23.9651722171252,0
+                  -46.3081361482754,-23.9651886736107,0
+                  -46.3080978820822,-23.9651946891304,0
+                  -46.3081333875802,-23.9655480307464,0
+                  -46.3081619194038,-23.9656583239541,0
+                  -46.3082343242732,-23.9657630956574,0
+                  -46.308562119521,-23.9661767993632,0
+                  -46.3086820339569,-23.9663149407419,0
+                  -46.3087119463996,-23.9663283221046,0
+                  -46.3093903571846,-23.9658827381993,0
+                  -46.3094616201432,-23.9658160251235,0
+                  -46.3094795425448,-23.9657418200757,0
+                  -46.3094007721431,-23.9649292732272,0
+                  -46.309183699224,-23.96503768785,0
+                  -46.308953457417,-23.9650682791171,0
+                  -46.3089711822291,-23.9653247818576,0
+                  -46.3089053343722,-23.9653730257982,0
+                  -46.3088882231445,-23.9653232316802,0
+                  -46.3086201014631,-23.9623905235978,0
+                  -46.3086087305759,-23.9623641604326,0
+                  -46.3085625173655,-23.9623519113625,0
+                  -46.3082787954074,-23.9623703143312,0
+                  -46.3082404268117,-23.962405048532,0
+                  -46.3083408248465,-23.9632679844037,0
+                  -46.3084425113541,-23.9646185696921,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.307986709546,-23.9640651920893,0
+                  -46.3079899851055,-23.9641268441212,0
+                  -46.3080051772688,-23.9641423377296,0
+                  -46.3082360263688,-23.9641233908147,0
+                  -46.3082366308878,-23.9641443369781,0
+                  -46.308349861787,-23.9641365979456,0
+                  -46.3082764164157,-23.9632374013918,0
+                  -46.3079245444177,-23.963290252398,0
+                  -46.3079982699971,-23.9640519086061,0
+                  -46.307986709546,-23.9640651920893,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.309392560847,-23.9648363265652,0
+                  -46.3091601510832,-23.96229768794,0
+                  -46.3087197353162,-23.9623502097325,0
+                  -46.3087004062692,-23.9623824337109,0
+                  -46.3089428169214,-23.9649293866212,0
+                  -46.3089907139254,-23.9649623015963,0
+                  -46.3091716500019,-23.9649344788552,0
+                  -46.309392560847,-23.9648363265652,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3082714048611,-23.9631667092249,0
+                  -46.3082013326907,-23.9625821136001,0
+                  -46.3081701739966,-23.9624159423514,0
+                  -46.3081499948605,-23.962383422998,0
+                  -46.307875877054,-23.962399214762,0
+                  -46.3078467414703,-23.9624335089653,0
+                  -46.3079209180666,-23.9632010329354,0
+                  -46.3082714048611,-23.9631667092249,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3077788578158,-23.9612270214083,0
+                  -46.307745576358,-23.9612861788098,0
+                  -46.3078299508277,-23.9622790454932,0
+                  -46.3078532541202,-23.9622997982904,0
+                  -46.3080840265969,-23.9622832922824,0
+                  -46.3079837928823,-23.9612026231125,0
+                  -46.3078391685758,-23.9612072089051,0
+                  -46.3077788578158,-23.9612270214083,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3086049678185,-23.9622445350234,0
+                  -46.3084760368796,-23.9609499014448,0
+                  -46.3084266149069,-23.9609215146131,0
+                  -46.3082045149505,-23.9609499580477,0
+                  -46.3080903974435,-23.9609961746648,0
+                  -46.3080565893512,-23.9610348434823,0
+                  -46.3082144167356,-23.962283100668,0
+                  -46.3085936677165,-23.962254384576,0
+                  -46.3086049678185,-23.9622445350234,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3090470689744,-23.9610881345757,0
+                  -46.3089914508106,-23.9609861583975,0
+                  -46.308951251917,-23.9609699906134,0
+                  -46.3088081824657,-23.9609783644872,0
+                  -46.308800624146,-23.9608894433062,0
+                  -46.3085914015244,-23.9609006937655,0
+                  -46.308556049486,-23.9609324221679,0
+                  -46.3086872305107,-23.9622357059941,0
+                  -46.3087063548952,-23.9622513467571,0
+                  -46.3091487467797,-23.9622096450628,0
+                  -46.3090470689744,-23.9610881345757,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.101">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2097</SimpleData>
+            <SimpleData name="Num_Qd">68057</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3053649756798,-23.9679265521969,0
+                  -46.3054805631077,-23.9679865265776,0
+                  -46.3056138079566,-23.96802377376,0
+                  -46.3060124945317,-23.9680314892315,0
+                  -46.3061679643065,-23.9680116530402,0
+                  -46.3062569894361,-23.9679810938236,0
+                  -46.3063786228706,-23.9679096185936,0
+                  -46.3064079838599,-23.9678780319431,0
+                  -46.3064236955324,-23.9678280484377,0
+                  -46.3064104227258,-23.9677690099928,0
+                  -46.3060543214355,-23.9673060540295,0
+                  -46.3060293386878,-23.9672552428727,0
+                  -46.3060013713766,-23.9670935594403,0
+                  -46.3057907146966,-23.9671469175562,0
+                  -46.3054980472212,-23.9673411224002,0
+                  -46.3055357538413,-23.9676528163859,0
+                  -46.3054736728082,-23.9676951917344,0
+                  -46.30544502444,-23.9673763065148,0
+                  -46.3050481917358,-23.9676396300398,0
+                  -46.3050332503384,-23.9676685652103,0
+                  -46.3050545588007,-23.9676961084314,0
+                  -46.3053649756798,-23.9679265521969,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3044862090278,-23.966361907968,0
+                  -46.3044931880143,-23.9664470121432,0
+                  -46.30473394186,-23.9664316011582,0
+                  -46.3047303726891,-23.9663453159432,0
+                  -46.3044862090278,-23.966361907968,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3053315118601,-23.965316496526,0
+                  -46.3052817875998,-23.9652972323674,0
+                  -46.304847308479,-23.9653256711209,0
+                  -46.3048031184123,-23.9653777930632,0
+                  -46.3049822880827,-23.9674483771787,0
+                  -46.3049934049221,-23.9674690533898,0
+                  -46.3050368809404,-23.9674825910578,0
+                  -46.3054133608712,-23.9672469374937,0
+                  -46.3055024713065,-23.9671761008272,0
+                  -46.3053315118601,-23.965316496526,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3044120056122,-23.966449615672,0
+                  -46.3043945944528,-23.9662533289665,0
+                  -46.3043124948307,-23.9662578977865,0
+                  -46.3043310654324,-23.9664532289029,0
+                  -46.3044120056122,-23.966449615672,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3055973830382,-23.9670980283957,0
+                  -46.3056259742045,-23.9671070866287,0
+                  -46.3057825228003,-23.9670286310757,0
+                  -46.3057872059543,-23.9670642626365,0
+                  -46.3059940953573,-23.9670174373308,0
+                  -46.3058652522253,-23.9655736154218,0
+                  -46.3058335578967,-23.9652662981062,0
+                  -46.3058158464186,-23.9652543477232,0
+                  -46.305444348293,-23.9652814421122,0
+                  -46.3054330522156,-23.9653014962232,0
+                  -46.3055973830382,-23.9670980283957,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.102">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2098</SimpleData>
+            <SimpleData name="Num_Qd">68058</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.30429422511,-23.9660385656625,0
+                  -46.3043046465414,-23.9661523874049,0
+                  -46.3046644404031,-23.9661245324771,0
+                  -46.304705281027,-23.966076916394,0
+                  -46.3046987078447,-23.9660103308748,0
+                  -46.30429422511,-23.9660385656625,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3046439027775,-23.9653762144774,0
+                  -46.3046182686976,-23.9653426885329,0
+                  -46.3043986114567,-23.9653570148353,0
+                  -46.3044083351007,-23.9654836316038,0
+                  -46.3046508309412,-23.9654646454386,0
+                  -46.3046439027775,-23.9653762144774,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Macuco.103">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Macuco.schema">
+            <SimpleData name="fid">2099</SimpleData>
+            <SimpleData name="Num_Qd">68061</SimpleData>
+            <SimpleData name="Total_imoveis">0</SimpleData>
+            <SimpleData name="Obs"> </SimpleData>
+            <SimpleData name="Imoveis_Especiais">0</SimpleData>
+            <SimpleData name="P_Estrategicos">0</SimpleData>
+            <SimpleData name="Setor_Censitario">0070</SimpleData>
+            <SimpleData name="Bairro">Macuco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3047188386571,-23.9662457340023,0
+                  -46.3046860671999,-23.9662334316257,0
+                  -46.3044756359048,-23.9662489335022,0
+                  -46.3044862090278,-23.966361907968,0
+                  -46.3047303726891,-23.9663453159432,0
+                  -46.3047188386571,-23.9662457340023,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -46.3035073714849,-23.9646177403205,0
+                  -46.3036509445479,-23.9666455735636,0
+                  -46.3047429907405,-23.9674688542115,0
+                  -46.3048212877896,-23.9674271122565,0
+                  -46.3048004267884,-23.9671612079962,0
+                  -46.3045848508148,-23.9671715975963,0
+                  -46.3045779723575,-23.9671022786604,0
+                  -46.3043864246501,-23.9671154265618,0
+                  -46.3043415085994,-23.9665838768949,0
+                  -46.304746071597,-23.9665566521086,0
+                  -46.3047340236786,-23.966432097141,0
+                  -46.3043305919304,-23.9664546849778,0
+                  -46.3041321287098,-23.9641059383652,0
+                  -46.3041039436793,-23.9639132293433,0
+                  -46.3035073714849,-23.9646177403205,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
